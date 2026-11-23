@@ -7,9 +7,9 @@ import { toast } from "sonner"
 
 import { Button } from "@/components/ui/button"
 import { Kbd, Segmented, Select, Switch, useModKey } from "@/components/ui/controls"
-import { testAiConnection } from "@/lib/api"
+import { getConfig, testAiConnection } from "@/lib/api"
 import { formatAmount, formatPct, UNITS } from "@/lib/format"
-import { library, resetSettings, useHydrated, useSettings } from "@/lib/store"
+import { resetSettings, useHydrated, useSettings } from "@/lib/store"
 import type { Unit } from "@/lib/types"
 import { cn } from "@/lib/utils"
 
@@ -27,9 +27,14 @@ export default function SettingsPage() {
   const { theme, setTheme } = useTheme()
   const hydrated = useHydrated()
   const mod = useModKey()
-  const [key, setKey] = React.useState("")
   const [testing, setTesting] = React.useState(false)
-  const sample = 12345670 // ₹ lakh
+  const [ai, setAi] = React.useState<{ available: boolean; model: string } | null>(null)
+  React.useEffect(() => {
+    getConfig()
+      .then((c) => setAi(c.ai))
+      .catch(() => setAi({ available: false, model: "" }))
+  }, [])
+  const sample = 123456.7 // ₹ crore
 
   return (
     <div className="wash" style={{ ["--tint" as string]: "var(--sum)" }}>
@@ -37,7 +42,7 @@ export default function SettingsPage() {
         <div>
           <h1 className="text-[32px] leading-tight font-semibold sm:text-[38px]">Settings</h1>
           <nav aria-label="Settings sections" className="mt-6 hidden flex-col gap-0.5 lg:sticky lg:top-24 lg:flex">
-            {SECTIONS.map(([id, label]) => (
+            {SECTIONS.filter(([id]) => id !== "ai" || ai?.available).map(([id, label]) => (
               <a key={id} href={`#${id}`} className="rounded-md px-2.5 py-1.5 text-[14px] text-ink-2 transition-colors hover:bg-ink/[0.05] hover:text-ink">
                 {label}
               </a>
@@ -165,46 +170,25 @@ export default function SettingsPage() {
             </Row>
           </Section>
 
+          {ai?.available && (
           <Section
             id="ai"
             title="AI fallback"
-            note="The built-in parser reads most reports exactly and needs no AI. A fallback helps only with scanned reports and statements that fail their checks."
+            note="The built-in parser reads most reports exactly and needs no AI. A fallback helps only with scanned reports and statements that fail their checks. It uses this server's Gemini key."
           >
-            <Row label="Engine">
+            <Row label="AI fallback" hint={`Model: ${ai.model}. Backup models are tried when the free tier is busy.`}>
               <Segmented
-                label="AI engine"
-                value={s.aiEngine}
-                onChange={(aiEngine) => set({ aiEngine, aiModel: aiEngine === "ollama" ? "gemma3:12b" : "gemini-flash-latest" })}
+                label="AI fallback"
+                value={s.aiEngine === "off" ? "off" : "gemini"}
+                onChange={(aiEngine) => set({ aiEngine })}
                 options={[
                   { value: "off", label: "Off" },
-                  { value: "gemini", label: "Gemini" },
-                  { value: "ollama", label: "Ollama (local)" },
+                  { value: "gemini", label: "On" },
                 ]}
               />
             </Row>
             {s.aiEngine !== "off" && (
               <div className="animate-fade space-y-5">
-                {s.aiEngine === "gemini" && (
-                  <Row label="API key" hint="A free key from Google AI Studio. It is used for this visit only and is not saved." htmlFor="set-key">
-                    <input
-                      id="set-key"
-                      type="password"
-                      autoComplete="off"
-                      value={key}
-                      onChange={(e) => setKey(e.target.value)}
-                      placeholder="Paste your key"
-                      className="h-9 w-full max-w-xs rounded-md border border-line-2 bg-surface px-3 text-[14px] shadow-card outline-none placeholder:text-ink-3 focus:border-accent focus:ring-2 focus:ring-accent/20"
-                    />
-                  </Row>
-                )}
-                <Row label="Model" htmlFor="set-model" hint={s.aiEngine === "ollama" ? "Pull it first: ollama pull gemma3:12b" : "Backup models are tried when the free tier is busy."}>
-                  <input
-                    id="set-model"
-                    value={s.aiModel}
-                    onChange={(e) => set({ aiModel: e.target.value })}
-                    className="h-9 w-full max-w-xs rounded-md border border-line-2 bg-surface px-3 text-[14px] shadow-card outline-none focus:border-accent focus:ring-2 focus:ring-accent/20"
-                  />
-                </Row>
                 <Row label="Use it">
                   <Segmented
                     label="When to use AI"
@@ -220,10 +204,15 @@ export default function SettingsPage() {
                   disabled={testing}
                   onClick={async () => {
                     setTesting(true)
-                    const r = await testAiConnection(s.aiEngine as "gemini" | "ollama", key.length > 0)
-                    setTesting(false)
-                    if (r.ok) toast.success(r.message)
-                    else toast.error(r.message)
+                    try {
+                      const r = await testAiConnection()
+                      if (r.ok) toast.success(r.message || "Gemini answered.")
+                      else toast.error(r.message)
+                    } catch (e) {
+                      toast.error((e as Error).message)
+                    } finally {
+                      setTesting(false)
+                    }
                   }}
                 >
                   {testing ? "Testing…" : "Test connection"}
@@ -231,6 +220,7 @@ export default function SettingsPage() {
               </div>
             )}
           </Section>
+          )}
 
           <Section id="shortcuts" title="Shortcuts">
             <dl className="grid gap-x-8 gap-y-2.5 text-[14px] sm:grid-cols-2">
@@ -257,7 +247,7 @@ export default function SettingsPage() {
             </dl>
           </Section>
 
-          <Section id="data" title="Your data" note="Workbooks, corrections and settings are kept in this browser. Nothing is sent anywhere in this preview build.">
+          <Section id="data" title="Your data" note="Settings live in this browser. Your library and corrections are kept on the server under an anonymous id stored in this browser; there are no accounts in the beta.">
             <div className="flex flex-wrap gap-2">
               <Button
                 onClick={() => {
@@ -267,15 +257,6 @@ export default function SettingsPage() {
                 }}
               >
                 Reset settings
-              </Button>
-              <Button
-                variant="danger"
-                onClick={() => {
-                  library.clear()
-                  toast("Library cleared", { description: "The sample workbooks are back." })
-                }}
-              >
-                Clear my library
               </Button>
             </div>
           </Section>

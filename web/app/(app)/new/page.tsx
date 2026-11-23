@@ -3,13 +3,14 @@
 import * as React from "react"
 import Link from "next/link"
 import { useRouter, useSearchParams } from "next/navigation"
-import { ArrowRightIcon, CaretRightIcon, InfoIcon, WarningIcon } from "@phosphor-icons/react"
+import { ArrowRightIcon, CaretRightIcon, CircleNotchIcon, InfoIcon, WarningCircleIcon } from "@phosphor-icons/react"
+import { toast } from "sonner"
 
 import { CompanyCombobox, CompanyMark } from "@/components/extract/company-combobox"
 import { YearRange } from "@/components/extract/year-range"
 import { Button } from "@/components/ui/button"
 import { Segmented } from "@/components/ui/controls"
-import { getCompany, listReports } from "@/lib/api"
+import { getCompany, getConfig, listReports, loadCompanies } from "@/lib/api"
 import { timeAgo } from "@/lib/format"
 import { fyLabel } from "@/lib/fy"
 import { library, pushRecent, useLibrary, useRecents, useSettings } from "@/lib/store"
@@ -35,31 +36,53 @@ function Form({ initial }: { initial: string }) {
   const recents = useRecents()
   const { runs } = useLibrary()
 
-  const [company, setCompany] = React.useState<Company | null>(() => getCompany(initial) ?? null)
+  const [company, setCompany] = React.useState<Company | null>(() => (initial ? (getCompany(initial) ?? { symbol: initial.toUpperCase(), name: initial.toUpperCase() }) : null))
   const [reports, setReports] = React.useState<ReportRef[] | null>(null)
+  const [lookupError, setLookupError] = React.useState<string | null>(null)
+  const [starting, setStarting] = React.useState(false)
+  const [aiAvailable, setAiAvailable] = React.useState(false)
+  const [maxYears, setMaxYears] = React.useState(12)
+  React.useEffect(() => {
+    void loadCompanies()
+    getConfig()
+      .then((c) => {
+        setAiAvailable(c.ai.available)
+        setMaxYears(c.limits.maxYears)
+      })
+      .catch(() => {})
+  }, [])
   const [range, setRange] = React.useState<[number, number] | null>(null)
   const [scope, setScope] = React.useState<ScopeChoice | null>(null)
   const [figures, setFigures] = React.useState<FiguresMode | null>(null)
   const scopeValue = scope ?? settings.defaultScope
   const figuresValue = figures ?? settings.defaultFigures
-  const ai = settings.aiEngine === "off" ? "off" : settings.aiMode
+  const ai = aiAvailable && settings.aiEngine !== "off" ? settings.aiMode : "off"
 
   // Which years exist is one lookup per company, so it loads after the pick.
   React.useEffect(() => {
     if (!company) return
     let live = true
-    listReports(company.symbol).then((r) => {
-      if (!live) return
-      setReports(r)
-      const max = r[0].fy
-      const min = r[r.length - 1].fy
-      setRange([Math.max(min, max - settings.defaultSpan + 1), max])
-    })
+    setLookupError(null)
+    listReports(company.symbol)
+      .then((res) => {
+        if (!live) return
+        const r = [...res.reports].sort((a, b) => b.fy - a.fy)
+        if (!r.length) {
+          setLookupError(`Screener lists no annual reports for ${company.symbol}.`)
+          return
+        }
+        if (res.name && res.name !== company.name) setCompany((c) => (c && c.symbol === res.symbol ? { ...c, name: res.name } : c))
+        setReports(r)
+        const max = r[0].fy
+        const min = r[r.length - 1].fy
+        setRange([Math.max(min, max - settings.defaultSpan + 1), max])
+      })
+      .catch((e: Error) => live && setLookupError(e.message))
     return () => {
       live = false
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps -- the default span only seeds the first range
-  }, [company])
+  }, [company?.symbol])
 
   const pick = (c: Company | null) => {
     setCompany(c)
@@ -68,20 +91,26 @@ function Form({ initial }: { initial: string }) {
   }
 
   const chosen = reports && range ? reports.filter((r) => r.fy >= range[0] && r.fy <= range[1]) : []
-  const scans = chosen.filter((r) => r.scanned).length
+  const tooMany = range ? range[1] - range[0] + 1 > maxYears : false
   const same =
     company && range
       ? runs.find((r) => r.status === "done" && r.request.symbol === company.symbol && r.request.from === range[0] && r.request.to === range[1] && r.request.scope === scopeValue)
       : undefined
 
-  const start = () => {
-    if (!company || !range) return
-    const id = library.start({ symbol: company.symbol, from: range[0], to: range[1], scope: scopeValue, figures: figuresValue, ai }, company.name)
-    pushRecent(company.symbol)
-    router.push(`/w/${id}`)
+  const start = async () => {
+    if (!company || !range || tooMany) return
+    setStarting(true)
+    try {
+      const run = await library.start({ symbol: company.symbol, from: range[0], to: range[1], scope: scopeValue, figures: figuresValue, ai })
+      pushRecent(company.symbol)
+      router.push(`/w?id=${run.id}`)
+    } catch (e) {
+      toast.error("Couldn't start the extraction", { description: (e as Error).message })
+      setStarting(false)
+    }
   }
 
-  const suggestions = [...recents, "VARDHANSPL", "PIDILITIND", "HCLTECH", "NTPC"].filter((s, i, a) => a.indexOf(s) === i).slice(0, 5)
+  const suggestions = [...recents, "PIDILITIND", "HCLTECH", "INFY", "TITAN"].filter((s, i, a) => a.indexOf(s) === i).slice(0, 5)
 
   return (
     <div className="wash" style={{ ["--tint" as string]: "var(--pl)" }}>
@@ -96,9 +125,7 @@ function Form({ initial }: { initial: string }) {
                 <CompanyMark symbol={company.symbol} className="size-11 text-[15px]" />
                 <div className="min-w-0 flex-1">
                   <div className="truncate text-[16px] font-semibold">{company.name}</div>
-                  <div className="text-[13px] text-ink-2">
-                    {company.symbol} · {company.sector} · {company.cap}
-                  </div>
+                  <div className="text-[13px] text-ink-2">{company.symbol} · NSE</div>
                 </div>
                 <Button variant="ghost" size="sm" onClick={() => pick(null)}>
                   Change
@@ -110,7 +137,7 @@ function Form({ initial }: { initial: string }) {
                 <div className="mt-3 flex flex-wrap items-center gap-1.5 text-[13px] text-ink-3">
                   {recents.length > 0 ? "Recent:" : "Try:"}
                   {suggestions.map((s) => {
-                    const c = getCompany(s)
+                    const c = getCompany(s) ?? { symbol: s, name: s }
                     return c ? (
                       <button key={s} type="button" onClick={() => pick(c)} className="rounded-full border border-line-2 bg-surface px-2.5 py-0.5 text-[12.5px] font-medium text-ink-2 transition-colors hover:border-ink-3 hover:text-ink">
                         {s}
@@ -120,37 +147,26 @@ function Form({ initial }: { initial: string }) {
                 </div>
               </>
             )}
-            {company && !company.isDemo && (
-              <p className="mt-3 flex gap-2 rounded-lg bg-sunken px-3 py-2 text-[13px] text-ink-2">
-                <InfoIcon className="mt-0.5 size-4 shrink-0" />
-                Preview build: any company you pick returns the sample statements, not its real figures.
-              </p>
-            )}
+
           </Card>
 
           <Card step={2} title="Years" muted={!company}>
-            {company ? (
+            {company && lookupError ? (
+              <p className="flex gap-2 rounded-lg bg-bad/10 px-3 py-2.5 text-[13.5px] text-bad-ink">
+                <WarningCircleIcon weight="fill" className="mt-0.5 size-4 shrink-0" />
+                <span>
+                  {lookupError} Check the NSE symbol and try again.
+                </span>
+              </p>
+            ) : company ? (
               <YearRange reports={reports} from={range?.[0] ?? 0} to={range?.[1] ?? 0} onChange={(f, t) => setRange([f, t])} />
             ) : (
               <p className="text-[14px] text-ink-3">Pick a company to see which annual reports are on file.</p>
             )}
-            {scans > 0 && (
-              <p className="mt-3 flex gap-2 rounded-lg bg-odd/12 px-3 py-2 text-[13px] text-odd-ink">
-                <WarningIcon className="mt-0.5 size-4 shrink-0" />
-                <span>
-                  {scans} of these {scans === 1 ? "reports is a scan" : "reports are scans"} with no text to read.{" "}
-                  {ai === "off" ? (
-                    <>
-                      They will be skipped unless you turn on the AI fallback in{" "}
-                      <Link href="/settings#ai" className="font-medium underline underline-offset-2">
-                        Settings
-                      </Link>
-                      .
-                    </>
-                  ) : (
-                    "The AI fallback will read them, which is slower."
-                  )}
-                </span>
+            {tooMany && (
+              <p className="mt-3 flex gap-2 rounded-lg bg-warn/20 px-3 py-2 text-[13px] text-warn-ink">
+                <WarningCircleIcon className="mt-0.5 size-4 shrink-0" />
+                This beta reads up to {maxYears} years at a time. Narrow the range.
               </p>
             )}
           </Card>
@@ -197,14 +213,16 @@ function Form({ initial }: { initial: string }) {
                       : "Each year exactly as its own report printed it."}
                   </p>
                 </div>
-                <div className="flex items-center justify-between gap-4 rounded-lg bg-sunken px-3 py-2.5 text-[13px]">
-                  <span className="text-ink-2">
-                    AI fallback: <span className="font-medium text-ink">{ai === "off" ? "Off" : ai === "fallback" ? "Only when the parser fails" : "Every statement"}</span>
-                  </span>
-                  <Link href="/settings#ai" className="font-medium text-accent-ink hover:underline">
-                    Change
-                  </Link>
-                </div>
+                {aiAvailable && (
+                  <div className="flex items-center justify-between gap-4 rounded-lg bg-sunken px-3 py-2.5 text-[13px]">
+                    <span className="text-ink-2">
+                      AI fallback: <span className="font-medium text-ink">{ai === "off" ? "Off" : ai === "fallback" ? "Only when the parser fails" : "Every statement"}</span>
+                    </span>
+                    <Link href="/settings#ai" className="font-medium text-accent-ink hover:underline">
+                      Change
+                    </Link>
+                  </div>
+                )}
               </div>
             </details>
           </Card>
@@ -213,8 +231,8 @@ function Form({ initial }: { initial: string }) {
         {same && (
           <p className="mt-4 flex items-center gap-2 rounded-lg border border-line-2 bg-surface px-4 py-3 text-[13.5px]">
             <InfoIcon className="size-4 shrink-0 text-accent-ink" />
-            <span className="flex-1">You extracted exactly this {timeAgo(same.startedAt)}.</span>
-            <Link href={`/w/${same.id}`} className="font-medium text-accent-ink hover:underline">
+            <span className="flex-1">You extracted exactly this {timeAgo(same.startedAt ?? same.createdAt)}.</span>
+            <Link href={`/w?id=${same.id}`} className="font-medium text-accent-ink hover:underline">
               Open it
             </Link>
           </p>
@@ -230,7 +248,8 @@ function Form({ initial }: { initial: string }) {
               "Nothing is downloaded until you start."
             )}
           </p>
-          <Button variant="primary" size="lg" disabled={!company || !range} onClick={start}>
+          <Button variant="primary" size="lg" disabled={!company || !range || tooMany || starting} onClick={start}>
+            {starting && <CircleNotchIcon className="animate-spin" />}
             {range ? `Extract ${range[1] - range[0] + 1} ${range[1] === range[0] ? "year" : "years"}` : "Extract"}
             <ArrowRightIcon weight="bold" />
           </Button>

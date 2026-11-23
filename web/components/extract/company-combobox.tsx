@@ -4,7 +4,7 @@ import * as React from "react"
 import { Command } from "cmdk"
 import { ArrowRightIcon, MagnifyingGlassIcon } from "@phosphor-icons/react"
 
-import { searchCompanies } from "@/lib/api"
+import { isTicker, loadCompanies, searchCompanies } from "@/lib/api"
 import type { Company } from "@/lib/types"
 import { cn } from "@/lib/utils"
 
@@ -25,7 +25,13 @@ export function CompanyCombobox({
 }) {
   const [q, setQ] = React.useState("")
   const [open, setOpen] = React.useState(false)
-  const results = React.useMemo(() => searchCompanies(q, 7), [q])
+  const [ready, setReady] = React.useState(0)
+  React.useEffect(() => {
+    void loadCompanies().then((l) => setReady(l.length))
+  }, [])
+  const results = React.useMemo(() => searchCompanies(q, 7), [q, ready]) // eslint-disable-line react-hooks/exhaustive-deps -- re-run once the list arrives
+  const typed = q.trim().toUpperCase()
+  const offerTyped = isTicker(typed) && !results.some((c) => c.symbol === typed)
   const lg = size === "lg"
 
   return (
@@ -66,9 +72,11 @@ export function CompanyCombobox({
           onMouseDown={(e) => e.preventDefault()}
           className="thin-scroll absolute top-full right-0 left-0 z-30 mt-2 max-h-80 animate-pop overflow-y-auto rounded-xl border border-line-2 bg-raised p-1.5 text-left shadow-pop"
         >
-          <Command.Empty className="px-3 py-5 text-[13.5px] text-ink-2">
-            No company matches “{q}”. Try the NSE symbol, such as HCLTECH or PIDILITIND.
-          </Command.Empty>
+          {!offerTyped && (
+            <Command.Empty className="px-3 py-5 text-[13.5px] text-ink-2">
+              {q.trim() ? <>No company matches “{q}”. Try the NSE symbol, such as HCLTECH or PIDILITIND.</> : "Start typing a company name or NSE symbol."}
+            </Command.Empty>
+          )}
           {results.map((c) => (
             <Command.Item
               key={c.symbol}
@@ -83,14 +91,29 @@ export function CompanyCombobox({
               <CompanyMark symbol={c.symbol} />
               <span className="min-w-0 flex-1">
                 <span className="block truncate text-[14px] font-medium">{c.name}</span>
-                <span className="block truncate text-[12.5px] text-ink-3">
-                  {c.symbol} · {c.sector}
-                </span>
+                <span className="block truncate text-[12.5px] text-ink-3">{c.symbol}</span>
               </span>
-              {c.isDemo && <span className="rounded-full bg-accent/10 px-2 py-0.5 text-[11.5px] font-medium text-accent-ink">Sample data</span>}
               <ArrowRightIcon className="size-4 text-ink-3 opacity-0 transition-opacity group-data-[selected=true]:opacity-100" />
             </Command.Item>
           ))}
+          {offerTyped && (
+            <Command.Item
+              value={`typed:${typed}`}
+              onSelect={() => {
+                onPick({ symbol: typed, name: typed })
+                setOpen(false)
+                setQ("")
+              }}
+              className="group flex cursor-pointer items-center gap-3 rounded-lg px-3 py-2 outline-none select-none data-[selected=true]:bg-ink/[0.06]"
+            >
+              <CompanyMark symbol={typed} />
+              <span className="min-w-0 flex-1">
+                <span className="block truncate text-[14px] font-medium">Use the symbol {typed}</span>
+                <span className="block truncate text-[12.5px] text-ink-3">Looks it up on Screener as typed</span>
+              </span>
+              <ArrowRightIcon className="size-4 text-ink-3 opacity-0 transition-opacity group-data-[selected=true]:opacity-100" />
+            </Command.Item>
+          )}
         </Command.List>
       )}
     </Command>

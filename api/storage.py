@@ -143,3 +143,35 @@ def safe_visitor(v):
     """Visitor ids come from the browser: keep them to a safe file-name alphabet."""
     v = (v or "").strip()
     return v if v and len(v) <= 64 and all(ch.isalnum() or ch in "-_" for ch in v) else ""
+
+
+SAMPLE_ID = "r_0000000001"
+
+
+def seed(folder):
+    """
+    Loads the bundled sample workbook (api/seed/<run id>/) on first start, so the
+    landing page's "sample workbook" link works on a fresh server. Its row comes
+    from meta.json; its files are copied into the runs folder.
+    """
+    import shutil
+    if not os.path.isdir(folder):
+        return
+    for run_id in os.listdir(folder):
+        src = os.path.join(folder, run_id)
+        meta_path = os.path.join(src, "meta.json")
+        if not os.path.exists(meta_path) or get_run(run_id):
+            continue
+        with open(meta_path, encoding="utf-8") as f:
+            m = json.load(f)
+        dst = run_dir(run_id)
+        os.makedirs(dst, exist_ok=True)
+        for name in os.listdir(src):
+            if name != "meta.json":
+                shutil.copy2(os.path.join(src, name), os.path.join(dst, name))
+        now = time.time()
+        with _lock, _conn() as c:
+            c.execute("insert into runs (id, symbol, company, from_fy, to_fy, scope, figures, ai, status, created_at,"
+                      " started_at, finished_at, xlsx, confirmed_pct, issues, ip) values (?,?,?,?,?,?,?,?,'done',?,?,?,?,?,?,'seed')",
+                      (run_id, m["symbol"], m["company"], m["from"], m["to"], m["scope"], m["figures"], m["ai"],
+                       now, now, now + m.get("durationSec", 60), m["xlsx"], m.get("confirmedPct"), m.get("issues")))

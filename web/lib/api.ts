@@ -1,88 +1,154 @@
 /**
- * The seam between the UI and the engine. Each function names the engine call
- * it stands in for; today they answer from mock data, with realistic delays
- * where the real call is slow. Replace the bodies to go live.
+ * The seam between the UI and the FinXL API (api/main.py). Every call sends the
+ * browser's anonymous visitor id, which is how the server files runs and
+ * corrections per reader without accounts.
  */
-import { COMPANIES, findCompany, reportsFor } from "./mock/companies"
-import { buildWorkbook } from "./mock/workbook"
-import { fileName } from "./run"
-import type { Company, ExtractionRequest, ReportRef, ReviewState, RunRecord, Workbook } from "./types"
+import { toWorkbook, type ApiRun } from "./adapter"
+import type { Company, CrossCheckRow, ExtractionRequest, ReportRef, ReviewState, RunRecord, Workbook } from "./types"
 
-const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms))
+/** Same origin in production (FastAPI serves the app); `next dev` proxies /api to the local server. */
+const BASE = process.env.NEXT_PUBLIC_API_BASE ?? ""
 
-/** A bundled symbol list, so typing stays instant. (Engine: none yet; it takes a ticker as typed.) */
+let visitor: string | null = null
+export function visitorId(): string {
+  if (visitor) return visitor
+  try {
+    visitor = window.localStorage.getItem("finxl.visitor")
+    if (!visitor) {
+      visitor = crypto.randomUUID()
+      window.localStorage.setItem("finxl.visitor", visitor)
+    }
+  } catch {
+    visitor ??= `v-${Math.random().toString(36).slice(2)}${Date.now().toString(36)}`
+  }
+  return visitor
+}
+
+export class ApiError extends Error {
+  constructor(message: string, readonly status: number) {
+    super(message)
+  }
+}
+
+async function call<T>(path: string, init: RequestInit = {}): Promise<T> {
+  let res: Response
+  try {
+    res = await fetch(`${BASE}${path}`, {
+      ...init,
+      headers: { "X-Visitor": visitorId(), ...(init.body ? { "Content-Type": "application/json" } : {}), ...init.headers },
+    })
+  } catch {
+    throw new ApiError("Can't reach the FinXL server. Check your connection and try again.", 0)
+  }
+  if (!res.ok) {
+    let msg = `The server answered ${res.status}.`
+    try {
+      const body = await res.json()
+      msg = body.error ?? body.detail ?? msg
+      if (Array.isArray(msg)) msg = "That request wasn't valid."
+    } catch {
+      /* not JSON */
+    }
+    throw new ApiError(String(msg), res.status)
+  }
+  return res.json() as Promise<T>
+}
+
+// ─── Config ───────────────────────────────────────────────────────────────────
+
+export interface ServerConfig {
+  version: string
+  ai: { available: boolean; model: string }
+  limits: { maxYears: number; runsPerDay: number | null }
+}
+let configPromise: Promise<ServerConfig> | null = null
+export const getConfig = () => (configPromise ??= call<ServerConfig>("/api/config").catch((e) => {
+  configPromise = null
+  throw e
+}))
+
+// ─── Companies ────────────────────────────────────────────────────────────────
+
+/** NSE's equity list, bundled with the app (dev/scripts/build_companies.py), so typing stays instant. */
+let companies: Company[] = []
+let companiesPromise: Promise<Company[]> | null = null
+export function loadCompanies(): Promise<Company[]> {
+  companiesPromise ??= fetch("/companies.json")
+    .then((r) => (r.ok ? r.json() : []))
+    .then((list: Array<[string, string]>) => (companies = list.map(([symbol, name]) => ({ symbol, name }))))
+    .catch(() => (companies = []))
+  return companiesPromise
+}
+
 export function searchCompanies(q: string, limit = 8): Company[] {
   const s = q.trim().toLowerCase()
-  if (!s) return COMPANIES.slice(0, limit)
-  const score = (c: Company) =>
-    c.symbol.toLowerCase().startsWith(s) ? 0 : c.name.toLowerCase().startsWith(s) ? 1 : c.symbol.toLowerCase().includes(s) || c.name.toLowerCase().includes(s) ? 2 : c.sector.toLowerCase().includes(s) ? 3 : 9
-  return COMPANIES.map((c) => [score(c), c] as const)
-    .filter(([n]) => n < 9)
-    .sort((a, b) => a[0] - b[0])
-    .slice(0, limit)
-    .map(([, c]) => c)
+  if (!s) return []
+  const score = (c: Company) => {
+    const sym = c.symbol.toLowerCase(), name = c.name.toLowerCase()
+    return sym === s ? 0 : sym.startsWith(s) ? 1 : name.startsWith(s) ? 2 : name.split(/\s+/).some((w) => w.startsWith(s)) ? 3 : sym.includes(s) || name.includes(s) ? 4 : 9
+  }
+  const out: Array<[number, Company]> = []
+  for (const c of companies) {
+    const n = score(c)
+    if (n < 9) out.push([n, c])
+  }
+  return out.sort((a, b) => a[0] - b[0] || a[1].symbol.length - b[1].symbol.length).slice(0, limit).map(([, c]) => c)
 }
 
-export const getCompany = (symbol: string) => findCompany(symbol)
+export const getCompany = (symbol: string): Company | undefined => companies.find((c) => c.symbol === symbol.toUpperCase())
 
-/** finxl.list_reports(ticker): one Screener page fetch, so it takes a moment. */
-export async function listReports(symbol: string): Promise<ReportRef[]> {
-  await sleep(450 + Math.random() * 350)
-  return reportsFor(symbol)
+export const isTicker = (s: string) => /^[A-Z0-9&_-]{1,20}$/.test(s.trim().toUpperCase())
+
+/** finxl.list_reports(ticker): the annual reports on Screener. One page fetch, cached a day on the server. */
+export const listReports = (symbol: string) =>
+  call<{ symbol: string; name: string; url: string; reports: ReportRef[] }>(`/api/companies/${encodeURIComponent(symbol.toUpperCase())}/reports`)
+
+// ─── Runs ─────────────────────────────────────────────────────────────────────
+
+export const startRun = (req: ExtractionRequest) => call<RunRecord>("/api/runs", { method: "POST", body: JSON.stringify(req) })
+export const listRuns = () => call<RunRecord[]>("/api/runs")
+export const getRun = (id: string) => call<RunRecord>(`/api/runs/${id}`)
+export const removeRun = (id: string) => call<{ ok: boolean }>(`/api/runs/${id}`, { method: "DELETE" })
+/** `next dev` buffers proxied event streams, so in development the stream comes straight from the API. */
+const EVENTS_BASE = process.env.NODE_ENV === "development" ? (process.env.NEXT_PUBLIC_DEV_API ?? "http://127.0.0.1:8000") : BASE
+export const eventsUrl = (id: string) => `${EVENTS_BASE}/api/runs/${id}/events`
+
+const workbooks = new Map<string, Promise<Workbook>>()
+export function getWorkbook(id: string): Promise<Workbook> {
+  let p = workbooks.get(id)
+  if (!p) {
+    p = call<ApiRun>(`/api/runs/${id}/workbook`).then(toWorkbook)
+    p.catch(() => workbooks.delete(id))
+    workbooks.set(id, p)
+  }
+  return p
 }
 
-export const newRunId = () => `r_${Math.random().toString(36).slice(2, 8)}`
+export const getReview = (id: string) => call<ReviewState>(`/api/runs/${id}/review`)
+export const putReview = (id: string, review: ReviewState) => call<{ ok: boolean }>(`/api/runs/${id}/review`, { method: "PUT", body: JSON.stringify(review) })
 
-/** finxl.run result for a finished run. */
-export const getWorkbook = (run: Pick<RunRecord, "id" | "request">): Workbook => buildWorkbook(run.id, run.request)
+/** write_workbook with the reader's corrections marked. A plain link, so the browser downloads it. */
+export const xlsxUrl = (id: string) => `${BASE}/api/runs/${id}/xlsx?visitor=${encodeURIComponent(visitorId())}`
 
-/** write_workbook: the .xlsx the engine saves. Mocked: nothing is written. */
-export async function downloadExcel(wb: Workbook, review: ReviewState) {
-  await sleep(700)
-  const edits = Object.keys(review.edits).length + Object.keys(review.labels).length
-  return { filename: fileName(wb.request, wb.years), edits }
+export async function crossCheck(id: string): Promise<{ rows: CrossCheckRow[]; perSource: Record<string, { checked: number; match: number }> }> {
+  const data = await call<{ results: Array<Omit<CrossCheckRow, "fy"> & { year: number }>; perSource: Record<string, { checked: number; match: number }> }>(`/api/runs/${id}/crosscheck`)
+  return { rows: data.results.map(({ year, ...r }) => ({ ...r, fy: year })), perSource: data.perSource }
 }
 
-/** llm_extract.check_backend */
-export async function testAiConnection(engine: "gemini" | "ollama", hasKey: boolean) {
-  await sleep(900)
-  if (engine === "gemini" && !hasKey) return { ok: false, message: "Enter a Gemini API key first." }
-  return { ok: true, message: engine === "gemini" ? "Gemini answered. Free tier: expect waits at busy times." : "Ollama is running locally with this model." }
+// ─── Report pages ─────────────────────────────────────────────────────────────
+
+export const pdfUrl = (symbol: string, fy: number) => `${BASE}/api/pdf/${symbol}/${fy}.pdf`
+
+/** One report page as an image, with the figure (or its label) highlighted. */
+export function pageImageUrl(symbol: string, fy: number, page: string, find?: { value?: number; label?: string }) {
+  const q = new URLSearchParams()
+  if (find?.value !== undefined) q.set("value", String(find.value))
+  if (find?.label) q.set("label", find.label)
+  const qs = q.toString()
+  return `${BASE}/api/pdf/${symbol}/${fy}/page/${encodeURIComponent(page)}.png${qs ? `?${qs}` : ""}`
 }
 
-const HOUR = 3600_000
-const sample = (
-  id: string,
-  symbol: string,
-  from: number,
-  to: number,
-  scope: ExtractionRequest["scope"],
-  hoursAgo: number,
-  extra: Partial<RunRecord> = {}
-): RunRecord => ({
-  id,
-  request: { symbol, from, to, scope, figures: "restated", ai: "off" },
-  companyName: findCompany(symbol)?.name ?? symbol,
-  startedAt: Date.now() - hoursAgo * HOUR,
-  status: "done",
-  durationSec: 40 + ((to - from) * 9),
-  confirmedPct: 96.4,
-  issues: 0,
-  sample: true,
-  ...extra,
-})
+// ─── AI ───────────────────────────────────────────────────────────────────────
 
-/** Example library rows so the demo doesn't open empty. */
-export const sampleRuns = (): RunRecord[] => [
-  sample("s_vardhan", "VARDHANSPL", 2021, 2026, "consolidated", 3, { confirmedPct: 97.8, issues: 5 }),
-  sample("s_pidilite", "PIDILITIND", 2020, 2026, "both", 26, { confirmedPct: 98.9, issues: 1 }),
-  sample("s_hcl", "HCLTECH", 2019, 2026, "consolidated", 50, { confirmedPct: 99.2 }),
-  sample("s_ntpc", "NTPC", 2022, 2026, "standalone", 98, { confirmedPct: 95.1, issues: 7 }),
-  sample("s_vinati", "VINATIORGA", 2021, 2025, "standalone", 170, { confirmedPct: 97.3, issues: 2 }),
-  sample("s_supreme", "SUPREMEIND", 2012, 2016, "standalone", 290, {
-    status: "failed",
-    error: "No financial statements could be extracted: these reports are scans with no text layer. Turn on the AI fallback in Settings and run again.",
-    confirmedPct: undefined,
-    durationSec: 21,
-  }),
-]
+/** llm_extract.check_backend, with the server's key. */
+export const testAiConnection = () => call<{ ok: boolean; message: string }>("/api/ai/test", { method: "POST" })

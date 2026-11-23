@@ -4,10 +4,9 @@ import * as React from "react"
 import { CaretRightIcon, CheckIcon, WarningIcon } from "@phosphor-icons/react"
 
 import { useWb } from "@/components/workbook/context"
-import { transform, type ViewMode } from "@/lib/compute"
+import { commonBase, transform, type ViewMode } from "@/lib/compute"
 import { formatAmount, formatPct, formatPerShare, UNITS } from "@/lib/format"
 import { fyLabel } from "@/lib/fy"
-import { SHEETS } from "@/lib/sheets"
 import { cellKey, type CellRef, type StatementKind } from "@/lib/types"
 import { cn } from "@/lib/utils"
 
@@ -29,8 +28,9 @@ export function StatementTable({
   collapsed: Set<string>
   onToggle: (section: string) => void
 }) {
-  const { views, years, scope, book, settings, review, selected, select, panel, figures, sourceReport, run } = useWb()
-  const view = views[sheet]
+  const { views, years, scope, book, settings, review, selected, select, panel, figures, sourceReport, run, wb } = useWb()
+  const view = views[sheet]!
+  const base = React.useMemo(() => commonBase(book, sheet), [book, sheet])
   const compact = settings.density === "compact"
   const q = query.trim().toLowerCase()
 
@@ -77,14 +77,14 @@ export function StatementTable({
 
   return (
     <div ref={scroller} className="thin-scroll max-h-[calc(100dvh-13.5rem)] min-h-64 overflow-auto overscroll-x-contain rounded-xl border bg-surface shadow-card">
-      <table role="grid" aria-label={`${SHEETS[sheet].title}, ${scope}`} onKeyDown={onKeyDown} className="w-full border-separate border-spacing-0 text-[13px]">
+      <table role="grid" aria-label={`${view.title}, ${scope}`} onKeyDown={onKeyDown} className="w-full border-separate border-spacing-0 text-[13px]">
         <thead>
           <tr>
             <th scope="col" className="sticky top-0 left-0 z-30 w-[150px] min-w-[150px] border-r border-b bg-surface px-3 py-2 text-left align-bottom text-[12px] font-medium text-ink-3 md:w-[300px] md:min-w-[300px]">
               {unitLabel}
             </th>
             {years.map((fy) => {
-              const from = sourceReport(fy)
+              const from = sourceReport(fy, sheet)
               const comparative = fy < run.request.from
               return (
                 <th
@@ -94,7 +94,7 @@ export function StatementTable({
                   className={cn("sticky top-0 z-20 min-w-[92px] border-b bg-surface px-3 py-2 text-right align-bottom", compact && "min-w-[84px]")}
                 >
                   <span className="num block text-[13px] font-semibold">{fyLabel(fy)}</span>
-                  {!compact && <span className="num block text-[11px] font-normal text-ink-3">Mar {fy}</span>}
+                  {!compact && <span className="num block text-[11px] font-normal text-ink-3">{wb.columns[fy] ?? `Mar ${fy}`}</span>}
                 </th>
               )
             })}
@@ -113,8 +113,8 @@ export function StatementTable({
                       aria-expanded={open}
                       className="flex h-full w-full items-center gap-1 rounded-md px-1.5 text-[12.5px] font-semibold text-ink-2 hover:text-ink"
                     >
-                      <CaretRightIcon weight="bold" className={cn("size-3 shrink-0 transition-transform", open && "rotate-90", row.level === 0 && "invisible")} />
-                      <span className={cn("truncate", row.level === 0 && "-ml-4 text-[11.5px] tracking-wide text-ink-3 uppercase")}>{row.label}</span>
+                      <CaretRightIcon weight="bold" className={cn("size-3 shrink-0 transition-transform", open && "rotate-90")} />
+                      <span className="truncate" style={{ paddingLeft: row.level * 12 }}>{row.label}</span>
                     </button>
                   </th>
                   <td colSpan={years.length} className="border-b" />
@@ -123,31 +123,32 @@ export function StatementTable({
             }
             ri++
             const r = ri
-            const total = row.kind === "total" || row.kind === "calc"
+            const total = row.kind === "total"
             const garbled = view.garbled.has(row.id)
             return (
-              <tr key={row.id} className={cn("group/row animate-row", row.kind === "calc" && "[&>*]:bg-[color-mix(in_oklab,var(--sunken)_55%,var(--surface))]")}>
+              <tr key={row.id} className={cn("group/row animate-row", row.strong && "[&>*]:bg-[color-mix(in_oklab,var(--sunken)_55%,var(--surface))]")}>
                 <th
                   scope="row"
                   title={row.label}
                   className={cn(
                     "sticky left-0 z-10 border-r border-b bg-surface px-3 text-left font-normal group-hover/row:bg-sunken",
                     rowH,
-                    row.kind === "item" && row.level === 2 && "pl-7",
                     total && "font-medium",
                     row.strong && "font-semibold",
                     total && "border-t border-t-line-2"
                   )}
+                  style={{ paddingLeft: 12 + row.level * 14 + (row.section ? 12 : 0) }}
                 >
                   <span className={cn("flex items-center gap-1.5", garbled && "text-odd-ink")}>
                     {garbled && <WarningIcon weight="fill" className="size-3.5 shrink-0 text-odd" aria-label="Label looks garbled" />}
                     <span className="truncate">{row.label}</span>
+                    {row.junk && <span className="shrink-0 rounded bg-odd/15 px-1 text-[10.5px] text-odd-ink" title={row.junk}>page text?</span>}
                   </span>
                 </th>
                 {years.map((fy, c) => {
                   const cell: CellRef = { scope, sheet, row: row.id, fy }
                   const key = cellKey(cell)
-                  const value = transform(view, mode, row.id, fy, years)
+                  const value = transform(view, mode, row.id, fy, years, base)
                   const text =
                     mode === "values" ? (row.perShare ? formatPerShare(value, settings) : formatAmount(value, settings)) : row.perShare ? "" : formatPct(value, settings)
                   const status = view.status[row.id]?.[fy]

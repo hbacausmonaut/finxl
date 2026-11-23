@@ -1,10 +1,9 @@
 /**
- * Domain types. These mirror what the DocFetcher engine produces today
- * (finxl.run → merged rows, sources, quality) so the mock API can be swapped
- * for the real one without reshaping the UI.
+ * Domain types: the shapes the FinXL API returns (api/serialize.py) after the
+ * client adapter (lib/adapter.ts) has turned them into lookups.
  *
- * Money is integer ₹ lakh everywhere (1 crore = 100 lakh); units are a display
- * concern. Per-share figures are plain ₹.
+ * Money is ₹ crore everywhere in the app, as the engine writes it; other units
+ * are a display concern. Per-share figures are plain ₹.
  */
 
 export type FiscalYear = number
@@ -13,26 +12,23 @@ export type Scope = "consolidated" | "standalone"
 export type ScopeChoice = Scope | "both"
 /** finxl `restated` flag: newest report showing each year, or each year's own report. */
 export type FiguresMode = "restated" | "as-reported"
-export type StatementKind = "pl" | "bs" | "cf"
+/** ra = an insurer's Revenue Account. */
+export type StatementKind = "pl" | "bs" | "cf" | "ra"
 export type AiMode = "off" | "fallback" | "always"
 
 export interface Company {
   symbol: string
   name: string
-  sector: string
-  cap: "Large cap" | "Mid cap" | "Small cap"
-  /** Only the demo company has its own (fictional) dataset in this build. */
+  sector?: string
+  /** The bundled sample workbook. */
   isDemo?: boolean
 }
 
-/** One annual report listed for a company (finxl.list_reports). */
+/** One annual report on file for a company (finxl.list_reports). */
 export interface ReportRef {
   fy: FiscalYear
   url: string
-  pages: number
-  sizeMb: number
-  /** No text layer: the parser can't read it without the AI fallback. */
-  scanned: boolean
+  label?: string
 }
 
 export interface ExtractionRequest {
@@ -46,25 +42,21 @@ export interface ExtractionRequest {
 
 // ─── Statements ───────────────────────────────────────────────────────────────
 
-/**
- * header: a caption with no figures ("Current assets")
- * item:   a line item
- * total:  a printed total that should equal the items of its section
- * calc:   a printed line that follows from other lines (profit before tax, total assets)
- */
-export type RowKind = "header" | "item" | "total" | "calc"
+/** header: a caption with no figures; item: a line item; total: a line the report's own totals check. */
+export type RowKind = "header" | "item" | "total"
 
 export interface RowDef {
+  /** Index of the row in its statement, as a string. */
   id: string
   label: string
   kind: RowKind
-  level: 0 | 1 | 2
-  /** item → the header it sits under; total → the header it closes. */
+  level: number
+  /** The caption row this line sits under (for "totals only"). */
   section?: string
-  /** calc → signed references to other rows. */
-  formula?: Array<[rowId: string, sign: 1 | -1]>
   perShare?: boolean
   strong?: boolean
+  /** Looks like page text, not a line item (quality.junk_reason). */
+  junk?: string
 }
 
 export interface CellRef {
@@ -79,65 +71,102 @@ export const rowKey = (c: Pick<CellRef, "scope" | "sheet" | "row">) => `${c.scop
 /** quality.py status: confirmed by the report's own totals, a total that doesn't add up, or not covered. */
 export type CellStatus = "ok" | "fail" | null
 
+/** What a total was checked against in its report (quality.py footing). */
+export interface Group {
+  ok: boolean
+  members: Array<[rowId: string, sign: 1 | -1]>
+}
+
 /** One row of the engine's Sources sheet. */
 export interface SourceEntry {
   fy: FiscalYear
   scope: Scope
   sheet: StatementKind
-  /** PDF page positions (not printed page numbers). */
-  pages: number[]
-  method: "parser" | "ai"
-  check: "OK" | "CHECK" | "MISSING"
+  /** PDF page positions, e.g. "212" or "106L" (left half of a two-page spread). */
+  pages: string[]
+  method: string
+  check: "OK" | "CHECK" | "MISSING" | "N/A"
   checkNote: string
   url: string
+  quality?: { cells: number; confirmed: number; totals: number; failed_totals: number; bad_labels: number; junk_rows: number }
 }
 
-/** What a later report changed about an earlier year. */
+/** A year whose own report printed a different figure from the newest report. */
 export interface Restatement {
   asReported: number
+  latest: number
   restatedIn: FiscalYear
-  reason: string
 }
 
-/** A second reading of one figure (AI fallback re-reading the page). */
+/** A figure re-read from the page when its total didn't add up (engine/second_reading.py). */
 export interface SecondReading {
   cell: CellRef
+  /** The failing total this reading explains. */
+  totalRow: string
   value: number
   note: string
+  printed?: string
+  page: string
+  reportFy: FiscalYear
 }
+
+export interface SheetData {
+  kind: StatementKind
+  title: string
+  rows: RowDef[]
+}
+
+/** A Summary figure and which row it came from each year (finxl.summary_values). */
+export interface SummaryPick {
+  label: string
+  sheet: StatementKind
+  rows: Record<FiscalYear, string>
+  values: Record<FiscalYear, number>
+}
+
+type Grid<T> = Partial<Record<StatementKind, Record<string, Record<FiscalYear, T>>>>
 
 export interface ScopeBook {
   scope: Scope
-  /** Printed value of every row that carries figures: sheet → row → fy. */
-  values: Record<StatementKind, Record<string, Record<FiscalYear, number>>>
-  /** Row labels as extracted (may be garbled). */
-  labels: Record<StatementKind, Record<string, string>>
+  sheets: Partial<Record<StatementKind, SheetData>>
+  /** Figures as extracted (₹ crore; per-share rows in ₹): sheet → row → fy. */
+  values: Grid<number>
+  status: Grid<CellStatus>
+  groups: Grid<Group>
+  /** The annual report each figure was taken from. */
+  src: Grid<FiscalYear>
   restatements: Record<string, Restatement>
   secondReadings: SecondReading[]
-  /** Rows whose label failed the dictionary check, with the decoded suggestion. */
+  /** Rows whose label failed the dictionary check. */
   garbled: Array<{ sheet: StatementKind; row: string; label: string; suggestion: string }>
-  /** Expected EPS from profit ÷ shares, for the per-share sanity check. */
-  epsExpected: Record<FiscalYear, number>
+  /** Expected EPS (profit ÷ shares) where the per-share check flags a figure, by cellKey. */
+  epsExpected: Record<string, number>
   sources: SourceEntry[]
-}
-
-/** accuracy_check.py: headline figures against outside sources. */
-export interface CrossCheckRow {
-  metric: "Revenue" | "Net profit" | "Total assets" | "Cash from operations"
-  fy: FiscalYear
-  ours: number
-  nse?: number
-  screener?: number
+  summary: SummaryPick[]
 }
 
 export interface Workbook {
   id: string
   request: ExtractionRequest
-  company: Company
+  company: Company & { url?: string }
   years: FiscalYear[]
+  /** Column headings, e.g. "Mar 2025" or "Dec 2024". */
+  columns: Record<FiscalYear, string>
   scopes: Scope[]
-  books: Record<Scope, ScopeBook | undefined>
+  books: Partial<Record<Scope, ScopeBook>>
   reports: ReportRef[]
+}
+
+/** accuracy_check.py: headline figures against outside sources. */
+export interface CrossCheckRow {
+  scope: Scope
+  metric: string
+  fy: FiscalYear
+  ours: number | null
+  sources: Record<string, number | null>
+  status: "OK" | "DIFF" | "MISSING"
+  basis: string
+  note: string
 }
 
 // ─── Issues & review ──────────────────────────────────────────────────────────
@@ -153,7 +182,7 @@ export type Issue =
       suspect?: SecondReading
     }
   | { id: string; kind: "eps"; cell: CellRef; value: number; expected: number }
-  | { id: string; kind: "label"; scope: Scope; sheet: StatementKind; row: string; label: string; suggestion: string }
+  | { id: string; kind: "label"; scope: Scope; sheet: StatementKind; row: string; label: string }
 
 export interface ReviewState {
   /** cellKey → corrected value */
@@ -168,31 +197,35 @@ export const EMPTY_REVIEW: ReviewState = { edits: {}, labels: {}, kept: [] }
 // ─── Runs ─────────────────────────────────────────────────────────────────────
 
 export type StageId = "lookup" | "download" | "read" | "merge" | "write"
-export type RunStatus = "running" | "done" | "failed"
+export type RunStatus = "queued" | "running" | "done" | "failed"
 
 export interface RunRecord {
   id: string
   request: ExtractionRequest
   companyName: string
-  startedAt: number
+  /** Seconds since the epoch (from the server). */
+  createdAt: number
+  startedAt?: number | null
   status: RunStatus
-  durationSec?: number
-  /** Snapshot for the library list. */
-  confirmedPct?: number
-  issues?: number
-  error?: string
-  /** Seeded example rows that ship with the demo. */
-  sample?: boolean
+  durationSec?: number | null
+  confirmedPct?: number | null
+  issues?: number | null
+  error?: string | null
+  /** Place in the queue while waiting. */
+  position?: number
 }
 
-export interface RunEvent {
-  t: number
-  stage: StageId
-  type: "start" | "year" | "log" | "end"
-  fy?: FiscalYear
-  level?: "info" | "warn" | "ok"
-  text?: string
-}
+/** One server-sent event from /api/runs/{id}/events. */
+export type RunEvent =
+  | { seq: number; t: number; type: "queued"; position: number }
+  | { seq: number; t: number; type: "start" }
+  | { seq: number; t: number; type: "stage"; stage: StageId }
+  | { seq: number; t: number; type: "stage-end"; stage: StageId }
+  | { seq: number; t: number; type: "progress"; fraction: number }
+  | { seq: number; t: number; type: "year"; stage: StageId; fy: FiscalYear }
+  | { seq: number; t: number; type: "log"; level: "info" | "warn" | "ok"; text: string }
+  | { seq: number; t: number; type: "done"; confirmedPct: number | null; issues: number }
+  | { seq: number; t: number; type: "failed"; error: string }
 
 // ─── Settings ─────────────────────────────────────────────────────────────────
 

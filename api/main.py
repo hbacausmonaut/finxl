@@ -33,6 +33,10 @@ from . import jobs
 from .serialize import load_engine
 
 app = FastAPI(title="FinXL API", version=settings.VERSION, docs_url="/api/docs", openapi_url="/api/openapi.json")
+if settings.DEV_ORIGINS:
+    # `next dev` buffers proxied event streams, so in development the page opens them on this port directly.
+    from fastapi.middleware.cors import CORSMiddleware
+    app.add_middleware(CORSMiddleware, allow_origins=settings.DEV_ORIGINS, allow_methods=["GET"], allow_headers=["*"])
 
 TICKER = re.compile(r"^[A-Z0-9&_-]{1,20}$")
 PAGE = re.compile(r"^\d{1,4}[LR]?$")
@@ -42,6 +46,7 @@ THIS_YEAR = datetime.date.today().year
 @app.on_event("startup")
 def _startup():
     storage.init()
+    storage.seed(os.path.join(os.path.dirname(os.path.abspath(__file__)), "seed"))
     jobs.start_workers()
 
 
@@ -315,11 +320,28 @@ async def crosscheck(run_id: str):
 
 
 # ── Report PDFs ──────────────────────────────────────────────────────────────
+_download_lock = threading.Lock()
+
+
 def _pdf(ticker, fy):
+    """The cached report PDF, downloaded again from Screener's list if the cache was cleared."""
     t = _ticker(ticker)
     path = pdfview.pdf_path(None, t, fy)
+    if path:
+        return path
+    with _download_lock:
+        path = pdfview.pdf_path(None, t, fy)
+        if path:
+            return path
+        try:
+            _, _, reports = finxl.list_reports(t)
+            item = next((r for r in reports if r["year"] == fy), None)
+            if item:
+                path = finxl.download_report(item, os.path.join(settings.CACHE_DIR, t, "AnnualReports"))
+        except Exception:
+            path = None
     if not path:
-        raise HTTPException(404, f"The FY{fy} report for {t} isn't in the cache.")
+        raise HTTPException(404, f"The FY{fy} report for {t} isn't available.")
     return path
 
 
@@ -336,7 +358,7 @@ _render_lock = threading.Lock()  # PyMuPDF isn't thread-safe
 async def report_page(ticker: str, fy: int, page: str, value: float | None = None, label: str = "", dpi: int = 110):
     if not PAGE.match(page):
         raise HTTPException(400, "Bad page.")
-    path = _pdf(ticker, fy)
+    path = await run_in_threadpool(_pdf, ticker, fy)
     dpi = max(60, min(dpi, 200))
 
     def work():

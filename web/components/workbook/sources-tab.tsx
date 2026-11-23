@@ -1,27 +1,35 @@
 "use client"
 
 import * as React from "react"
-import { ArrowSquareOutIcon, CheckIcon, QuotesIcon, WarningIcon } from "@phosphor-icons/react"
+import { ArrowSquareOutIcon, CheckIcon, CircleNotchIcon, QuotesIcon, WarningIcon } from "@phosphor-icons/react"
 import { toast } from "sonner"
 
 import { useWb } from "@/components/workbook/context"
 import { Button } from "@/components/ui/button"
 import { Chip, Tip } from "@/components/ui/controls"
-import { agrees, crossCheck, qualityOf } from "@/lib/compute"
+import { kindsOf, SHORT_TITLE } from "@/lib/adapter"
+import { crossCheck, pdfUrl } from "@/lib/api"
+import { qualityOf } from "@/lib/compute"
 import { formatAmount } from "@/lib/format"
 import { fyLabel } from "@/lib/fy"
-import { KINDS, SHEETS } from "@/lib/sheets"
 import type { CrossCheckRow, FiscalYear } from "@/lib/types"
 import { cn } from "@/lib/utils"
 
-const HUE = { pl: "var(--pl)", bs: "var(--bs)", cf: "var(--cf)" } as const
+const HUE = { pl: "var(--pl)", bs: "var(--bs)", cf: "var(--cf)", ra: "var(--pl)" } as const
 
 /** The workbook's Sources and Quality sheets: which pages, how much is confirmed, and how it compares outside. */
 export function SourcesTab() {
   const { wb, scope, book, views, years, settings, goTo, run } = useWb()
   const amt = (v: number | undefined) => formatAmount(v, settings)
-  const cc = React.useMemo(() => crossCheck(wb, scope, views), [wb, scope, views])
+  const [check, setCheck] = React.useState<{ state: "idle" | "busy" | "done" | "error"; rows: CrossCheckRow[]; error?: string }>({ state: "idle", rows: [] })
+  const cc = check.rows.filter((r) => r.scope === scope)
   const metrics = [...new Set(cc.map((r) => r.metric))]
+  const runCheck = () => {
+    setCheck({ state: "busy", rows: [] })
+    crossCheck(run.id)
+      .then((d) => setCheck({ state: "done", rows: d.rows }))
+      .catch((e: Error) => setCheck({ state: "error", rows: [], error: e.message }))
+  }
   const cite = (fy: FiscalYear) => `${wb.company.name}. (${fy}). Annual Report ${fy - 1}–${String(fy).slice(2)}.`
 
   return (
@@ -43,12 +51,12 @@ export function SourcesTab() {
               </tr>
             </thead>
             <tbody>
-              {KINDS.map((sheet) => (
+              {kindsOf(book).map((sheet) => (
                 <tr key={sheet}>
                   <th scope="row" className="sticky left-0 z-10 border-r border-b bg-surface px-3 text-left font-medium">
                     <span className="flex items-center gap-2">
                       <span aria-hidden className="size-2 rounded-full" style={{ background: HUE[sheet] }} />
-                      {SHEETS[sheet].short}
+                      {SHORT_TITLE[sheet]}
                     </span>
                   </th>
                   {years.map((fy) => {
@@ -58,7 +66,7 @@ export function SourcesTab() {
                       <td key={fy} className="border-b p-1">
                         <button
                           type="button"
-                          onClick={() => goTo({ sheet, row: SHEETS[sheet].rows.find((r) => r.kind !== "header")!.id, fy })}
+                          onClick={() => goTo({ sheet, row: views[sheet]!.rows.find((r) => r.kind !== "header" && views[sheet]!.values[r.id]?.[fy] !== undefined)?.id ?? "0", fy })}
                           title={`${q.confirmed} of ${q.cells} figures confirmed${q.failedTotals ? `; ${q.failedTotals} total doesn't add up` : ""}`}
                           className={cn(
                             "num flex h-8 w-full items-center justify-center gap-1 rounded-md text-[12.5px] font-medium transition-colors hover:ring-2 hover:ring-ink/15",
@@ -85,12 +93,24 @@ export function SourcesTab() {
           title="Headline figures against outside sources"
           note="NSE filings carry each year as first reported; Screener shows the latest restated figure. A difference usually means a restatement, not a misread."
         />
+        {check.state !== "done" ? (
+          <div className="flex flex-wrap items-center gap-3 rounded-xl border bg-surface p-4 shadow-card">
+            <p className="min-w-0 flex-1 text-[13.5px] text-ink-2">
+              {check.state === "error" ? check.error : "Compares revenue, profit, total assets and operating cash flow with NSE's XBRL filings and Screener. Takes a few seconds."}
+            </p>
+            <Button onClick={runCheck} disabled={check.state === "busy"}>
+              {check.state === "busy" ? <><CircleNotchIcon className="animate-spin" /> Checking…</> : check.state === "error" ? "Try again" : "Run the cross-check"}
+            </Button>
+          </div>
+        ) : metrics.length === 0 ? (
+          <p className="rounded-xl border bg-surface p-4 text-[13.5px] text-ink-2 shadow-card">No outside source covers these years for the {scope} statements.</p>
+        ) : (
         <div className="thin-scroll overflow-x-auto rounded-xl border bg-surface shadow-card">
           <table className="w-full border-separate border-spacing-0 text-[13px]">
             <thead>
               <tr>
                 <th scope="col" className="sticky left-0 z-10 w-[170px] min-w-[170px] border-r border-b bg-surface px-3 py-2 text-left text-[12px] font-medium text-ink-3">
-                  Within 0.5% of NSE / Screener
+                  Within 0.5% of the outside figure
                 </th>
                 {years.map((y) => (
                   <th key={y} scope="col" className="num min-w-[84px] border-b px-2 py-2 text-center font-semibold">
@@ -118,6 +138,7 @@ export function SourcesTab() {
             </tbody>
           </table>
         </div>
+        )}
       </section>
 
       <section>
@@ -130,7 +151,7 @@ export function SourcesTab() {
                 <div className="min-w-0 md:w-52">
                   <div className="text-[14.5px] font-semibold">Annual Report {fyLabel(rep.fy)}</div>
                   <div className="num text-[12.5px] text-ink-3">
-                    {rep.pages} pages · {rep.sizeMb.toFixed(1)} MB
+                    {rep.label ?? "Annual report"}
                     {rep.fy === run.request.from && years[0] < rep.fy ? ` · also gives ${fyLabel(years[0])}` : ""}
                   </div>
                 </div>
@@ -138,9 +159,9 @@ export function SourcesTab() {
                   {src.map((s) => (
                     <Chip key={s.sheet} className="h-7 gap-1.5 bg-sunken text-ink-2">
                       <span aria-hidden className="size-1.5 rounded-full" style={{ background: HUE[s.sheet] }} />
-                      {SHEETS[s.sheet].short}
-                      <span className="num text-ink-3">p. {s.pages.join("–")}</span>
-                      {s.check === "OK" ? <CheckIcon weight="bold" className="text-good" aria-label={`Check passed: ${s.checkNote}`} /> : <WarningIcon weight="fill" className="text-warn" aria-label="Needs checking" />}
+                      {SHORT_TITLE[s.sheet]}
+                      <span className="num text-ink-3">p. {s.pages.join(", ")}</span>
+                      {s.check === "OK" ? <CheckIcon weight="bold" className="text-good" aria-label={`Check passed: ${s.checkNote}`} /> : <WarningIcon weight="fill" className="text-warn" aria-label={`Needs checking: ${s.checkNote}`} />}
                     </Chip>
                   ))}
                 </div>
@@ -155,8 +176,10 @@ export function SourcesTab() {
                   >
                     <QuotesIcon /> Cite
                   </Button>
-                  <Button size="sm" onClick={() => toast("Preview build", { description: "The live app opens this report's PDF." })}>
-                    Open PDF <ArrowSquareOutIcon />
+                  <Button size="sm" asChild>
+                    <a href={pdfUrl(wb.company.symbol, rep.fy)} target="_blank" rel="noreferrer">
+                      Open PDF <ArrowSquareOutIcon />
+                    </a>
                   </Button>
                 </div>
               </li>
@@ -178,16 +201,17 @@ function Heading({ title, note }: { title: string; note: string }) {
 }
 
 function Agreement({ row, amt }: { row: CrossCheckRow; amt: (v: number | undefined) => string }) {
-  const nse = row.nse === undefined ? null : agrees(row.ours, row.nse)
-  const scr = row.screener === undefined ? null : agrees(row.ours, row.screener)
-  const ok = nse !== false && scr !== false
+  const ok = row.status === "OK"
+  const nse = row.sources["NSE XBRL"]
+  const scr = row.sources["Screener"]
   return (
     <Tip
       text={
         <span className="num block space-y-0.5 text-left">
-          <span className="block">Workbook: {amt(row.ours)}</span>
-          <span className="block">NSE filing: {row.nse === undefined ? "no filing for this year" : amt(row.nse)}</span>
-          <span className="block">Screener: {amt(row.screener)}</span>
+          <span className="block">Workbook: {row.ours === null ? "blank" : amt(row.ours)}</span>
+          <span className="block">NSE filing: {nse === undefined || nse === null ? "no filing for this year" : amt(nse)}</span>
+          {scr !== undefined && scr !== null && <span className="block">Screener: {amt(scr)}</span>}
+          {row.note && <span className="block max-w-64 font-sans">{row.note}</span>}
         </span>
       }
     >
@@ -201,7 +225,7 @@ function Agreement({ row, amt }: { row: CrossCheckRow; amt: (v: number | undefin
             <span className="sr-only">Agrees</span>
           </>
         ) : (
-          <>≠ {nse === false ? "NSE" : "Screener"}</>
+          <>{row.status === "MISSING" ? "missing" : `≠ ${row.basis === "NSE XBRL" ? "NSE" : "Screener"}`}</>
         )}
       </span>
     </Tip>

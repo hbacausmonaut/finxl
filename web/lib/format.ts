@@ -2,11 +2,11 @@ import type { Settings, Unit } from "./types"
 
 export type NumberPrefs = Pick<Settings, "unit" | "grouping" | "negatives">
 
-/** Values arrive as ₹ lakh. 1 crore = 100 lakh = 10 million. */
-export const UNITS: Record<Unit, { label: string; short: string; perLakh: number; decimals: number }> = {
-  crore: { label: "₹ crore", short: "cr", perLakh: 0.01, decimals: 2 },
-  lakh: { label: "₹ lakh", short: "lakh", perLakh: 1, decimals: 0 },
-  million: { label: "₹ million", short: "mn", perLakh: 0.1, decimals: 1 },
+/** Values arrive as ₹ crore (as the engine writes them). 1 crore = 100 lakh = 10 million. */
+export const UNITS: Record<Unit, { label: string; short: string; perCrore: number; decimals: number }> = {
+  crore: { label: "₹ crore", short: "cr", perCrore: 1, decimals: 2 },
+  lakh: { label: "₹ lakh", short: "lakh", perCrore: 100, decimals: 0 },
+  million: { label: "₹ million", short: "mn", perCrore: 10, decimals: 1 },
 }
 
 const cache = new Map<string, Intl.NumberFormat>()
@@ -29,11 +29,11 @@ function signed(v: number, body: string, negatives: Settings["negatives"]) {
 }
 
 /** A statement amount in the reader's unit. Blank stays blank, zero prints as a dash. */
-export function formatAmount(lakh: number | undefined, p: NumberPrefs, decimals?: number): string {
-  if (lakh === undefined || Number.isNaN(lakh)) return ""
+export function formatAmount(crore: number | undefined, p: NumberPrefs, decimals?: number): string {
+  if (crore === undefined || Number.isNaN(crore)) return ""
   const u = UNITS[p.unit]
   const d = decimals ?? u.decimals
-  const v = lakh * u.perLakh
+  const v = crore * u.perCrore
   if (Math.abs(v) < 0.5 * 10 ** -d) return "–"
   return signed(v, nf(p.grouping, d).format(Math.abs(v)), p.negatives)
 }
@@ -49,19 +49,19 @@ export function formatPct(v: number | undefined, p: Pick<Settings, "negatives">,
 }
 
 /** Headline figure for tiles and prose: "₹3,701 cr". */
-export function formatHeadline(lakh: number, p: NumberPrefs): string {
+export function formatHeadline(crore: number, p: NumberPrefs): string {
   const u = UNITS[p.unit]
-  const v = lakh * u.perLakh
+  const v = crore * u.perCrore
   const d = Math.abs(v) >= 1000 ? 0 : Math.abs(v) >= 100 ? 1 : u.decimals
   return signed(v, `₹${nf(p.grouping, d).format(Math.abs(v))} ${u.short}`, p.negatives)
 }
 
-/** Parses what a reader types into an edit box, in their unit, back to ₹ lakh. */
+/** Parses what a reader types into an edit box, in their unit, back to ₹ crore. */
 export function parseAmount(text: string, unit: Unit): number | null {
   const neg = /^\s*[(−-]/.test(text)
   const n = Number(text.replace(/[^\d.]/g, ""))
   if (!text.trim() || !Number.isFinite(n)) return null
-  return Math.round(((neg ? -n : n) / UNITS[unit].perLakh) * 100) / 100
+  return Math.round(((neg ? -n : n) / UNITS[unit].perCrore) * 100) / 100
 }
 
 export function formatDuration(sec: number) {
@@ -69,7 +69,9 @@ export function formatDuration(sec: number) {
   return `${Math.floor(sec / 60)}m ${Math.round(sec % 60)}s`
 }
 
+/** ts in milliseconds, or seconds since the epoch (the server's timestamps). */
 export function timeAgo(ts: number, now = Date.now()) {
+  if (ts < 1e12) ts *= 1000
   const d = (now - ts) / 1000
   if (d < 60) return "just now"
   if (d < 3600) return `${Math.floor(d / 60)} min ago`

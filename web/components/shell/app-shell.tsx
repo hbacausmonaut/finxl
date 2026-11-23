@@ -12,7 +12,7 @@ import { cn } from "@/lib/utils"
 
 const NAV = [
   { href: "/new", label: "Extract", icon: PlusCircleIcon, match: (p: string) => p.startsWith("/new") },
-  { href: "/library", label: "Library", icon: BooksIcon, match: (p: string) => p.startsWith("/library") || p.startsWith("/w/") },
+  { href: "/library", label: "Library", icon: BooksIcon, match: (p: string) => p.startsWith("/library") || p.startsWith("/w") },
   { href: "/settings", label: "Settings", icon: GearSixIcon, match: (p: string) => p.startsWith("/settings") },
 ]
 

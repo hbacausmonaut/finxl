@@ -2,7 +2,7 @@
 
 import * as React from "react"
 
-import { newRunId, sampleRuns } from "./api"
+import { getReview, getRun, listRuns, putReview, removeRun, startRun } from "./api"
 import { cellKey, DEFAULT_SETTINGS, EMPTY_REVIEW, rowKey, type CellRef, type ExtractionRequest, type ReviewState, type RunRecord, type Settings } from "./types"
 
 /**
@@ -71,51 +71,89 @@ export function useSettings() {
 }
 export const resetSettings = () => settingsStore.set(DEFAULT_SETTINGS)
 
-// ─── Library ──────────────────────────────────────────────────────────────────
+// ─── Library (the server files runs per visitor) ──────────────────────────────
 
 interface LibraryState {
   runs: RunRecord[]
-  /** Sample rows the reader removed. */
-  hidden: string[]
+  loaded: boolean
+  error?: string
 }
-const libraryStore = createStore<LibraryState>("finxl.library.v3", { runs: [], hidden: [] })
-let samples: RunRecord[] | null = null
+const libraryStore = createStore<LibraryState>("finxl.library.v4", { runs: [], loaded: false })
+let inflight: Promise<void> | null = null
 
+function refresh() {
+  inflight ??= listRuns()
+    .then((runs) => libraryStore.set({ runs, loaded: true }))
+    .catch((e: Error) => libraryStore.set((s) => ({ ...s, loaded: true, error: e.message })))
+    .finally(() => (inflight = null))
+  return inflight
+}
+
+/** The visitor's runs, newest first. Refreshes on mount, and every few seconds while one is queued or running. */
 export function useLibrary() {
   const lib = useStore(libraryStore)
   const hydrated = useHydrated()
-  const runs = React.useMemo(() => {
-    if (!hydrated) return []
-    samples ??= sampleRuns()
-    return [...lib.runs, ...samples.filter((s) => !lib.hidden.includes(s.id))].sort((a, b) => b.startedAt - a.startedAt)
-  }, [lib, hydrated])
-  return { runs, hydrated }
+  const busy = lib.runs.some((r) => r.status === "queued" || r.status === "running")
+  React.useEffect(() => {
+    void refresh()
+  }, [])
+  React.useEffect(() => {
+    if (!busy) return
+    const id = setInterval(() => void refresh(), 4000)
+    return () => clearInterval(id)
+  }, [busy])
+  return { runs: hydrated ? lib.runs : [], hydrated: hydrated && lib.loaded, error: lib.error }
 }
 
 export const library = {
-  /** Starts a run (finxl.run) and files it. Returns its id. */
-  start: (request: ExtractionRequest, companyName: string) => {
-    const id = newRunId()
-    libraryStore.set((s) => ({ ...s, runs: [{ id, request, companyName, startedAt: Date.now(), status: "running" as const }, ...s.runs].slice(0, 40) }))
-    return id
+  /** Starts a run (or finds the same finished one). Returns the server's run record. */
+  start: async (request: ExtractionRequest) => {
+    const run = await startRun(request)
+    libraryStore.set((s) => ({ ...s, runs: [run, ...s.runs.filter((r) => r.id !== run.id)] }))
+    return run
   },
-  add: (run: RunRecord) => libraryStore.set((s) => ({ ...s, runs: [run, ...s.runs].slice(0, 40) })),
+  refresh,
+  /** Fetches one run (a shared link) and files it. */
+  fetch: async (id: string) => {
+    const run = await getRun(id)
+    libraryStore.set((s) => ({ ...s, runs: s.runs.some((r) => r.id === id) ? s.runs.map((r) => (r.id === id ? run : r)) : [run, ...s.runs] }))
+    return run
+  },
   patch: (id: string, patch: Partial<RunRecord>) =>
     libraryStore.set((s) => ({ ...s, runs: s.runs.map((r) => (r.id === id ? { ...r, ...patch } : r)) })),
-  remove: (id: string) =>
-    libraryStore.set((s) => ({ runs: s.runs.filter((r) => r.id !== id), hidden: id.startsWith("s_") ? [...s.hidden, id] : s.hidden })),
-  clear: () => libraryStore.set({ runs: [], hidden: [] }),
+  remove: (id: string) => {
+    libraryStore.set((s) => ({ ...s, runs: s.runs.filter((r) => r.id !== id) }))
+    return removeRun(id).catch(() => refresh())
+  },
 }
 
 // ─── Review edits, per workbook ───────────────────────────────────────────────
 
 const reviewStore = createStore<Record<string, ReviewState>>("finxl.review.v3", {})
 
+const timers = new Map<string, ReturnType<typeof setTimeout>>()
+const pulled = new Set<string>()
+const isEmpty = (r?: ReviewState) => !r || (!Object.keys(r.edits).length && !Object.keys(r.labels).length && !r.kept.length)
+
+/** A reader's corrections: kept in this browser at once, saved to the server a moment later (the Excel uses them). */
 export function useReview(runId: string) {
   const all = useStore(reviewStore)
   const review = all[runId] ?? EMPTY_REVIEW
+  React.useEffect(() => {
+    if (pulled.has(runId)) return
+    pulled.add(runId)
+    getReview(runId)
+      .then((server) => {
+        if (!isEmpty(server) && isEmpty(reviewStore.get()[runId])) reviewStore.set((s) => ({ ...s, [runId]: server }))
+      })
+      .catch(() => {})
+  }, [runId])
   const api = React.useMemo(() => {
-    const patch = (f: (r: ReviewState) => ReviewState) => reviewStore.set((s) => ({ ...s, [runId]: f(s[runId] ?? EMPTY_REVIEW) }))
+    const patch = (f: (r: ReviewState) => ReviewState) => {
+      reviewStore.set((s) => ({ ...s, [runId]: f(s[runId] ?? EMPTY_REVIEW) }))
+      clearTimeout(timers.get(runId))
+      timers.set(runId, setTimeout(() => void putReview(runId, reviewStore.get()[runId] ?? EMPTY_REVIEW).catch(() => {}), 600))
+    }
     return {
       edit: (cell: CellRef, value: number) => patch((r) => ({ ...r, edits: { ...r.edits, [cellKey(cell)]: value } })),
       clearEdit: (cell: CellRef) =>
@@ -145,3 +183,9 @@ export function useReview(runId: string) {
 const recentStore = createStore<string[]>("finxl.recent.v3", [])
 export const useRecents = () => useStore(recentStore)
 export const pushRecent = (symbol: string) => recentStore.set((s) => [symbol, ...s.filter((x) => x !== symbol)].slice(0, 6))
+
+/** Saves a run's corrections now (before a download, so the Excel has them). */
+export async function flushReview(runId: string) {
+  clearTimeout(timers.get(runId))
+  await putReview(runId, reviewStore.get()[runId] ?? EMPTY_REVIEW).catch(() => {})
+}

@@ -14,24 +14,24 @@ import { cn } from "@/lib/utils"
 
 /** The workbook's Summary sheet: headline figures, the ratios the engine computes, and how much is confirmed. */
 export function SummaryTab() {
-  const { views, years, settings, issues, kept, fixed, setPanel, goTo } = useWb()
-  const { figures, ratios } = React.useMemo(() => summaryMetrics(views, years), [views, years])
+  const { book, views, years, settings, issues, kept, fixed, setPanel, goTo } = useWb()
+  const { figures, ratios } = React.useMemo(() => summaryMetrics(book, views, years), [book, views, years])
   const q = overallQuality(views, years)
   const pct = q.cells ? q.confirmed / q.cells : 0
   const latest = years[years.length - 1]
   const prev = years[years.length - 2]
-  const by = (rows: MetricRow[], id: string) => rows.find((r) => r.id === id)!
+  const by = (rows: MetricRow[], id: string): MetricRow => rows.find((r) => r.id === id || r.label === id) ?? { id, label: id, format: "amount", values: {} }
   const u = UNITS[settings.unit]
 
   const tiles: Array<{ row: MetricRow; kind: "amount" | "pct"; color: string }> = [
-    { row: by(figures, "rev"), kind: "amount", color: "var(--pl)" },
-    { row: by(figures, "pat"), kind: "amount", color: "var(--pl)" },
+    { row: by(figures, "Revenue from operations"), kind: "amount", color: "var(--pl)" },
+    { row: by(figures, "Net profit"), kind: "amount", color: "var(--pl)" },
     { row: by(ratios, "npm"), kind: "pct", color: "var(--pl)" },
     { row: by(ratios, "roe"), kind: "pct", color: "var(--bs)" },
     { row: by(ratios, "cfopat"), kind: "pct", color: "var(--cf)" },
   ]
   const axisAmount = (v: number) => {
-    const n = v * u.perLakh
+    const n = v * u.perCrore
     return Math.abs(n) >= 1000 ? `${(n / 1000).toFixed(n % 1000 === 0 ? 0 : 1)}K` : String(Math.round(n))
   }
   const counts = {
@@ -121,8 +121,8 @@ export function SummaryTab() {
           title={`Revenue and net profit, ${u.label}`}
           years={years}
           series={[
-            { name: "Revenue", color: "var(--pl)", values: years.map((y) => by(figures, "rev").values[y]) },
-            { name: "Net profit", color: "var(--sum)", values: years.map((y) => by(figures, "pat").values[y]) },
+            { name: "Revenue", color: "var(--pl)", values: years.map((y) => by(figures, "Revenue from operations").values[y]) },
+            { name: "Net profit", color: "var(--sum)", values: years.map((y) => by(figures, "Net profit").values[y]) },
           ]}
           format={(v) => formatAmount(v, settings)}
           tick={axisAmount}
@@ -158,7 +158,7 @@ export function SummaryTab() {
               <tr key={row.id} className="group/row">
                 <th scope="row" className={cn("sticky left-0 z-10 h-9 border-r border-b bg-surface px-3 text-left font-normal group-hover/row:bg-sunken", i === figures.length && "border-t border-t-line-2")}>
                   {row.source ? (
-                    <button type="button" onClick={() => goTo(row.source!)} className="flex w-full items-center gap-1.5 text-left hover:text-accent-ink" title="Open this line in its statement">
+                    <button type="button" onClick={() => goTo({ sheet: row.source!.sheet, row: row.source!.rows[latest] ?? Object.values(row.source!.rows).at(-1)!, fy: latest })} className="flex w-full items-center gap-1.5 text-left hover:text-accent-ink" title="Open this line in its statement">
                       <span className="truncate">{row.label}</span>
                       <ArrowRightIcon className="size-3.5 shrink-0 opacity-0 transition-opacity group-hover/row:opacity-100" />
                     </button>

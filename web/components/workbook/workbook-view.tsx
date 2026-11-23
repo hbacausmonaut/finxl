@@ -26,28 +26,20 @@ import { SummaryTab } from "@/components/workbook/summary-tab"
 import { Button } from "@/components/ui/button"
 import { Chip, Segmented, Select, Tip, useSlide } from "@/components/ui/controls"
 import { Popover, Sheet } from "@/components/ui/overlay"
-import { downloadExcel, getWorkbook } from "@/lib/api"
-import { COMMON_BASE, computeAll, findIssues, issueCell, type StatementView, type ViewMode } from "@/lib/compute"
+import { xlsxUrl } from "@/lib/api"
+import { kindsOf, SHORT_TITLE } from "@/lib/adapter"
+import { commonBase, computeAll, findIssues, issueCell, type StatementView, type ViewMode } from "@/lib/compute"
 import { timeAgo, UNITS } from "@/lib/format"
 import { fyLabel } from "@/lib/fy"
 import { useMediaQuery } from "@/lib/hooks"
 import { fileName } from "@/lib/run"
-import { SHEETS } from "@/lib/sheets"
-import { useReview, useSettings } from "@/lib/store"
-import { cellKey, EMPTY_REVIEW, type CellRef, type FiguresMode, type FiscalYear, type RunRecord, type Scope, type StatementKind, type Unit } from "@/lib/types"
+import { flushReview, useReview, useSettings } from "@/lib/store"
+import { cellKey, EMPTY_REVIEW, type CellRef, type FiguresMode, type FiscalYear, type RunRecord, type Scope, type StatementKind, type Unit, type Workbook } from "@/lib/types"
 import { cn } from "@/lib/utils"
 
-const TABS: Array<{ id: TabId; label: string }> = [
-  { id: "summary", label: "Summary" },
-  { id: "pl", label: "P&L" },
-  { id: "bs", label: "Balance Sheet" },
-  { id: "cf", label: "Cash Flow" },
-  { id: "sources", label: "Sources" },
-]
-const isStatement = (t: TabId): t is StatementKind => t === "pl" || t === "bs" || t === "cf"
+const isStatement = (t: TabId): t is StatementKind => t === "pl" || t === "bs" || t === "cf" || t === "ra"
 
-export function WorkbookView({ run }: { run: RunRecord }) {
-  const wb = React.useMemo(() => getWorkbook(run), [run])
+export function WorkbookView({ run, wb }: { run: RunRecord; wb: Workbook }) {
   const [settings, setSettings] = useSettings()
   const [review, reviewApi] = useReview(run.id)
   const wide = useMediaQuery("(min-width: 1180px)")
@@ -64,6 +56,12 @@ export function WorkbookView({ run }: { run: RunRecord }) {
 
   const book = wb.books[scope]!
   const years = wb.years
+  const kinds = kindsOf(book)
+  const TABS: Array<{ id: TabId; label: string }> = [
+    { id: "summary", label: "Summary" },
+    ...kinds.map((k) => ({ id: k as TabId, label: SHORT_TITLE[k] })),
+    { id: "sources", label: "Sources" },
+  ]
   const views = React.useMemo(() => computeAll(book, years, figures, review), [book, years, figures, review])
   const flagged = React.useMemo(() => findIssues(book, views, years, review), [book, views, years, review])
   const baseline = React.useMemo(() => findIssues(book, computeAll(book, years, figures, EMPTY_REVIEW), years, EMPTY_REVIEW).length, [book, years, figures])
@@ -83,7 +81,7 @@ export function WorkbookView({ run }: { run: RunRecord }) {
   const goTo = React.useCallback(
     (target: { sheet: StatementKind; row: string; fy?: FiscalYear }) => {
       const cell: CellRef = { scope, sheet: target.sheet, row: target.row, fy: target.fy ?? years[years.length - 1] }
-      const section = SHEETS[target.sheet].rows.find((r) => r.id === target.row)?.section
+      const section = book.sheets[target.sheet]?.rows.find((r) => r.id === target.row)?.section
       setTab(target.sheet)
       setMode("values")
       setQuery("")
@@ -99,12 +97,21 @@ export function WorkbookView({ run }: { run: RunRecord }) {
         el.animate([{ background: "color-mix(in oklab, var(--tint) 45%, transparent)" }, { background: "transparent" }], { duration: 1500, easing: "ease-out" })
       }, 80)
     },
-    [scope, years, wide]
+    [scope, years, wide, book]
   )
 
   const sourceReport = React.useCallback(
-    (fy: FiscalYear) => (figures === "restated" ? Math.min(fy + 1, run.request.to) : Math.max(fy, run.request.from)),
-    [figures, run.request.from, run.request.to]
+    (fy: FiscalYear, sheet: StatementKind = "pl", row?: string) => {
+      const key = row !== undefined ? cellKey({ scope, sheet, row, fy }) : ""
+      const re = book.restatements[key]
+      if (re) return figures === "as-reported" ? fy : re.restatedIn
+      const grid = book.src[sheet] ?? {}
+      if (row !== undefined && grid[row]?.[fy]) return grid[row][fy]
+      const count = new Map<number, number>()
+      for (const r of Object.values(grid)) if (r[fy]) count.set(r[fy], (count.get(r[fy]) ?? 0) + 1)
+      return [...count].sort((a, b) => b[1] - a[1])[0]?.[0] ?? fy
+    },
+    [book, figures, scope]
   )
 
   // Say so when a correction makes a total tie: the reader's edit worked.
@@ -129,7 +136,7 @@ export function WorkbookView({ run }: { run: RunRecord }) {
     run, wb, scope, book, years, views, figures, settings, review, reviewApi, issues, kept, fixed, selected, panel, select, setPanel, goTo, sourceReport,
   }
   const hasRestatements = Object.keys(book.restatements).length > 0
-  const sectionIds = isStatement(tab) ? SHEETS[tab].rows.filter((r) => r.kind === "header" && r.level === 1).map((r) => r.id) : []
+  const sectionIds = isStatement(tab) ? (book.sheets[tab]?.rows ?? []).filter((r) => r.kind === "header").map((r) => r.id) : []
   const condensed = sectionIds.length > 0 && sectionIds.every((s) => collapsed.has(s))
   const issueCount = (id: TabId) => (isStatement(id) ? issues.filter((i) => issueCell(i).sheet === id).length : 0)
 
@@ -172,9 +179,9 @@ export function WorkbookView({ run }: { run: RunRecord }) {
                     )}
                     <span aria-hidden>·</span>
                     <span>
-                      {wb.reports.length} reports, extracted {timeAgo(run.startedAt)}
+                      {wb.reports.length} reports, extracted {timeAgo(run.startedAt ?? run.createdAt)}
                     </span>
-                    {!wb.company.isDemo && <Chip>Sample data</Chip>}
+                    {wb.company.isDemo && <Chip>Sample</Chip>}
                   </div>
                 </div>
                 <div className="flex gap-2">
@@ -228,7 +235,7 @@ export function WorkbookView({ run }: { run: RunRecord }) {
                 <Tabs.Content value="summary" className="animate-enter outline-none">
                   <SummaryTab />
                 </Tabs.Content>
-                {(["pl", "bs", "cf"] as const).map((s) => (
+                {kinds.map((s) => (
                   <Tabs.Content key={s} value={s} className="animate-enter outline-none">
                     <div className="mb-3 flex flex-wrap items-center gap-2">
                       <label className="relative">
@@ -249,11 +256,11 @@ export function WorkbookView({ run }: { run: RunRecord }) {
                       <Segmented
                         size="sm"
                         label="Show figures as"
-                        value={mode === "common" && !COMMON_BASE[s] ? "values" : mode}
+                        value={mode === "common" && !commonBase(book, s) ? "values" : mode}
                         onChange={setMode}
                         options={[
                           { value: "values", label: "Values" },
-                          { value: "common", label: "Common size", disabled: !COMMON_BASE[s], hint: COMMON_BASE[s] ? `Each line as a share of ${COMMON_BASE[s]!.label}` : "Not meaningful for cash flows" },
+                          { value: "common", label: "Common size", disabled: !commonBase(book, s), hint: commonBase(book, s) ? `Each line as a share of ${commonBase(book, s)!.label}` : "Not meaningful for this statement" },
                           { value: "yoy", label: "Growth", hint: "Change on the year before" },
                         ]}
                       />
@@ -293,7 +300,7 @@ export function WorkbookView({ run }: { run: RunRecord }) {
                           className="h-8 text-[13px]"
                         />
                         <Tip text="Copy this table, ready to paste into Excel">
-                          <Button size="sm" variant="ghost" square aria-label="Copy table" onClick={() => copyTable(views[s], years, settings.unit, collapsed)}>
+                          <Button size="sm" variant="ghost" square aria-label="Copy table" onClick={() => copyTable(views[s]!, years, settings.unit, collapsed)}>
                             <CopyIcon />
                           </Button>
                         </Tip>
@@ -301,7 +308,7 @@ export function WorkbookView({ run }: { run: RunRecord }) {
                     </div>
                     <StatementTable
                       sheet={s}
-                      mode={mode === "common" && !COMMON_BASE[s] ? "values" : mode}
+                      mode={mode === "common" && !commonBase(book, s) ? "values" : mode}
                       query={query}
                       collapsed={collapsed}
                       onToggle={(id) =>
@@ -372,12 +379,12 @@ function Legend() {
 function tableText(view: StatementView, years: FiscalYear[], unit: Unit, collapsed: Set<string>, sep: string) {
   const u = UNITS[unit]
   const q = (s: string) => (sep === "," && /[",]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s)
-  const lines = [[`${SHEETS[view.sheet].title} (${u.label})`, ...years.map(fyLabel)].map(q).join(sep)]
+  const lines = [[`${view.title} (${u.label})`, ...years.map(fyLabel)].map(q).join(sep)]
   for (const r of view.rows) {
     if (r.kind === "item" && r.section && collapsed.has(r.section)) continue
     const cells = years.map((fy) => {
       const v = view.values[r.id]?.[fy]
-      return v === undefined ? "" : r.perShare ? v.toFixed(2) : (v * u.perLakh).toFixed(u.decimals)
+      return v === undefined ? "" : r.perShare ? v.toFixed(2) : (v * u.perCrore).toFixed(u.decimals)
     })
     lines.push([q(r.label), ...cells].join(sep))
   }
@@ -399,11 +406,7 @@ function DownloadPanel({ tab }: { tab: TabId }) {
     ["Summary", "var(--sum)"],
     ...wb.scopes.flatMap((s): Array<[string, string]> => {
       const p = wb.scopes.length > 1 ? (s === "consolidated" ? "Consol " : "Standalone ") : ""
-      return [
-        [`${p}P&L`, "var(--pl)"],
-        [`${p}Balance Sheet`, "var(--bs)"],
-        [`${p}Cash Flow`, "var(--cf)"],
-      ]
+      return kindsOf(wb.books[s]!).map((k): [string, string] => [`${p}${SHORT_TITLE[k]}`, TAB_TINT[k]])
     }),
     ["Sources", "var(--src)"],
     ["Quality", "var(--ink-3)"],
@@ -411,13 +414,17 @@ function DownloadPanel({ tab }: { tab: TabId }) {
 
   const excel = async () => {
     setBusy(true)
-    const res = await downloadExcel(wb, review)
-    setBusy(false)
-    toast.success(res.filename, { description: "Preview build: the live app saves this Excel file to your downloads." })
+    await flushReview(run.id)
+    const a = document.createElement("a")
+    a.href = xlsxUrl(run.id)
+    a.download = ""
+    a.click()
+    setTimeout(() => setBusy(false), 1200)
+    toast.success(edits ? name.replace(".xlsx", "_reviewed.xlsx") : name, { description: edits ? "Your corrections are marked in blue in the file." : "Saved to your downloads." })
   }
   const csv = () => {
     if (!isStatement(tab)) return
-    const blob = new Blob([tableText(views[tab], years, settings.unit, new Set(), ",").join("\r\n")], { type: "text/csv;charset=utf-8" })
+    const blob = new Blob([tableText(views[tab]!, years, settings.unit, new Set(), ",").join("\r\n")], { type: "text/csv;charset=utf-8" })
     const a = document.createElement("a")
     a.href = URL.createObjectURL(blob)
     a.download = name.replace(".xlsx", `_${tab.toUpperCase()}.csv`)

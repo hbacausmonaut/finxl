@@ -12,20 +12,16 @@ import { Chip, Segmented, Skeleton } from "@/components/ui/controls"
 import { Menu, MenuItem } from "@/components/ui/overlay"
 import { formatDuration, timeAgo } from "@/lib/format"
 import { fyLabel } from "@/lib/fy"
-import { useNow } from "@/lib/hooks"
-import { buildTimeline, progressAt } from "@/lib/run"
 import { library, useLibrary } from "@/lib/store"
 import type { RunRecord } from "@/lib/types"
 
 type Filter = "all" | "review" | "clean"
 
 export default function LibraryPage() {
-  const { runs, hydrated } = useLibrary()
+  const { runs, hydrated, error } = useLibrary()
   const router = useRouter()
   const [q, setQ] = React.useState("")
   const [filter, setFilter] = React.useState<Filter>("all")
-  const anyRunning = runs.some((r) => r.status === "running")
-  const now = useNow(anyRunning, 400)
 
   const shown = runs.filter((r) => {
     const s = q.trim().toLowerCase()
@@ -36,7 +32,10 @@ export default function LibraryPage() {
   })
 
   const again = (r: RunRecord) => {
-    router.push(`/w/${library.start(r.request, r.companyName)}`)
+    library
+      .start(r.request)
+      .then((run) => router.push(`/w?id=${run.id}`))
+      .catch((e: Error) => toast.error("Couldn't start the run", { description: e.message }))
   }
   const remove = (r: RunRecord) => {
     library.remove(r.id)
@@ -89,14 +88,12 @@ export default function LibraryPage() {
               </li>
             ))}
           {shown.map((r) => {
-            const running = r.status === "running"
-            const tl = running ? buildTimeline(r) : null
-            const frac = tl && now ? progressAt(tl, now - r.startedAt, r.request.to - r.request.from + 1).fraction : 0
+            const running = r.status === "running" || r.status === "queued"
             return (
               <li key={r.id} className="group relative flex items-center gap-3 rounded-xl border bg-surface p-3 shadow-card transition-shadow hover:shadow-lift sm:gap-4 sm:p-4">
                 <CompanyMark symbol={r.request.symbol} className="size-10" />
                 <div className="min-w-0 flex-1">
-                  <Link href={`/w/${r.id}`} className="block truncate text-[15px] font-semibold after:absolute after:inset-0 after:rounded-xl">
+                  <Link href={`/w?id=${r.id}`} className="block truncate text-[15px] font-semibold after:absolute after:inset-0 after:rounded-xl">
                     {r.companyName}
                   </Link>
                   <div className="num mt-0.5 flex flex-wrap gap-x-2 text-[13px] text-ink-2">
@@ -107,29 +104,25 @@ export default function LibraryPage() {
                     </span>
                     <span aria-hidden>·</span>
                     <span className="capitalize">{r.request.scope === "both" ? "Consolidated + standalone" : r.request.scope}</span>
-                    <span className="hidden text-ink-3 sm:inline">· {timeAgo(r.startedAt)}</span>
+                    <span className="hidden text-ink-3 sm:inline">· {timeAgo(r.startedAt ?? r.createdAt)}</span>
                   </div>
-                  {running && (
-                    <div className="mt-2 h-1 max-w-xs overflow-hidden rounded-full bg-ink/[0.07]">
-                      <div className="h-full rounded-full bg-accent transition-[width] duration-500 ease-linear" style={{ width: `${frac * 100}%` }} />
-                    </div>
-                  )}
+                  {r.status === "failed" && r.error && <p className="mt-1 line-clamp-1 text-[12.5px] text-bad-ink">{r.error}</p>}
                 </div>
 
                 <div className="hidden shrink-0 text-right sm:block">
-                  {r.status === "done" && r.confirmedPct !== undefined && (
+                  {r.status === "done" && r.confirmedPct != null && (
                     <>
                       <div className="num text-[15px] font-semibold">{r.confirmedPct.toFixed(1)}%</div>
                       <div className="text-[12px] text-ink-3">confirmed</div>
                     </>
                   )}
-                  {r.status === "done" && r.durationSec !== undefined && r.confirmedPct === undefined && <span className="num text-[13px] text-ink-3">{formatDuration(r.durationSec)}</span>}
+                  {r.status === "done" && r.durationSec != null && r.confirmedPct == null && <span className="num text-[13px] text-ink-3">{formatDuration(r.durationSec)}</span>}
                 </div>
 
                 <div className="shrink-0">
                   {running ? (
                     <Chip tone="accent">
-                      <CircleNotchIcon weight="bold" className="animate-spin" /> Reading
+                      <CircleNotchIcon weight="bold" className="animate-spin" /> {r.status === "queued" ? "Waiting" : "Reading"}
                     </Chip>
                   ) : r.status === "failed" ? (
                     <Chip tone="bad">
@@ -167,10 +160,11 @@ export default function LibraryPage() {
           })}
         </ul>
 
-        {hydrated && shown.length === 0 && (
+        {error && runs.length === 0 && <p className="mt-4 rounded-lg bg-bad/10 px-4 py-3 text-[13.5px] text-bad-ink">{error}</p>}
+        {hydrated && !error && shown.length === 0 && (
           <div className="mt-4 rounded-xl border border-dashed border-line-2 px-6 py-14 text-center">
             <p className="text-[15px] font-medium">{runs.length === 0 ? "Nothing here yet" : "No workbook matches"}</p>
-            <p className="mt-1 text-[14px] text-ink-2">{runs.length === 0 ? "Extract your first company and it will be kept here." : "Clear the filter to see everything."}</p>
+            <p className="mt-1 text-[14px] text-ink-2">{runs.length === 0 ? "Extract your first company and it will be kept here, in this browser." : "Clear the filter to see everything."}</p>
             {runs.length === 0 && (
               <Button asChild variant="primary" className="mt-5">
                 <Link href="/new">Extract statements</Link>

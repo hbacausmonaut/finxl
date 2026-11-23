@@ -21,6 +21,7 @@ export function Logo({ href = "/", className }: { href?: string; className?: str
     <Link href={href} aria-label="FinXL home" className={cn("inline-flex items-center gap-2 rounded-md", className)}>
       <LogoMark />
       <span className="display text-[19px] leading-none font-bold">FinXL</span>
+      <span className="rounded-full border border-accent/30 bg-accent/10 px-1.5 py-[1px] text-[10.5px] leading-[14px] font-semibold tracking-wide text-accent-ink uppercase">Beta</span>
     </Link>
   )
 }

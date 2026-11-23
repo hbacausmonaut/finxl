@@ -15,6 +15,7 @@ export const TAB_TINT: Record<TabId, string> = {
   pl: "var(--pl)",
   bs: "var(--bs)",
   cf: "var(--cf)",
+  ra: "var(--pl)",
   sources: "var(--src)",
 }
 
@@ -41,8 +42,8 @@ export interface WorkbookContext {
   setPanel: (p: PanelMode) => void
   /** Open a statement at a row (and year), and point at it. */
   goTo: (target: { sheet: StatementKind; row: string; fy?: FiscalYear }) => void
-  /** The annual report a year's column was read from. */
-  sourceReport: (fy: FiscalYear) => FiscalYear
+  /** The annual report a figure was read from (a statement's usual one for that year when no row is given). */
+  sourceReport: (fy: FiscalYear, sheet?: StatementKind, row?: string) => FiscalYear
 }
 
 const Ctx = React.createContext<WorkbookContext | null>(null)

@@ -1,0 +1,13 @@
+{
+ "symbol": "PIDILITIND",
+ "company": "Pidilite Industries Ltd",
+ "scope": "consolidated",
+ "figures": "restated",
+ "ai": "off",
+ "xlsx": "PIDILITIND_Financials_FY2020-FY2026.xlsx",
+ "from": 2021,
+ "to": 2026,
+ "confirmedPct": 96.8,
+ "issues": 14,
+ "durationSec": 108
+}

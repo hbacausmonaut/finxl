@@ -2,12 +2,9 @@
 
 import * as React from "react"
 
-import { computeStatement } from "@/lib/compute"
 import { formatAmount } from "@/lib/format"
 import { fyLabel } from "@/lib/fy"
 import { usePrefersCalm } from "@/lib/hooks"
-import { buildWorkbook } from "@/lib/mock/workbook"
-import { EMPTY_REVIEW } from "@/lib/types"
 import { cn } from "@/lib/utils"
 
 const ROWS: Array<[id: string, label: string, strong?: boolean]> = [
@@ -20,6 +17,17 @@ const ROWS: Array<[id: string, label: string, strong?: boolean]> = [
   ["pat", "Profit for the year", true],
 ]
 const PREFS = { unit: "crore", grouping: "indian", negatives: "parentheses" } as const
+/** An illustration with made-up round figures (₹ crore), not any company's statement. */
+const YEARS = [2023, 2024, 2025, 2026]
+const VALUES: Record<string, number[]> = {
+  rev: [3124.5, 3388.2, 3561.9, 3702.4],
+  oi: [41.2, 52.8, 60.3, 48.9],
+  ti: [3165.7, 3441.0, 3622.2, 3751.3],
+  texp: [2766.1, 2985.4, 3110.6, 3203.8],
+  pbt: [399.6, 455.6, 511.6, 547.5],
+  tax: [101.3, 115.2, 129.8, 138.7],
+  pat: [298.3, 340.4, 381.8, 408.8],
+}
 const TARGET = 2026
 
 /**
@@ -28,11 +36,7 @@ const TARGET = 2026
  * screen; shows the finished state when motion is reduced.
  */
 export function HeroDemo() {
-  const { years, values } = React.useMemo(() => {
-    const wb = buildWorkbook("hero", { symbol: "VARDHANSPL", from: 2023, to: 2026, scope: "consolidated", figures: "restated", ai: "off" })
-    const v = computeStatement(wb.books.consolidated!, "pl", wb.years, "restated", EMPTY_REVIEW)
-    return { years: wb.years.slice(-4), values: v.values }
-  }, [])
+  const years = YEARS
 
   const ref = React.useRef<HTMLDivElement>(null)
   const calm = usePrefersCalm()
@@ -55,7 +59,7 @@ export function HeroDemo() {
   }, [tick, seen, calm])
 
   const step = calm ? ROWS.length : tick
-  const amt = (id: string, fy: number) => formatAmount(values[id]?.[fy], PREFS)
+  const amt = (id: string, fy: number) => formatAmount(VALUES[id]?.[YEARS.indexOf(fy)], PREFS)
 
   return (
     <div ref={ref} role="img" aria-label="A profit and loss statement being read from an annual report into a multi-year workbook" className="relative mx-auto w-full max-w-[640px] select-none">
@@ -97,7 +101,7 @@ export function HeroDemo() {
       <div className="relative z-[2] -mt-24 ml-[14%] rotate-1 overflow-hidden rounded-xl border border-line-2 bg-surface shadow-pop sm:-mt-28 sm:ml-[20%]">
         <div className="flex items-center gap-2 border-b px-3 py-2">
           <span className="size-2 rounded-full bg-pl" />
-          <span className="truncate text-[11px] font-medium text-ink-2">VARDHANSPL_Financials_FY2023-FY2026.xlsx</span>
+          <span className="truncate text-[11px] font-medium text-ink-2">COMPANY_Financials_FY2023-FY2026.xlsx</span>
         </div>
         <table className="w-full border-collapse text-[9.5px] sm:text-[11px]">
           <thead>

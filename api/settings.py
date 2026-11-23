@@ -62,3 +62,6 @@ if ENGINE_DIR not in sys.path:
 
 for d in (DATA_DIR, RUNS_DIR, CACHE_DIR):
     os.makedirs(d, exist_ok=True)
+
+# Origins allowed to read the event stream cross-origin (the Next dev server). Empty in production.
+DEV_ORIGINS = [o.strip() for o in os.environ.get("DEV_ORIGINS", "http://localhost:3000,http://localhost:3001").split(",") if o.strip()]

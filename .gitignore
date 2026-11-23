@@ -23,3 +23,6 @@ dev/tests/results/run_*.json
 .env.*
 !.env.example
 .claude/
+
+# the bundled sample workbook
+!api/seed/**/*.xlsx

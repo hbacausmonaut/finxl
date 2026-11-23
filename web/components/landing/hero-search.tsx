@@ -13,7 +13,7 @@ export function HeroSearch() {
       <CompanyCombobox size="lg" placeholder="Search a company, e.g. Pidilite or HCLTECH" onPick={(c) => router.push(`/new?c=${c.symbol}`)} />
       <p className="mt-3 text-[13.5px] text-ink-2">
         Or open a{" "}
-        <Link href="/w/s_vardhan" className="font-medium text-ink underline decoration-line-2 underline-offset-4 transition-colors hover:decoration-ink">
+        <Link href="/w?id=r_0000000001" className="font-medium text-ink underline decoration-line-2 underline-offset-4 transition-colors hover:decoration-ink">
           finished sample workbook
         </Link>{" "}
         to see what you get.

@@ -43,7 +43,7 @@ export function YearRange({
   const years = reports.map((r) => r.fy).sort((a, b) => a - b)
   const min = years[0]
   const max = years[years.length - 1]
-  const scanned = new Set(reports.filter((r) => r.scanned).map((r) => r.fy))
+  const scanned = new Set<FiscalYear>()
   const lo = anchor !== null && hover !== null ? Math.min(anchor, hover) : from
   const hi = anchor !== null && hover !== null ? Math.max(anchor, hover) : to
 

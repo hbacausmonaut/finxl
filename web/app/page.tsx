@@ -161,7 +161,7 @@ export default function Landing() {
       <footer className="border-t">
         <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-6 gap-y-2 px-5 py-6 text-[13px] text-ink-3">
           <Logo />
-          <span>Interface preview. Figures in the demo are sample data.</span>
+          <span>Public beta. Figures come from companies' own annual reports; check anything flagged before relying on it.</span>
           <Link href="/settings" className="ml-auto transition-colors hover:text-ink">
             Settings
           </Link>

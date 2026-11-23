@@ -100,7 +100,24 @@ def run_payload(run, eng, reports):
 
 
 def headline(eng):
-    """Confirmed % and number of things to review, for the library list."""
-    q = finxl.quality_totals(eng["sources"])
-    pct = round(100.0 * q["confirmed"] / q["cells"], 1) if q["cells"] else None
-    return pct, q["failed_totals"] + q["eps_flags"] + q["bad_labels"]
+    """
+    Confirmed % and number of things to review, for the library list. Counted on
+    the merged workbook (one cell per row and year), the way the app counts them.
+    """
+    cells = confirmed = issues = 0
+    for rows in eng["merged"].values():
+        for r in rows:
+            if r.get("is_header"):
+                continue
+            vals = r.get("values") or {}
+            st = r.get("status") or {}
+            for y in vals:
+                if vals[y] is None:
+                    continue
+                cells += 1
+                s = st.get(y, st.get(str(y)) if isinstance(y, int) else None)
+                confirmed += s == "ok"
+                issues += s == "fail"
+            issues += sum(1 for v in (r.get("eps_flag") or {}).values() if v)
+            issues += not r.get("label_ok", True)
+    return (round(100.0 * confirmed / cells, 1) if cells else None), issues

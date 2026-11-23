@@ -7,7 +7,7 @@ import { Command } from "cmdk"
 import { BooksIcon, BuildingsIcon, GearSixIcon, MagnifyingGlassIcon, MoonIcon, PlusCircleIcon, SunIcon, TableIcon } from "@phosphor-icons/react"
 
 import { fyLabel } from "@/lib/fy"
-import { COMPANIES } from "@/lib/mock/companies"
+import { loadCompanies, searchCompanies } from "@/lib/api"
 import { useLibrary } from "@/lib/store"
 
 const EVENT = "finxl:palette"
@@ -23,6 +23,12 @@ export function CommandPalette() {
   const router = useRouter()
   const { resolvedTheme, setTheme } = useTheme()
   const { runs } = useLibrary()
+  const [search, setSearch] = React.useState("")
+  const [, setLoaded] = React.useState(0)
+  React.useEffect(() => {
+    if (open) void loadCompanies().then((l) => setLoaded(l.length))
+  }, [open])
+  const companies = searchCompanies(search, 8)
 
   React.useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -57,7 +63,7 @@ export function CommandPalette() {
     >
       <div className="flex items-center gap-2.5 border-b px-4">
         <MagnifyingGlassIcon className="size-[18px] text-ink-3" />
-        <Command.Input placeholder="Company, NSE symbol, or a saved workbook" className="h-12 w-full bg-transparent text-[15px] outline-none placeholder:text-ink-3" />
+        <Command.Input value={search} onValueChange={setSearch} placeholder="Company, NSE symbol, or a saved workbook" className="h-12 w-full bg-transparent text-[15px] outline-none placeholder:text-ink-3" />
       </div>
       <Command.List className="thin-scroll max-h-[min(420px,56dvh)] overflow-y-auto py-1.5">
         <Command.Empty className="px-4 py-8 text-center text-[13.5px] text-ink-3">Nothing matches. Try an NSE symbol such as HCLTECH.</Command.Empty>
@@ -65,7 +71,7 @@ export function CommandPalette() {
         {done.length > 0 && (
           <Command.Group heading="Your workbooks" className={group}>
             {done.map((r) => (
-              <Command.Item key={r.id} value={`workbook ${r.request.symbol} ${r.companyName} ${r.id}`} onSelect={() => go(`/w/${r.id}`)} className={item}>
+              <Command.Item key={r.id} value={`workbook ${r.request.symbol} ${r.companyName} ${r.id}`} onSelect={() => go(`/w?id=${r.id}`)} className={item}>
                 <TableIcon />
                 <span className="truncate">{r.companyName}</span>
                 <span className="num ml-auto shrink-0 text-[12px] text-ink-3">
@@ -77,8 +83,8 @@ export function CommandPalette() {
         )}
 
         <Command.Group heading="Extract a company" className={group}>
-          {COMPANIES.map((c) => (
-            <Command.Item key={c.symbol} value={`${c.symbol} ${c.name} ${c.sector}`} onSelect={() => go(`/new?c=${c.symbol}`)} className={item}>
+          {companies.map((c) => (
+            <Command.Item key={c.symbol} value={`${c.symbol} ${c.name}`} onSelect={() => go(`/new?c=${c.symbol}`)} className={item}>
               <BuildingsIcon />
               <span className="truncate">{c.name}</span>
               <span className="num ml-auto shrink-0 text-[12px] text-ink-3">{c.symbol}</span>

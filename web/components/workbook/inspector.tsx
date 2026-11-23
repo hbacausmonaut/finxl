@@ -4,7 +4,6 @@ import * as React from "react"
 import {
   ArrowCounterClockwiseIcon,
   ArrowLeftIcon,
-  ArrowSquareOutIcon,
   CheckCircleIcon,
   CheckIcon,
   MinusCircleIcon,
@@ -12,7 +11,6 @@ import {
   WarningIcon,
   XIcon,
 } from "@phosphor-icons/react"
-import { toast } from "sonner"
 
 import { useWb } from "@/components/workbook/context"
 import { SourcePage } from "@/components/workbook/source-page"
@@ -20,8 +18,9 @@ import { Button } from "@/components/ui/button"
 import { Chip } from "@/components/ui/controls"
 import { formatAmount, formatPerShare, parseAmount, UNITS } from "@/lib/format"
 import { fyLabel } from "@/lib/fy"
-import { GLOSSARY } from "@/lib/glossary"
-import { componentsOf, parentOf, SHEETS } from "@/lib/sheets"
+import { glossaryFor } from "@/lib/glossary"
+import { parentOf } from "@/lib/compute"
+import { SHORT_TITLE } from "@/lib/adapter"
 import { cellKey, type CellRef, type Issue } from "@/lib/types"
 import { cn } from "@/lib/utils"
 
@@ -53,7 +52,7 @@ export function Inspector() {
 
 function Source({ cell }: { cell: CellRef }) {
   const { views, book, settings, review, reviewApi, sourceReport, issues } = useWb()
-  const view = views[cell.sheet]
+  const view = views[cell.sheet]!
   const row = view.rows.find((r) => r.id === cell.row)!
   const key = cellKey(cell)
   const value = view.values[row.id]?.[cell.fy]
@@ -62,7 +61,7 @@ function Source({ cell }: { cell: CellRef }) {
   const edited = review.edits[key] !== undefined
   const second = book.secondReadings.find((s) => cellKey(s.cell) === key)
   const eps = issues.find((i) => i.kind === "eps" && cellKey(i.cell) === key)
-  const reportFy = sourceReport(cell.fy)
+  const reportFy = sourceReport(cell.fy, cell.sheet, cell.row)
   const src = book.sources.find((s) => s.fy === reportFy && s.sheet === cell.sheet)
   const [editing, setEditing] = React.useState(false)
   const fmt = (v: number | undefined) => (row.perShare ? formatPerShare(v, settings) : formatAmount(v, settings))
@@ -71,7 +70,7 @@ function Source({ cell }: { cell: CellRef }) {
     <div className="space-y-6 p-4 animate-fade">
       <header>
         <p className="text-[12.5px] text-ink-2">
-          {SHEETS[cell.sheet].title} · {fyLabel(cell.fy)}
+          {view.title} · {fyLabel(cell.fy)}
         </p>
         <h2 className="mt-0.5 font-sans text-[16px] leading-snug font-semibold tracking-normal">{row.label}</h2>
         <div className="mt-3 flex items-end justify-between gap-3">
@@ -86,7 +85,7 @@ function Source({ cell }: { cell: CellRef }) {
           )}
         </div>
         <div className="mt-3 flex flex-wrap gap-1.5">
-          <StatusChip status={status} covered={Boolean(parentOf(cell.sheet, row.id)) || row.kind !== "item"} />
+          <StatusChip status={status} covered={Boolean(parentOf(view, row.id, cell.fy)) || Boolean(view.groups[row.id]?.[cell.fy])} />
           {edited && <Chip tone="accent">Corrected by you</Chip>}
           {restated && <Chip>Restated</Chip>}
         </div>
@@ -105,14 +104,14 @@ function Source({ cell }: { cell: CellRef }) {
       )}
       {edited && !editing && (
         <button type="button" onClick={() => reviewApi.clearEdit(cell)} className="flex items-center gap-1.5 text-[13px] font-medium text-accent-ink hover:underline">
-          <ArrowCounterClockwiseIcon className="size-4" /> Put back the extracted figure ({fmt(book.values[cell.sheet][row.id]?.[cell.fy])})
+          <ArrowCounterClockwiseIcon className="size-4" /> Put back the extracted figure ({fmt(book.values[cell.sheet]?.[row.id]?.[cell.fy])})
         </button>
       )}
 
       {second && !edited && (
         <Callout tone="warn" title="A second reading disagrees">
           <p>
-            {second.note} Re-reading the page gives <b className="num font-semibold">{fmt(second.value)}</b>.
+            Re-reading page {second.page} gives <b className="num font-semibold">{fmt(second.value)}</b>. {second.note}
           </p>
           <Button size="sm" variant="primary" className="mt-2.5" onClick={() => reviewApi.edit(cell, second.value)}>
             Use {fmt(second.value)}
@@ -134,20 +133,17 @@ function Source({ cell }: { cell: CellRef }) {
 
       <section>
         <h3 className="mb-2 font-sans text-[13px] font-semibold tracking-normal text-ink-2">Where it was read</h3>
-        <SourcePage cell={cell} reportFy={reportFy} page={src?.pages[0] ?? 0} />
-        <div className="mt-2.5 flex items-center justify-between gap-3 text-[13px]">
-          <span className="text-ink-2">
-            Annual Report {fyLabel(reportFy)}, PDF page <span className="num font-medium text-ink">{src?.pages.join("–")}</span>
-            <span className="text-ink-3"> · read by the {src?.method === "ai" ? "AI fallback" : "parser"}</span>
-          </span>
-          <Button
-            size="sm"
-            variant="ghost"
-            onClick={() => toast("Preview build", { description: `The live app opens the report PDF at page ${src?.pages[0]}.` })}
-          >
-            Open PDF <ArrowSquareOutIcon />
-          </Button>
-        </div>
+        <SourcePage
+          key={`${reportFy}:${cell.sheet}`}
+          reportFy={reportFy}
+          pages={second && !edited ? [second.page] : (src?.pages ?? [])}
+          value={row.perShare ? undefined : value}
+          label={row.label}
+        />
+        <p className="mt-2.5 text-[13px] text-ink-2">
+          Annual Report {fyLabel(reportFy)}
+          <span className="text-ink-3"> · read by the {/ai|llm|gemini/i.test(src?.method ?? "") ? "AI fallback" : "parser"}</span>
+        </p>
         {reportFy !== cell.fy && (
           <p className="mt-1.5 text-[12.5px] text-ink-3">
             {cell.fy < reportFy ? `${fyLabel(cell.fy)} is the comparative column of the ${fyLabel(reportFy)} report, the newest one that shows this year.` : null}
@@ -165,17 +161,19 @@ function Source({ cell }: { cell: CellRef }) {
             </div>
             <div className="bg-surface p-3">
               <dt className="text-[12px] text-ink-3">Latest figure</dt>
-              <dd className="num mt-0.5 text-[15px] font-medium">{fmt(book.values[cell.sheet][row.id]?.[cell.fy])}</dd>
+              <dd className="num mt-0.5 text-[15px] font-medium">{fmt(restated.latest)}</dd>
             </div>
           </dl>
-          <p className="mt-2 text-[13px] leading-relaxed text-ink-2">{restated.reason}</p>
+          <p className="mt-2 text-[13px] leading-relaxed text-ink-2">
+            The {fyLabel(cell.fy)} report printed one figure; a later report shows this year differently, usually after a reclassification or an accounting change.
+          </p>
         </section>
       )}
 
-      {GLOSSARY[row.id] && (
+      {glossaryFor(row.label) && (
         <section className="rounded-lg bg-sunken p-3">
           <h3 className="font-sans text-[12.5px] font-semibold tracking-normal text-ink-2">What this line means</h3>
-          <p className="mt-1 text-[13px] leading-relaxed text-ink-2">{GLOSSARY[row.id]}</p>
+          <p className="mt-1 text-[13px] leading-relaxed text-ink-2">{glossaryFor(row.label)}</p>
         </section>
       )}
     </div>
@@ -205,9 +203,9 @@ function StatusChip({ status, covered }: { status: "ok" | "fail" | null | undefi
 /** The arithmetic behind a tick: the total this figure belongs to, re-added. */
 function Footing({ cell }: { cell: CellRef }) {
   const { views, settings } = useWb()
-  const view = views[cell.sheet]
+  const view = views[cell.sheet]!
   const self = view.rows.find((r) => r.id === cell.row)!
-  const target = self.kind === "total" || self.kind === "calc" ? self : parentOf(cell.sheet, self.id)
+  const target = view.groups[self.id]?.[cell.fy] ? self : parentOf(view, self.id, cell.fy)
   if (!target) {
     return self.perShare ? null : (
       <section>
@@ -216,7 +214,7 @@ function Footing({ cell }: { cell: CellRef }) {
       </section>
     )
   }
-  const parts = componentsOf(cell.sheet, target)
+  const parts = view.groups[target.id]?.[cell.fy]?.members ?? []
   const label = (id: string) => view.rows.find((r) => r.id === id)?.label ?? id
   const sum = view.sums[target.id]?.[cell.fy]
   const printed = view.values[target.id]?.[cell.fy]
@@ -264,7 +262,7 @@ function Footing({ cell }: { cell: CellRef }) {
 function EditBox({ initial, perShare, onSave, onCancel }: { initial: number | undefined; perShare: boolean; onSave: (v: number) => void; onCancel: () => void }) {
   const { settings } = useWb()
   const u = UNITS[settings.unit]
-  const [text, setText] = React.useState(() => (initial === undefined ? "" : perShare ? initial.toFixed(2) : (initial * u.perLakh).toFixed(u.decimals)))
+  const [text, setText] = React.useState(() => (initial === undefined ? "" : perShare ? initial.toFixed(2) : (initial * u.perCrore).toFixed(u.decimals)))
   const [bad, setBad] = React.useState(false)
   const id = React.useId()
   return (
@@ -320,7 +318,8 @@ function Callout({ tone, title, children }: { tone: "warn"; title: string; child
 // ─── Review list ──────────────────────────────────────────────────────────────
 
 function IssueList() {
-  const { issues, kept, fixed, reviewApi, review } = useWb()
+  const { issues, kept, fixed, reviewApi, review, views } = useWb()
+  const issueRowLabel = (i: Issue) => (i.kind === "label" ? i.label : views[i.cell.sheet]?.rows.find((r) => r.id === i.cell.row)?.label ?? "")
   const total = issues.length + kept.length + fixed
   if (total === 0)
     return (
@@ -381,13 +380,11 @@ function IssueList() {
   )
 }
 
-// The line an issue is about, by its clean name.
-const issueRowLabel = (i: Issue) => (i.kind === "label" ? i.suggestion : SHEETS[i.cell.sheet].rows.find((r) => r.id === i.cell.row)?.label ?? "")
 
 function issueTitle(i: Issue, label: (i: Issue) => string) {
   if (i.kind === "total") return `${label(i)} doesn't add up · ${fyLabel(i.cell.fy)}`
   if (i.kind === "eps") return `Earnings per share looks off · ${fyLabel(i.cell.fy)}`
-  return `Garbled label · ${SHEETS[i.sheet].short}`
+  return `Garbled label · ${SHORT_TITLE[i.sheet]}`
 }
 
 function IssueCard({ issue }: { issue: Issue }) {
@@ -395,7 +392,9 @@ function IssueCard({ issue }: { issue: Issue }) {
   const amt = (v: number) => formatAmount(v, settings)
   const show = () =>
     goTo(issue.kind === "label" ? { sheet: issue.sheet, row: issue.row } : issue.kind === "total" && issue.suspect ? { sheet: issue.suspect.cell.sheet, row: issue.suspect.cell.row, fy: issue.suspect.cell.fy } : { sheet: issue.cell.sheet, row: issue.cell.row, fy: issue.cell.fy })
-  const rowLabel = (sheet: keyof typeof views, id: string) => views[sheet].rows.find((r) => r.id === id)?.label ?? id
+  const rowLabel = (sheet: keyof typeof views, id: string) => views[sheet]?.rows.find((r) => r.id === id)?.label ?? id
+  const issueRowLabel = (i: Issue) => (i.kind === "label" ? i.label : rowLabel(i.cell.sheet, i.cell.row))
+  const [name, setName] = React.useState("")
 
   return (
     <article className="rounded-xl border bg-surface p-3.5 shadow-card">
@@ -425,7 +424,7 @@ function IssueCard({ issue }: { issue: Issue }) {
             )}
             {issue.kind === "label" && (
               <>
-                Read as <span className="font-medium text-odd-ink">{issue.label}</span>. Decoded, it says <span className="font-medium text-ink">{issue.suggestion}</span>.
+                Read as <span className="font-medium text-odd-ink">{issue.label}</span>. The words don&rsquo;t read cleanly; type the label as the page prints it.
               </>
             )}
           </p>
@@ -443,9 +442,24 @@ function IssueCard({ issue }: { issue: Issue }) {
           </Button>
         )}
         {issue.kind === "label" && (
-          <Button size="sm" variant="primary" onClick={() => reviewApi.rename(issue, issue.suggestion)}>
-            Rename
-          </Button>
+          <form
+            className="flex w-full gap-1.5"
+            onSubmit={(e) => {
+              e.preventDefault()
+              if (name.trim()) reviewApi.rename(issue, name.trim())
+            }}
+          >
+            <input
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+              placeholder="Label as printed"
+              aria-label="Corrected label"
+              className="h-8 min-w-0 flex-1 rounded-md border border-line-2 bg-surface px-2.5 text-[13px] outline-none focus:border-accent focus:ring-2 focus:ring-accent/20"
+            />
+            <Button size="sm" variant="primary" type="submit" disabled={!name.trim()}>
+              Rename
+            </Button>
+          </form>
         )}
         <Button size="sm" onClick={show}>
           Show
