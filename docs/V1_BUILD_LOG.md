@@ -8,18 +8,35 @@ Times are IST. Each "run" is one 5-hour usage window: afternoon (until 6 PM), ev
 | Phase | What | Run | ETA | Status |
 |---|---|---|---|---|
 | 1 | Copy into `FinXL/` layout, git, dev-tool paths | Afternoon | done | ✅ commit `9857551` (3-company regression check running) |
-| 2 | Engine additions: footing groups, EPS expected value, summary picks, as-reported values, corrected-cell marks, vocab-cache fix | Afternoon | ~4:30 PM | in progress |
-| 2b | Full regression + gold check on the changed engine (runs in the background, hours of wall time) | Afternoon → evening | starts ~4:30 PM | – |
-| 3 | FastAPI service: runs queue + live progress, run.json, library, Excel download, PDF page images, cross-check, config | Afternoon → evening | ~8 PM | – |
-| 4 | Second reading (page re-read, no AI) + tests | Evening | ~9:30 PM | – |
-| 5 | Frontend on real data: API client, statements from engine rows, Beta tag, static export, company list | Evening → night | ~1 AM | – |
-| 6 | Deploy package: Dockerfile, compose, `.env.example`, DEPLOY.md, README | Night | ~2 AM | – |
-| 7 | End-to-end verification (real runs, browser checks, Docker), records in CHAT_HANDOFF / PROJECT_PLAN | Night | ~4 AM | – |
+| 2 | Engine additions: footing groups, EPS expected value, summary picks, as-reported values, corrected-cell marks, vocab-cache fix | Afternoon | done | ✅ `c74bf8e` |
+| 2b | Full 100-company regression + gold check on the changed engine (background) | Afternoon | running since ~3:25 PM | log: scratchpad `reg_full.log`; results in `dev/tests/results/latest.json` |
+| 3 | FastAPI service: runs queue + live progress, run.json, library, Excel download, PDF page images, cross-check, config | Afternoon | done | ✅ `7fc04f8`, smoke-tested with a real HCLTECH run |
+| 4 | Second reading (page re-read, no AI) + tests | Afternoon | done | ✅ `7fc04f8`, `dev/tests/test_second_reading.py` passes |
+| 5 | Frontend on real data: API client, statements from engine rows, Beta tag, static export, company list | Afternoon → evening | ~9 PM | next |
+| 6 | Deploy package: Dockerfile, compose, `.env.example`, DEPLOY.md, README | Evening | ~10 PM | – |
+| 7 | End-to-end verification (real runs, browser checks, Docker), records in CHAT_HANDOFF / PROJECT_PLAN | Evening → night | ~1 AM | – |
 
-**Expected finish: end of the night run (about 4 AM).** If verification turns up larger fixes, a short follow-up run tomorrow morning.
+**Expected finish: early in the night run (about 1 AM)**, ahead of the original 4 AM estimate. The night run then has room for fixes from verification.
 
 ## Progress notes
 - 2026-11-23 ~3:20 PM: Phase 1 done. `Y:\Claude Projects\FinXL` created: `engine/` (9 runtime files), `web/` (redesign-v3 frontend), `dev/` (regression, gold, audit tools + retired Streamlit), `docs/`. Dev scripts get one line that adds `engine/` to the import path; no engine code changed. DocFetcher untouched.
+
+- ~3:25 PM: Phase 1 check: 3-company regression on the moved engine, no regressions vs baseline, gold check 0 failures.
+- ~3:25 PM: Phase 2 done. HCLTECH smoke test: groups, own/newest values, summary picks and a marked Excel all work.
+- ~3:40 PM: Phase 3 done. `api/` (settings, storage, jobs, serialize, main). Local venv `FinXL/.venv` (PyMuPDF pinned 1.28.0). Real run through the API: stages and years stream live, run.json, page PNG, library, corrected Excel, run reuse, bad-ticker rejection all verified.
+- ~3:50 PM: Phase 4 done. Second reading proposes a figure only when a number printed on that line of the page makes the total tie, and only one does. A "flip the sign" guess was dropped after checking PIDILITIND FY2021: the report itself prints an OCI total that doesn't add up, and the guess contradicted the page. Expect few proposals on real runs: most failing totals are report quirks or grouping, not misreads.
+
+## How to run (development)
+- API: `cd FinXL && .venv/Scripts/python -m uvicorn api.main:app --port 8000` (data in `FinXL/data/`, PDFs in `~/DocFetcherData`).
+- Frontend: `cd web && npm run dev` (port 3000). Next step wires it to the API (`/api` proxy).
+- API docs: http://127.0.0.1:8000/api/docs
+
+## Phase 5 notes (frontend wiring)
+- run.json shape: `api/serialize.py run_payload`. Rows: `label, level, header, total, values{y}, status{y}, src{y}, group{y: {ok, members[[row, sign]]}}, labelOk, junk?, restated?{y: {own, newest, newestFy}}, epsFlag?, epsExpect?`. Summary: `books[scope].summary = [{label, kind, rows{y}, values{y}}]`. `secondReadings: [{scope, kind, year, reportFy, totalRow, row, value, printed, page, note}]`.
+- Review keys: edits `scope:kind:row:year`, labels `scope:kind:row` (row = index in that statement's rows).
+- Events: `queued{position}`, `start`, `stage{stage}`, `progress{fraction}`, `year{stage, fy}`, `log{level, text}`, `stage-end`, `done{confirmedPct, issues}`, `failed{error}`. The merge stage can be skipped (read goes straight to write).
+- Headers: every call sends `X-Visitor: <uuid from localStorage>`.
+- Static export: `/w/[id]` → `/w?id=`; `trailingSlash: true` so FastAPI's StaticFiles serves `library/index.html`.
 
 ## Decisions (Harsh, 2026-11-23)
 - All merge phases approved; Streamlit UI retired (kept in `dev/legacy_streamlit/`).
