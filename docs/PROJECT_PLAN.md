@@ -142,6 +142,12 @@ One click: pick an Indian listed company and a range of years, and get a clean E
 | 2026-10-31 | AI fallback: **Google AI Studio free key** (Gemini/Gemma, hosted by Google); nothing runs locally, no paid server. Upgrade to paid API only after paying users | Zero budget; annual reports are public, so free-tier data use is acceptable |
 | 2026-10-31 | Default AI model `gemini-flash-latest` + automatic backups | Google retires fixed model names; the free tier is often overloaded |
 | 2026-10-31 | Future batch "worker" (if needed): Oracle Always Free VM first, else a Pi 5 / N100 mini PC with SSD; public website/API always on free cloud tiers | Laptop can't run everything; home hardware shouldn't serve users |
+| 2026-11-23 | **V1 beta = new repo `FinXL`**: the engine, a FastAPI service and the Next.js app (redesign-v3) together; DocFetcher kept as the archive | Harsh wants one folder ready to host and to show recruiters and beta testers |
+| 2026-11-23 | **One Docker image**: FastAPI serves `/api` and the static app on one port; in-process queue (1 run at a time); SQLite + files on a `/data` volume; no accounts (anonymous visitor id) | Simplest thing that hosts anywhere Docker runs; no Redis/Celery or separate frontend host for a beta |
+| 2026-11-23 | **Streamlit UI retired** (kept in `dev/legacy_streamlit/`) | The new web app covers everything it did |
+| 2026-11-23 | **Second reading in V1 = page re-read only, no AI**; proposes a figure only when exactly one printed number on the line makes the total tie | The AI fallback isn't reliable enough yet (Harsh) |
+| 2026-11-23 | **Gemini fallback kept, on for Harsh's laptop, off for the public** (`AI_ENABLED`); decided with Harsh at hosting time | Free-tier key and cost; reliability |
+| 2026-11-23 | **Deferred to V2** (~1 month): ratio analysis tab (UI + Excel), Excel redesign, parser trained on 10 years | Keep V1 to the merge |
 ## Ideas parked for later (product direction, 2026-10-30)
 - **Pre-computed dataset, not on-demand extraction:** run the engine in batches on the local PC, publish only the extracted numbers. The website/API/MCP then only *serves data*, so no Python server is needed and hosting stays free.
 - **MCP server** over the dataset: tools like `search_company`, `get_statements`, `get_line_item`, `get_ratios`, `compare_peers`, with page-level source links in every answer.

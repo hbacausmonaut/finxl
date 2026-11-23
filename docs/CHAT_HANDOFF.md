@@ -120,9 +120,35 @@ Build a review screen in the Streamlit app so Harsh can check extracted figures 
 - **Reliability redesign (Harsh, 2026-11-08):** Harsh's first priority is 98-99% accuracy in amounts, on companies the tool hasn't seen, without adding more format rules. Proposal from Claude Code: (1) a 20-company holdout set, never used for fixing, as the headline score; (2) guardrails that make each amount prove itself: every printed number accounted for, scale check, tie-outs between statements, same year compared across two reports, NSE/Screener results feeding the status; (3) statements marked OK only with evidence, and each amount shown green, amber or red; (4) rebuild row and column reading on page geometry (alignment, font, indent), replacing text patterns; (5) AI second reader only on pages that fail. Rough estimate 2-3 weeks. To decide: does this replace item 5, is the target per amount on the holdout set, and is the amber/red marking wanted in the Excel? Not started.
 
 - **Merging the new frontend with the engine (Harsh, 2026-11-23):** Harsh asked for a merge plan for the Next.js frontend in `frontend/` (redesign on branch `redesign-v3`, mock data only). Plan: `docs/FRONTEND_MERGE_PLAN.md`. It needs a small local API (FastAPI) around `finxl.run`, which is under **Not approved** ("Hosted web app / FastAPI backend"). To decide: (1) approve a local-only, single-user API, or wait for PROJECT_PLAN Phase 4; (2) order against item 5 and the reliability redesign; (3) which UI features may be hidden for v1 (restated toggle, per-figure second readings, label suggestions); (4) fold `frontend/` into this repo or keep it separate; (5) confirm `redesign-v3` is the version to merge. Phases 1–4 of the plan change no extraction code. Not started.
+  **Answered 2026-11-23 by Harsh (in the Claude Code session, directly):**
+  - All merge phases are approved. The Streamlit UI is retired, and its files are kept in `dev/legacy_streamlit/`.
+  - It goes beyond the local-only API: a hostable **V1 beta** in a new folder, `Y:\Claude Projects\FinXL`. One Docker image runs FastAPI plus the static app, with a job queue.
+  - "Second reading" is in V1 as a page re-read only. The AI second reader waits until it works as intended.
+  - The Gemini fallback code and server key are kept. AI is on for Harsh's laptop and goes off for the public at hosting time; Harsh will be asked then.
+  - Screener stays the download source as it is.
+  - A "Beta" tag goes beside the FinXL name.
+  - Every feature of the current frontend is kept.
+  - `redesign-v3` is the version merged.
+  - V2, in about a month: a ratio analysis tab in the app and the Excel, an Excel redesign, and the parser trained on 10 years.
+  - Item 5 and the reliability redesign are not part of this work.
 
 ## Done
 *(Claude Code writes here.)*
+
+- **2026-11-23: FinXL V1 beta built in `Y:\Claude Projects\FinXL`** (approved by Harsh in session; see the merge question above). Repo commits:
+  - `9857551`: import from DocFetcher.
+  - `c74bf8e`: engine additions (footing groups, EPS expected value, summary picks, as-reported values, corrected-cell marks, vocab-cache fix).
+  - `7fc04f8`: FastAPI service plus second reading (page re-read).
+  - `d4f0fab`: frontend on real data, Beta tag, static export, sample workbook.
+  - `b0c07e3`: Docker deploy package, DEPLOY.md, README.
+
+  Checks:
+  - The full 100-company regression on the changed engine shows no parser change (RUN_LOG #40–#41).
+  - The gold failure is the known Symphony #96.
+  - The end-to-end browser runs pass (INFY, VINATIORGA both scopes, PIDILITIND sample).
+  - A Docker build has not been tested: Docker isn't installed on the laptop.
+
+  DocFetcher is unchanged and kept as the archive. Build log: `docs/V1_BUILD_LOG.md`.
 
 - **2026-11-04: item 3.5 done (session A, cloud, branch `cloud/a-parser`).** 37 new companies (list and reasons in TEST_LOG, Round 5); 100 in the test set and the baseline. First unseen run: 96.3% OK, 91.3% verified (RUN_LOG #33). Fixes #89–#91; final (RUN_LOG #34–#36): **100 companies 3,944 / 4,031 OK (97.8%), 5,603 / 6,085 verified (92.1%), matches the report 95.7%**; no regressions on the original 63. Stopped by the rule "no pattern affects 2+ companies"; the rest are one-offs (#92, open).
 
