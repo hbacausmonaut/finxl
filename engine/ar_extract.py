@@ -526,7 +526,12 @@ def locate_statements(doc):
                 break
             if numeric_count(nwords) < 15:
                 break
-            prev_text = " ".join(w[4] for w in info(j - 1)[0])
+            # footer wording counts only once the table has started: a policy note above
+            # the table can use it too (Infosys FY2018 cash flow)
+            prev_lines = [" ".join(w[4] for w in ln) for ln in group_lines(info(j - 1)[0])]
+            start = next((n for n, t in enumerate(prev_lines)
+                          if any(NUM_RE.match(x) and ("," in x or "." in x) for x in t.split())), 0)
+            prev_text = " ".join(prev_lines[start:])
             if FOOTER_RE.search(prev_text) and nkind != kind:
                 break  # previous page already ended with the signature block
             if nkind is None and any(sig_kind(j, with_next=False) == k for k in KINDS if k != kind):
@@ -633,6 +638,60 @@ def locate_statements(doc):
             if c:
                 i = min(c, key=lambda x: (abs(x - anchor), x))
                 found[(scope, kind)] = follow(i, kind)
+
+    # One page can hold the end of one statement and the start of the next: the
+    # balance sheet's liabilities and signatures on top, then "Statement of Profit
+    # and Loss" halfway down (Infosys FY2018). The running header names the second
+    # statement, so the whole page was taken as its start: the parser read the
+    # liabilities as P&L rows, stopped at the signature block, and the P&L's next
+    # page was dropped. Split such a page at the heading.
+    def mid_heading(i, kind):
+        words, rect = info(i)[0], vps[i][1]
+        for ln in group_lines(words):
+            y = min(w[1] for w in ln)
+            if y < rect.y0 + rect.height * 0.25:
+                continue  # the top band: running header or the statement's own heading
+            t = norm_text(" ".join(w[4] for w in ln))
+            if heading_kind([t])[0] != kind:
+                continue
+            above = [w for w in words if w[3] <= y]
+            below = [w for w in words if w[1] >= y]
+            if numeric_count(above) >= 8 and numeric_count(below) >= 8:
+                return y
+        return None
+
+    index_of = {(vp[0], tuple(vp[1])): k for k, vp in enumerate(vps)}
+    for (scope, kind), pages in list(found.items()):
+        i = index_of.get((pages[0][0], tuple(pages[0][1])))
+        y = mid_heading(i, kind) if i is not None else None
+        if y is None:
+            continue
+        pno, rect = vps[i]
+        upper = (pno, fitz.Rect(rect.x0, rect.y0, rect.x1, y - 1))
+        lower = (pno, fitz.Rect(rect.x0, y - 1, rect.x1, rect.y1))
+        new = [lower]
+        if not FOOTER_RE.search(" ".join(w[4] for w in info(i)[0] if w[1] >= y)):
+            # follow() would stop here because the page's top half ends in a signature
+            # block: take the next pages on the lower half's own evidence
+            for j in range(i + 1, min(i + 4, len(vps))):
+                nwords, nlines, (nkind, _) = info(j)
+                if (nkind and nkind != kind) or numeric_count(nwords) < 15 \
+                        or any(SOCE_RE.search(t) or STOP_RE.search(t) for t in nlines[:6]) \
+                        or (nkind is None and any(sig_kind(j, with_next=False) == k for k in KINDS if k != kind)):
+                    break
+                new.append(vps[j])
+                if FOOTER_RE.search(" ".join(w[4] for w in nwords)):
+                    break
+        found[(scope, kind)] = new
+        # the top half belongs to the statement that ends just before this page
+        for key, other in found.items():
+            if key == (scope, kind) or key[0] != scope:
+                continue
+            last = index_of.get((other[-1][0], tuple(other[-1][1])))
+            if last == i - 1:
+                found[key] = other + [upper]
+            elif last == i:
+                found[key] = other[:-1] + [upper]
 
     # Fallback: some PDFs draw the headings as images/curves, so there is no
     # heading text. Recognise statement pages by their content instead.
@@ -812,6 +871,12 @@ def page_lines(doc, vp):
     for li, ln in enumerate(lines):
         lt = " ".join(w[4] for w in ln)
         if li > 3 and FOOTER_RE.search(lt):
+            # A policy note printed above the table can use footer wording ("changes in
+            # liabilities arising from financing": Infosys FY2018 cash flow). Before any
+            # amount, with the table's "Particulars" header still to come, it isn't the end.
+            if amounts_seen == 0 and any(re.match(r"\s*particulars\b", " ".join(w[4] for w in later), re.I)
+                                         for later in lines[li + 1:]):
+                continue
             lines = lines[:li]
             break
         # a second "Particulars" header after the body has started = a new table (e.g. a
