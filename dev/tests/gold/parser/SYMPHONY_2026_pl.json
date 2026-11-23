@@ -1,0 +1,274 @@
+{
+ "ticker": "SYMPHONY",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 99,
+   "name": "100R",
+   "clip": [
+    496.1,
+    0.0,
+    992.1,
+    666.1
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    1130.44,
+    1575.7
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    60.77,
+    47.03
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    1191.21,
+    1622.73
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    109.23,
+    106.33
+   ]
+  },
+  {
+   "label": "Purchase of stock-in-trade",
+   "values": [
+    485.77,
+    748.53
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock- in-trade",
+   "values": [
+    -3.33,
+    -54.23
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    136.11,
+    126.37
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    16.42,
+    9.83
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    19.71,
+    22.24
+   ]
+  },
+  {
+   "label": "Advertisement and Sales Promotion Expenses",
+   "values": [
+    88.19,
+    98.91
+   ]
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    190.84,
+    239.17
+   ]
+  },
+  {
+   "label": "Total Expenses (IV)",
+   "values": [
+    1042.94,
+    1297.15
+   ]
+  },
+  {
+   "label": "Profit Before Exceptional Items and Tax (III IV)",
+   "values": [
+    148.27,
+    325.58
+   ]
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    207.51,
+    45.99
+   ]
+  },
+  {
+   "label": "Profit/(loss) Before Tax (V VI)",
+   "values": [
+    -59.24,
+    279.59
+   ]
+  },
+  {
+   "label": "Tax expense / (Benefits)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Current tax",
+   "values": [
+    47.29,
+    78.5
+   ]
+  },
+  {
+   "label": "(2) Deferred tax",
+   "values": [
+    -9.8,
+    -11.41
+   ]
+  },
+  {
+   "label": "(3) Write-downs of deferred tax assets",
+   "values": [
+    44.32,
+    null
+   ]
+  },
+  {
+   "label": "Net tax expense (VIII)",
+   "values": [
+    81.81,
+    67.09
+   ]
+  },
+  {
+   "label": "Profit/(loss) for the year (VII - VIII)",
+   "values": [
+    -141.05,
+    212.5
+   ]
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not to be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurements of the net defined benefit plans",
+   "values": [
+    -0.49,
+    -0.72
+   ]
+  },
+  {
+   "label": "Income tax effect on above",
+   "values": [
+    0.14,
+    0.17
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Loss on Items designated as Fair Value Through Other Comprehensive Income",
+   "values": [
+    -2.92,
+    -0.17
+   ]
+  },
+  {
+   "label": "Exchange differences on translation of foreign operations",
+   "values": [
+    10.74,
+    -21.57
+   ]
+  },
+  {
+   "label": "Income tax effect on above",
+   "values": [
+    0.67,
+    0.04
+   ]
+  },
+  {
+   "label": "Total other comprehensive income/(loss) for the year, net of tax (X)",
+   "values": [
+    8.14,
+    -22.25
+   ]
+  },
+  {
+   "label": "Total comprehensive income/(loss) for the year",
+   "values": [
+    -132.91,
+    190.25
+   ]
+  },
+  {
+   "label": "Earnings per equity share of face value of ₹ 2/- each",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Basic",
+   "values": [
+    -20.54,
+    30.89
+   ]
+  },
+  {
+   "label": "(2) Diluted",
+   "values": [
+    -20.54,
+    30.89
+   ]
+  }
+ ],
+ "pdf": "SYMPHONY\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b2e32774-7ba0-4f22-a5de-ef9014d07f8b.pdf",
+ "parsed_at": "2026-11-05 11:55 UTC"
+}

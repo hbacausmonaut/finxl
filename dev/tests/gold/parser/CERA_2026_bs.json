@@ -1,0 +1,393 @@
+{
+ "ticker": "CERA",
+ "fy": 2026,
+ "scope": "standalone",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 147,
+   "name": "148",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "lakh",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non- current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, Plant and Equipment",
+   "values": [
+    33096.25,
+    33459.5
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    719.53,
+    1072.47
+   ]
+  },
+  {
+   "label": "Investment Property",
+   "values": [
+    108.8,
+    149.08
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    3953.6,
+    4326.47
+   ]
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    48.04,
+    61.12
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments in Subsidiaries",
+   "values": [
+    null,
+    600.78
+   ]
+  },
+  {
+   "label": "Other Investments",
+   "values": [
+    1380.71,
+    2393.73
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    354.68,
+    471.69
+   ]
+  },
+  {
+   "label": "Other Non-current Assets",
+   "values": [
+    250.26,
+    579.96
+   ]
+  },
+  {
+   "label": "Total Non-current Assets",
+   "values": [
+    39911.87,
+    43114.8
+   ]
+  },
+  {
+   "label": "(2) Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    39576.56,
+    40581.93
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    80120.32,
+    67174.19
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    27386.93,
+    26796.41
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents",
+   "values": [
+    1284.72,
+    411.84
+   ]
+  },
+  {
+   "label": "Other Balances with Banks",
+   "values": [
+    3521.66,
+    2208.42
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    252.03,
+    291.38
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    3457.39,
+    3512.45
+   ]
+  },
+  {
+   "label": "Current Tax Assets (Net)",
+   "values": [
+    308.81,
+    null
+   ]
+  },
+  {
+   "label": "Total Current Assets",
+   "values": [
+    155908.42,
+    140976.62
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    195820.29,
+    184091.42
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity Share Capital",
+   "values": [
+    644.88,
+    644.88
+   ]
+  },
+  {
+   "label": "Other Equity",
+   "values": [
+    146588.97,
+    134389.44
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    147233.85,
+    135034.32
+   ]
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non-current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    3678.73,
+    4009.0
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    3148.87,
+    3014.46
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    831.97,
+    1043.43
+   ]
+  },
+  {
+   "label": "Deferred Tax Liabilities (Net)",
+   "values": [
+    4323.85,
+    3885.43
+   ]
+  },
+  {
+   "label": "Total Non-current Liabilities",
+   "values": [
+    11983.42,
+    11952.32
+   ]
+  },
+  {
+   "label": "(2) Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    87.22,
+    1553.52
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    903.91,
+    781.88
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    12587.93,
+    8184.95
+   ]
+  },
+  {
+   "label": "total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    9405.76,
+    10912.11
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    9540.08,
+    10043.04
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    2990.11,
+    3409.48
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1088.01,
+    1819.2
+   ]
+  },
+  {
+   "label": "Current Tax Liabilities (Net)",
+   "values": [
+    null,
+    400.6
+   ]
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    36603.02,
+    37104.78
+   ]
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    195820.29,
+    184091.42
+   ]
+  }
+ ],
+ "pdf": "CERA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/903e8d5c-0373-4a07-9b1d-13920a29c910.pdf",
+ "parsed_at": "2026-11-04 11:24 UTC"
+}

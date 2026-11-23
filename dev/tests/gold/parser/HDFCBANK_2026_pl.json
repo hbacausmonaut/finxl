@@ -1,0 +1,232 @@
+{
+ "ticker": "HDFCBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 496,
+   "name": "497",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest earned",
+   "values": [
+    348615.15,
+    336367.43
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    146847.66,
+    134548.5
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    495462.81,
+    470915.93
+   ]
+  },
+  {
+   "label": "EXPENDITURE",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest expended",
+   "values": [
+    185491.23,
+    183894.2
+   ]
+  },
+  {
+   "label": "Operating expenses",
+   "values": [
+    181173.91,
+    176605.07
+   ]
+  },
+  {
+   "label": "Provisions and contingencies",
+   "values": [
+    49578.21,
+    36976.49
+   ]
+  },
+  {
+   "label": "Total expenditure",
+   "values": [
+    416243.35,
+    397475.76
+   ]
+  },
+  {
+   "label": "PROFIT",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Consolidated Net Profit for the year before Minority Interest",
+   "values": [
+    79219.46,
+    73440.17
+   ]
+  },
+  {
+   "label": "Less : Minority Interest",
+   "values": [
+    3193.49,
+    2647.92
+   ]
+  },
+  {
+   "label": "Consolidated Net Profit for the year attributable to the group",
+   "values": [
+    76025.97,
+    70792.25
+   ]
+  },
+  {
+   "label": "Brought forward consolidated profit attributable to the group",
+   "values": [
+    178692.55,
+    150045.57
+   ]
+  },
+  {
+   "label": "Total",
+   "values": [
+    254718.52,
+    220837.82
+   ]
+  },
+  {
+   "label": "APPROPRIATIONS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Transfer to Statutory Reserve",
+   "values": [
+    19159.57,
+    17260.3
+   ]
+  },
+  {
+   "label": "Interim Dividend paid",
+   "values": [
+    3836.57,
+    null
+   ]
+  },
+  {
+   "label": "Transfer to General Reserve",
+   "values": [
+    7467.13,
+    6734.74
+   ]
+  },
+  {
+   "label": "Transfer to Special Reserve",
+   "values": [
+    3000.0,
+    3200.0
+   ]
+  },
+  {
+   "label": "Transfer to Capital Reserve",
+   "values": [
+    8320.4,
+    507.0
+   ]
+  },
+  {
+   "label": "Dividend pertaining to previous year paid during the year",
+   "values": [
+    16869.41,
+    14826.19
+   ]
+  },
+  {
+   "label": "Transfer to / (from) Minority Interest",
+   "values": [
+    476.12,
+    -382.96
+   ]
+  },
+  {
+   "label": "Transfer to Other Reserves",
+   "values": [
+    1.85,
+    null
+   ]
+  },
+  {
+   "label": "Balance carried over to consolidated balance sheet",
+   "values": [
+    195587.47,
+    178692.55
+   ]
+  },
+  {
+   "label": "Total",
+   "values": [
+    254718.52,
+    220837.82
+   ]
+  },
+  {
+   "label": "EARNINGS PER EQUITY SHARE (Face value L 1/ - per share) C C",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    49.5,
+    46.41
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    49.28,
+    46.2
+   ]
+  }
+ ],
+ "pdf": "HDFCBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

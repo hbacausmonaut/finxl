@@ -1,0 +1,14 @@
+{
+ "format": "docfetcher-gold-resolutions/1",
+ "ticker": "MARUTI",
+ "fy": 2026,
+ "statement": "cf",
+ "resolved_by": "Harsh",
+ "answers": {
+  "d001": {
+   "choice": "parser",
+   "at": "2026-11-08 00:04"
+  }
+ },
+ "resolved_at": "2026-11-08 00:04"
+}

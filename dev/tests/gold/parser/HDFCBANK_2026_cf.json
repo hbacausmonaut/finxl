@@ -1,0 +1,347 @@
+{
+ "ticker": "HDFCBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 497,
+   "name": "498",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 498,
+   "name": "499",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flows from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Consolidated Profit after tax and minority interest",
+   "values": [
+    76025.97,
+    70792.25
+   ]
+  },
+  {
+   "label": "Add: Provision for income tax ( Refer schedule 18 (9))",
+   "values": [
+    22921.99,
+    22801.88
+   ]
+  },
+  {
+   "label": "Consolidated profit before income tax and after minority interest",
+   "values": [
+    98947.96,
+    93594.13
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation on fixed assets",
+   "values": [
+    4194.9,
+    3805.23
+   ]
+  },
+  {
+   "label": "Loss on revaluation of investments",
+   "values": [
+    7739.96,
+    3909.1
+   ]
+  },
+  {
+   "label": "Amortisation of premium on investments",
+   "values": [
+    986.17,
+    87.07
+   ]
+  },
+  {
+   "label": "Profit on sale of fixed assets",
+   "values": [
+    -207.91,
+    -22.03
+   ]
+  },
+  {
+   "label": "(Profit) / loss on sale of investment in subsidiary",
+   "values": [
+    -7000.27,
+    8.0
+   ]
+  },
+  {
+   "label": "Provision / charge for non performing assets",
+   "values": [
+    14445.98,
+    15385.24
+   ]
+  },
+  {
+   "label": "Floating provisions",
+   "values": [
+    9000.0,
+    null
+   ]
+  },
+  {
+   "label": "Provision / (write-back) for standard assets and contingencies",
+   "values": [
+    3210.24,
+    -1210.63
+   ]
+  },
+  {
+   "label": "Employee stock options / units expense",
+   "values": [
+    2228.3,
+    2086.05
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    133545.33,
+    117642.16
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Increase in investments",
+   "values": [
+    -102572.73,
+    -180362.67
+   ]
+  },
+  {
+   "label": "Increase in advances",
+   "values": [
+    -340270.74,
+    -169918.22
+   ]
+  },
+  {
+   "label": "Increase in deposits",
+   "values": [
+    388740.06,
+    334010.95
+   ]
+  },
+  {
+   "label": "Increase in other assets",
+   "values": [
+    -29678.54,
+    -10829.67
+   ]
+  },
+  {
+   "label": "Increase in other liabilities and provisions",
+   "values": [
+    52338.92,
+    13117.98
+   ]
+  },
+  {
+   "label": "Increase in policyholders' funds",
+   "values": [
+    34060.45,
+    43289.99
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    136162.75,
+    146950.52
+   ]
+  },
+  {
+   "label": "Direct taxes paid (net of refunds)",
+   "values": [
+    -22656.37,
+    -19708.68
+   ]
+  },
+  {
+   "label": "Net cash flows from operating activities",
+   "values": [
+    113506.38,
+    127241.84
+   ]
+  },
+  {
+   "label": "Cash flows from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of fixed assets",
+   "values": [
+    -3889.97,
+    -4075.89
+   ]
+  },
+  {
+   "label": "Proceeds from sale of fixed assets",
+   "values": [
+    527.56,
+    100.72
+   ]
+  },
+  {
+   "label": "Proceeds from sale of investment in subsidiary (net of expenses)",
+   "values": [
+    9806.0,
+    192.0
+   ]
+  },
+  {
+   "label": "Investment in subsidiaries",
+   "values": [
+    -80.87,
+    -67.47
+   ]
+  },
+  {
+   "label": "Net cash flow from / (used in) investing activities",
+   "values": [
+    6362.72,
+    -3850.64
+   ]
+  },
+  {
+   "label": "Cash flows from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Increase in minority interest (including issue of ESOPs by subsidiaries)",
+   "values": [
+    2331.21,
+    2382.88
+   ]
+  },
+  {
+   "label": "Proceeds from issue of share capital",
+   "values": [
+    5108.5,
+    6346.5
+   ]
+  },
+  {
+   "label": "Proceeds from issue of shares through subsidiary IPO (net of issue expenses)",
+   "values": [
+    2456.61,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issue of Tier 1 and Tier 2 capital instruments",
+   "values": [
+    700.0,
+    1182.0
+   ]
+  },
+  {
+   "label": "Repayment of Tier 1 and Tier 2 capital instruments",
+   "values": [
+    null,
+    -500.0
+   ]
+  },
+  {
+   "label": "Repayments from other borrowings (net)",
+   "values": [
+    -48895.19,
+    -97062.73
+   ]
+  },
+  {
+   "label": "Dividend paid during the year",
+   "values": [
+    -20705.98,
+    -14826.19
+   ]
+  },
+  {
+   "label": "Net cash flow used in financing activities",
+   "values": [
+    -59004.85,
+    -102477.54
+   ]
+  },
+  {
+   "label": "Effect of fluctuation in foreign currency translation reserve",
+   "values": [
+    1113.9,
+    199.73
+   ]
+  },
+  {
+   "label": "Net increase in cash and cash equivalents",
+   "values": [
+    61978.15,
+    21113.39
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    249947.9,
+    228834.51
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    311926.05,
+    249947.9
+   ]
+  }
+ ],
+ "pdf": "HDFCBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

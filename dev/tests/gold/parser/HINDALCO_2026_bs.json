@@ -1,0 +1,536 @@
+{
+ "ticker": "HINDALCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 300,
+   "name": "301L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    773.9
+   ]
+  },
+  {
+   "page": 300,
+   "name": "301R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    773.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    91288.0,
+    81739.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    47569.0,
+    27023.0
+   ]
+  },
+  {
+   "label": "Right of use assets",
+   "values": [
+    2929.0,
+    2498.0
+   ]
+  },
+  {
+   "label": "Investment properties",
+   "values": [
+    61.0,
+    45.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    29553.0,
+    26683.0
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    6420.0,
+    5591.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    1957.0,
+    374.0
+   ]
+  },
+  {
+   "label": "Equity accounted investments",
+   "values": [
+    257.0,
+    124.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    16817.0,
+    13502.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    47.0,
+    6.0
+   ]
+  },
+  {
+   "label": "Derivatives",
+   "values": [
+    157.0,
+    139.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    1845.0,
+    1082.0
+   ]
+  },
+  {
+   "label": "Non-current tax assets (Net)",
+   "values": [
+    7.0,
+    14.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets (Net) (a)",
+   "values": [
+    3114.0,
+    1691.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    4744.0,
+    3521.0
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    206765.0,
+    164032.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    75517.0,
+    48801.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    7884.0,
+    10532.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    27222.0,
+    19834.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    14350.0,
+    9808.0
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    458.0,
+    1038.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    8.0,
+    7.0
+   ]
+  },
+  {
+   "label": "Derivatives",
+   "values": [
+    2685.0,
+    1874.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    5292.0,
+    4893.0
+   ]
+  },
+  {
+   "label": "Current tax assets (Net)",
+   "values": [
+    154.0,
+    197.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    7301.0,
+    4917.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    140871.0,
+    101901.0
+   ]
+  },
+  {
+   "label": "Non-current assets classified as held for sale",
+   "values": [
+    159.0,
+    58.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    141030.0,
+    101959.0
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    347795.0,
+    265991.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    222.0,
+    222.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    136361.0,
+    123487.0
+   ]
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    136583.0,
+    123709.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    12.0,
+    12.0
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    136595.0,
+    123721.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    75595.0,
+    56217.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    2071.0,
+    1623.0
+   ]
+  },
+  {
+   "label": "Derivatives",
+   "values": [
+    128.0,
+    66.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    481.0,
+    465.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    830.0,
+    689.0
+   ]
+  },
+  {
+   "label": "Employee benefit obligations",
+   "values": [
+    5747.0,
+    5538.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (Net) (b)",
+   "values": [
+    7679.0,
+    10471.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    2160.0,
+    1685.0
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    94691.0,
+    76754.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    21064.0,
+    5714.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    431.0,
+    375.0
+   ]
+  },
+  {
+   "label": "Supplier’s credit",
+   "values": [
+    4.0,
+    1713.0
+   ]
+  },
+  {
+   "label": "Trade payables and (I) Outstanding dues of micro and small enterprises",
+   "values": [
+    425.0,
+    286.0
+   ]
+  },
+  {
+   "label": "Outstanding dues other than micro and small enterprises",
+   "values": [
+    61199.0,
+    40148.0
+   ]
+  },
+  {
+   "label": "Derivatives",
+   "values": [
+    10316.0,
+    1022.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    10510.0,
+    6305.0
+   ]
+  },
+  {
+   "label": "Provisions and",
+   "values": [
+    2881.0,
+    2190.0
+   ]
+  },
+  {
+   "label": "Employee benefit obligations",
+   "values": [
+    1778.0,
+    1417.0
+   ]
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    357.0,
+    358.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (Net)",
+   "values": [
+    4499.0,
+    3545.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    3045.0,
+    2443.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    116509.0,
+    65516.0
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    211200.0,
+    142270.0
+   ]
+  },
+  {
+   "label": "Total equity and liabilities and Notes forming part of consolidated financial statements 1-39",
+   "values": [
+    347795.0,
+    265991.0
+   ]
+  }
+ ],
+ "pdf": "HINDALCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb3b7080-855f-4cde-b688-d97575a72f3f.pdf",
+ "parsed_at": "2026-11-04 11:19 UTC"
+}

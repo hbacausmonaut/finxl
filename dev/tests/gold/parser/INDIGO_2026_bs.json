@@ -1,0 +1,400 @@
+{
+ "ticker": "INDIGO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 244,
+   "name": "245",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    110871.0,
+    26779.0
+   ]
+  },
+  {
+   "label": "Right of use assets",
+   "values": [
+    520540.0,
+    490739.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    387.0,
+    7.0
+   ]
+  },
+  {
+   "label": "Intangible assets",
+   "values": [
+    160.0,
+    299.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    206.0,
+    23.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    19310.0,
+    13183.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    71107.0,
+    74933.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets (net) 22.d",
+   "values": [
+    null,
+    4192.0
+   ]
+  },
+  {
+   "label": "Income tax assets (net) 22.c",
+   "values": [
+    19775.0,
+    17080.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    38373.0,
+    24169.0
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    780729.0,
+    651404.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    9848.0,
+    8203.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    257438.0,
+    247748.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    5996.0,
+    7397.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    13239.0,
+    10731.0
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents, above",
+   "values": [
+    226754.0,
+    178898.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    47947.0,
+    35867.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    18070.0,
+    18187.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    579292.0,
+    507031.0
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    1360021.0,
+    1158435.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    3866.0,
+    3864.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    65845.0,
+    89818.0
+   ]
+  },
+  {
+   "label": "Equity attributable to the owners of the Company",
+   "values": [
+    69711.0,
+    93682.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    163.0,
+    null
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    69874.0,
+    93682.0
+   ]
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease liabilities 18.b",
+   "values": [
+    644705.0,
+    546683.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities 18.c",
+   "values": [
+    229111.0,
+    151192.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    33100.0,
+    24079.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    521.0,
+    621.0
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    907437.0,
+    722575.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings 18.a",
+   "values": [
+    18063.0,
+    18000.0
+   ]
+  },
+  {
+   "label": "Lease liabilities 18.b",
+   "values": [
+    114724.0,
+    103415.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    607.0,
+    331.0
+   ]
+  },
+  {
+   "label": "total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    49298.0,
+    41425.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities 18.c",
+   "values": [
+    86060.0,
+    77523.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    87705.0,
+    83985.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    26210.0,
+    17468.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net) 22.c",
+   "values": [
+    43.0,
+    31.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    382710.0,
+    342178.0
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    1360021.0,
+    1158435.0
+   ]
+  }
+ ],
+ "pdf": "INDIGO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b45f7180-78f4-4e39-9335-03cb2daa1a11.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

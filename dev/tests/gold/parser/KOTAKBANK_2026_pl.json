@@ -1,0 +1,239 @@
+{
+ "ticker": "KOTAKBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 62,
+   "name": "63",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest Earned",
+   "values": [
+    697812121.0,
+    656688252.0
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    381663754.0,
+    412334116.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    1079475875.0,
+    1069022368.0
+   ]
+  },
+  {
+   "label": "EXPENDITURE",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest Expended",
+   "values": [
+    296199788.0,
+    282709127.0
+   ]
+  },
+  {
+   "label": "Operating Expenses",
+   "values": [
+    484344960.0,
+    457830592.0
+   ]
+  },
+  {
+   "label": "Provisions and Contingencies (Refer Note 7.A-Schedule 17)",
+   "values": [
+    107124871.0,
+    109025273.0
+   ]
+  },
+  {
+   "label": "Total expenditure",
+   "values": [
+    887669619.0,
+    849564992.0
+   ]
+  },
+  {
+   "label": "PROFIT",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Profit for the year",
+   "values": [
+    191806256.0,
+    219457376.0
+   ]
+  },
+  {
+   "label": "Add: Share in profit / (loss) of Associates",
+   "values": [
+    1072669.0,
+    1802514.0
+   ]
+  },
+  {
+   "label": "Consolidated Profit for the year attributable to the Group",
+   "values": [
+    192878925.0,
+    221259890.0
+   ]
+  },
+  {
+   "label": "Add : Balance in Profit and Loss Account brought forward from previous year",
+   "values": [
+    900374562.0,
+    750043044.0
+   ]
+  },
+  {
+   "label": "(Refer Schedule 2 (XVI))",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total",
+   "values": [
+    1093253487.0,
+    971302934.0
+   ]
+  },
+  {
+   "label": "APPROPRIATIONS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Transfer to Statutory Reserve",
+   "values": [
+    35019300.0,
+    41125200.0
+   ]
+  },
+  {
+   "label": "Transfer to Special Reserve u/s 45 IC of RBI Act, 1934",
+   "values": [
+    3087531.0,
+    3006764.0
+   ]
+  },
+  {
+   "label": "Transfer to Special Reserve u/s 36(1)(viii) of Income Tax Act, 1961",
+   "values": [
+    4371000.0,
+    1500000.0
+   ]
+  },
+  {
+   "label": "Transfer to Debenture Redemption Reserve",
+   "values": [
+    150000.0,
+    175000.0
+   ]
+  },
+  {
+   "label": "Transfer to Capital Reserve",
+   "values": [
+    10945001.0,
+    20652700.0
+   ]
+  },
+  {
+   "label": "Transfer to General Reserve",
+   "values": [
+    null,
+    1611.0
+   ]
+  },
+  {
+   "label": "Transfer to Investment Fluctuation Reserve Account",
+   "values": [
+    null,
+    5000000.0
+   ]
+  },
+  {
+   "label": "Dividend",
+   "values": [
+    4970975.0,
+    3976240.0
+   ]
+  },
+  {
+   "label": "Balance carried over to Balance Sheet",
+   "values": [
+    1034709680.0,
+    895865419.0
+   ]
+  },
+  {
+   "label": "Total",
+   "values": [
+    1093253487.0,
+    971302934.0
+   ]
+  },
+  {
+   "label": "EARNINGS PER SHARE (Face value of J1/- )",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (H)",
+   "values": [
+    19.4,
+    22.26
+   ]
+  },
+  {
+   "label": "Diluted (H)",
+   "values": [
+    19.39,
+    22.26
+   ]
+  }
+ ],
+ "pdf": "KOTAKBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1b719fb-23e9-4cb8-b303-720eb0e31cc4.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

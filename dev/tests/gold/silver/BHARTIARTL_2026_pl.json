@@ -1,0 +1,453 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "BHARTIARTL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 215,
+   "name": "216R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "BHARTIARTL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f8f6a174-8601-4747-9d0d-bd6b85fe53fc.pdf",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    2109728,
+    1729852
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    28173,
+    15737
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    2137901,
+    1745589
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Network operating expenses",
+   "values": [
+    397500,
+    335043
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Access charges",
+   "values": [
+    55416,
+    71713
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "License fee / Spectrum charges",
+   "values": [
+    153729,
+    138290
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    75813,
+    63089
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sales and marketing expenses",
+   "values": [
+    131073,
+    114601
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    99452,
+    75524
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    912983,
+    798260
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before depreciation, amortisation, finance costs, share of profit / (loss) of associates and joint ventures, exceptional items and tax",
+   "values": [
+    1224918,
+    947329
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    527108,
+    455703
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    215553,
+    217539
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of associates and joint ventures (net)",
+   "values": [
+    -3645,
+    -37030
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    485902,
+    311117
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional items (net)",
+   "values": [
+    34175,
+    -72868
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    451727,
+    383985
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense / (credit)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    78812,
+    41121
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    34687,
+    -31949
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    113499,
+    9172
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    338228,
+    374813
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income ('OCI')",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items to be reclassified to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain due to foreign currency translation differences",
+   "values": [
+    51798,
+    26626
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain / (loss) on net investment hedge",
+   "values": [
+    47,
+    -2946
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax (charge) / credit on above",
+   "values": [
+    -27,
+    832
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    51818,
+    24512
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items not to be reclassified to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain on investment at fair value through OCI ('FVTOCI')",
+   "values": [
+    4763,
+    1338
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Re-measurement gain / (loss) on defined benefit plans",
+   "values": [
+    81,
+    -167
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax (charge) / credit on above",
+   "values": [
+    -893,
+    36
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of other comprehensive loss of associates and joint ventures (net)",
+   "values": [
+    -21,
+    -25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    3930,
+    1182
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income for the year",
+   "values": [
+    55748,
+    25694
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    393976,
+    400507
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year attributable to:",
+   "values": [
+    338228,
+    374813
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Parent",
+   "values": [
+    266952,
+    335561
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NCI",
+   "values": [
+    71276,
+    39252
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to:",
+   "values": [
+    55748,
+    25694
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Parent",
+   "values": [
+    29236,
+    8913
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NCI",
+   "values": [
+    26512,
+    16781
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to:",
+   "values": [
+    393976,
+    400507
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Parent",
+   "values": [
+    296188,
+    344474
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NCI",
+   "values": [
+    97788,
+    56033
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per share (Face value: ₹ 5 each)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    45.96,
+    58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    44.37,
+    56.04
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 50,
+  "rows_reader": 50,
+  "rows_aligned": 50,
+  "rows_agreed": 50,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 86,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "million",
+  "unit_reader": "million"
+ },
+ "mismatches": []
+}

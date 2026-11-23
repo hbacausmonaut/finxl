@@ -1,0 +1,664 @@
+{
+ "ticker": "ONGC",
+ "fy": 2026,
+ "statement": "bs",
+ "scope": "consolidated",
+ "reader": "claude",
+ "read_at": "2026-11-04 17:40 UTC",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Oil and gas assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Tangible",
+   "values": [
+    1530047.4,
+    1574054.28
+   ],
+   "page": 444
+  },
+  {
+   "label": "Intangible",
+   "values": [
+    11836.69,
+    3292.16
+   ],
+   "page": 444
+  },
+  {
+   "label": "Other property, plant and equipment",
+   "values": [
+    1462721.12,
+    1340677.39
+   ],
+   "page": 444
+  },
+  {
+   "label": "Right of Use Assets",
+   "values": [
+    302446.49,
+    341814.72
+   ],
+   "page": 444
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Oil and gas assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Development wells in progress",
+   "values": [
+    64603.06,
+    40473.29
+   ],
+   "page": 444
+  },
+  {
+   "label": "Oil and gas facilities in progress",
+   "values": [
+    490396.67,
+    395239.07
+   ],
+   "page": 444
+  },
+  {
+   "label": "Acquisition Cost",
+   "values": [
+    238230.03,
+    216348.96
+   ],
+   "page": 444
+  },
+  {
+   "label": "Others",
+   "values": [
+    121546.38,
+    220841.09
+   ],
+   "page": 444
+  },
+  {
+   "label": "Investment Property",
+   "values": [
+    77.01,
+    78.66
+   ],
+   "page": 444
+  },
+  {
+   "label": "Goodwill (including Goodwill on Consolidation)",
+   "values": [
+    138218.16,
+    127624.88
+   ],
+   "page": 444
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    15384.94,
+    14209.55
+   ],
+   "page": 444
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Exploratory wells in progress",
+   "values": [
+    200704.18,
+    195859.3
+   ],
+   "page": 444
+  },
+  {
+   "label": "Acquisition cost",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Intangible Oil and Gas Assets in progress",
+   "values": [
+    46542.12,
+    56957.6
+   ],
+   "page": 444
+  },
+  {
+   "label": "Others",
+   "values": [
+    695.34,
+    421.92
+   ],
+   "page": 444
+  },
+  {
+   "label": "Investments in Joint Ventures and Associates",
+   "values": [
+    637532.11,
+    586474.59
+   ],
+   "page": 444
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Other Investments",
+   "values": [
+    342243.62,
+    337174.52
+   ],
+   "page": 444
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    25449.48,
+    23792.29
+   ],
+   "page": 444
+  },
+  {
+   "label": "Loans",
+   "values": [
+    116523.71,
+    75847.3
+   ],
+   "page": 444
+  },
+  {
+   "label": "Deposit under site restoration fund",
+   "values": [
+    331681.45,
+    308487.92
+   ],
+   "page": 444
+  },
+  {
+   "label": "Finance lease receivables",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Others",
+   "values": [
+    149443.07,
+    119467.0
+   ],
+   "page": 444
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    75039.79,
+    70810.44
+   ],
+   "page": 444
+  },
+  {
+   "label": "Non-current tax assets (net)",
+   "values": [
+    155627.68,
+    146741.05
+   ],
+   "page": 444
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    42667.54,
+    43555.19
+   ],
+   "page": 444
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    6499658.04,
+    6240243.17
+   ],
+   "page": 444
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    649182.66,
+    589563.3
+   ],
+   "page": 444
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Investments",
+   "values": [
+    31068.29,
+    32525.02
+   ],
+   "page": 444
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    220144.68,
+    212426.49
+   ],
+   "page": 444
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    15543.91,
+    45635.06
+   ],
+   "page": 444
+  },
+  {
+   "label": "Other bank balances",
+   "values": [
+    306246.52,
+    226142.52
+   ],
+   "page": 444
+  },
+  {
+   "label": "Loans",
+   "values": [
+    4536.41,
+    4590.42
+   ],
+   "page": 444
+  },
+  {
+   "label": "Deposit under site restoration fund",
+   "values": [
+    357.83,
+    null
+   ],
+   "page": 444
+  },
+  {
+   "label": "Others",
+   "values": [
+    98677.7,
+    149572.52
+   ],
+   "page": 444
+  },
+  {
+   "label": "Current Tax Assets (net)",
+   "values": [
+    3152.67,
+    28.14
+   ],
+   "page": 444
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    88405.08,
+    86431.07
+   ],
+   "page": 444
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    1417315.75,
+    1346914.54
+   ],
+   "page": 444
+  },
+  {
+   "label": "Assets/ disposal group classified as held for sale",
+   "values": [
+    2078.01,
+    131.05
+   ],
+   "page": 444
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    7919051.8,
+    7587288.76
+   ],
+   "page": 444
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "page": 445
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ],
+   "page": 445
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    62901.39,
+    62901.39
+   ],
+   "page": 445
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    3654776.56,
+    3371503.31
+   ],
+   "page": 445
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    3717677.95,
+    3434404.7
+   ],
+   "page": 445
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    379254.75,
+    307946.47
+   ],
+   "page": 445
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    4096932.7,
+    3742351.17
+   ],
+   "page": 445
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 445
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 445
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 445
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    938229.24,
+    984741.25
+   ],
+   "page": 445
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    225813.06,
+    243844.63
+   ],
+   "page": 445
+  },
+  {
+   "label": "Others",
+   "values": [
+    3151.57,
+    3178.1
+   ],
+   "page": 445
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    544534.69,
+    543081.49
+   ],
+   "page": 445
+  },
+  {
+   "label": "Deferred Tax liabilities (net)",
+   "values": [
+    406545.9,
+    387653.21
+   ],
+   "page": 445
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    14958.72,
+    13992.73
+   ],
+   "page": 445
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    2133233.18,
+    2176491.41
+   ],
+   "page": 445
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 445
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 445
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    482321.82,
+    550817.79
+   ],
+   "page": 445
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    96800.79,
+    98769.35
+   ],
+   "page": 445
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ],
+   "page": 445
+  },
+  {
+   "label": "to micro and small enterprises",
+   "values": [
+    16157.98,
+    13803.96
+   ],
+   "page": 445
+  },
+  {
+   "label": "to other than micro and small enterprises",
+   "values": [
+    453172.83,
+    376010.58
+   ],
+   "page": 445
+  },
+  {
+   "label": "Others",
+   "values": [
+    433494.93,
+    445489.74
+   ],
+   "page": 445
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    129007.5,
+    106318.91
+   ],
+   "page": 445
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    70604.83,
+    70812.69
+   ],
+   "page": 445
+  },
+  {
+   "label": "Current Tax Liabilities (net)",
+   "values": [
+    6392.4,
+    6423.16
+   ],
+   "page": 445
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    1687953.08,
+    1668446.18
+   ],
+   "page": 445
+  },
+  {
+   "label": "Liabilities directly associated with assets/ disposal group classified as held for sale",
+   "values": [
+    932.84,
+    null
+   ],
+   "page": 445
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    3822119.1,
+    3844937.59
+   ],
+   "page": 445
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    7919051.8,
+    7587288.76
+   ],
+   "page": 445
+  }
+ ],
+ "notes": "Statement spans p445-p446 (1-based); complete. Serial markers (I., (1), (a), (i), a), '-') dropped. 'Acquisition cost' (intangible under development) and 'Finance lease receivables' print '-' in both years."
+}

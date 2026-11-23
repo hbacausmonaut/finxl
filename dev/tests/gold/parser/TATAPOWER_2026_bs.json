@@ -1,0 +1,522 @@
+{
+ "ticker": "TATAPOWER",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 244,
+   "name": "245R",
+   "clip": [
+    595.4,
+    0.0,
+    1190.9,
+    841.7
+   ]
+  },
+  {
+   "page": 245,
+   "name": "246L",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    841.7
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, Plant and Equipment",
+   "values": [
+    78870.54,
+    70261.38
+   ]
+  },
+  {
+   "label": "Right of Use Assets",
+   "values": [
+    5525.44,
+    5089.89
+   ]
+  },
+  {
+   "label": "Capital Work-in-Progress",
+   "values": [
+    14595.13,
+    12678.87
+   ]
+  },
+  {
+   "label": "Goodwill a",
+   "values": [
+    1651.46,
+    1651.46
+   ]
+  },
+  {
+   "label": "Other Intangible Assets b",
+   "values": [
+    1245.25,
+    1371.7
+   ]
+  },
+  {
+   "label": "Investments accounted for using the Equity Method a & b",
+   "values": [
+    13549.05,
+    12894.22
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Other Investments c",
+   "values": [
+    1669.37,
+    2119.75
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    1599.35,
+    1223.02
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    37.14,
+    2.0
+   ]
+  },
+  {
+   "label": "Finance Lease Receivables",
+   "values": [
+    837.84,
+    526.98
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    3522.62,
+    2168.98
+   ]
+  },
+  {
+   "label": "Non-current Tax Assets (Net)",
+   "values": [
+    960.96,
+    745.78
+   ]
+  },
+  {
+   "label": "Deferred Tax Assets (Net)",
+   "values": [
+    607.54,
+    517.99
+   ]
+  },
+  {
+   "label": "Other Non-current Assets",
+   "values": [
+    10635.84,
+    8393.8
+   ]
+  },
+  {
+   "label": "Total Non-current Assets",
+   "values": [
+    135307.53,
+    119645.82
+   ]
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    5107.64,
+    4571.82
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    1356.12,
+    1302.42
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    4423.96,
+    5709.78
+   ]
+  },
+  {
+   "label": "Unbilled Revenue",
+   "values": [
+    2842.63,
+    2737.06
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents a",
+   "values": [
+    4409.67,
+    4862.47
+   ]
+  },
+  {
+   "label": "Bank Balances other than (iv) above b",
+   "values": [
+    9234.33,
+    6888.51
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    19.8,
+    12.34
+   ]
+  },
+  {
+   "label": "Finance Lease Receivables",
+   "values": [
+    86.65,
+    74.47
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    1316.67,
+    656.48
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    1773.58,
+    1941.3
+   ]
+  },
+  {
+   "label": "Total Current Assets",
+   "values": [
+    30571.05,
+    28756.65
+   ]
+  },
+  {
+   "label": "Assets Classified as Held For Sale a",
+   "values": [
+    1153.75,
+    1145.21
+   ]
+  },
+  {
+   "label": "Total Assets before Regulatory Deferral Account",
+   "values": [
+    167032.33,
+    149547.68
+   ]
+  },
+  {
+   "label": "Regulatory Deferral Account - Assets",
+   "values": [
+    8139.45,
+    7163.61
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    175171.78,
+    156711.29
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity Share Capital",
+   "values": [
+    319.56,
+    319.56
+   ]
+  },
+  {
+   "label": "Other Equity",
+   "values": [
+    39147.65,
+    35521.11
+   ]
+  },
+  {
+   "label": "Equity attributable to Shareholders of the Parent Company",
+   "values": [
+    39467.21,
+    35840.67
+   ]
+  },
+  {
+   "label": "Non-controlling Interests",
+   "values": [
+    8070.86,
+    6765.37
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    47538.07,
+    42606.04
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    61608.57,
+    44129.72
+   ]
+  },
+  {
+   "label": "(ia) Lease Liabilities",
+   "values": [
+    4549.94,
+    4196.21
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities a",
+   "values": [
+    694.64,
+    674.12
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    3213.85,
+    2548.69
+   ]
+  },
+  {
+   "label": "Deferred Tax Liabilities (Net) b",
+   "values": [
+    4807.88,
+    4104.12
+   ]
+  },
+  {
+   "label": "Other Non-current Liabilities",
+   "values": [
+    13411.97,
+    12930.57
+   ]
+  },
+  {
+   "label": "Total Non-current Liabilities",
+   "values": [
+    88286.85,
+    68583.43
+   ]
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    9513.82,
+    14015.84
+   ]
+  },
+  {
+   "label": "(ia) Lease Liabilities",
+   "values": [
+    468.94,
+    524.03
+   ]
+  },
+  {
+   "label": "Acceptances b",
+   "values": [
+    3647.97,
+    5129.93
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    809.84,
+    784.21
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    6328.39,
+    8070.34
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities a",
+   "values": [
+    13897.6,
+    12427.03
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    680.44,
+    437.56
+   ]
+  },
+  {
+   "label": "Current Tax Liabilities (Net)",
+   "values": [
+    185.42,
+    208.2
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    3691.15,
+    3672.38
+   ]
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    39223.57,
+    45269.52
+   ]
+  },
+  {
+   "label": "Liabilities directly associated with Assets Classified as Held For Sale b",
+   "values": [
+    114.24,
+    113.56
+   ]
+  },
+  {
+   "label": "Total Liabilities before Regulatory Deferral Account",
+   "values": [
+    127624.66,
+    113966.51
+   ]
+  },
+  {
+   "label": "Regulatory Deferral Account - Liability",
+   "values": [
+    9.05,
+    138.74
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    175171.78,
+    156711.29
+   ]
+  }
+ ],
+ "pdf": "TATAPOWER/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a5491ca0-092d-4f99-a329-c62579cc6ef2.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

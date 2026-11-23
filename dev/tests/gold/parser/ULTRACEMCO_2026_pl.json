@@ -1,0 +1,330 @@
+{
+ "ticker": "ULTRACEMCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 258,
+   "name": "259R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    773.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    88511.53,
+    75955.13
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    577.51,
+    744.17
+   ]
+  },
+  {
+   "label": "TOTAL INCOME (I)",
+   "values": [
+    89089.04,
+    76699.3
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of Materials Consumed",
+   "values": [
+    14568.44,
+    11821.72
+   ]
+  },
+  {
+   "label": "Purchases of Stock-in-Trade",
+   "values": [
+    2516.57,
+    1869.74
+   ]
+  },
+  {
+   "label": "Changes in Inventories of Finished Goods, Stock-in-Trade and Work-in-Progress",
+   "values": [
+    103.35,
+    12.27
+   ]
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    4162.44,
+    3604.59
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    1871.71,
+    1650.54
+   ]
+  },
+  {
+   "label": "Depreciation and Amortisation Expense",
+   "values": [
+    4644.46,
+    4014.95
+   ]
+  },
+  {
+   "label": "Power and Fuel Expense",
+   "values": [
+    19597.16,
+    18419.15
+   ]
+  },
+  {
+   "label": "Freight and Forwarding Expense",
+   "values": [
+    19169.13,
+    17459.83
+   ]
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    11374.21,
+    10210.38
+   ]
+  },
+  {
+   "label": "TOTAL EXPENSES (II)",
+   "values": [
+    78007.47,
+    69063.17
+   ]
+  },
+  {
+   "label": "Profit before Exceptional Items, Share in Profit / (Loss) of Associates and Joint Venture and Tax expense (I)-(II)",
+   "values": [
+    11081.57,
+    7636.13
+   ]
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Provision for Impairment in value of Investment",
+   "values": [
+    50.07,
+    9.35
+   ]
+  },
+  {
+   "label": "Statutory Impact of New Labour Codes",
+   "values": [
+    88.48,
+    null
+   ]
+  },
+  {
+   "label": "Stamp duty on Business Combination",
+   "values": [
+    null,
+    88.08
+   ]
+  },
+  {
+   "label": "Profit before Share in Profit / (Loss) of Associates and Joint Venture and Tax Expense",
+   "values": [
+    10943.02,
+    7538.7
+   ]
+  },
+  {
+   "label": "Share in Profit / (Loss) of Associate and Joint Venture (net of Tax expense)",
+   "values": [
+    -15.83,
+    -10.57
+   ]
+  },
+  {
+   "label": "Profit before Tax Expense",
+   "values": [
+    10927.19,
+    7528.13
+   ]
+  },
+  {
+   "label": "Tax Expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax Charge",
+   "values": [
+    2313.62,
+    828.29
+   ]
+  },
+  {
+   "label": "Deferred Tax Charge &",
+   "values": [
+    425.22,
+    660.2
+   ]
+  },
+  {
+   "label": "Total Tax Expense",
+   "values": [
+    2738.84,
+    1488.49
+   ]
+  },
+  {
+   "label": "Profit for the period (III)",
+   "values": [
+    8188.35,
+    6039.64
+   ]
+  },
+  {
+   "label": "Profit / (Loss) attributable to Non-Controlling Interest",
+   "values": [
+    22.71,
+    0.53
+   ]
+  },
+  {
+   "label": "Profit attributable to Owners of the Parent",
+   "values": [
+    8165.64,
+    6039.11
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income/(Loss)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "A (i) Items that will not be reclassified to Profit or Loss",
+   "values": [
+    -60.27,
+    701.86
+   ]
+  },
+  {
+   "label": "Income Tax Relating to Items that will not be reclassified to Profit or Loss",
+   "values": [
+    14.7,
+    -98.83
+   ]
+  },
+  {
+   "label": "B (i) Items that will be reclassified to Profit or Loss",
+   "values": [
+    122.67,
+    80.64
+   ]
+  },
+  {
+   "label": "Income Tax Relating to Items that will be reclassified to Profit or Loss",
+   "values": [
+    79.03,
+    -11.86
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income/ (Loss) for the Year (IV)",
+   "values": [
+    156.13,
+    671.81
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income/ (Loss) attributable to Non-Controlling Interest",
+   "values": [
+    121.67,
+    33.54
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income/ (Loss) attributable to Owners of the Parent",
+   "values": [
+    34.46,
+    638.27
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the Year",
+   "values": [
+    8344.48,
+    6711.45
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income/ (Loss) attributable to Non-Controlling Interest",
+   "values": [
+    144.38,
+    34.07
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income/ (Loss) attributable to Owners of the Parent",
+   "values": [
+    8200.1,
+    6677.38
+   ]
+  },
+  {
+   "label": "Earnings Per Equity Share (Face Value ` 10 each)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in ` )",
+   "values": [
+    277.62,
+    205.3
+   ]
+  },
+  {
+   "label": "Diluted (in ` )",
+   "values": [
+    277.45,
+    205.13
+   ]
+  }
+ ],
+ "pdf": "ULTRACEMCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1551898a-ebd8-40be-960b-1b16f0a1af60.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

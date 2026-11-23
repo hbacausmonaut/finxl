@@ -1,0 +1,445 @@
+{
+ "ticker": "SUNPHARMA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 242,
+   "name": "243",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 243,
+   "name": "244",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    584620.4,
+    525784.4
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    19717.2,
+    19650.4
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    604337.6,
+    545434.8
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    73890.2,
+    64491.0
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    38115.3,
+    41479.5
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, stock-in-trade and work-in-progress",
+   "values": [
+    3431.3,
+    1503.1
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    114188.6,
+    99731.2
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    3389.1,
+    2313.6
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense (A & B)",
+   "values": [
+    29378.5,
+    25753.9
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    190082.8,
+    167718.0
+   ]
+  },
+  {
+   "label": "Net (gain) / loss on foreign currency transactions",
+   "values": [
+    -12401.8,
+    -1855.3
+   ]
+  },
+  {
+   "label": "Total expenses (IV)",
+   "values": [
+    440074.0,
+    401135.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional items and tax (III - IV)",
+   "values": [
+    164263.6,
+    144299.8
+   ]
+  },
+  {
+   "label": "Exceptional items",
+   "values": [
+    13074.8,
+    6778.5
+   ]
+  },
+  {
+   "label": "Profit before tax (V - VI)",
+   "values": [
+    151188.8,
+    137521.3
+   ]
+  },
+  {
+   "label": "Tax expense / (credit)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    41978.3,
+    33200.5
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -2580.7,
+    -9255.0
+   ]
+  },
+  {
+   "label": "Tax on exceptional items",
+   "values": [
+    -3854.0,
+    3774.8
+   ]
+  },
+  {
+   "label": "Total tax expense (VIII) &",
+   "values": [
+    35543.6,
+    27720.3
+   ]
+  },
+  {
+   "label": "Profit for the year before share of profit/(loss) of associates and joint venture (VII-VIII)",
+   "values": [
+    115645.2,
+    109801.0
+   ]
+  },
+  {
+   "label": "Share of profit/(loss) of associates (net of tax)",
+   "values": [
+    -435.3,
+    -252.2
+   ]
+  },
+  {
+   "label": "Share of profit/(loss) of joint venture (net of tax)",
+   "values": [
+    -123.4,
+    98.7
+   ]
+  },
+  {
+   "label": "Profit for the year before non-controlling interests",
+   "values": [
+    115086.5,
+    109647.5
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    292.3,
+    357.1
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to owners of the parent company (XII-XIII)",
+   "values": [
+    114794.2,
+    109290.4
+   ]
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Gain/ (loss) on remeasurement of the defined benefit plans",
+   "values": [
+    164.9,
+    -394.3
+   ]
+  },
+  {
+   "label": "Income tax on above",
+   "values": [
+    -60.9,
+    137.7
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    104.0,
+    -256.6
+   ]
+  },
+  {
+   "label": "Gain/ (loss) on equity instruments measured at fair value through other comprehensive income",
+   "values": [
+    2864.5,
+    -56.7
+   ]
+  },
+  {
+   "label": "Income tax on above",
+   "values": [
+    -1067.1,
+    -22.1
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1797.4,
+    -78.8
+   ]
+  },
+  {
+   "label": "Total (A)",
+   "values": [
+    1901.4,
+    -335.4
+   ]
+  },
+  {
+   "label": "Items that may be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Gain/ (loss) on debt instruments measured at fair value through other comprehensive income",
+   "values": [
+    -6.7,
+    562.5
+   ]
+  },
+  {
+   "label": "Income tax on above",
+   "values": [
+    1.5,
+    -55.1
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -5.2,
+    507.4
+   ]
+  },
+  {
+   "label": "Effective portion of gain/ (loss) on designated portion of hedging instruments in a cash flow hedge",
+   "values": [
+    -2862.8,
+    -74.4
+   ]
+  },
+  {
+   "label": "Income tax on above",
+   "values": [
+    720.5,
+    62.9
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -2142.3,
+    -11.5
+   ]
+  },
+  {
+   "label": "Exchange differences in translating the financial statements of foreign operations",
+   "values": [
+    37840.5,
+    9731.2
+   ]
+  },
+  {
+   "label": "Exchange differences on translation of net investment in foreign operations",
+   "values": [
+    673.0,
+    -767.6
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    38513.5,
+    8963.6
+   ]
+  },
+  {
+   "label": "Total (B)",
+   "values": [
+    36366.0,
+    9459.5
+   ]
+  },
+  {
+   "label": "Total other comprehensive income",
+   "values": [
+    38267.4,
+    9124.1
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    153353.9,
+    118771.6
+   ]
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the parent company",
+   "values": [
+    38016.9,
+    9098.6
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    250.5,
+    25.5
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the parent company",
+   "values": [
+    152811.1,
+    118389.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    542.8,
+    382.6
+   ]
+  },
+  {
+   "label": "Earnings per equity share (face value per equity share - ` 1) 51",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in `)",
+   "values": [
+    47.8,
+    45.6
+   ]
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    47.8,
+    45.6
+   ]
+  }
+ ],
+ "pdf": "SUNPHARMA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb65dea5-416a-4f98-95e2-0b58761b7442.pdf",
+ "parsed_at": "2026-11-04 11:18 UTC"
+}

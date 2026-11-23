@@ -1,0 +1,469 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "CERA",
+ "fy": 2026,
+ "scope": "standalone",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 147,
+   "name": "148",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "CERA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/903e8d5c-0373-4a07-9b1d-13920a29c910.pdf",
+ "unit": "lakh",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non- current Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Property, Plant and Equipment",
+   "values": [
+    33096.25,
+    33459.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    719.53,
+    1072.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment Property",
+   "values": [
+    108.8,
+    149.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    3953.6,
+    4326.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    48.04,
+    61.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments in Subsidiaries",
+   "values": [
+    null,
+    600.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Investments",
+   "values": [
+    1380.71,
+    2393.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    354.68,
+    471.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Non-current Assets",
+   "values": [
+    250.26,
+    579.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Non-current Assets",
+   "values": [
+    39911.87,
+    43114.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    39576.56,
+    40581.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    80120.32,
+    67174.19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    27386.93,
+    26796.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents",
+   "values": [
+    1284.72,
+    411.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Balances with Banks",
+   "values": [
+    3521.66,
+    2208.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    252.03,
+    291.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    3457.39,
+    3512.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax Assets (Net)",
+   "values": [
+    308.81,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Current Assets",
+   "values": [
+    155908.42,
+    140976.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    195820.29,
+    184091.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity Share Capital",
+   "values": [
+    644.88,
+    644.88
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Equity",
+   "values": [
+    146588.97,
+    134389.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    147233.85,
+    135034.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    3678.73,
+    4009
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    3148.87,
+    3014.46
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    831.97,
+    1043.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred Tax Liabilities (Net)",
+   "values": [
+    4323.85,
+    3885.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Non-current Liabilities",
+   "values": [
+    11983.42,
+    11952.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    87.22,
+    1553.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    903.91,
+    781.88
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    12587.93,
+    8184.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    9405.76,
+    10912.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    9540.08,
+    10043.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    2990.11,
+    3409.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1088.01,
+    1819.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax Liabilities (Net)",
+   "values": [
+    null,
+    400.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    36603.02,
+    37104.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    195820.29,
+    184091.42
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 52,
+  "rows_reader": 52,
+  "rows_aligned": 52,
+  "rows_agreed": 52,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 73,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "lakh",
+  "unit_reader": "lakh"
+ },
+ "mismatches": []
+}

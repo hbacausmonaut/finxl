@@ -1,0 +1,945 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "TITAN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 377,
+   "name": "378",
+   "clip": [
+    0.0,
+    0.0,
+    594.1,
+    742.4
+   ]
+  },
+  {
+   "page": 378,
+   "name": "379",
+   "clip": [
+    0.0,
+    0.0,
+    594.1,
+    742.4
+   ]
+  }
+ ],
+ "pdf": "TITAN/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net profit before tax",
+   "values": [
+    6801,
+    4535
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    826,
+    693
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net unrealised exchange loss",
+   "values": [
+    -9,
+    9
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of the associate",
+   "values": [
+    -1,
+    -1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee stock compensation expense",
+   "values": [
+    78,
+    13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss/(Gain) on disposal of property, plant and equipment (net)",
+   "values": [
+    2,
+    -1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision for doubtful trade receivables (net) and bad trade receivables written off",
+   "values": [
+    11,
+    27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Government grant",
+   "values": [
+    1,
+    1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -279,
+    -288
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain on investments carried at fair value through profit and loss",
+   "values": [
+    -140,
+    -157
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain on pre-closure of lease contracts",
+   "values": [
+    -21,
+    -11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Rent waiver",
+   "values": [
+    -2,
+    1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    1180,
+    953
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    8447,
+    5774
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(increase)/decrease in trade receivables",
+   "values": [
+    210,
+    -95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(increase)/decrease in inventories",
+   "values": [
+    -11592,
+    -9072
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "decrease/(increase) in financial assets-loans",
+   "values": [
+    -8,
+    4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "decrease/(increase) in other financial assets",
+   "values": [
+    -244,
+    75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(increase)/decrease in other assets",
+   "values": [
+    -217,
+    -235
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "increase in gold on loan",
+   "values": [
+    7304,
+    2468
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "increase in trade payables",
+   "values": [
+    472,
+    564
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "increase/(decrease) in other financial liabilities",
+   "values": [
+    1138,
+    663
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "increase/(decrease) in other liabilities",
+   "values": [
+    1773,
+    350
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "increase/(decrease) in provisions",
+   "values": [
+    44,
+    52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operating activities before taxes",
+   "values": [
+    7327,
+    548
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Direct taxes paid, net",
+   "values": [
+    -1737,
+    -1089
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from/(used in) operating activities",
+   "values": [
+    5590,
+    -541
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow from investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of property, plant and equipment, intangible assets and investment property",
+   "values": [
+    -902,
+    -494
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    25,
+    24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in non convertible debentures, certificate of deposits and government securities",
+   "values": [
+    -1120,
+    -663
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from redemption of non convertible debentures, government securities and certificate of deposit",
+   "values": [
+    300,
+    325
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of commercial papers",
+   "values": [
+    -99,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inter-corporate deposits placed",
+   "values": [
+    100,
+    -332
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from inter-corporate deposits",
+   "values": [
+    -100,
+    575
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bank deposits placed",
+   "values": [
+    -5823,
+    -2384
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bank deposits matured",
+   "values": [
+    5738,
+    2332
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of mutual funds",
+   "values": [
+    -20816,
+    -14679
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of mutual funds",
+   "values": [
+    20497,
+    15422
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease payments received from sub-lease (excluding interest received)",
+   "values": [
+    210,
+    132
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consideration paid for business acquisition (net of cash acquired) (refer note 40)",
+   "values": [
+    -1171,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    227,
+    288
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash (used in)/generated from investing activities",
+   "values": [
+    -2934,
+    546
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from long term borrowings",
+   "values": [
+    null,
+    70
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of long term borrowings",
+   "values": [
+    -2632,
+    -378
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from short term borrowings, net",
+   "values": [
+    3314,
+    2529
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -976,
+    -976
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of lease liabilities",
+   "values": [
+    -865,
+    -700
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acquisition of treasury shares",
+   "values": [
+    null,
+    -6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acquisition of non controlling interest",
+   "values": [
+    null,
+    -1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share based payments",
+   "values": [
+    null,
+    -7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs paid",
+   "values": [
+    -1000,
+    -538
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in financing activities",
+   "values": [
+    -2159,
+    -7
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents during the year (A+B+C)",
+   "values": [
+    497,
+    -2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents (opening balance)",
+   "values": [
+    407,
+    409
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Foreign currency translation adjustments",
+   "values": [
+    -31,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Unrealised exchange gain/(loss)*",
+   "values": [
+    0,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents (closing balance)",
+   "values": [
+    873,
+    407
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 77,
+  "rows_reader": 62,
+  "rows_aligned": 62,
+  "rows_agreed": 60,
+  "missing_in_parser": 0,
+  "extra_in_parser": 15,
+  "label_diffs": 2,
+  "value_diffs": 0,
+  "values_reader": 106,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 45,
+   "reader_index": 45,
+   "label_parser": "Net cash (used in)/generated from investing activities B",
+   "label_reader": "Net cash (used in)/generated from investing activities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -2934,
+    "2025": 546
+   },
+   "values_reader": {
+    "2026": -2934,
+    "2025": 546
+   },
+   "page": 377,
+   "search": [
+    "2,934",
+    "546"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 46,
+   "reader_index": null,
+   "label_parser": "Subtotal",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 375
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "375"
+   ],
+   "pattern": "page_furniture",
+   "pattern_text": "Page furniture (navigation strip, page number) read as a row or value"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 57,
+   "reader_index": 56,
+   "label_parser": "Net cash used in financing activities C",
+   "label_reader": "Net cash used in financing activities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -2159,
+    "2025": -7
+   },
+   "values_reader": {
+    "2026": -2159,
+    "2025": -7
+   },
+   "page": 378,
+   "search": [
+    "2,159",
+    "7"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 63,
+   "reader_index": null,
+   "label_parser": "` in crore",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d005",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 64,
+   "reader_index": null,
+   "label_parser": "31st March 2026 31st March",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 2025
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "2,025"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 65,
+   "reader_index": null,
+   "label_parser": "Borrowings &",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d007",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 66,
+   "reader_index": null,
+   "label_parser": "Opening balance",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 10286,
+    "2025": 7838
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "10,286",
+    "7,838"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d008",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 67,
+   "reader_index": null,
+   "label_parser": "Proceeds from long term borrowing",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 70
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "70"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d009",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 68,
+   "reader_index": null,
+   "label_parser": "Repayment of long term borrowing",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -2632,
+    "2025": -378
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "2,632",
+    "378"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d010",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 69,
+   "reader_index": null,
+   "label_parser": "Proceeds from short term borrowings, net",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3314,
+    "2025": 2529
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "3,314",
+    "2,529"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d011",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 70,
+   "reader_index": null,
+   "label_parser": "Non cash changes",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 410,
+    "2025": 227
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "410",
+    "227"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d012",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 71,
+   "reader_index": null,
+   "label_parser": "Closing balance",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 11378,
+    "2025": 10286
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "11,378",
+    "10,286"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d013",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 72,
+   "reader_index": null,
+   "label_parser": "Reconciliation of Lease liability &",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d014",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 73,
+   "reader_index": null,
+   "label_parser": "Opening balance",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2681,
+    "2025": 2349
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "2,681",
+    "2,349"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d015",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 74,
+   "reader_index": null,
+   "label_parser": "Payments made during the year",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -865,
+    "2025": -700
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "865",
+    "700"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d016",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 75,
+   "reader_index": null,
+   "label_parser": "Non-cash changes",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1357,
+    "2025": 1032
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "1,357",
+    "1,032"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d017",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 76,
+   "reader_index": null,
+   "label_parser": "Closing balance",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3173,
+    "2025": 2681
+   },
+   "values_reader": {},
+   "page": 377,
+   "search": [
+    "3,173",
+    "2,681"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ]
+}

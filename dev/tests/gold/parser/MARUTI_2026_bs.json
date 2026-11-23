@@ -1,0 +1,421 @@
+{
+ "ticker": "MARUTI",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 234,
+   "name": "235L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    779.5
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    334197.0,
+    318966.0
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    5998.0,
+    5960.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    94062.0,
+    75272.0
+   ]
+  },
+  {
+   "label": "Intangible assets",
+   "values": [
+    5038.0,
+    4901.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    4321.0,
+    4018.0
+   ]
+  },
+  {
+   "label": "Investments accounted for using the equity method",
+   "values": [
+    25498.0,
+    22998.0
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    588643.0,
+    556280.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    7393.0,
+    3003.0
+   ]
+  },
+  {
+   "label": "Non-current tax assets (Net)",
+   "values": [
+    5259.0,
+    4969.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets (Net)",
+   "values": [
+    7.0,
+    6.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    28819.0,
+    28102.0
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    1099236.0,
+    1024476.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    113206.0,
+    69132.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    154244.0,
+    83376.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    53420.0,
+    65397.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    669.0,
+    1845.0
+   ]
+  },
+  {
+   "label": "Bank balances other than (11.1) above",
+   "values": [
+    15131.0,
+    3684.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    441.0,
+    432.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    3414.0,
+    28752.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    48843.0,
+    32866.0
+   ]
+  },
+  {
+   "label": "Assets classified as held for sale",
+   "values": [
+    206.0,
+    203.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    389574.0,
+    285687.0
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    1488810.0,
+    1310163.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    1572.0,
+    1572.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    1069991.0,
+    960827.0
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    1071563.0,
+    962399.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    628.0,
+    586.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    5.0,
+    5.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1060.0,
+    1260.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (Net)",
+   "values": [
+    18005.0,
+    15944.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    32747.0,
+    33819.0
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    52445.0,
+    51614.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    397.0,
+    284.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro and small enterprises",
+   "values": [
+    2612.0,
+    2056.0
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro and small enterprises",
+   "values": [
+    218726.0,
+    167165.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    66008.0,
+    65304.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    42465.0,
+    32958.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    20692.0,
+    15646.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (Net)",
+   "values": [
+    13902.0,
+    12737.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    364802.0,
+    296150.0
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    417247.0,
+    347764.0
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    1488810.0,
+    1310163.0
+   ]
+  }
+ ],
+ "pdf": "MARUTI\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf",
+ "parsed_at": "2026-11-05 11:55 UTC"
+}

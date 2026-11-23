@@ -1,0 +1,337 @@
+{
+ "ticker": "APOLLOHOSP",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 181,
+   "name": "182R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    252285.0,
+    217940.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1916.0,
+    2003.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    254201.0,
+    219943.0
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    30408.0,
+    27544.0
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    100564.0,
+    85567.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of stock-in-trade",
+   "values": [
+    -216.0,
+    -11.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    30003.0,
+    27692.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    4496.0,
+    4585.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    8761.0,
+    7575.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    53833.0,
+    46930.0
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    227849.0,
+    199882.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional items, share of net profits of investments accounted for using equity method and tax",
+   "values": [
+    26352.0,
+    20061.0
+   ]
+  },
+  {
+   "label": "Share of net profit of associates and joint ventures accounted for using the equity method",
+   "values": [
+    449.0,
+    330.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    26801.0,
+    20391.0
+   ]
+  },
+  {
+   "label": "Exceptional items",
+   "values": [
+    -192.0,
+    null
+   ]
+  },
+  {
+   "label": "Profit before taxes",
+   "values": [
+    26609.0,
+    20391.0
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Current tax",
+   "values": [
+    6293.0,
+    5263.0
+   ]
+  },
+  {
+   "label": "(2) Deferred tax",
+   "values": [
+    289.0,
+    77.0
+   ]
+  },
+  {
+   "label": "Total tax expenses",
+   "values": [
+    6582.0,
+    5340.0
+   ]
+  },
+  {
+   "label": "Profit after tax",
+   "values": [
+    20027.0,
+    15051.0
+   ]
+  },
+  {
+   "label": "Other Comprehensive income/(loss)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement of the defined benefit plans",
+   "values": [
+    -116.0,
+    -84.0
+   ]
+  },
+  {
+   "label": "Fair value gain/(loss) on investments in equity instruments designated as at fair value through other comprehensive income (FVTOCI)",
+   "values": [
+    735.0,
+    -2.0
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values": [
+    -64.0,
+    17.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange differences in translation of foreign operations",
+   "values": [
+    29.0,
+    6.0
+   ]
+  },
+  {
+   "label": "Total other comprehensive income/(loss)",
+   "values": [
+    584.0,
+    -63.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the Year",
+   "values": [
+    20611.0,
+    14988.0
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    19417.0,
+    14459.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    610.0,
+    592.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    577.0,
+    -50.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    7.0,
+    -13.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    19994.0,
+    14409.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    617.0,
+    579.0
+   ]
+  },
+  {
+   "label": "Earnings per equity share of par value of ` 5 each",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in `)",
+   "values": [
+    135.04,
+    100.56
+   ]
+  },
+  {
+   "label": "Diluted (in `)",
+   "values": [
+    134.94,
+    100.56
+   ]
+  }
+ ],
+ "pdf": "APOLLOHOSP/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f9b40997-8116-48ba-949a-ca2e7775e3c2.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

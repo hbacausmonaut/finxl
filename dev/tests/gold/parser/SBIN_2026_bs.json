@@ -1,0 +1,155 @@
+{
+ "ticker": "SBIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 304,
+   "name": "305",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CAPITAL AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Capital",
+   "values": [
+    9230618.0,
+    8924620.0
+   ]
+  },
+  {
+   "label": "Reserves & Surplus",
+   "values": [
+    5952078076.0,
+    4861442967.0
+   ]
+  },
+  {
+   "label": "Minority Interest",
+   "values": [
+    187682823.0,
+    180258388.0
+   ]
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    60430971228.0,
+    54398980191.0
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    7773021450.0,
+    6108572450.0
+   ]
+  },
+  {
+   "label": "Other Liabilities and Provisions",
+   "values": [
+    8862701547.0,
+    7583674792.0
+   ]
+  },
+  {
+   "label": "Total capital and liabilities",
+   "values": [
+    83215685742.0,
+    73141853408.0
+   ]
+  },
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Balances with Reserve Bank of India",
+   "values": [
+    2686817368.0,
+    2274851569.0
+   ]
+  },
+  {
+   "label": "Balances with Banks and Money at Call & Short Notice",
+   "values": [
+    1331614726.0,
+    1304477859.0
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    23595021713.0,
+    22056011083.0
+   ]
+  },
+  {
+   "label": "Advances",
+   "values": [
+    49780132068.0,
+    42508307364.0
+   ]
+  },
+  {
+   "label": "Fixed Assets",
+   "values": [
+    571521013.0,
+    463376954.0
+   ]
+  },
+  {
+   "label": "Other Assets",
+   "values": [
+    5250578854.0,
+    4534828579.0
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    83215685742.0,
+    73141853408.0
+   ]
+  },
+  {
+   "label": "Contingent Liabilities",
+   "values": [
+    42411266054.0,
+    26781115407.0
+   ]
+  },
+  {
+   "label": "Bills for Collection",
+   "values": [
+    1117030157.0,
+    644725617.0
+   ]
+  }
+ ],
+ "pdf": "SBIN\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf",
+ "parsed_at": "2026-11-05 11:52 UTC"
+}

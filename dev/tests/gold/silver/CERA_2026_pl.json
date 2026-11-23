@@ -1,0 +1,285 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "CERA",
+ "fy": 2026,
+ "scope": "standalone",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 148,
+   "name": "149",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "CERA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/903e8d5c-0373-4a07-9b1d-13920a29c910.pdf",
+ "unit": "lakh",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    205011.98,
+    191525.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    5285.91,
+    6249.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    210297.89,
+    197774.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of Materials Consumed",
+   "values": [
+    26625.14,
+    25172.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of Stock-in-Trade",
+   "values": [
+    75941.12,
+    69457.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in Inventories of Finished Goods, Stock-in-Trade and Work-in-Progress",
+   "values": [
+    1264.12,
+    -3669.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    25943.24,
+    24154.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    646.78,
+    711.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and Amortization Expense",
+   "values": [
+    3865.75,
+    3851.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    48319.81,
+    47336.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    182605.96,
+    167015.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    27691.93,
+    30759.67
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    -780.68,
+    -150.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    26911.25,
+    30609.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax Expense :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    6054.27,
+    6721.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    438.42,
+    -761.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Tax Expense",
+   "values": [
+    6492.69,
+    5960.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    20418.56,
+    24648.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss remeasurements of the defined benefit plans",
+   "values": [
+    42.64,
+    -119.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values": [
+    -10.73,
+    29.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Other Comprehensive Income for the year (Net of Tax)",
+   "values": [
+    31.91,
+    -89.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income for the year",
+   "values": [
+    20450.47,
+    24559.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share of face value of Rs. 5/- each",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (in Rs.)",
+   "values": [
+    158.31,
+    190.4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (in Rs.)",
+   "values": [
+    158.31,
+    190.4
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 29,
+  "rows_reader": 29,
+  "rows_aligned": 29,
+  "rows_agreed": 29,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 48,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "lakh",
+  "unit_reader": "lakh"
+ },
+ "mismatches": []
+}

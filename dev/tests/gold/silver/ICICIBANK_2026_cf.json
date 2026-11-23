@@ -1,0 +1,512 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "ICICIBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 374,
+   "name": "375",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flow from/(used in) operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/(loss) before taxes",
+   "values": [
+    735916383,
+    694640235
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation",
+   "values": [
+    31226502,
+    26903750
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net (appreciation)/depreciation on investments",
+   "values": [
+    2903439,
+    -1023190
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Specific provision for non-performing loans, restructured and standard loans",
+   "values": [
+    62768188,
+    41272474
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "General provision for standard assets",
+   "values": [
+    8355345,
+    7011427
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision for contingencies & others",
+   "values": [
+    -8675607,
+    -7227370
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Profit)/loss on sale of fixed assets and other assets",
+   "values": [
+    -2886200,
+    -439077
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employees stock options/units expense",
+   "values": [
+    9687013,
+    7901495
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(i)",
+   "values": [
+    839295063,
+    769039744
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in investments",
+   "values": [
+    60753099,
+    75014144
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in advances",
+   "values": [
+    -2302710742,
+    -1640197486
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in deposits",
+   "values": [
+    1883800653,
+    1980574515
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in other assets",
+   "values": [
+    -134938285,
+    -5176415
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in other liabilities and provisions",
+   "values": [
+    492533925,
+    229962676
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "(ii)",
+   "values": [
+    -561350,
+    640177434
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Refund/(payment) of direct taxes",
+   "values": [
+    -165479524,
+    -181164596
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flow from/(used in) operating activities (i)+(ii)+(iii)",
+   "values": [
+    673254189,
+    1228052582
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow from/(used in) investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of fixed assets",
+   "values": [
+    -37299949,
+    -47700055
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of fixed assets",
+   "values": [
+    1829389,
+    646115
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Purchase)/sale of held to maturity securities",
+   "values": [
+    -94665319,
+    -725829665
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flow from/(used in) investing activities",
+   "values": [
+    -130135879,
+    -772883605
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash flow from/(used in) financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of share capital (including ESOPs/ESUSs)",
+   "values": [
+    13606496,
+    14375199
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from long-term borrowings",
+   "values": [
+    481787715,
+    404464948
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of long-term borrowings",
+   "values": [
+    -501532043,
+    -399331062
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net proceeds/(repayment) of short-term borrowings",
+   "values": [
+    38063900,
+    106795922
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -78531534,
+    -70412665
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flow from/(used in) financing activities",
+   "values": [
+    -46605466,
+    55892342
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Effect of exchange fluctuation on translation reserve",
+   "values": [
+    13059752,
+    1484292
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents (A)+(B)+(C)+(D)",
+   "values": [
+    509572596,
+    512545611
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash and cash equivalents at beginning of the year",
+   "values": [
+    2140234637,
+    1627689026
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash and cash equivalents at end of the year",
+   "values": [
+    2649807233,
+    2140234637
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 32,
+  "rows_reader": 36,
+  "rows_aligned": 32,
+  "rows_agreed": 29,
+  "missing_in_parser": 4,
+  "extra_in_parser": 0,
+  "label_diffs": 3,
+  "value_diffs": 0,
+  "values_reader": 62,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "thousand",
+  "unit_reader": "thousand"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 16,
+   "reader_index": 16,
+   "label_parser": "Increase/(decrease) in other liabilities and provisions1",
+   "label_reader": "Increase/(decrease) in other liabilities and provisions",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 492533925,
+    "2025": 229962676
+   },
+   "values_reader": {
+    "2026": 492533925,
+    "2025": 229962676
+   },
+   "page": 374,
+   "search": [
+    "49,25,33,925",
+    "22,99,62,676"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 24,
+   "reader_index": 24,
+   "label_parser": "Net cash flow from/(used in) investing activities (B)",
+   "label_reader": "Net cash flow from/(used in) investing activities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -130135879,
+    "2025": -772883605
+   },
+   "values_reader": {
+    "2026": -130135879,
+    "2025": -772883605
+   },
+   "page": 374,
+   "search": [
+    "13,01,35,879",
+    "77,28,83,605"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 31,
+   "reader_index": 31,
+   "label_parser": "Net cash flow from/(used in) financing activities (C)",
+   "label_reader": "Net cash flow from/(used in) financing activities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -46605466,
+    "2025": 55892342
+   },
+   "values_reader": {
+    "2026": -46605466,
+    "2025": 55892342
+   },
+   "page": 374,
+   "search": [
+    "4,66,05,466",
+    "5,58,92,342"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d004",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 32,
+   "label_parser": null,
+   "label_reader": "Effect of exchange fluctuation on translation reserve",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 13059752,
+    "2025": 1484292
+   },
+   "page": 375,
+   "search": [
+    "1,30,59,752",
+    "14,84,292"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d005",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 33,
+   "label_parser": null,
+   "label_reader": "Net increase/(decrease) in cash and cash equivalents (A)+(B)+(C)+(D)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 509572596,
+    "2025": 512545611
+   },
+   "page": 375,
+   "search": [
+    "50,95,72,596",
+    "51,25,45,611"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d006",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 34,
+   "label_parser": null,
+   "label_reader": "Cash and cash equivalents at beginning of the year",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 2140234637,
+    "2025": 1627689026
+   },
+   "page": 375,
+   "search": [
+    "2,14,02,34,637",
+    "1,62,76,89,026"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d007",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 35,
+   "label_parser": null,
+   "label_reader": "Cash and cash equivalents at end of the year",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 2649807233,
+    "2025": 2140234637
+   },
+   "page": 375,
+   "search": [
+    "2,64,98,07,233",
+    "2,14,02,34,637"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  }
+ ]
+}

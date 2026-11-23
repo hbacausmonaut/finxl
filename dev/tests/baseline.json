@@ -1,0 +1,702 @@
+{
+ "ADANIPORTS": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 58
+ },
+ "AJANTPHARM": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "APOLLOHOSP": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "ASIANPAINT": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "ASTRAL": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "AUBANK": {
+  "check": 7,
+  "compared": 32,
+  "missing": 8,
+  "ok": 21,
+  "verified": 29
+ },
+ "AXISBANK": {
+  "check": 0,
+  "compared": 56,
+  "missing": 0,
+  "ok": 36,
+  "verified": 54
+ },
+ "BAJAJ-AUTO": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "BAJAJFINSV": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "BAJFINANCE": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "BALKRISIND": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "BANKBARODA": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 54
+ },
+ "BEL": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "BHARTIARTL": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 62
+ },
+ "BLUEDART": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 44
+ },
+ "BPCL": {
+  "check": 2,
+  "compared": 64,
+  "missing": 0,
+  "ok": 40,
+  "verified": 62
+ },
+ "BRITANNIA": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "CDSL": {
+  "check": 0,
+  "compared": 48,
+  "missing": 0,
+  "ok": 24,
+  "verified": 42
+ },
+ "CERA": {
+  "check": 0,
+  "compared": 60,
+  "missing": 0,
+  "ok": 39,
+  "verified": 60
+ },
+ "CHOLAFIN": {
+  "check": 0,
+  "compared": 63,
+  "missing": 1,
+  "ok": 41,
+  "verified": 63
+ },
+ "CIPLA": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 57
+ },
+ "COALINDIA": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "CROMPTON": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "CUMMINSIND": {
+  "check": 3,
+  "compared": 63,
+  "missing": 1,
+  "ok": 38,
+  "verified": 59
+ },
+ "DABUR": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "DEEPAKNTR": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "DIXON": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 48
+ },
+ "DLF": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "DMART": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "DRREDDY": {
+  "check": 1,
+  "compared": 64,
+  "missing": 2,
+  "ok": 39,
+  "verified": 62
+ },
+ "EICHERMOT": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 61
+ },
+ "FEDERALBNK": {
+  "check": 1,
+  "compared": 61,
+  "missing": 1,
+  "ok": 40,
+  "verified": 59
+ },
+ "FINEORG": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "GODREJPROP": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 61
+ },
+ "GRASIM": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 59
+ },
+ "HAVELLS": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "HCLTECH": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "HDFCAMC": {
+  "check": 0,
+  "compared": 48,
+  "missing": 0,
+  "ok": 33,
+  "verified": 36
+ },
+ "HDFCBANK": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "HDFCLIFE": {
+  "check": 1,
+  "compared": 64,
+  "missing": 0,
+  "ok": 47,
+  "verified": 33
+ },
+ "HEROMOTOCO": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "HINDALCO": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "HINDUNILVR": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "ICICIBANK": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 59
+ },
+ "ICICIGI": {
+  "check": 5,
+  "compared": 29,
+  "missing": 11,
+  "ok": 24,
+  "verified": 12
+ },
+ "IGL": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "INDHOTEL": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "INDIGO": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 62
+ },
+ "INFY": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 36,
+  "verified": 56
+ },
+ "IRCTC": {
+  "check": 10,
+  "compared": 48,
+  "missing": 0,
+  "ok": 20,
+  "verified": 36
+ },
+ "ITC": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "JSWSTEEL": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 59
+ },
+ "KAJARIACER": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 62
+ },
+ "KOTAKBANK": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 57
+ },
+ "KPITTECH": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "KPRMILL": {
+  "check": 1,
+  "compared": 64,
+  "missing": 0,
+  "ok": 41,
+  "verified": 62
+ },
+ "LALPATHLAB": {
+  "check": 0,
+  "compared": 63,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "LICHSGFIN": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 59
+ },
+ "LT": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 56
+ },
+ "LUPIN": {
+  "check": 0,
+  "compared": 60,
+  "missing": 2,
+  "ok": 40,
+  "verified": 49
+ },
+ "MARICO": {
+  "check": 2,
+  "compared": 64,
+  "missing": 0,
+  "ok": 40,
+  "verified": 61
+ },
+ "MARUTI": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "MASTEK": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "MAXHEALTH": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 61
+ },
+ "MOTHERSON": {
+  "check": 2,
+  "compared": 61,
+  "missing": 4,
+  "ok": 36,
+  "verified": 42
+ },
+ "MUTHOOTFIN": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 62
+ },
+ "NESTLEIND": {
+  "check": 0,
+  "compared": 24,
+  "missing": 0,
+  "ok": 24,
+  "verified": 24
+ },
+ "NTPC": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 59
+ },
+ "OBEROIRLTY": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "ONGC": {
+  "check": 2,
+  "compared": 62,
+  "missing": 0,
+  "ok": 40,
+  "verified": 58
+ },
+ "PAGEIND": {
+  "check": 1,
+  "compared": 32,
+  "missing": 0,
+  "ok": 20,
+  "verified": 32
+ },
+ "PERSISTENT": {
+  "check": 1,
+  "compared": 64,
+  "missing": 0,
+  "ok": 41,
+  "verified": 64
+ },
+ "PETRONET": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 59
+ },
+ "PIDILITIND": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "PIIND": {
+  "check": 0,
+  "compared": 63,
+  "missing": 2,
+  "ok": 40,
+  "verified": 63
+ },
+ "POWERGRID": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 36,
+  "verified": 62
+ },
+ "RELAXO": {
+  "check": 0,
+  "compared": 32,
+  "missing": 0,
+  "ok": 21,
+  "verified": 32
+ },
+ "RELIANCE": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 61
+ },
+ "SBILIFE": {
+  "check": 1,
+  "compared": 32,
+  "missing": 0,
+  "ok": 27,
+  "verified": 18
+ },
+ "SBIN": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "SHREECEM": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "SHRIRAMFIN": {
+  "check": 1,
+  "compared": 64,
+  "missing": 0,
+  "ok": 41,
+  "verified": 61
+ },
+ "SIEMENS": {
+  "check": 0,
+  "compared": 46,
+  "missing": 0,
+  "ok": 36,
+  "verified": 44
+ },
+ "SRF": {
+  "check": 2,
+  "compared": 62,
+  "missing": 2,
+  "ok": 38,
+  "verified": 48
+ },
+ "SUNPHARMA": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "SUNTV": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "SYMPHONY": {
+  "check": 2,
+  "compared": 64,
+  "missing": 0,
+  "ok": 40,
+  "verified": 61
+ },
+ "TATAPOWER": {
+  "check": 4,
+  "compared": 64,
+  "missing": 0,
+  "ok": 38,
+  "verified": 55
+ },
+ "TATASTEEL": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 57
+ },
+ "TCS": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 61
+ },
+ "TECHM": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 63
+ },
+ "TITAN": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 59
+ },
+ "TORNTPOWER": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 64
+ },
+ "TRENT": {
+  "check": 1,
+  "compared": 64,
+  "missing": 0,
+  "ok": 35,
+  "verified": 55
+ },
+ "TTKPRESTIG": {
+  "check": 2,
+  "compared": 64,
+  "missing": 0,
+  "ok": 40,
+  "verified": 63
+ },
+ "ULTRACEMCO": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 60
+ },
+ "VEDL": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 55
+ },
+ "VINATIORGA": {
+  "check": 0,
+  "compared": 60,
+  "missing": 0,
+  "ok": 39,
+  "verified": 58
+ },
+ "VOLTAS": {
+  "check": 0,
+  "compared": 64,
+  "missing": 0,
+  "ok": 42,
+  "verified": 56
+ },
+ "WIPRO": {
+  "check": 1,
+  "compared": 64,
+  "missing": 0,
+  "ok": 41,
+  "verified": 61
+ }
+}

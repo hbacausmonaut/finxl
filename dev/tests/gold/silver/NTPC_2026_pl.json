@@ -1,0 +1,539 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "NTPC",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 184,
+   "name": "185L",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    792.0
+   ]
+  },
+  {
+   "page": 184,
+   "name": "185R",
+   "clip": [
+    612.0,
+    0.0,
+    1224.0,
+    792.0
+   ]
+  }
+ ],
+ "pdf": "NTPC/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dbc69766-f1e1-4ecc-9fa9-7599477167db.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    187384.63,
+    188138.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    2413.93,
+    2724.39
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total income",
+   "values": [
+    189798.56,
+    190862.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fuel cost",
+   "values": [
+    92489.84,
+    101514.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Electricity purchased for trading",
+   "values": [
+    5752.63,
+    5517.59
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    6986.28,
+    6796.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    13800.89,
+    13168.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation, amortization and impairment expense",
+   "values": [
+    19629.33,
+    17401.19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    26870.13,
+    20181.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    165529.1,
+    164579.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before share of profits of joint ventures accounted for using equity method, tax and regulatory deferral account balances",
+   "values": [
+    24269.46,
+    26282.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Share of profits of joint ventures accounted for using equity method",
+   "values": [
+    2864.1,
+    2213.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax and regulatory deferral account balances",
+   "values": [
+    27133.56,
+    28496.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current year",
+   "values": [
+    4535.17,
+    4510.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earlier years",
+   "values": [
+    -1.38,
+    -439.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -7410.21,
+    4173.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    -2876.42,
+    8245.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before regulatory deferral account balances",
+   "values": [
+    30009.98,
+    20251.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net movement in regulatory deferral account balances (net of tax)",
+   "values": [
+    -2464.22,
+    3701.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    27545.76,
+    23953.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net actuarial gains/(losses) on defined benefit plans",
+   "values": [
+    -174.4,
+    -237.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gains/(losses) on fair value of equity instruments",
+   "values": [
+    -4.8,
+    -23.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of other comprehensive income of joint ventures accounted for using the equity method",
+   "values": [
+    null,
+    -0.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax on items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net actuarial gains/(losses) on defined benefit plans",
+   "values": [
+    30.47,
+    41.46
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of other comprehensive income of joint ventures accounted for using the equity method",
+   "values": [
+    -0.07,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange differences on translation of foreign operations",
+   "values": [
+    188.36,
+    -110.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net movement in cost and effective portion of cash flow hedges",
+   "values": [
+    2.24,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax on items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net movement in cost and effective portion of cash flow hedges",
+   "values": [
+    -0.24,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income for the year, net of tax",
+   "values": [
+    41.56,
+    -330.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    27587.32,
+    23622.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Parent Company",
+   "values": [
+    27052.52,
+    23422.46
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    493.24,
+    530.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    27545.76,
+    23953.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Parent Company",
+   "values": [
+    42.33,
+    -328.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    -0.77,
+    -2.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    41.56,
+    -330.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Parent Company",
+   "values": [
+    27094.85,
+    23094.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    492.47,
+    528.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    27587.32,
+    23622.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share attributable to owners of the parent company (Par value ₹ 10/- each)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic & Diluted (₹) (including net movement in regulatory deferral account balances)",
+   "values": [
+    27.9,
+    24.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic & Diluted (₹) (excluding net movement in regulatory deferral account balances)",
+   "values": [
+    30.44,
+    20.34
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 55,
+  "rows_reader": 54,
+  "rows_aligned": 54,
+  "rows_agreed": 53,
+  "missing_in_parser": 0,
+  "extra_in_parser": 1,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 78,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 51,
+   "reader_index": 51,
+   "label_parser": "Earnings per equity share attributable to owners of the parent company 62",
+   "label_reader": "Earnings per equity share attributable to owners of the parent company (Par value ₹ 10/- each)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 184,
+   "search": [],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 52,
+   "reader_index": null,
+   "label_parser": "(Par value ₹ 10/- each)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 184,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

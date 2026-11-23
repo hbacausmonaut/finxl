@@ -1,0 +1,347 @@
+{
+ "ticker": "RELIANCE",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 139,
+   "name": "140L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 139,
+   "name": "140R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Value of Sales",
+   "values": [
+    1043589.0,
+    960355.0
+   ]
+  },
+  {
+   "label": "Income from Services",
+   "values": [
+    132330.0,
+    110819.0
+   ]
+  },
+  {
+   "label": "Value of Sales & Services (Revenue)",
+   "values": [
+    1175919.0,
+    1071174.0
+   ]
+  },
+  {
+   "label": "Less: GST Recovered",
+   "values": [
+    100244.0,
+    91038.0
+   ]
+  },
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    1075675.0,
+    980136.0
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    28962.0,
+    17978.0
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    1104637.0,
+    998114.0
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of Materials Consumed",
+   "values": [
+    443101.0,
+    422127.0
+   ]
+  },
+  {
+   "label": "Purchase of Stock-in-Trade",
+   "values": [
+    255829.0,
+    222686.0
+   ]
+  },
+  {
+   "label": "Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in-Trade",
+   "values": [
+    -10267.0,
+    -15124.0
+   ]
+  },
+  {
+   "label": "Excise Duty",
+   "values": [
+    18456.0,
+    15443.0
+   ]
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    30318.0,
+    28559.0
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    27061.0,
+    24269.0
+   ]
+  },
+  {
+   "label": "Depreciation / Amortisation and Depletion Expense",
+   "values": [
+    57688.0,
+    53136.0
+   ]
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    159289.0,
+    141001.0
+   ]
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    981475.0,
+    892097.0
+   ]
+  },
+  {
+   "label": "Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax",
+   "values": [
+    123162.0,
+    106017.0
+   ]
+  },
+  {
+   "label": "Tax Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    9736.0,
+    12758.0
+   ]
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    17816.0,
+    12472.0
+   ]
+  },
+  {
+   "label": "Profit After Tax",
+   "values": [
+    95610.0,
+    80787.0
+   ]
+  },
+  {
+   "label": "Share of Profit / (Loss) of Associate and Joint Ventures",
+   "values": [
+    144.0,
+    522.0
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    95754.0,
+    81309.0
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to Profit or Loss",
+   "values": [
+    -337.0,
+    -2904.0
+   ]
+  },
+  {
+   "label": "Income Tax relating to items that will not be reclassified to Profit or Loss",
+   "values": [
+    84.0,
+    438.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to Profit or Loss",
+   "values": [
+    -14623.0,
+    -214.0
+   ]
+  },
+  {
+   "label": "Income Tax relating to items that will be reclassified to Profit or Loss",
+   "values": [
+    3329.0,
+    244.0
+   ]
+  },
+  {
+   "label": "Total Other Comprehensive Income / (Loss) for the Year (Net of Tax)",
+   "values": [
+    -11547.0,
+    -2436.0
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the Year",
+   "values": [
+    84207.0,
+    78873.0
+   ]
+  },
+  {
+   "label": "Net Profit Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    80775.0,
+    69648.0
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    14979.0,
+    11661.0
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    -11937.0,
+    -2433.0
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    390.0,
+    -3.0
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    68838.0,
+    67215.0
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    15369.0,
+    11658.0
+   ]
+  },
+  {
+   "label": "Earnings Per Equity Share of Face Value of K 10 each",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in I)",
+   "values": [
+    59.69,
+    51.47
+   ]
+  },
+  {
+   "label": "Diluted (in I)",
+   "values": [
+    59.69,
+    51.47
+   ]
+  }
+ ],
+ "pdf": "RELIANCE/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

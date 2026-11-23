@@ -1,0 +1,323 @@
+{
+ "ticker": "INDIGO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 245,
+   "name": "246",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    849619.0,
+    808029.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    45515.0,
+    32953.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    895134.0,
+    840982.0
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Aircraft fuel expenses",
+   "values": [
+    253892.0,
+    261973.0
+   ]
+  },
+  {
+   "label": "Aircraft and engine rentals",
+   "values": [
+    20847.0,
+    30103.0
+   ]
+  },
+  {
+   "label": "Supplementary rentals and aircraft repair and maintenance (net)",
+   "values": [
+    129121.0,
+    112185.0
+   ]
+  },
+  {
+   "label": "Airport fees and charges",
+   "values": [
+    65482.0,
+    57531.0
+   ]
+  },
+  {
+   "label": "Purchase of stock-in-trade (In-flight)",
+   "values": [
+    4963.0,
+    3834.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of stock-in-trade",
+   "values": [
+    -14.0,
+    -2.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    82722.0,
+    74725.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    58908.0,
+    50800.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    108082.0,
+    86802.0
+   ]
+  },
+  {
+   "label": "Foreign exchange loss (net)",
+   "values": [
+    89757.0,
+    16179.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    83015.0,
+    70918.0
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    896775.0,
+    765048.0
+   ]
+  },
+  {
+   "label": "Profit / (loss) before exceptional items and tax",
+   "values": [
+    -1641.0,
+    75934.0
+   ]
+  },
+  {
+   "label": "Exceptional items",
+   "values": [
+    17964.0,
+    null
+   ]
+  },
+  {
+   "label": "Profit / (loss) before tax",
+   "values": [
+    -19605.0,
+    75934.0
+   ]
+  },
+  {
+   "label": "Tax expense 22.a",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    139.0,
+    3346.0
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    4192.0,
+    4.0
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    4331.0,
+    3350.0
+   ]
+  },
+  {
+   "label": "Profit / (loss) for the year",
+   "values": [
+    -23936.0,
+    72584.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement gain / (loss) of defined benefit plans (net of tax) 16.a (iv)",
+   "values": [
+    270.0,
+    -89.0
+   ]
+  },
+  {
+   "label": "Equity instruments through other comprehensive income (net of tax) 16.b (iii)",
+   "values": [
+    9.0,
+    null
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net gain / (loss) due to foreign currency translation differences (net of tax) 16.b (ii)",
+   "values": [
+    3457.0,
+    -46.0
+   ]
+  },
+  {
+   "label": "Debt instruments through other comprehensive income (net of tax) 16.b (i)",
+   "values": [
+    22.0,
+    40.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income / (loss) for the year, net of tax",
+   "values": [
+    3758.0,
+    -95.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income / (loss) for the year",
+   "values": [
+    -20178.0,
+    72489.0
+   ]
+  },
+  {
+   "label": "Profit / (loss) for the year attributable to - Owners of the Company",
+   "values": [
+    -23919.0,
+    72584.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    -17.0,
+    null
+   ]
+  },
+  {
+   "label": "Other comprehensive income / (loss) for the year attributable to - Owners of the Company",
+   "values": [
+    3755.0,
+    -95.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    3.0,
+    null
+   ]
+  },
+  {
+   "label": "Total comprehensive income / (loss) for the year attributable to - Owners of the Company",
+   "values": [
+    -20164.0,
+    72489.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    -14.0,
+    null
+   ]
+  },
+  {
+   "label": "Basic (Rs.)",
+   "values": [
+    -61.88,
+    187.93
+   ]
+  },
+  {
+   "label": "Diluted (Rs.)",
+   "values": [
+    -61.88,
+    187.67
+   ]
+  }
+ ],
+ "pdf": "INDIGO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b45f7180-78f4-4e39-9335-03cb2daa1a11.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

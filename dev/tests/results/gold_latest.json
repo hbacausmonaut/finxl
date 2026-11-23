@@ -1,0 +1,1756 @@
+{
+ "failures": [],
+ "warnings": [
+  "ASIANPAINT_2026_bs (silver): 0 missing, 1 extra, 1 wrong labels, 0 wrong values",
+  "ASIANPAINT_2026_cf (silver): 0 missing, 6 extra, 0 wrong labels, 0 wrong values",
+  "ASIANPAINT_2026_pl (silver): 0 missing, 2 extra, 2 wrong labels, 0 wrong values",
+  "AXISBANK_2026_cf (silver): 0 missing, 5 extra, 3 wrong labels, 0 wrong values",
+  "AXISBANK_2026_pl (silver): 0 missing, 0 extra, 3 wrong labels, 0 wrong values",
+  "BAJAJFINSV_2026_bs (silver): 0 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "BAJAJFINSV_2026_cf (silver): 1 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "BAJAJFINSV_2026_pl (silver): 1 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "CERA_2026_bs (silver): 2 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "CERA_2026_cf (silver): 0 missing, 12 extra, 5 wrong labels, 0 wrong values",
+  "CHOLAFIN_2026_cf (silver): 0 missing, 2 extra, 0 wrong labels, 0 wrong values",
+  "CHOLAFIN_2026_pl (silver): 0 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "CIPLA_2026_bs (silver): 1 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "CIPLA_2026_cf (silver): 0 missing, 4 extra, 1 wrong labels, 0 wrong values",
+  "COALINDIA_2026_bs (silver): 0 missing, 1 extra, 2 wrong labels, 0 wrong values",
+  "COALINDIA_2026_cf (silver): 0 missing, 20 extra, 0 wrong labels, 0 wrong values",
+  "DLF_2026_cf (silver): 0 missing, 5 extra, 0 wrong labels, 0 wrong values",
+  "DLF_2026_pl (silver): 1 missing, 0 extra, 0 wrong labels, 0 wrong values",
+  "DMART_2026_bs (silver): 3 missing, 0 extra, 3 wrong labels, 0 wrong values",
+  "DMART_2026_cf (silver): 0 missing, 4 extra, 0 wrong labels, 0 wrong values",
+  "DRREDDY_2026_bs (silver): 0 missing, 0 extra, 14 wrong labels, 0 wrong values",
+  "DRREDDY_2026_cf (silver): 0 missing, 0 extra, 4 wrong labels, 0 wrong values",
+  "EICHERMOT_2026_bs (silver): 2 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "EICHERMOT_2026_cf (silver): 0 missing, 1 extra, 1 wrong labels, 0 wrong values",
+  "EICHERMOT_2026_pl (silver): 3 missing, 1 extra, 4 wrong labels, 0 wrong values",
+  "GRASIM_2026_cf (silver): 0 missing, 6 extra, 4 wrong labels, 0 wrong values",
+  "GRASIM_2026_pl (silver): 0 missing, 1 extra, 3 wrong labels, 0 wrong values",
+  "HCLTECH_2026_bs (silver): 2 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "HCLTECH_2026_cf (silver): 1 missing, 13 extra, 3 wrong labels, 0 wrong values",
+  "HDFCBANK_2026_pl (silver): 0 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "HEROMOTOCO_2026_bs (silver): 2 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "HEROMOTOCO_2026_cf (silver): 0 missing, 11 extra, 0 wrong labels, 0 wrong values",
+  "HINDALCO_2026_bs (silver): 1 missing, 0 extra, 3 wrong labels, 0 wrong values",
+  "HINDALCO_2026_cf (silver): 0 missing, 9 extra, 0 wrong labels, 0 wrong values",
+  "HINDALCO_2026_pl (silver): 1 missing, 0 extra, 2 wrong labels, 2 wrong values",
+  "HINDUNILVR_2026_cf (silver): 0 missing, 19 extra, 0 wrong labels, 0 wrong values",
+  "HINDUNILVR_2026_pl (silver): 0 missing, 1 extra, 1 wrong labels, 0 wrong values",
+  "ICICIBANK_2026_cf (silver): 4 missing, 0 extra, 3 wrong labels, 0 wrong values",
+  "ICICIBANK_2026_pl (silver): 4 missing, 1 extra, 2 wrong labels, 2 wrong values",
+  "ITC_2026_bs (silver): 1 missing, 0 extra, 3 wrong labels, 0 wrong values",
+  "ITC_2026_cf (silver): 0 missing, 2 extra, 2 wrong labels, 0 wrong values",
+  "ITC_2026_pl (silver): 0 missing, 0 extra, 4 wrong labels, 0 wrong values",
+  "JSWSTEEL_2026_bs (silver): 1 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "JSWSTEEL_2026_pl (silver): 1 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "KOTAKBANK_2026_cf (silver): 4 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "KOTAKBANK_2026_pl (silver): 0 missing, 1 extra, 1 wrong labels, 0 wrong values",
+  "KPRMILL_2026_bs (silver): 2 missing, 0 extra, 3 wrong labels, 0 wrong values",
+  "KPRMILL_2026_cf (silver): 1 missing, 5 extra, 1 wrong labels, 0 wrong values",
+  "LT_2026_bs (silver): 0 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "LT_2026_pl (silver): 0 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "NESTLEIND_2026_cf (silver): 0 missing, 13 extra, 0 wrong labels, 0 wrong values",
+  "NESTLEIND_2026_pl (silver): 2 missing, 0 extra, 7 wrong labels, 2 wrong values",
+  "NTPC_2026_cf (silver): 0 missing, 11 extra, 0 wrong labels, 0 wrong values",
+  "NTPC_2026_pl (silver): 0 missing, 1 extra, 1 wrong labels, 0 wrong values",
+  "ONGC_2026_bs (silver): 4 missing, 0 extra, 4 wrong labels, 0 wrong values",
+  "ONGC_2026_cf (silver): 0 missing, 25 extra, 1 wrong labels, 0 wrong values",
+  "ONGC_2026_pl (silver): 0 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "PIDILITIND_2026_bs (silver): 2 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "PIDILITIND_2026_cf (silver): 0 missing, 1 extra, 3 wrong labels, 0 wrong values",
+  "POWERGRID_2026_cf (silver): 0 missing, 11 extra, 4 wrong labels, 0 wrong values",
+  "POWERGRID_2026_pl (silver): 4 missing, 5 extra, 5 wrong labels, 0 wrong values",
+  "RELIANCE_2026_cf (silver): 0 missing, 4 extra, 1 wrong labels, 0 wrong values",
+  "RELIANCE_2026_pl (silver): 0 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "SUNPHARMA_2026_bs (silver): 2 missing, 0 extra, 3 wrong labels, 0 wrong values",
+  "SUNPHARMA_2026_cf (silver): 0 missing, 14 extra, 0 wrong labels, 0 wrong values",
+  "SUNPHARMA_2026_pl (silver): 0 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "TATASTEEL_2026_bs (silver): 2 missing, 0 extra, 42 wrong labels, 0 wrong values",
+  "TATASTEEL_2026_cf (silver): 0 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "TATASTEEL_2026_pl (silver): 0 missing, 1 extra, 11 wrong labels, 0 wrong values",
+  "TCS_2026_bs (silver): 0 missing, 0 extra, 0 wrong labels, 1 wrong values",
+  "TCS_2026_cf (silver): 1 missing, 0 extra, 3 wrong labels, 0 wrong values",
+  "TECHM_2026_bs (silver): 2 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "TECHM_2026_cf (silver): 0 missing, 9 extra, 4 wrong labels, 0 wrong values",
+  "TECHM_2026_pl (silver): 0 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "TITAN_2026_bs (silver): 1 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "TITAN_2026_cf (silver): 0 missing, 13 extra, 2 wrong labels, 0 wrong values",
+  "TITAN_2026_pl (silver): 1 missing, 0 extra, 0 wrong labels, 0 wrong values",
+  "ULTRACEMCO_2026_bs (silver): 0 missing, 0 extra, 1 wrong labels, 0 wrong values",
+  "ULTRACEMCO_2026_cf (silver): 0 missing, 4 extra, 2 wrong labels, 0 wrong values",
+  "ULTRACEMCO_2026_pl (silver): 0 missing, 0 extra, 2 wrong labels, 0 wrong values",
+  "VINATIORGA_2026_bs (silver): 0 missing, 0 extra, 4 wrong labels, 0 wrong values",
+  "WIPRO_2026_bs (silver): 1 missing, 1 extra, 3 wrong labels, 0 wrong values",
+  "WIPRO_2026_cf (silver): 0 missing, 3 extra, 8 wrong labels, 0 wrong values",
+  "WIPRO_2026_pl (silver): 0 missing, 2 extra, 7 wrong labels, 0 wrong values"
+ ],
+ "statements": 120,
+ "rows": 6494,
+ "per_statement": {
+  "ASIANPAINT_2026_bs": {
+   "rows": 59,
+   "missing": [],
+   "extra": [
+    "Enterprises"
+   ],
+   "labels": [
+    "'Total Outstanding dues of Creditors other than Micro Enterprises and Small' should be 'Total Outstanding dues of Creditors other than Micro Enterprises and Small Enterprises'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ASIANPAINT_2026_cf": {
+   "rows": 63,
+   "missing": [],
+   "extra": [
+    "subsidiary and cash movement changes",
+    "equivalents exchange",
+    "rates",
+    "Borrowings (Refer note 16)",
+    "Lease Liabilities (Refer note 17)",
+    "Other liabilities (Refer note 21)"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "ASIANPAINT_2026_pl": {
+   "rows": 58,
+   "missing": [],
+   "extra": [
+    "(EBITDA) (I-II)",
+    "TAX"
+   ],
+   "labels": [
+    "'EARNING BEFORE INTEREST, TAX, DEPRECIATION AND AMORTISATION' should be 'EARNING BEFORE INTEREST, TAX, DEPRECIATION AND AMORTISATION (EBITDA) (I-II)'",
+    "'PROFIT BEFORE SHARE OF PROFIT IN ASSOCIATES, EXCEPTIONAL ITEMS AND' should be 'PROFIT BEFORE SHARE OF PROFIT IN ASSOCIATES, EXCEPTIONAL ITEMS AND TAX'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "AXISBANK_2026_bs": {
+   "rows": 20,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "AXISBANK_2026_cf": {
+   "rows": 39,
+   "missing": [],
+   "extra": [
+    "Notes to the Cash Flow Statement",
+    "Cash and cash equivalents includes the following",
+    "Cash and Balances with Reserve Bank of India (Refer Schedule 6)",
+    "Balances with Banks and Money at Call and Short Notice (Refer Schedule 7)",
+    "Cash and cash equivalents at the end of the year"
+   ],
+   "labels": [
+    "'Net cash from/(used in) investing activities (B)' should be 'Net cash from/(used in) investing activities'",
+    "'Net cash generated from/(used in) financing activities (C)' should be 'Net cash generated from/(used in) financing activities'",
+    "'Effect of exchange fluctuation translation reserve (D)' should be 'Effect of exchange fluctuation translation reserve'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "AXISBANK_2026_pl": {
+   "rows": 30,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Provisions and contingencies (1.1)' should be 'Provisions and contingencies'",
+    "'Dividend paid during the year (1.6)' should be 'Dividend paid during the year'",
+    "'Earnings Per Equity Share (Face Value \u20b9 2/- Per Share) (1.4)' should be 'Earnings Per Equity Share (Face Value \u20b92/- Per Share)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "BAJAJFINSV_2026_bs": {
+   "rows": 57,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Capital work-in-progress 46(18)' should be 'Capital work-in-progress'",
+    "'Intangible assets under development 46(19)' should be 'Intangible assets under development'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "BAJAJFINSV_2026_cf": {
+   "rows": 78,
+   "missing": [
+    "Adjustments for"
+   ],
+   "extra": [],
+   "labels": [
+    "'Adjustments for Interest income' should be 'Interest income'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "BAJAJFINSV_2026_pl": {
+   "rows": 61,
+   "missing": [
+    "(Nominal value per share \u20b9 1)"
+   ],
+   "extra": [],
+   "labels": [
+    "'Claims incurred pertaining to insurance business 46(18)' should be 'Claims incurred pertaining to insurance business'",
+    "'Reinsurance ceded 46(19)' should be 'Reinsurance ceded'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "BHARTIARTL_2026_bs": {
+   "rows": 62,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "BHARTIARTL_2026_cf": {
+   "rows": 62,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "BHARTIARTL_2026_pl": {
+   "rows": 50,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "CERA_2026_bs": {
+   "rows": 52,
+   "missing": [
+    "Financial Assets",
+    "Financial Assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Other Intangible Assets (f) Financial Assets' should be 'Other Intangible Assets'",
+    "'Inventories (b) Financial Assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "CERA_2026_cf": {
+   "rows": 63,
+   "missing": [],
+   "extra": [
+    "Trade Receivables",
+    "Funds",
+    "Options Scheme",
+    "Capital Advances",
+    "(Working Capital)",
+    "Notes to Cash Flow Statement Year ended Year ended",
+    "31st March, 2026 31st March, Components of Cash & cash equivalents",
+    "Balances with banks",
+    "Cash on Hand",
+    "Bank FDs with original maturity of less than 3 months",
+    "Margin Money Deposits with Bank held as security with maturity of less than 3 months",
+    "Cash & cash equivalents considered in Cash Flow Statement"
+   ],
+   "labels": [
+    "'Allowance for / (Reversal of) Expected Credit Loss' should be 'Allowance for / (Reversal of) Expected Credit Loss - Trade Receivables'",
+    "'Net Gain on Fair Valuation of Investments in Mutual' should be 'Net Gain on Fair Valuation of Investments in Mutual Funds'",
+    "'Compensation Expenses under Employees Stock' should be 'Compensation Expenses under Employees Stock Options Scheme'",
+    "'Payments for Property, Plant and Equipments, Capital Work-in-progress, Investment Property &' should be 'Payments for Property, Plant and Equipments, Capital Work-in-progress, Investment Property & Capital Advances'",
+    "'Proceed / Repayment of Short Term Borrowings' should be 'Proceed / Repayment of Short Term Borrowings (Working Capital)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "CERA_2026_pl": {
+   "rows": 29,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "CHOLAFIN_2026_bs": {
+   "rows": 50,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "CHOLAFIN_2026_cf": {
+   "rows": 68,
+   "missing": [],
+   "extra": [
+    "Non-cash financing and investing activities",
+    "Acquistion of right -of-use of assets"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "CHOLAFIN_2026_pl": {
+   "rows": 48,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Depreciation and amortisation expense 15, &' should be 'Depreciation and amortisation expense'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "CIPLA_2026_bs": {
+   "rows": 62,
+   "missing": [
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Inventories (b) Financial assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "CIPLA_2026_cf": {
+   "rows": 56,
+   "missing": [],
+   "extra": [
+    "Components of cash and cash equivalents",
+    "Cash and cash equivalents as per Consolidated Balance Sheet (refer note 15)",
+    "Less: Bank overdraft (refer note 23)",
+    "Cash and cash equivalents for Consolidated Statement of Cash Flows"
+   ],
+   "labels": [
+    "'Interest paid (including interest on lease liability of H 28.31 Crores (31st March, 2025: H 23.02 Crores))' should be 'Interest paid (including interest on lease liability of \u20b9 28.31 Crores (31st March, 2025: \u20b9 23.02 Crores))'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "CIPLA_2026_pl": {
+   "rows": 46,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "COALINDIA_2026_bs": {
+   "rows": 53,
+   "missing": [],
+   "extra": [
+    "Enterprises"
+   ],
+   "labels": [
+    "'Total outstanding dues of Micro, Small and Medium' should be 'Total outstanding dues of Micro, Small and Medium Enterprises; and'",
+    "'Enterprises; and (B) Total outstanding dues of Creditors other than Micro, Small and Medium' should be 'Total outstanding dues of Creditors other than Micro, Small and Medium Enterprises'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "COALINDIA_2026_cf": {
+   "rows": 45,
+   "missing": [],
+   "extra": [
+    "Reconciliation of Cash and Cash equivalents (Refer Note 4.4)",
+    "Cash and Cash equivalents (Net of bank Overdraft)",
+    "Components of Cash and Cash Equivalents",
+    "Balances with Banks",
+    "in Deposit Accounts",
+    "in Current Accounts",
+    "Bank Balances outside India",
+    "ICDs with Primary Dealers",
+    "Cheques, Drafts and Stamps in hand",
+    "Cash in hand",
+    "Bank Overdraft (Refer note 8.1)",
+    "Others e-procurement account/GeM account/Imprest balances",
+    "Total (Refer note 4.4 and note 8.1 for components of Cash and Cash Equivalents)",
+    "Borrowings* Liabilities borrowings",
+    "Opening balance as at 01-04-2025",
+    "Cash flows during the year",
+    "Non-cash changes due to",
+    "Acquisitions and unwinding finance cost under finance lease",
+    "Accrued Interest on borrowings",
+    "Closing balance as at 31-03-2026"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "COALINDIA_2026_pl": {
+   "rows": 43,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "DLF_2026_bs": {
+   "rows": 66,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "DLF_2026_cf": {
+   "rows": 55,
+   "missing": [],
+   "extra": [
+    "March 31 March",
+    "Components of cash and cash equivalents",
+    "Cash and cash equivalents (refer note 18)",
+    "Less: Book overdraft (refer note 24)",
+    "Subtotal"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "DLF_2026_pl": {
+   "rows": 45,
+   "missing": [
+    "Earnings per equity share [face value of \u20b9 2/- (31 March 2025: \u20b9 2/-) per share]"
+   ],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "DMART_2026_bs": {
+   "rows": 54,
+   "missing": [
+    "Financial assets",
+    "Financial assets",
+    "Trade payables due to"
+   ],
+   "extra": [],
+   "labels": [
+    "'Intangible assets (g) Financial assets' should be 'Intangible assets'",
+    "'Inventories (b) Financial assets' should be 'Inventories'",
+    "'Trade payables due to Micro and small enterprises' should be 'Micro and small enterprises'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "DMART_2026_cf": {
+   "rows": 53,
+   "missing": [],
+   "extra": [
+    "Cash and cash equivalents as per above comprises of the following",
+    "Cash and cash equivalents (Refer note:13)",
+    "Bank overdrawn (Refer note:22)",
+    "Balance as per statement of cash flows"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "DMART_2026_pl": {
+   "rows": 36,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "DRREDDY_2026_bs": {
+   "rows": 58,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Other financial assets C' should be 'Other financial assets'",
+    "'Trade receivables B' should be 'Trade receivables'",
+    "'Cash and cash equivalents D' should be 'Cash and cash equivalents'",
+    "'Other bank balances E' should be 'Other bank balances'",
+    "'Other financial assets C' should be 'Other financial assets'",
+    "'Other current assets B' should be 'Other current assets'",
+    "'Lease liabilities C' should be 'Lease liabilities'",
+    "'Other financial liabilities D' should be 'Other financial liabilities'",
+    "'Borrowings B' should be 'Borrowings'",
+    "'Lease liabilities C' should be 'Lease liabilities'",
+    "'Trade payables E' should be 'Trade payables'",
+    "'Other financial liabilities D' should be 'Other financial liabilities'",
+    "'Other current liabilities B' should be 'Other current liabilities'",
+    "'Provisions B' should be 'Provisions'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "DRREDDY_2026_cf": {
+   "rows": 47,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Repayment of long-term loans and borrowings (Refer note A & 2.11 B)' should be 'Repayment of long-term loans and borrowings (Refer note 2.11 A & 2.11 B)'",
+    "'Payment of principal portion of lease liabilities (Refer note C)' should be 'Payment of principal portion of lease liabilities (Refer note 2.11 C)'",
+    "'Cash and cash equivalents at the beginning of the year (Refer note D)' should be 'Cash and cash equivalents at the beginning of the year (Refer note 2.7 D)'",
+    "'Cash and cash equivalents at the end of the year (1)(Refer note D)' should be 'Cash and cash equivalents at the end of the year (1)(Refer note 2.7 D)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "DRREDDY_2026_pl": {
+   "rows": 49,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "EICHERMOT_2026_bs": {
+   "rows": 58,
+   "missing": [
+    "Financial assets",
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Investments in joint ventures (g) Financial assets' should be 'Investments in joint ventures'",
+    "'Inventories (b) Financial assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "EICHERMOT_2026_cf": {
+   "rows": 70,
+   "missing": [],
+   "extra": [
+    "Ltd. (SIPCOT)"
+   ],
+   "labels": [
+    "'Grant income on soft loan from State Industries Promotion Corporation of Tamil Nadu' should be 'Grant income on soft loan from State Industries Promotion Corporation of Tamil Nadu Ltd. (SIPCOT)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "EICHERMOT_2026_pl": {
+   "rows": 54,
+   "missing": [
+    "Items that will not be reclassified to profit or loss:-",
+    "Items that will be reclassified to profit or loss:-",
+    "Earnings per equity share of \u20b9 1 each (March 31, 2025: \u20b91) (in \u20b9)"
+   ],
+   "extra": [
+    "comprehensive income/(expense) of joint venture)"
+   ],
+   "labels": [
+    "'Other operating income (B)' should be 'Other operating income'",
+    "'Other comprehensive income/(expense) (including share of other' should be 'Other comprehensive income/(expense) (including share of other comprehensive income/(expense) of joint venture)'",
+    "'Items that will not be reclassified to profit or loss:- Re-measurement gains/(losses) on defined benefit plans' should be 'Re-measurement gains/(losses) on defined benefit plans'",
+    "'Items that will be reclassified to profit or loss:- Exchange differences in translating the financial statements of foreign operations' should be 'Exchange differences in translating the financial statements of foreign operations'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "GRASIM_2026_bs": {
+   "rows": 71,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "GRASIM_2026_cf": {
+   "rows": 70,
+   "missing": [],
+   "extra": [
+    "Accounted Investees",
+    "Insurance Business (Current) {Net}",
+    "(Net of Share Issue Expenses)\"",
+    "Construction Materials P.S.C. (RAKWCT) (Refer Note 4.3.c)",
+    "(Refer Note 4.3.a)",
+    "(Refer Note 4.3.b)"
+   ],
+   "labels": [
+    "'Profit Before Tax after Exceptional Items and before Share in Profit/(Loss) of Equity' should be 'Profit Before Tax after Exceptional Items and before Share in Profit/(Loss) of Equity Accounted Investees'",
+    "\"(Purchase)/Proceeds from Sale of Investments and Shareholders' Investments of Life\" should be \"(Purchase)/Proceeds from Sale of Investments and Shareholders' Investments of Life Insurance Business (Current) {Net}\"",
+    "'\"Proceeds from Shares issued by Subsidiary Company (Including Securities Premium)' should be '\u201dProceeds from Shares issued by Subsidiary Company (Including Securities Premium) (Net of Share Issue Expenses)\u201d'",
+    "'Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement &' should be 'Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement & Construction Materials P.S.C. (RAKWCT) (Refer Note 4.3.c)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "GRASIM_2026_pl": {
+   "rows": 50,
+   "missing": [],
+   "extra": [
+    "Trade"
+   ],
+   "labels": [
+    "'Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in' should be 'Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in-Trade'",
+    "'A (i) Items that will not be reclassified to Profit or Loss' should be 'Items that will not be reclassified to Profit or Loss'",
+    "'B (i) Items that will be reclassified to Profit or Loss' should be 'Items that will be reclassified to Profit or Loss'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "HCLTECH_2026_bs": {
+   "rows": 63,
+   "missing": [
+    "Financial assets",
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Intangible assets under development (g) Financial assets' should be 'Intangible assets under development'",
+    "'Inventories (b) Financial assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "HCLTECH_2026_cf": {
+   "rows": 53,
+   "missing": [
+    "Net change in"
+   ],
+   "extra": [
+    "Cashflows (net)",
+    "Non cash changes",
+    "Translation exchange differences",
+    "Recognized in profit and loss",
+    "Balance as at 31 March 2025",
+    "Balance as at 1 April 2025",
+    "Cashflows (net)",
+    "Non cash changes",
+    "Business combination",
+    "Translation exchange differences",
+    "Recognized in profit and loss",
+    "Balance as at 31 March 2026",
+    "Cash and cash equivalents includes earmarked balances with banks of \u20b9 53 crores (31 March \u20b9 19 crores) which is of restricted use."
+   ],
+   "labels": [
+    "'Net change in Trade receivables' should be 'Trade receivables'",
+    "'B Cash flows from investing activities' should be 'Cash flows from investing activities'",
+    "'C Cash flows from financing activities' should be 'Cash flows from financing activities'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "HCLTECH_2026_pl": {
+   "rows": 44,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "HDFCBANK_2026_bs": {
+   "rows": 20,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "HDFCBANK_2026_cf": {
+   "rows": 44,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "HDFCBANK_2026_pl": {
+   "rows": 29,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'EARNINGS PER EQUITY SHARE (Face value L 1/ - per share) C C' should be 'EARNINGS PER EQUITY SHARE (Face value \u20b9 1/ - per share)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "HEROMOTOCO_2026_bs": {
+   "rows": 56,
+   "missing": [
+    "Financial assets",
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Equity accounted investments in associates (g) Financial assets' should be 'Equity accounted investments in associates'",
+    "'Inventories (b) Financial assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "HEROMOTOCO_2026_cf": {
+   "rows": 61,
+   "missing": [],
+   "extra": [
+    "Interest expense",
+    "Non-Current Borrowings",
+    "Movement of Borrowings on financial Total",
+    "Borrowings (including current",
+    "liabilities",
+    "maturities)",
+    "As on March 31, 2025",
+    "Cash Flows (net)",
+    "Non Cash",
+    "Interest expenses",
+    "As on March 31, 2026"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "HEROMOTOCO_2026_pl": {
+   "rows": 53,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "HINDALCO_2026_bs": {
+   "rows": 72,
+   "missing": [
+    "Trade payables"
+   ],
+   "extra": [],
+   "labels": [
+    "'Deferred tax liabilities (Net) (b)' should be 'Deferred tax liabilities (Net)'",
+    "'Trade payables and (I) Outstanding dues of micro and small enterprises' should be 'Outstanding dues of micro and small enterprises'",
+    "'Total equity and liabilities and Notes forming part of consolidated financial statements' should be 'Total equity and liabilities'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "HINDALCO_2026_cf": {
+   "rows": 62,
+   "missing": [],
+   "extra": [
+    "*net of bank overdraft balances \u20b9 13 Crore (31/03/2024: \u20b9 6 Crore)",
+    "Reconciliation of closing cash and cash equivalents with Balance",
+    "Sheet",
+    "Cash and cash equivalents as per balance sheet",
+    "Less: Fair Value adjustments in Liquid Investments",
+    "Less: Temporary overdraft balance in current accounts",
+    "Cash and cash equivalents as per statement of cash flows and Supplemental information",
+    "Non cash transaction from investing and financing activities",
+    "Acquisition of right of use assets"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "HINDALCO_2026_pl": {
+   "rows": 51,
+   "missing": [
+    "Owners of the Company"
+   ],
+   "extra": [],
+   "labels": [
+    "'Other comprehensive income/ (loss) attributable to: and Owners of the Company' should be 'Other comprehensive income/ (loss) attributable to:'",
+    "'Diluted (\u20b9) and Notes forming part of consolidated financial statements' should be 'Diluted (\u20b9)'"
+   ],
+   "values": [
+    "Other comprehensive income/ (loss) attributable to: FY2026: 728 should be None",
+    "Other comprehensive income/ (loss) attributable to: FY2025: 2366 should be None"
+   ],
+   "level": "silver"
+  },
+  "HINDUNILVR_2026_bs": {
+   "rows": 58,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "HINDUNILVR_2026_cf": {
+   "rows": 64,
+   "missing": [],
+   "extra": [
+    "Components of cash and cash equivalents",
+    "Cash and cash equivalents as per consolidated balance sheet (refer note 13)",
+    "Less: Bank overdraft (refer note 23)",
+    "Cash and cash equivalents for consolidated statement of cash flows",
+    "Movement in current borrowings and lease liabilities",
+    "Additions",
+    "Transferred pursuant Closing",
+    "Reconciliation Opening through",
+    "Taken/ Non- cash to scheme of demerger balance",
+    "between opening balance business",
+    "(Payments) movement of Ice Cream Business 31st March,",
+    "and closing balance 1st April, 2025 combination (refer note 44) (refer note 43)",
+    "Lease Liabilities",
+    "1,647 (636) 732 (refer Note 20)",
+    "Current borrowings - (46)",
+    "Opening",
+    "Reconciliation between opening and closing Taken/ Non- cash Closing balance",
+    "balance balance (Payments) movement 31st March, 1st April, 2024",
+    "Lease Liabilities (Refer note 20)"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "HINDUNILVR_2026_pl": {
+   "rows": 61,
+   "missing": [],
+   "extra": [
+    "OPERATIONS"
+   ],
+   "labels": [
+    "'PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX FROM CONTINUING' should be 'PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX FROM CONTINUING OPERATIONS'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ICICIBANK_2026_bs": {
+   "rows": 21,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "ICICIBANK_2026_cf": {
+   "rows": 36,
+   "missing": [
+    "Effect of exchange fluctuation on translation reserve",
+    "Net increase/(decrease) in cash and cash equivalents (A)+(B)+(C)+(D)",
+    "Cash and cash equivalents at beginning of the year",
+    "Cash and cash equivalents at end of the year"
+   ],
+   "extra": [],
+   "labels": [
+    "'Increase/(decrease) in other liabilities and provisions1' should be 'Increase/(decrease) in other liabilities and provisions'",
+    "'Net cash flow from/(used in) investing activities (B)' should be 'Net cash flow from/(used in) investing activities'",
+    "'Net cash flow from/(used in) financing activities (C)' should be 'Net cash flow from/(used in) financing activities'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ICICIBANK_2026_pl": {
+   "rows": 30,
+   "missing": [
+    "Earnings per share (refer note 18.1)",
+    "Basic (\u20b9)",
+    "Diluted (\u20b9)",
+    "Face value per share (\u20b9)"
+   ],
+   "extra": [
+    "Group"
+   ],
+   "labels": [
+    "'Consolidated profit/(loss) for the year attributable to the' should be 'Consolidated profit/(loss) for the year attributable to the Group'",
+    "'TOTAL molcfqLEilppF' should be 'TOTAL PROFIT/(LOSS)'"
+   ],
+   "values": [
+    "Consolidated profit/(loss) for the year attributable to the Group FY2026: None should be 542077028",
+    "Consolidated profit/(loss) for the year attributable to the Group FY2025: None should be 510291955"
+   ],
+   "level": "silver"
+  },
+  "ITC_2026_bs": {
+   "rows": 56,
+   "missing": [
+    "Financial Assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Biological assets other than bearer plants (c) Financial Assets' should be 'Biological assets other than bearer plants'",
+    "'total outstanding dues of micro and small enterprises; and (B) total outstanding dues of creditors' should be 'total outstanding dues of micro and small enterprises; and'",
+    "'other than micro and small enterprises' should be 'total outstanding dues of creditors other than micro and small enterprises'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ITC_2026_cf": {
+   "rows": 65,
+   "missing": [],
+   "extra": [
+    "Net gain arising on financial instruments measured at amortised",
+    "Redemption / maturity of bank deposits"
+   ],
+   "labels": [
+    "'cost / fair value through profit or loss / fair value through other comprehensive income' should be 'Net gain arising on financial instruments measured at amortised cost/fair value through profit or loss/fair value through other comprehensive income'",
+    "'(original maturity more than 3 months)' should be 'Redemption/maturity of bank deposits (original maturity more than 3 months)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ITC_2026_pl": {
+   "rows": 64,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Revenue From Operations 23A,23B' should be 'Revenue From Operations'",
+    "'A (i) Items that will not be reclassified to profit or loss' should be 'Items that will not be reclassified to profit or loss:'",
+    "'B (i) Items that will be reclassified to profit or loss' should be 'Items that will be reclassified to profit or loss:'",
+    "'XVIII Earnings per equity share (Face Value \u20b9 1.00 each)' should be 'Earnings per equity share (Face Value \u20b9 1.00 each):'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "JSWSTEEL_2026_bs": {
+   "rows": 68,
+   "missing": [
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Inventories (b) Financial assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "JSWSTEEL_2026_cf": {
+   "rows": 62,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "JSWSTEEL_2026_pl": {
+   "rows": 52,
+   "missing": [
+    "Earnings per equity share of Re 1 each attributable to the owners of the Company"
+   ],
+   "extra": [],
+   "labels": [
+    "'A i) Items that will not be reclassified to profit or loss' should be 'Items that will not be reclassified to profit or loss'",
+    "'B i) Items that will be reclassified to profit or loss' should be 'Items that will be reclassified to profit or loss'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "KOTAKBANK_2026_bs": {
+   "rows": 20,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "KOTAKBANK_2026_cf": {
+   "rows": 53,
+   "missing": [
+    "Adjustments for :-",
+    "Adjustments for :-",
+    "Note:",
+    "Money at call and short notice in India with Banks (As per Schedule 7 I (ii) (a))"
+   ],
+   "extra": [],
+   "labels": [
+    "'Adjustments for :- Employee Stock Options/units Expense' should be 'Employee Stock Options/units Expense'",
+    "'Adjustments for :- Decrease/(Increase) in Investments-Available for Sale, Held for Trading and Stock-in-Trade' should be 'Decrease/(Increase) in Investments-Available for Sale, Held for Trading and Stock-in-Trade'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "KOTAKBANK_2026_pl": {
+   "rows": 29,
+   "missing": [],
+   "extra": [
+    "(Refer Schedule 2 (XVI))"
+   ],
+   "labels": [
+    "'Add : Balance in Profit and Loss Account brought forward from previous year' should be 'Add : Balance in Profit and Loss Account brought forward from previous year (Refer Schedule 2 (XVI))'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "KPRMILL_2026_bs": {
+   "rows": 49,
+   "missing": [
+    "Financial assets",
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Intangible assets (f) Financial assets' should be 'Intangible assets'",
+    "'Inventories (b) Financial assets' should be 'Inventories'",
+    "'(B)Total outstanding dues of creditors other than micro enterprises and small enterprises (B)' should be 'Total outstanding dues of creditors other than micro enterprises and small enterprises'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "KPRMILL_2026_cf": {
+   "rows": 46,
+   "missing": [
+    "Net cash flow from / (used in) investing activities"
+   ],
+   "extra": [
+    "Closing cash and cash equivalents comprises",
+    "Cash on hand (b) Balance with Banks",
+    "In Current accounts",
+    "In EEFC accounts",
+    "Subtotal"
+   ],
+   "labels": [
+    "'Nnet cash flow from / (used in) financing activities (C)' should be 'Nnet cash flow from / (used in) financing activities'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "KPRMILL_2026_pl": {
+   "rows": 27,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "LT_2026_bs": {
+   "rows": 71,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Right-of-use assets 61(b)(ii)' should be 'Right-of-use assets'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "LT_2026_cf": {
+   "rows": 64,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "LT_2026_pl": {
+   "rows": 70,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'B Items that will be reclassified to profit or loss' should be 'Items that will be reclassified to profit or loss:'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "MUTHOOTFIN_2026_bs": {
+   "rows": 51,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "MUTHOOTFIN_2026_cf": {
+   "rows": 56,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "MUTHOOTFIN_2026_pl": {
+   "rows": 55,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "NESTLEIND_2026_bs": {
+   "rows": 53,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "NESTLEIND_2026_cf": {
+   "rows": 51,
+   "missing": [],
+   "extra": [
+    "Disclosure of non-cash transactions as per Ind AS",
+    "Changes in Liabilities arising from As at Cash flow Non- cash As at",
+    "Financing activities is as under : 31st March changes changes 31 March",
+    "Deferred VAT liabilities",
+    "Lease liabilities",
+    "Short term borrowings",
+    "Total",
+    "Changes in Liabilities arising from As at Cash flow Non- cash As at",
+    "Financing activities is as under : 31st March changes changes 31 March",
+    "Deferred VAT liabilities",
+    "Lease liabilities",
+    "Short term borrowings",
+    "Total"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "NESTLEIND_2026_pl": {
+   "rows": 40,
+   "missing": [
+    "EXPENSES",
+    ""
+   ],
+   "extra": [],
+   "labels": [
+    "'B EXPENSES i Cost of materials consumed' should be 'Cost of materials consumed'",
+    "'C PROFIT BEFORE SHARE OF (PROFIT) / LOSS OF AN ASSOCIATE, EXCEPTIONAL ITEMS AND TAX (A-B)' should be 'PROFIT BEFORE SHARE OF (PROFIT) / LOSS OF AN ASSOCIATE, EXCEPTIONAL ITEMS AND TAX (A-B)'",
+    "'D Share of (profit) / loss of associate accounted for using the equity method (net of tax)' should be 'Share of (profit) / loss of associate accounted for using the equity method (net of tax)'",
+    "'F Exceptional items [charge / (credit)]' should be 'Exceptional items [charge / (credit)]'",
+    "'H Tax expense' should be 'Tax expense'",
+    "'K TOTAL COMPREHENSIVE INCOME' should be 'TOTAL COMPREHENSIVE INCOME (I+J)'",
+    "'Basic and diluted earnings per share (Face value \u20b9 1 - refer Note 16) H' should be 'Basic and diluted earnings per share (Face value \u20b9 1 - refer Note 16)'"
+   ],
+   "values": [
+    "Items that will be reclassified to profit or loss: FY2026: -358.9 should be None",
+    "Items that will be reclassified to profit or loss: FY2025: -806 should be None"
+   ],
+   "level": "silver"
+  },
+  "NTPC_2026_bs": {
+   "rows": 62,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "NTPC_2026_cf": {
+   "rows": 59,
+   "missing": [],
+   "extra": [
+    "three months.",
+    "Reconciliation of cash and cash equivalents",
+    "Cash and cash equivalents as per Note -16",
+    "Cash flows during the year",
+    "Non-cash changes due to",
+    "Acquisitions under Right of use asset",
+    "Equity shares issued",
+    "Interest on borrowings",
+    "Variation in exchange rates",
+    "Transaction costs on borrowings",
+    "Closing balance as at 31 March 2026"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "NTPC_2026_pl": {
+   "rows": 54,
+   "missing": [],
+   "extra": [
+    "(Par value \u20b9 10/- each)"
+   ],
+   "labels": [
+    "'Earnings per equity share attributable to owners of the parent company' should be 'Earnings per equity share attributable to owners of the parent company (Par value \u20b9 10/- each)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ONGC_2026_bs": {
+   "rows": 81,
+   "missing": [
+    "Capital work-in-progress",
+    "Intangible assets under development",
+    "Financial assets",
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Right of Use Assets (b) Capital work-in-progress' should be 'Right of Use Assets'",
+    "'Other intangible assets (f) Intangible assets under development' should be 'Other intangible assets'",
+    "'Investments in Joint Ventures and Associates (h) Financial assets' should be 'Investments in Joint Ventures and Associates'",
+    "'Inventories (b) Financial assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ONGC_2026_cf": {
+   "rows": 68,
+   "missing": [],
+   "extra": [
+    "Borrowing - Non Current*",
+    "Loan from Oil Industry Development Board (OIDB)",
+    "Non Convertible Debentures",
+    "Deferred payment liabilities - VAT Loan",
+    "Working capital loan from banks",
+    "Foreign Currency Bonds",
+    "Foreign Currency Term Loan (FCTL)",
+    "Rupee Term Loan",
+    "Interest Free Loan from Government of Karnataka",
+    "Compulsorily Convertible Debentures",
+    "Other financial liabilities (Non current) - Net",
+    "Derivative Contracts",
+    "Total (I)",
+    "Borrowing - Current",
+    "Working capital loan from banks",
+    "Commercial Papers",
+    "Loan repayable on demand",
+    "Triparty Repo Dealing System Loan",
+    "Other Loans",
+    "Clearcorp Repo Order Matching System",
+    "Foreign Currency Term Loan (FCTL)",
+    "Rupee Term Loans",
+    "Total (II)",
+    "Lease Liabilities the",
+    "Other Financial Liabilities - Interest Accrued to * includes current maturities of long term debt"
+   ],
+   "labels": [
+    "'Receivables to' should be 'Receivables'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ONGC_2026_pl": {
+   "rows": 56,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Deferred tax (c) Share of other comprehensive income in associates and joint ventures, to' should be 'Deferred tax'",
+    "'the extent not to be reclassified to profit or loss' should be 'Share of other comprehensive income in associates and joint ventures, to the extent not to be reclassified to profit or loss'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "PIDILITIND_2026_bs": {
+   "rows": 57,
+   "missing": [
+    "Financial Assets",
+    "Financial Assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Investments accounted for using the equity method (g) Financial Assets' should be 'Investments accounted for using the equity method'",
+    "'Inventories (b) Financial Assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "PIDILITIND_2026_cf": {
+   "rows": 69,
+   "missing": [],
+   "extra": [
+    "Other Intangible Assets"
+   ],
+   "labels": [
+    "'B Cash Flows from Investing Activities' should be 'Cash Flows from Investing Activities'",
+    "'Proceeds from disposal of Property, Plant and Equipment &' should be 'Proceeds from disposal of Property, Plant and Equipment & Other Intangible Assets'",
+    "'C Cash Flows from Financing Activities' should be 'Cash Flows from Financing Activities'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "PIDILITIND_2026_pl": {
+   "rows": 45,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "POWERGRID_2026_bs": {
+   "rows": 62,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "POWERGRID_2026_cf": {
+   "rows": 69,
+   "missing": [],
+   "extra": [
+    "Balances",
+    "Measured at FVPL",
+    "Assets etc.",
+    "(SCA)",
+    "Net Cash Flows during the year (19.81)",
+    "Non-cash changes due to",
+    "Adjustments/Acquisitions under finance lease",
+    "Interest on borrowings",
+    "Variation in exchange rates",
+    "Fair value adjustments",
+    "As at 31 March 2026"
+   ],
+   "labels": [
+    "'Add: Tax on Net movement in Regulatory Deferral Account' should be 'Add: Tax on Net movement in Regulatory Deferral Account Balances'",
+    "'Gain on sale/Change in Fair Value of Current Investment' should be 'Gain on sale/Change in Fair Value of Current Investment Measured at FVPL'",
+    "'Proceeds on sale of Property, Plant & Equipment and Intangible' should be 'Proceeds on sale of Property, Plant & Equipment and Intangible Assets etc.'",
+    "'Finance Income Received - Service Concession Arrangements' should be 'Finance Income Received - Service Concession Arrangements (SCA)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "POWERGRID_2026_pl": {
+   "rows": 30,
+   "missing": [
+    "Earnings per equity share including movement in Regulatory Deferral Account Balances (Face value \u20b9 10/- each):",
+    "Basic & Diluted (\u20b9)",
+    "Earnings per equity share excluding movement in Regulatory Deferral Account Balances (Face value \u20b9 10/- each):",
+    "Basic & Diluted (\u20b9)"
+   ],
+   "extra": [
+    "Ventures accounted for using Equity Method",
+    "Balances",
+    "Account Balances",
+    "Balances - Income/ (Expenses) (net of tax)",
+    "Ventures accounted for using Equity Method"
+   ],
+   "labels": [
+    "'Share of net profit/(loss) of investments in Joint' should be 'Share of net profit/(loss) of investments in Joint Ventures accounted for using Equity Method'",
+    "'Profit before Tax and Regulatory Deferral Account' should be 'Profit before Tax and Regulatory Deferral Account Balances'",
+    "'Profit for the period before Regulatory Deferral' should be 'Profit for the period before Regulatory Deferral Account Balances'",
+    "'Net movement in Regulatory Deferral Account' should be 'Net movement in Regulatory Deferral Account Balances - Income/ (Expenses) (net of tax)'",
+    "'Share of Other comprehensive income of Joint' should be 'Share of Other comprehensive income of Joint Ventures accounted for using Equity Method'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "RELIANCE_2026_bs": {
+   "rows": 55,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "RELIANCE_2026_cf": {
+   "rows": 44,
+   "missing": [],
+   "extra": [
+    "Statement of Profit and Loss",
+    "Borrowings - Non-current (including Current Maturities)",
+    "Borrowings - Current (Refer Note 20)",
+    "Total"
+   ],
+   "labels": [
+    "'Net Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax as per' should be 'Net Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax as per Statement of Profit and Loss'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "RELIANCE_2026_pl": {
+   "rows": 44,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Basic (in I)' should be 'Basic (in \u20b9)'",
+    "'Diluted (in I)' should be 'Diluted (in \u20b9)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "SUNPHARMA_2026_bs": {
+   "rows": 58,
+   "missing": [
+    "Financial assets",
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Property, plant and equipment 3A (I) & (II)' should be 'Property, plant and equipment'",
+    "'Intangible assets under development (f) Financial assets' should be 'Intangible assets under development'",
+    "'Inventories (b) Financial assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "SUNPHARMA_2026_cf": {
+   "rows": 59,
+   "missing": [],
+   "extra": [
+    "Derivatives, net",
+    "Borrowings",
+    "[(liabilties)/ asset]",
+    "Opening balance",
+    "Changes from financing cash flows",
+    "The effect of changes in foreign exchange rates",
+    "Closing balance",
+    "Derivatives, net",
+    "Borrowings",
+    "[(liabilties)/ asset]",
+    "Opening balance",
+    "Changes from financing cash flows",
+    "The effect of changes in foreign exchange rates",
+    "Closing balance"
+   ],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "SUNPHARMA_2026_pl": {
+   "rows": 58,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Depreciation and amortisation expense (A & B)' should be 'Depreciation and amortisation expense'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TATASTEEL_2026_bs": {
+   "rows": 72,
+   "missing": [
+    "Financial assets",
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Property, plant and equipment F164' should be 'Property, plant and equipment'",
+    "'Capital work-in-progress F164' should be 'Capital work-in-progress'",
+    "'Right-of-use assets F170' should be 'Right-of-use assets'",
+    "'Goodwill F173' should be 'Goodwill'",
+    "'Other intangible assets F174' should be 'Other intangible assets'",
+    "'Intangible assets under development F174' should be 'Intangible assets under development'",
+    "'Equity accounted investments F177 (h) Financial assets' should be 'Equity accounted investments'",
+    "'Investments F179' should be 'Investments'",
+    "'Loans F181' should be 'Loans'",
+    "'Other financial assets F183' should be 'Other financial assets'",
+    "'Retirement benefit assets F185' should be 'Retirement benefit assets'",
+    "'Deferred tax assets F186' should be 'Deferred tax assets'",
+    "'Other assets F189' should be 'Other assets'",
+    "'Inventories F190 (b) Financial assets' should be 'Inventories'",
+    "'Investments F179' should be 'Investments'",
+    "'Trade receivables F191' should be 'Trade receivables'",
+    "'Cash and cash equivalents F192' should be 'Cash and cash equivalents'",
+    "'Other balances with banks F193' should be 'Other balances with banks'",
+    "'Loans F181' should be 'Loans'",
+    "'Other financial assets F183' should be 'Other financial assets'",
+    "'Retirement benefit assets F185' should be 'Retirement benefit assets'",
+    "'Other assets F189' should be 'Other assets'",
+    "'Assets held for sale F193' should be 'Assets held for sale'",
+    "'Equity share capital F194' should be 'Equity share capital'",
+    "'Other equity F197' should be 'Other equity'",
+    "'Non-controlling interests F202' should be 'Non-controlling interests'",
+    "'Borrowings F204' should be 'Borrowings'",
+    "'Other financial liabilities F211' should be 'Other financial liabilities'",
+    "'Provisions F211' should be 'Provisions'",
+    "'Retirement benefit obligations F185' should be 'Retirement benefit obligations'",
+    "'Deferred income F213' should be 'Deferred income'",
+    "'Deferred tax liabilities F186' should be 'Deferred tax liabilities'",
+    "'Other liabilities F214' should be 'Other liabilities'",
+    "'Borrowings F204' should be 'Borrowings'",
+    "'Trade payables F214' should be 'Trade payables'",
+    "'Total outstanding dues of micro and small enterprises (b) Total outstanding dues of creditors other than micro and small' should be 'Total outstanding dues of micro and small enterprises'",
+    "'enterprises' should be 'Total outstanding dues of creditors other than micro and small enterprises'",
+    "'Other financial liabilities F211' should be 'Other financial liabilities'",
+    "'Provisions F211' should be 'Provisions'",
+    "'Retirement benefit obligations F185' should be 'Retirement benefit obligations'",
+    "'Deferred income F213' should be 'Deferred income'",
+    "'Other liabilities F214' should be 'Other liabilities'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TATASTEEL_2026_cf": {
+   "rows": 55,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Acquisition of subsidiaries/undertakings(i)' should be 'Acquisition of subsidiaries/undertakings'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TATASTEEL_2026_pl": {
+   "rows": 55,
+   "missing": [],
+   "extra": [
+    "Profit/(loss) on sale of subsidiaries/non-current investments/business"
+   ],
+   "labels": [
+    "'Revenue from operations F216' should be 'Revenue from operations'",
+    "'Other income F217' should be 'Other income'",
+    "'Changes in inventories of finished and semi-finished goods, (c) stock-in-trade and work-in-progress' should be 'Changes in inventories of finished and semi-finished goods, stock-in-trade and work-in-progress'",
+    "'Employee benefits expense F217' should be 'Employee benefits expense'",
+    "'Finance costs F218' should be 'Finance costs'",
+    "'Depreciation and amortisation expense F218' should be 'Depreciation and amortisation expense'",
+    "'Other expenses F218' should be 'Other expenses'",
+    "'Exceptional items: F219' should be 'Exceptional items:'",
+    "'undertakings/non-current assets' should be 'Profit/(loss) on sale of subsidiaries/non-current investments/business undertakings/non-current assets'",
+    "'Tax expense: F186' should be 'Tax expense:'",
+    "'Earnings per share 35 F220' should be 'Earnings per share'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TCS_2026_bs": {
+   "rows": 62,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [
+    "Lease liabilities FY2026: 9 should be 9453"
+   ],
+   "level": "silver"
+  },
+  "TCS_2026_cf": {
+   "rows": 78,
+   "missing": [
+    "Net change in"
+   ],
+   "extra": [],
+   "labels": [
+    "'Net change in Inventories' should be 'Inventories'",
+    "'Acquisition of subsidiaries (net of cash of H130 crore) (Refer note 7)' should be 'Acquisition of subsidiaries (net of cash of \u20b9130 crore) (Refer note 7)'",
+    "'Repayment of lease liabilities1' should be 'Repayment of lease liabilities'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TCS_2026_pl": {
+   "rows": 48,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "TECHM_2026_bs": {
+   "rows": 60,
+   "missing": [
+    "Financial Assets",
+    "Financial Assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Investment accounted for using the Equity method (h) Financial Assets' should be 'Investment accounted for using the Equity method'",
+    "'Inventories (b) Financial Assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TECHM_2026_cf": {
+   "rows": 54,
+   "missing": [],
+   "extra": [
+    "Assets",
+    "(E)",
+    "Components of Cash and Cash equivalents For the year ended",
+    "March 31, 2026 March",
+    "Cash in hand",
+    "Balances with banks",
+    "In Current Account",
+    "In Deposit Account (original maturities less than three months)",
+    "Subtotal"
+   ],
+   "labels": [
+    "'B Cash Flow from Investing Activities' should be 'Cash Flow from Investing Activities'",
+    "'Purchase of Property, Plant and Equipment and Intangible' should be 'Purchase of Property, Plant and Equipment and Intangible Assets'",
+    "'C Cash Flow from Financing Activities' should be 'Cash Flow from Financing Activities'",
+    "'Effect of exchange rate changes on cash and cash equivalents' should be 'Effect of exchange rate changes on cash and cash equivalents (E)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TECHM_2026_pl": {
+   "rows": 42,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'A I. Items that will not be reclassified to Profit or Loss' should be 'Items that will not be reclassified to Profit or Loss'",
+    "'B I. Items that will be subsequently reclassified to Profit or Loss' should be 'Items that will be subsequently reclassified to Profit or Loss'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TITAN_2026_bs": {
+   "rows": 59,
+   "missing": [
+    "Financial assets"
+   ],
+   "extra": [],
+   "labels": [
+    "'Inventories (b) Financial assets' should be 'Inventories'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TITAN_2026_cf": {
+   "rows": 62,
+   "missing": [],
+   "extra": [
+    "31st March 2026 31st March",
+    "Borrowings &",
+    "Opening balance",
+    "Proceeds from long term borrowing",
+    "Repayment of long term borrowing",
+    "Proceeds from short term borrowings, net",
+    "Non cash changes",
+    "Closing balance",
+    "Reconciliation of Lease liability &",
+    "Opening balance",
+    "Payments made during the year",
+    "Non-cash changes",
+    "Closing balance"
+   ],
+   "labels": [
+    "'Net cash (used in)/generated from investing activities B' should be 'Net cash (used in)/generated from investing activities'",
+    "'Net cash used in financing activities C' should be 'Net cash used in financing activities'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "TITAN_2026_pl": {
+   "rows": 50,
+   "missing": [
+    "Earnings per equity share of \u20b9 1 {based on profit for the year (XI)}"
+   ],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "ULTRACEMCO_2026_bs": {
+   "rows": 66,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Other Equity (b)' should be 'Other Equity'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ULTRACEMCO_2026_cf": {
+   "rows": 64,
+   "missing": [],
+   "extra": [
+    "Construction Materials P.S.C. (RAKWCT) (Refer Note 43)",
+    "Non-Current Borrowing (including current maturities of Non-Current Borrowing)",
+    "Current Borrowing",
+    "Subtotal"
+   ],
+   "labels": [
+    "'Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement &' should be 'Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement & Construction Materials P.S.C. (RAKWCT) (Refer Note 43)'",
+    "'Cash and Cash Equivalents at the End of the Year (Refer Note 13)' should be 'Cash and Cash Equivalents at the End of the Year (Refer Note 13) (D+E+F+G+H+I+J)'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "ULTRACEMCO_2026_pl": {
+   "rows": 43,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'A (i) Items that will not be reclassified to Profit or Loss' should be 'Items that will not be reclassified to Profit or Loss'",
+    "'B (i) Items that will be reclassified to Profit or Loss' should be 'Items that will be reclassified to Profit or Loss'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "VEDL_2026_bs": {
+   "rows": 66,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "VEDL_2026_cf": {
+   "rows": 64,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "VEDL_2026_pl": {
+   "rows": 87,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "VINATIORGA_2026_bs": {
+   "rows": 49,
+   "missing": [],
+   "extra": [],
+   "labels": [
+    "'Capital work-in-progress (b)' should be 'Capital work-in-progress'",
+    "'Intangible assets (c)' should be 'Intangible assets'",
+    "'Equity share capital SOCE' should be 'Equity share capital'",
+    "'Other equity SOCE' should be 'Other equity'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "VINATIORGA_2026_cf": {
+   "rows": 54,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "VINATIORGA_2026_pl": {
+   "rows": 30,
+   "missing": [],
+   "extra": [],
+   "labels": [],
+   "values": [],
+   "level": "silver"
+  },
+  "WIPRO_2026_bs": {
+   "rows": 65,
+   "missing": [
+    "Financial assets"
+   ],
+   "extra": [
+    "(I"
+   ],
+   "labels": [
+    "'Investments accounted for using the equity method per' should be 'Investments accounted for using the equity method'",
+    "'Financial assets and Investments' should be 'Investments'",
+    "'in Other non-current assets' should be 'Other non-current assets'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "WIPRO_2026_cf": {
+   "rows": 48,
+   "missing": [],
+   "extra": [
+    "Adjustments to reconcile profit for the",
+    "activities",
+    "Changes in operating assets and"
+   ],
+   "labels": [
+    "'year to net cash generated from operating' should be 'Adjustments to reconcile profit for the year to net cash generated from operating activities'",
+    "'Share of net (profit)/loss of associate and joint venture accounted for using per equity method' should be 'Share of net (profit)/loss of associate and joint venture accounted for using equity method'",
+    "'Income tax expense and Finance and other income, net of' should be 'Income tax expense'",
+    "'finance costs' should be 'Finance and other income, net of finance costs'",
+    "'liabilities, net of effects from acquisitions' should be 'Changes in operating assets and liabilities, net of effects from acquisitions'",
+    "'(Increase)/Decrease in unbilled in receivables and contract assets of' should be '(Increase)/Decrease in unbilled receivables and contract assets'",
+    "'(I (Increase)/Decrease in inventories (Increase)/Decrease in other financial' should be '(Increase)/Decrease in inventories'",
+    "'assets and other assets' should be '(Increase)/Decrease in other financial assets and other assets'"
+   ],
+   "values": [],
+   "level": "silver"
+  },
+  "WIPRO_2026_pl": {
+   "rows": 61,
+   "missing": [],
+   "extra": [
+    "profit or loss",
+    "Net change in fair value of"
+   ],
+   "labels": [
+    "'Finance costs per Depreciation, amortisation and' should be 'Finance costs'",
+    "'and impairment expense and Sub-contracting and technical' should be 'Depreciation, amortisation and impairment expense'",
+    "'fees' should be 'Sub-contracting and technical fees'",
+    "'Marketing and brand building of in' should be 'Marketing and brand building'",
+    "'(I Lifetime expected credit loss' should be 'Lifetime expected credit loss'",
+    "'Items that will not be reclassified to' should be 'Items that will not be reclassified to profit or loss:'",
+    "'investment in equity instruments measured at fair value through OCI' should be 'Net change in fair value of investment in equity instruments measured at fair value through OCI'"
+   ],
+   "values": [],
+   "level": "silver"
+  }
+ },
+ "totals": {
+  "missing": 61,
+  "extra": 251,
+  "labels": 232,
+  "values": 7
+ }
+}

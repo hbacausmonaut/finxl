@@ -1,0 +1,3799 @@
+{
+ "HCLTECH": {
+  "ticker": "HCLTECH",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3414,
+  "q_confirmed": 3323,
+  "q_totals": 636,
+  "q_failed_totals": 2,
+  "q_bad_labels": 5,
+  "q_issues": [
+   "FY2025 consolidated Profit & Loss: 60/65 figures confirmed by the report's totals (92%); 1 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 51/56 figures confirmed by the report's totals (91%); 1 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 116/116 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2020 standalone Cash Flow: 90/95 figures confirmed by the report's totals (95%); 3 garbled label(s)"
+  ],
+  "verified": 62,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 20,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 61
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2025: ours=105544 Screener=104480.0",
+   "DIFF consolidated Total assets FY2026: ours=116258 Screener=115112.0"
+  ],
+  "seconds": 79
+ },
+ "HDFCBANK": {
+  "ticker": "HDFCBANK",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 1957,
+  "q_confirmed": 1821,
+  "q_totals": 366,
+  "q_failed_totals": 0,
+  "q_bad_labels": 1,
+  "q_issues": [
+   "FY2024 consolidated Profit & Loss: 41/49 figures confirmed by the report's totals (84%); 1 garbled label(s)"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 2,
+    "match": 2
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 82
+ },
+ "PIDILITIND": {
+  "ticker": "PIDILITIND",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3547,
+  "q_confirmed": 3412,
+  "q_totals": 676,
+  "q_failed_totals": 62,
+  "q_bad_labels": 1,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 116/118 figures confirmed by the report's totals (98%); 2 total(s) don't add up",
+   "FY2026 standalone Cash Flow: 115/119 figures confirmed by the report's totals (97%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 115/118 figures confirmed by the report's totals (97%); 3 total(s) don't add up",
+   "FY2025 standalone Cash Flow: 109/113 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2024 consolidated Cash Flow: 112/116 figures confirmed by the report's totals (97%); 4 total(s) don't add up",
+   "FY2024 standalone Cash Flow: 102/106 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 106/110 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2023 standalone Balance Sheet: 60/79 figures confirmed by the report's totals (76%); 6 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 98/102 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 110/114 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 102/106 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 59/68 figures confirmed by the report's totals (87%); 2 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 110/114 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 99/105 figures confirmed by the report's totals (94%); 5 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 107/111 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2020 standalone Cash Flow: 98/102 figures confirmed by the report's totals (96%); 4 total(s) don't add up"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 19
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 82
+ },
+ "RELIANCE": {
+  "ticker": "RELIANCE",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3325,
+  "q_confirmed": 3092,
+  "q_totals": 642,
+  "q_failed_totals": 11,
+  "q_bad_labels": 3,
+  "q_issues": [
+   "FY2024 consolidated Cash Flow: 51/81 figures confirmed by the report's totals (63%); 5 total(s) don't add up",
+   "FY2024 standalone Cash Flow: 54/84 figures confirmed by the report's totals (64%); 4 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 92/98 figures confirmed by the report's totals (94%); 2 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 88/92 figures confirmed by the report's totals (96%); 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 94/96 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 91/93 figures confirmed by the report's totals (98%); 1 garbled label(s)"
+  ],
+  "verified": 55,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 19,
+    "match": 17
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 48
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2022: ours=717635 Screener=694673.0",
+   "DIFF consolidated Revenue FY2023: ours=891311 Screener=876396.0",
+   "DIFF consolidated Revenue FY2024: ours=914472 Screener=899041.0",
+   "DIFF consolidated Revenue FY2025: ours=980136 Screener=962820.0",
+   "DIFF consolidated Revenue FY2026: ours=1075675 Screener=1055780.0",
+   "DIFF standalone Revenue FY2023: ours=552823 Screener=537909.0",
+   "DIFF standalone Revenue FY2024: ours=547942 Screener=531908.0",
+   "DIFF standalone Revenue FY2025: ours=532792 Screener=515425.0",
+   "DIFF standalone Revenue FY2026: ours=524105 Screener=504026.0"
+  ],
+  "seconds": 146
+ },
+ "VINATIORGA": {
+  "ticker": "VINATIORGA",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 3,
+  "ok": 39,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 2678,
+  "q_confirmed": 2345,
+  "q_totals": 493,
+  "q_failed_totals": 43,
+  "q_bad_labels": 30,
+  "q_issues": [
+   "FY2026 consolidated Balance Sheet: 69/69 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2026 consolidated Cash Flow: 81/89 figures confirmed by the report's totals (91%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2026 standalone Balance Sheet: 63/65 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 3 garbled label(s)",
+   "FY2026 standalone Cash Flow: 80/88 figures confirmed by the report's totals (91%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2025 consolidated Balance Sheet: 58/60 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 86/91 figures confirmed by the report's totals (95%); 1 garbled label(s)",
+   "FY2025 standalone Balance Sheet: 66/68 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2025 standalone Cash Flow: 78/78 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 consolidated Balance Sheet: 40/94 figures confirmed by the report's totals (43%); 9 total(s) don't add up",
+   "FY2024 standalone Balance Sheet: 100/103 figures confirmed by the report's totals (97%); 3 total(s) don't add up",
+   "FY2023 consolidated Balance Sheet: 60/62 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2023 standalone Balance Sheet: 43/62 figures confirmed by the report's totals (69%); 3 total(s) don't add up; 2 garbled label(s)",
+   "FY2022 consolidated Balance Sheet: 62/64 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2022 standalone Balance Sheet: 62/64 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2021 consolidated Balance Sheet: 60/62 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 5/92 figures confirmed by the report's totals (5%); 8 total(s) don't add up",
+   "FY2021 standalone Balance Sheet: 60/62 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2020 standalone Balance Sheet: 60/60 figures confirmed by the report's totals (100%); 4 garbled label(s)"
+  ],
+  "verified": 59,
+  "compared": 60,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 18,
+    "match": 15
+   },
+   "Screener": {
+    "checked": 60,
+    "match": 59
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2022: ours=2150.413 Screener=2090.0"
+  ],
+  "seconds": 69
+ },
+ "INFY": {
+  "ticker": "INFY",
+  "reports": [
+   2020,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 36,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 2905,
+  "q_confirmed": 2781,
+  "q_totals": 524,
+  "q_failed_totals": 4,
+  "q_bad_labels": 4,
+  "q_issues": [
+   "FY2024 consolidated Profit & Loss: 64/72 figures confirmed by the report's totals (89%); 1 garbled label(s)",
+   "FY2024 standalone Profit & Loss: 46/54 figures confirmed by the report's totals (85%); 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 98/102 figures confirmed by the report's totals (96%); 2 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 98/100 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 100/104 figures confirmed by the report's totals (96%); 2 total(s) don't add up; 1 garbled label(s)"
+  ],
+  "verified": 53,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 50
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2019: ours=84738 Screener=84066.0",
+   "DIFF consolidated Total assets FY2020: ours=92768 Screener=91800.0",
+   "DIFF consolidated Total assets FY2021: ours=108386 Screener=107511.0",
+   "DIFF consolidated Total assets FY2022: ours=117885 Screener=116729.0",
+   "DIFF consolidated Total assets FY2025: ours=148903 Screener=147795.0",
+   "DIFF consolidated Total assets FY2026: ours=155967 Screener=154288.0",
+   "DIFF standalone Total assets FY2019: ours=78930 Screener=78389.0",
+   "DIFF standalone Total assets FY2020: ours=81041 Screener=80485.0",
+   "DIFF standalone Total assets FY2021: ours=93939 Screener=93428.0",
+   "DIFF standalone Total assets FY2022: ours=99387 Screener=98546.0",
+   "DIFF standalone Total assets FY2026: ours=126691 Screener=125701.0"
+  ],
+  "seconds": 60
+ },
+ "ASIANPAINT": {
+  "ticker": "ASIANPAINT",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3778,
+  "q_confirmed": 3635,
+  "q_totals": 637,
+  "q_failed_totals": 3,
+  "q_bad_labels": 0,
+  "q_issues": [
+   "FY2021 consolidated Profit & Loss: 76/92 figures confirmed by the report's totals (83%); 1 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 74/96 figures confirmed by the report's totals (77%); 2 total(s) don't add up"
+  ],
+  "verified": 63,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 63
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF standalone Cash from operations FY2020: ours=2813.07 Screener=2407.0"
+  ],
+  "seconds": 141
+ },
+ "TCS": {
+  "ticker": "TCS",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3558,
+  "q_confirmed": 3298,
+  "q_totals": 652,
+  "q_failed_totals": 34,
+  "q_bad_labels": 9,
+  "q_issues": [
+   "FY2026 consolidated Balance Sheet: 87/95 figures confirmed by the report's totals (92%); 2 total(s) don't add up",
+   "FY2024 consolidated Cash Flow: 92/109 figures confirmed by the report's totals (84%); 2 total(s) don't add up",
+   "FY2024 standalone Cash Flow: 88/105 figures confirmed by the report's totals (84%); 2 total(s) don't add up",
+   "FY2022 consolidated Profit & Loss: 69/74 figures confirmed by the report's totals (93%); 1 garbled label(s)",
+   "FY2022 consolidated Balance Sheet: 93/95 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 104/106 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 standalone Balance Sheet: 85/87 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 88/105 figures confirmed by the report's totals (84%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 consolidated Balance Sheet: 93/95 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 98/100 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 standalone Balance Sheet: 85/87 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 85/100 figures confirmed by the report's totals (85%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 consolidated Balance Sheet: 45/94 figures confirmed by the report's totals (48%); 7 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 87/95 figures confirmed by the report's totals (92%); 2 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 42/87 figures confirmed by the report's totals (48%); 7 total(s) don't add up",
+   "FY2020 standalone Cash Flow: 85/92 figures confirmed by the report's totals (92%); 2 total(s) don't add up"
+  ],
+  "verified": 59,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 57
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2019: ours=114943 Screener=113901.0",
+   "DIFF consolidated Total assets FY2020: ours=120899 Screener=120127.0",
+   "DIFF consolidated Total assets FY2021: ours=130759 Screener=129992.0",
+   "DIFF consolidated Total assets FY2025: ours=159629 Screener=158649.0",
+   "DIFF consolidated Total assets FY2026: ours=182372 Screener=181167.0"
+  ],
+  "seconds": 83
+ },
+ "NTPC": {
+  "ticker": "NTPC",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3829,
+  "q_confirmed": 3647,
+  "q_totals": 769,
+  "q_failed_totals": 0,
+  "q_bad_labels": 8,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 106/118 figures confirmed by the report's totals (90%); 1 garbled label(s)",
+   "FY2026 standalone Cash Flow: 111/122 figures confirmed by the report's totals (91%); 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 103/116 figures confirmed by the report's totals (89%); 1 garbled label(s)",
+   "FY2025 standalone Cash Flow: 109/119 figures confirmed by the report's totals (92%); 1 garbled label(s)",
+   "FY2023 consolidated Profit & Loss: 72/76 figures confirmed by the report's totals (95%); 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 75/79 figures confirmed by the report's totals (95%); 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 72/76 figures confirmed by the report's totals (95%); 1 garbled label(s)",
+   "FY2020 standalone Profit & Loss: 48/48 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 61,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 17
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 61
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2022: ours=424945.9 Screener=415831.0",
+   "DIFF consolidated Cash from operations FY2020: ours=23889.67 Screener=24583.0",
+   "DIFF standalone Total assets FY2022: ours=379342.47 Screener=371361.0"
+  ],
+  "seconds": 181
+ },
+ "ICICIBANK": {
+  "ticker": "ICICIBANK",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 1914,
+  "q_confirmed": 1834,
+  "q_totals": 302,
+  "q_failed_totals": 10,
+  "q_bad_labels": 2,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 41/43 figures confirmed by the report's totals (95%); 1 garbled label(s)",
+   "FY2025 consolidated Profit & Loss: 42/44 figures confirmed by the report's totals (95%); 1 garbled label(s)",
+   "FY2024 consolidated Profit & Loss: 40/44 figures confirmed by the report's totals (91%); 2 total(s) don't add up",
+   "FY2023 consolidated Profit & Loss: 40/44 figures confirmed by the report's totals (91%); 2 total(s) don't add up",
+   "FY2022 consolidated Profit & Loss: 40/44 figures confirmed by the report's totals (91%); 2 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 38/42 figures confirmed by the report's totals (90%); 2 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 41/45 figures confirmed by the report's totals (91%); 2 total(s) don't add up"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 2,
+    "match": 2
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 83
+ },
+ "SBIN": {
+  "ticker": "SBIN",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 2095,
+  "q_confirmed": 1988,
+  "q_totals": 413,
+  "q_failed_totals": 1,
+  "q_bad_labels": 10,
+  "q_issues": [
+   "FY2025 consolidated Cash Flow: 79/82 figures confirmed by the report's totals (96%); 1 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 78/79 figures confirmed by the report's totals (99%); 2 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 42/46 figures confirmed by the report's totals (91%); 1 garbled label(s)",
+   "FY2022 standalone Profit & Loss: 34/38 figures confirmed by the report's totals (89%); 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 78/78 figures confirmed by the report's totals (100%); 3 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 41/41 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 79/79 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 72/72 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 56,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 2,
+    "match": 2
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 56
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Net profit FY2019: ours=3069.0741 Screener=3351.0",
+   "DIFF consolidated Net profit FY2020: ours=18176.8285 Screener=21140.0",
+   "DIFF consolidated Net profit FY2021: ours=24279.7194 Screener=23888.0",
+   "DIFF consolidated Net profit FY2022: ours=36356.1714 Screener=37183.0",
+   "DIFF consolidated Net profit FY2023: ours=56558.4299 Screener=57750.0",
+   "DIFF consolidated Net profit FY2024: ours=68138.2609 Screener=69543.0",
+   "DIFF consolidated Net profit FY2025: ours=79017.1544 Screener=80523.0",
+   "DIFF consolidated Net profit FY2026: ours=85168.4686 Screener=86666.0"
+  ],
+  "seconds": 75
+ },
+ "KOTAKBANK": {
+  "ticker": "KOTAKBANK",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 36,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 2006,
+  "q_confirmed": 1900,
+  "q_totals": 360,
+  "q_failed_totals": 0,
+  "q_bad_labels": 11,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 89/89 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 90/90 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 standalone Profit & Loss: 35/39 figures confirmed by the report's totals (90%); 1 garbled label(s)",
+   "FY2025 standalone Cash Flow: 90/90 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 90/90 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2022 standalone Cash Flow: 91/91 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 90/90 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2020 standalone Cash Flow: 90/90 figures confirmed by the report's totals (100%); 2 garbled label(s)"
+  ],
+  "verified": 63,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 2,
+    "match": 2
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 63
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Cash from operations FY2022: ours=8308.3623 Screener=8418.0"
+  ],
+  "seconds": 72
+ },
+ "CHOLAFIN": {
+  "ticker": "CHOLAFIN",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 41,
+  "check": 0,
+  "missing": 1,
+  "problems": [
+   "FY2020 consolidated Cash Flow: MISSING: statement not found in PDF"
+  ],
+  "ai_used": 0,
+  "q_cells": 3250,
+  "q_confirmed": 3147,
+  "q_totals": 687,
+  "q_failed_totals": 14,
+  "q_bad_labels": 8,
+  "q_issues": [
+   "FY2024 consolidated Cash Flow: 108/110 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2023 consolidated Profit & Loss: 64/70 figures confirmed by the report's totals (91%); 2 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 104/104 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 62/68 figures confirmed by the report's totals (91%); 2 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 112/112 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2022 standalone Balance Sheet: 67/69 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 107/107 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 61/67 figures confirmed by the report's totals (91%); 2 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 96/102 figures confirmed by the report's totals (94%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 79/92 figures confirmed by the report's totals (86%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 63/70 figures confirmed by the report's totals (90%); 2 total(s) don't add up"
+  ],
+  "verified": 62,
+  "compared": 63,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 63,
+    "match": 62
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF standalone Revenue FY2024: ours=18845.22 Screener=18960.0"
+  ],
+  "seconds": 61
+ },
+ "ICICIGI": {
+  "ticker": "ICICIGI",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 16,
+  "ok": 24,
+  "check": 5,
+  "missing": 11,
+  "problems": [
+   "FY2026 consolidated Cash Flow: MISSING: statement not found in PDF",
+   "FY2026 consolidated Revenue Account: MISSING: statement not found in PDF",
+   "FY2026 standalone Balance Sheet: CHECK: could not find Total assets / Total equity and liabilities",
+   "FY2025 consolidated Balance Sheet: MISSING: statement not found in PDF",
+   "FY2025 consolidated Cash Flow: MISSING: statement not found in PDF",
+   "FY2025 consolidated Revenue Account: MISSING: statement not found in PDF",
+   "FY2025 standalone Profit & Loss: CHECK: 10 of 28 rows have no current-year value (unreadable font?)",
+   "FY2025 standalone Revenue Account: CHECK: 9 of 28 rows have no current-year value (unreadable font?)",
+   "FY2023 consolidated Balance Sheet: MISSING: statement not found in PDF",
+   "FY2023 consolidated Cash Flow: MISSING: statement not found in PDF",
+   "FY2023 consolidated Revenue Account: MISSING: statement not found in PDF",
+   "FY2023 standalone Profit & Loss: CHECK: net profit row not found",
+   "FY2022 standalone Cash Flow: MISSING: statement not found in PDF",
+   "FY2021 standalone Cash Flow: MISSING: statement not found in PDF",
+   "FY2020 standalone Cash Flow: MISSING: statement not found in PDF",
+   "FY2020 standalone Revenue Account: CHECK: premium row not found"
+  ],
+  "ai_used": 0,
+  "q_cells": 1310,
+  "q_confirmed": 1122,
+  "q_totals": 194,
+  "q_failed_totals": 19,
+  "q_bad_labels": 16,
+  "q_issues": [
+   "FY2026 consolidated Balance Sheet: 24/36 figures confirmed by the report's totals (67%); 2 total(s) don't add up",
+   "FY2026 standalone Profit & Loss: 21/24 figures confirmed by the report's totals (88%); 1 total(s) don't add up",
+   "FY2026 standalone Balance Sheet: 11/23 figures confirmed by the report's totals (48%); 3 total(s) don't add up; 2 garbled label(s)",
+   "FY2026 standalone Cash Flow: 52/62 figures confirmed by the report's totals (84%); 3 garbled label(s)",
+   "FY2025 standalone Profit & Loss: 43/46 figures confirmed by the report's totals (93%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2025 standalone Balance Sheet: 25/37 figures confirmed by the report's totals (68%); 2 total(s) don't add up",
+   "FY2025 standalone Cash Flow: 54/54 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2024 standalone Balance Sheet: 26/38 figures confirmed by the report's totals (68%); 2 total(s) don't add up",
+   "FY2024 standalone Cash Flow: 55/55 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2023 standalone Profit & Loss: 23/24 figures confirmed by the report's totals (96%); 1 garbled label(s)",
+   "FY2023 standalone Balance Sheet: 25/37 figures confirmed by the report's totals (68%); 2 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 57/57 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2022 standalone Balance Sheet: 25/37 figures confirmed by the report's totals (68%); 2 total(s) don't add up",
+   "FY2021 standalone Balance Sheet: 26/38 figures confirmed by the report's totals (68%); 2 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 25/37 figures confirmed by the report's totals (68%); 2 total(s) don't add up",
+   "FY2020 standalone Revenue Account: 13/24 figures confirmed by the report's totals (54%); 3 garbled label(s)"
+  ],
+  "verified": 11,
+  "compared": 29,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 0,
+    "match": 0
+   },
+   "Screener": {
+    "checked": 29,
+    "match": 11
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "MISSING standalone Revenue FY2019: ours=None Screener=11163.0",
+   "MISSING standalone Revenue FY2020: ours=None Screener=11517.0",
+   "MISSING standalone Revenue FY2021: ours=None Screener=12161.0",
+   "MISSING standalone Revenue FY2022: ours=None Screener=16026.0",
+   "MISSING standalone Revenue FY2023: ours=None Screener=17876.0",
+   "MISSING standalone Revenue FY2024: ours=None Screener=20572.0",
+   "MISSING standalone Revenue FY2025: ours=None Screener=23961.0",
+   "MISSING standalone Revenue FY2026: ours=None Screener=26994.0",
+   "MISSING standalone Net profit FY2025: ours=None Screener=2508.0",
+   "DIFF standalone Net profit FY2026: ours=0.2772 Screener=2772.0",
+   "DIFF standalone Total assets FY2019: ours=6143.8819 Screener=33403.0",
+   "DIFF standalone Total assets FY2020: ours=6190.6189 Screener=37042.0",
+   "DIFF standalone Total assets FY2021: ours=8600.9841 Screener=39298.0",
+   "DIFF standalone Total assets FY2022: ours=9723.9549 Screener=50848.0",
+   "DIFF standalone Total assets FY2023: ours=10641.0517 Screener=55086.0",
+   "DIFF standalone Total assets FY2024: ours=12985.03 Screener=63308.0",
+   "DIFF standalone Total assets FY2025: ours=14984.09 Screener=69145.0",
+   "DIFF standalone Total assets FY2026: ours=7.6111 Screener=76111.0"
+  ],
+  "seconds": 80
+ },
+ "HINDUNILVR": {
+  "ticker": "HINDUNILVR",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3257,
+  "q_confirmed": 3179,
+  "q_totals": 549,
+  "q_failed_totals": 6,
+  "q_bad_labels": 1,
+  "q_issues": [
+   "FY2024 consolidated Profit & Loss: 52/54 figures confirmed by the report's totals (96%); 1 total(s) don't add up",
+   "FY2024 standalone Profit & Loss: 48/50 figures confirmed by the report's totals (96%); 1 total(s) don't add up",
+   "FY2023 consolidated Profit & Loss: 58/60 figures confirmed by the report's totals (97%); 1 total(s) don't add up",
+   "FY2023 standalone Profit & Loss: 48/50 figures confirmed by the report's totals (96%); 1 total(s) don't add up",
+   "FY2022 consolidated Balance Sheet: 82/82 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 91/93 figures confirmed by the report's totals (98%); 1 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 95/97 figures confirmed by the report's totals (98%); 1 total(s) don't add up"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 96
+ },
+ "BAJFINANCE": {
+  "ticker": "BAJFINANCE",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3396,
+  "q_confirmed": 3343,
+  "q_totals": 650,
+  "q_failed_totals": 3,
+  "q_bad_labels": 0,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 77/93 figures confirmed by the report's totals (83%); 2 total(s) don't add up",
+   "FY2025 consolidated Cash Flow: 95/112 figures confirmed by the report's totals (85%); 1 total(s) don't add up"
+  ],
+  "verified": 61,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 14,
+    "match": 14
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 61
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Cash from operations FY2024: ours=-69843.31 Screener=-72760.0",
+   "DIFF standalone Revenue FY2025: ours=58523.57 Screener=61093.0",
+   "DIFF standalone Revenue FY2026: ours=69850.79 Screener=71267.0"
+  ],
+  "seconds": 226
+ },
+ "HDFCLIFE": {
+  "ticker": "HDFCLIFE",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 6,
+  "ok": 47,
+  "check": 1,
+  "missing": 0,
+  "problems": [
+   "FY2021 standalone Profit & Loss: CHECK: 9 of 29 rows have no current-year value (unreadable font?)"
+  ],
+  "ai_used": 0,
+  "q_cells": 3126,
+  "q_confirmed": 2831,
+  "q_totals": 593,
+  "q_failed_totals": 26,
+  "q_bad_labels": 13,
+  "q_issues": [
+   "FY2026 consolidated Balance Sheet: 46/63 figures confirmed by the report's totals (73%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2026 standalone Balance Sheet: 46/62 figures confirmed by the report's totals (74%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2024 consolidated Profit & Loss: 40/46 figures confirmed by the report's totals (87%); 1 garbled label(s)",
+   "FY2024 consolidated Balance Sheet: 45/59 figures confirmed by the report's totals (76%); 2 total(s) don't add up",
+   "FY2024 standalone Profit & Loss: 40/46 figures confirmed by the report's totals (87%); 1 garbled label(s)",
+   "FY2024 standalone Balance Sheet: 45/59 figures confirmed by the report's totals (76%); 2 total(s) don't add up",
+   "FY2023 consolidated Profit & Loss: 40/46 figures confirmed by the report's totals (87%); 1 garbled label(s)",
+   "FY2023 consolidated Balance Sheet: 46/61 figures confirmed by the report's totals (75%); 2 total(s) don't add up",
+   "FY2023 standalone Profit & Loss: 38/44 figures confirmed by the report's totals (86%); 1 garbled label(s)",
+   "FY2023 standalone Balance Sheet: 46/60 figures confirmed by the report's totals (77%); 2 total(s) don't add up",
+   "FY2022 consolidated Profit & Loss: 39/45 figures confirmed by the report's totals (87%); 1 garbled label(s)",
+   "FY2022 consolidated Balance Sheet: 46/61 figures confirmed by the report's totals (75%); 2 total(s) don't add up",
+   "FY2022 standalone Profit & Loss: 35/41 figures confirmed by the report's totals (85%); 1 garbled label(s)",
+   "FY2022 standalone Balance Sheet: 46/60 figures confirmed by the report's totals (77%); 2 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 15/29 figures confirmed by the report's totals (52%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2021 consolidated Balance Sheet: 47/61 figures confirmed by the report's totals (77%); 2 total(s) don't add up",
+   "FY2021 standalone Profit & Loss: 35/41 figures confirmed by the report's totals (85%); 1 garbled label(s)",
+   "FY2021 standalone Balance Sheet: 45/59 figures confirmed by the report's totals (76%); 2 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 52/58 figures confirmed by the report's totals (90%); 1 garbled label(s)",
+   "FY2020 consolidated Balance Sheet: 46/60 figures confirmed by the report's totals (77%); 2 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 44/58 figures confirmed by the report's totals (76%); 2 total(s) don't add up",
+   "FY2020 standalone Revenue Account: 74/76 figures confirmed by the report's totals (97%); 1 garbled label(s)"
+  ],
+  "verified": 32,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 0,
+    "match": 0
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 32
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "MISSING consolidated Revenue FY2019: ours=None Screener=38855.0",
+   "MISSING consolidated Revenue FY2020: ours=None Screener=29380.0",
+   "MISSING consolidated Revenue FY2021: ours=None Screener=71528.0",
+   "MISSING consolidated Revenue FY2022: ours=None Screener=67126.0",
+   "MISSING consolidated Revenue FY2023: ours=None Screener=70207.0",
+   "MISSING consolidated Revenue FY2024: ours=None Screener=101482.0",
+   "MISSING consolidated Revenue FY2025: ours=None Screener=96922.0",
+   "MISSING consolidated Revenue FY2026: ours=None Screener=99432.0",
+   "DIFF consolidated Total assets FY2019: ours=124897.0025 Screener=130020.0",
+   "DIFF consolidated Total assets FY2020: ours=127233.917 Screener=132224.0",
+   "DIFF consolidated Total assets FY2021: ours=173121.2011 Screener=179655.0",
+   "DIFF consolidated Total assets FY2022: ours=223786.6899 Screener=230734.0",
+   "DIFF consolidated Total assets FY2023: ours=239700.7503 Screener=248069.0",
+   "DIFF consolidated Total assets FY2024: ours=293844.7365 Screener=302687.0",
+   "DIFF consolidated Total assets FY2025: ours=339706.15 Screener=349412.0",
+   "DIFF consolidated Total assets FY2026: ours=379344.58 Screener=390502.0",
+   "MISSING standalone Revenue FY2019: ours=None Screener=38360.0",
+   "MISSING standalone Revenue FY2020: ours=None Screener=29351.0",
+   "MISSING standalone Revenue FY2021: ours=None Screener=71447.0",
+   "MISSING standalone Revenue FY2022: ours=None Screener=65402.0",
+   "MISSING standalone Revenue FY2023: ours=None Screener=70081.0",
+   "MISSING standalone Revenue FY2024: ours=None Screener=101316.0",
+   "MISSING standalone Revenue FY2025: ours=None Screener=96687.0",
+   "MISSING standalone Revenue FY2026: ours=None Screener=98968.0",
+   "DIFF standalone Total assets FY2019: ours=124882.9054 Screener=130005.0",
+   "DIFF standalone Total assets FY2020: ours=127185.4488 Screener=132162.0",
+   "DIFF standalone Total assets FY2021: ours=173065.8275 Screener=179582.0",
+   "DIFF standalone Total assets FY2022: ours=204160.5338 Screener=210389.0",
+   "DIFF standalone Total assets FY2023: ours=239619.1458 Screener=247922.0",
+   "DIFF standalone Total assets FY2024: ours=293729.3213 Screener=302507.0",
+   "DIFF standalone Total assets FY2025: ours=339534.16 Screener=349133.0",
+   "DIFF standalone Total assets FY2026: ours=379001.78 Screener=390019.0"
+  ],
+  "seconds": 188
+ },
+ "NESTLEIND": {
+  "ticker": "NESTLEIND",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 12,
+  "ok": 24,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 1933,
+  "q_confirmed": 1727,
+  "q_totals": 388,
+  "q_failed_totals": 30,
+  "q_bad_labels": 10,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 92/103 figures confirmed by the report's totals (89%); 3 total(s) don't add up; 1 garbled label(s)",
+   "FY2026 standalone Cash Flow: 90/101 figures confirmed by the report's totals (89%); 3 total(s) don't add up; 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 91/108 figures confirmed by the report's totals (84%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2025 standalone Cash Flow: 90/107 figures confirmed by the report's totals (84%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2024 standalone Cash Flow: 84/86 figures confirmed by the report's totals (98%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2022 standalone Cash Flow: 86/88 figures confirmed by the report's totals (98%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 standalone Profit & Loss: 29/67 figures confirmed by the report's totals (43%); 4 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 98/102 figures confirmed by the report's totals (96%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 standalone Profit & Loss: 30/64 figures confirmed by the report's totals (47%); 3 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 65/75 figures confirmed by the report's totals (87%); 1 total(s) don't add up",
+   "FY2020 standalone Cash Flow: 91/94 figures confirmed by the report's totals (97%); 2 total(s) don't add up; 2 garbled label(s)"
+  ],
+  "verified": 21,
+  "compared": 24,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 1,
+    "match": 1
+   },
+   "Screener": {
+    "checked": 24,
+    "match": 21
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "MISSING standalone Net profit FY2024: ours=None Screener=3933.0",
+   "MISSING standalone Net profit FY2025: ours=None Screener=3314.0",
+   "MISSING standalone Net profit FY2026: ours=None Screener=3545.0"
+  ],
+  "seconds": 34
+ },
+ "ITC": {
+  "ticker": "ITC",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3439,
+  "q_confirmed": 3309,
+  "q_totals": 410,
+  "q_failed_totals": 6,
+  "q_bad_labels": 0,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 70/89 figures confirmed by the report's totals (79%); 1 total(s) don't add up",
+   "FY2026 standalone Profit & Loss: 56/71 figures confirmed by the report's totals (79%); 1 total(s) don't add up",
+   "FY2025 consolidated Profit & Loss: 67/92 figures confirmed by the report's totals (73%); 2 total(s) don't add up",
+   "FY2025 standalone Profit & Loss: 54/76 figures confirmed by the report's totals (71%); 2 total(s) don't add up"
+  ],
+  "verified": 55,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 20,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 48
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2023: ours=76518.21 Screener=70919.0",
+   "DIFF consolidated Revenue FY2024: ours=73891.43 Screener=67932.0",
+   "DIFF consolidated Revenue FY2025: ours=81612.78 Screener=75323.0",
+   "DIFF consolidated Revenue FY2026: ours=89913.33 Screener=78868.0",
+   "DIFF standalone Revenue FY2021: ours=48524.56 Screener=45485.0",
+   "DIFF standalone Revenue FY2023: ours=70251.28 Screener=66043.0",
+   "DIFF standalone Revenue FY2024: ours=67292.6 Screener=62628.0",
+   "DIFF standalone Revenue FY2025: ours=74238.13 Screener=69326.0",
+   "DIFF standalone Revenue FY2026: ours=81640.11 Screener=71984.0"
+  ],
+  "seconds": 91
+ },
+ "MARUTI": {
+  "ticker": "MARUTI",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3439,
+  "q_confirmed": 3383,
+  "q_totals": 744,
+  "q_failed_totals": 0,
+  "q_bad_labels": 1,
+  "q_issues": [
+   "FY2025 consolidated Profit & Loss: 64/68 figures confirmed by the report's totals (94%); 1 garbled label(s)"
+  ],
+  "verified": 63,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 21
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 63
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF standalone Cash from operations FY2025: ours=14012.4 Screener=16131.0"
+  ],
+  "seconds": 90
+ },
+ "EICHERMOT": {
+  "ticker": "EICHERMOT",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3799,
+  "q_confirmed": 3732,
+  "q_totals": 626,
+  "q_failed_totals": 2,
+  "q_bad_labels": 10,
+  "q_issues": [
+   "FY2024 consolidated Cash Flow: 120/120 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 standalone Cash Flow: 117/117 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 118/118 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 115/115 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 115/117 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 111/113 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 113/113 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 111/111 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Cash Flow: 117/118 figures confirmed by the report's totals (99%); 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 117/117 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 59,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 19
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 59
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Net profit FY2019: ours=2220.25 NSE XBRL=2202.73 Screener=2203.0",
+   "DIFF consolidated Cash from operations FY2021: ours=1713.57 Screener=1691.0",
+   "MISSING consolidated Cash from operations FY2022: ours=None NSE XBRL=1527.04 Screener=1527.0",
+   "DIFF standalone Cash from operations FY2021: ours=1696.91 Screener=1674.0",
+   "MISSING standalone Cash from operations FY2022: ours=None NSE XBRL=1570.0 Screener=1570.0"
+  ],
+  "seconds": 69
+ },
+ "BAJAJFINSV": {
+  "ticker": "BAJAJFINSV",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3349,
+  "q_confirmed": 3234,
+  "q_totals": 646,
+  "q_failed_totals": 16,
+  "q_bad_labels": 0,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 78/100 figures confirmed by the report's totals (78%); 3 total(s) don't add up",
+   "FY2025 consolidated Profit & Loss: 83/93 figures confirmed by the report's totals (89%); 2 total(s) don't add up",
+   "FY2025 consolidated Cash Flow: 140/142 figures confirmed by the report's totals (99%); 1 total(s) don't add up",
+   "FY2024 consolidated Profit & Loss: 80/90 figures confirmed by the report's totals (89%); 2 total(s) don't add up",
+   "FY2023 consolidated Profit & Loss: 80/90 figures confirmed by the report's totals (89%); 2 total(s) don't add up",
+   "FY2022 consolidated Profit & Loss: 80/90 figures confirmed by the report's totals (89%); 2 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 80/88 figures confirmed by the report's totals (91%); 2 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 76/84 figures confirmed by the report's totals (90%); 2 total(s) don't add up"
+  ],
+  "verified": 58,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 14,
+    "match": 14
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 56
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF standalone Revenue FY2019: ours=423.05 Screener=448.0",
+   "DIFF standalone Revenue FY2021: ours=323.73 Screener=392.0",
+   "DIFF standalone Revenue FY2023: ours=1076.47 Screener=1147.0",
+   "DIFF standalone Revenue FY2024: ours=1699.29 Screener=1733.0",
+   "DIFF standalone Revenue FY2025: ours=2261.68 Screener=2299.0",
+   "DIFF standalone Revenue FY2026: ours=2016.23 Screener=2077.0"
+  ],
+  "seconds": 242
+ },
+ "SUNPHARMA": {
+  "ticker": "SUNPHARMA",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3764,
+  "q_confirmed": 3643,
+  "q_totals": 760,
+  "q_failed_totals": 17,
+  "q_bad_labels": 4,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 109/109 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2025 consolidated Profit & Loss: 93/101 figures confirmed by the report's totals (92%); 2 total(s) don't add up",
+   "FY2025 standalone Profit & Loss: 55/63 figures confirmed by the report's totals (87%); 2 total(s) don't add up",
+   "FY2024 consolidated Profit & Loss: 82/98 figures confirmed by the report's totals (84%); 6 total(s) don't add up; 1 garbled label(s)",
+   "FY2024 standalone Profit & Loss: 56/64 figures confirmed by the report's totals (88%); 2 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 104/106 figures confirmed by the report's totals (98%); 1 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 92/94 figures confirmed by the report's totals (98%); 1 total(s) don't add up",
+   "FY2022 consolidated Profit & Loss: 97/101 figures confirmed by the report's totals (96%); 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 100/102 figures confirmed by the report's totals (98%); 1 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 86/99 figures confirmed by the report's totals (87%); 2 total(s) don't add up"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 20,
+    "match": 18
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 77
+ },
+ "DRREDDY": {
+  "ticker": "DRREDDY",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 39,
+  "check": 1,
+  "missing": 2,
+  "problems": [
+   "FY2021 standalone Profit & Loss: MISSING: statement not found in PDF",
+   "FY2021 standalone Balance Sheet: CHECK: only 0 value rows parsed",
+   "FY2021 standalone Cash Flow: MISSING: statement not found in PDF"
+  ],
+  "ai_used": 0,
+  "q_cells": 2892,
+  "q_confirmed": 2775,
+  "q_totals": 566,
+  "q_failed_totals": 5,
+  "q_bad_labels": 0,
+  "q_issues": [
+   "FY2022 consolidated Profit & Loss: 58/71 figures confirmed by the report's totals (82%); 2 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 14/42 figures confirmed by the report's totals (33%); 3 total(s) don't add up"
+  ],
+  "verified": 60,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 60
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2025: ours=49426.6 Screener=48023.0",
+   "DIFF consolidated Total assets FY2026: ours=58123.4 Screener=56577.0",
+   "MISSING standalone Total assets FY2021: ours=None Screener=21630.0",
+   "DIFF standalone Total assets FY2022: ours=13491.3 Screener=24496.0"
+  ],
+  "seconds": 119
+ },
+ "TATASTEEL": {
+  "ticker": "TATASTEEL",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 4020,
+  "q_confirmed": 3856,
+  "q_totals": 748,
+  "q_failed_totals": 57,
+  "q_bad_labels": 21,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 78/90 figures confirmed by the report's totals (87%); 4 total(s) don't add up",
+   "FY2026 consolidated Cash Flow: 98/98 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2026 standalone Profit & Loss: 58/68 figures confirmed by the report's totals (85%); 4 total(s) don't add up",
+   "FY2026 standalone Cash Flow: 91/91 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 consolidated Profit & Loss: 82/94 figures confirmed by the report's totals (87%); 4 total(s) don't add up",
+   "FY2025 consolidated Cash Flow: 92/92 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 standalone Profit & Loss: 57/67 figures confirmed by the report's totals (85%); 4 total(s) don't add up",
+   "FY2025 standalone Cash Flow: 89/89 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 consolidated Profit & Loss: 81/93 figures confirmed by the report's totals (87%); 4 total(s) don't add up",
+   "FY2024 consolidated Cash Flow: 95/95 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 standalone Profit & Loss: 58/68 figures confirmed by the report's totals (85%); 4 total(s) don't add up",
+   "FY2024 standalone Cash Flow: 90/90 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 consolidated Profit & Loss: 79/91 figures confirmed by the report's totals (87%); 4 total(s) don't add up; 2 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 100/100 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Profit & Loss: 57/67 figures confirmed by the report's totals (85%); 4 total(s) don't add up; 2 garbled label(s)",
+   "FY2023 standalone Balance Sheet: 98/98 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 94/94 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 79/91 figures confirmed by the report's totals (87%); 4 total(s) don't add up; 2 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 100/100 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 standalone Profit & Loss: 57/67 figures confirmed by the report's totals (85%); 4 total(s) don't add up",
+   "FY2022 standalone Balance Sheet: 103/103 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 96/96 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 79/91 figures confirmed by the report's totals (87%); 4 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 99/99 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 standalone Profit & Loss: 56/66 figures confirmed by the report's totals (85%); 4 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 95/95 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 90/112 figures confirmed by the report's totals (80%); 5 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 100/100 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 standalone Profit & Loss: 56/66 figures confirmed by the report's totals (85%); 4 total(s) don't add up"
+  ],
+  "verified": 53,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 17
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 51
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2020: ours=148971.71 NSE XBRL=139816.65 Screener=139817.0",
+   "DIFF consolidated Total assets FY2020: ours=250419.45 Screener=249149.0",
+   "DIFF consolidated Total assets FY2021: ours=245487.21 Screener=243909.0",
+   "DIFF consolidated Total assets FY2022: ours=285445.6 Screener=282422.0",
+   "DIFF consolidated Total assets FY2025: ours=279394.8 Screener=275459.0",
+   "DIFF consolidated Total assets FY2026: ours=301254.11 Screener=296515.0",
+   "DIFF standalone Revenue FY2021: ours=84132.92 NSE XBRL=64869.0 Screener=64869.0",
+   "DIFF standalone Net profit FY2021: ours=17077.97 NSE XBRL=13606.62 Screener=13607.0",
+   "DIFF standalone Total assets FY2021: ours=180490.93 Screener=165036.0",
+   "DIFF standalone Total assets FY2023: ours=244419.71 NSE XBRL=233791.42 Screener=242696.0",
+   "DIFF standalone Cash from operations FY2021: ours=37554.77 Screener=29369.0"
+  ],
+  "seconds": 155
+ },
+ "ULTRACEMCO": {
+  "ticker": "ULTRACEMCO",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3852,
+  "q_confirmed": 3682,
+  "q_totals": 784,
+  "q_failed_totals": 20,
+  "q_bad_labels": 12,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 114/114 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2026 standalone Cash Flow: 100/101 figures confirmed by the report's totals (99%); 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 114/114 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 standalone Cash Flow: 107/107 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 91/105 figures confirmed by the report's totals (87%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2024 standalone Cash Flow: 77/103 figures confirmed by the report's totals (75%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2023 consolidated Profit & Loss: 63/85 figures confirmed by the report's totals (74%); 3 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 102/107 figures confirmed by the report's totals (95%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 100/100 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 73/97 figures confirmed by the report's totals (75%); 2 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 107/114 figures confirmed by the report's totals (94%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 98/98 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 81/97 figures confirmed by the report's totals (84%); 1 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 116/118 figures confirmed by the report's totals (98%); 2 total(s) don't add up; 1 garbled label(s)"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 15
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 93
+ },
+ "HINDALCO": {
+  "ticker": "HINDALCO",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 4178,
+  "q_confirmed": 4014,
+  "q_totals": 680,
+  "q_failed_totals": 18,
+  "q_bad_labels": 11,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 115/117 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2026 standalone Profit & Loss: 54/60 figures confirmed by the report's totals (90%); 1 total(s) don't add up",
+   "FY2026 standalone Cash Flow: 110/112 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 116/118 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2025 standalone Profit & Loss: 53/59 figures confirmed by the report's totals (90%); 1 total(s) don't add up",
+   "FY2025 standalone Cash Flow: 106/108 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 121/124 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2024 standalone Cash Flow: 107/109 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2023 consolidated Profit & Loss: 74/88 figures confirmed by the report's totals (84%); 1 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 124/130 figures confirmed by the report's totals (95%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 112/116 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 77/95 figures confirmed by the report's totals (81%); 2 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 120/132 figures confirmed by the report's totals (91%); 4 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 75/89 figures confirmed by the report's totals (84%); 1 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 117/126 figures confirmed by the report's totals (93%); 3 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 standalone Profit & Loss: 54/56 figures confirmed by the report's totals (96%); 1 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 103/120 figures confirmed by the report's totals (86%); 1 garbled label(s)",
+   "FY2020 standalone Profit & Loss: 50/52 figures confirmed by the report's totals (96%); 1 total(s) don't add up",
+   "FY2020 standalone Cash Flow: 105/106 figures confirmed by the report's totals (99%); 1 garbled label(s)"
+  ],
+  "verified": 56,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 54
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Net profit FY2021: ours=5182 NSE XBRL=3483.0 Screener=3483.0",
+   "DIFF consolidated Net profit FY2022: ours=14201 NSE XBRL=13730.0 Screener=13730.0",
+   "DIFF consolidated Total assets FY2019: ours=152848 Screener=151972.0",
+   "DIFF consolidated Total assets FY2020: ours=169528 Screener=168618.0",
+   "DIFF consolidated Total assets FY2022: ours=223062 Screener=221855.0",
+   "DIFF consolidated Total assets FY2025: ours=265991 Screener=264300.0",
+   "DIFF consolidated Total assets FY2026: ours=347795 Screener=344681.0",
+   "DIFF consolidated Cash from operations FY2020: ours=12745 Screener=12665.0"
+  ],
+  "seconds": 158
+ },
+ "LT": {
+  "ticker": "LT",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 4504,
+  "q_confirmed": 4272,
+  "q_totals": 938,
+  "q_failed_totals": 55,
+  "q_bad_labels": 13,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 110/118 figures confirmed by the report's totals (93%); 2 total(s) don't add up",
+   "FY2026 standalone Profit & Loss: 80/90 figures confirmed by the report's totals (89%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2026 standalone Cash Flow: 95/95 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 consolidated Profit & Loss: 108/122 figures confirmed by the report's totals (89%); 4 total(s) don't add up",
+   "FY2025 standalone Profit & Loss: 79/95 figures confirmed by the report's totals (83%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2025 standalone Cash Flow: 90/98 figures confirmed by the report's totals (92%); 1 garbled label(s)",
+   "FY2024 consolidated Profit & Loss: 111/125 figures confirmed by the report's totals (89%); 4 total(s) don't add up",
+   "FY2024 consolidated Cash Flow: 110/110 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 standalone Profit & Loss: 80/93 figures confirmed by the report's totals (86%); 3 total(s) don't add up; 1 garbled label(s)",
+   "FY2024 standalone Cash Flow: 102/102 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 consolidated Profit & Loss: 111/125 figures confirmed by the report's totals (89%); 4 total(s) don't add up",
+   "FY2023 standalone Profit & Loss: 80/91 figures confirmed by the report's totals (88%); 3 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 117/138 figures confirmed by the report's totals (85%); 5 total(s) don't add up",
+   "FY2022 standalone Profit & Loss: 83/104 figures confirmed by the report's totals (80%); 5 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 96/97 figures confirmed by the report's totals (99%); 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 120/141 figures confirmed by the report's totals (85%); 5 total(s) don't add up",
+   "FY2021 standalone Profit & Loss: 87/110 figures confirmed by the report's totals (79%); 6 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 99/99 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 117/135 figures confirmed by the report's totals (87%); 4 total(s) don't add up",
+   "FY2020 standalone Profit & Loss: 89/107 figures confirmed by the report's totals (83%); 4 total(s) don't add up; 1 garbled label(s)"
+  ],
+  "verified": 58,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 13
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 58
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Net profit FY2019: ours=9647.25 NSE XBRL=10216.58 Screener=10217.0",
+   "DIFF consolidated Net profit FY2020: ours=10239.71 NSE XBRL=10894.28 Screener=10894.0",
+   "DIFF consolidated Net profit FY2021: ours=4683.36 NSE XBRL=12921.28 Screener=12921.0",
+   "MISSING standalone Net profit FY2019: ours=None NSE XBRL=6677.7 Screener=7491.0",
+   "MISSING standalone Net profit FY2020: ours=None NSE XBRL=6679.21 Screener=6679.0",
+   "DIFF standalone Net profit FY2021: ours=3147.31 NSE XBRL=11336.97 Screener=11798.0"
+  ],
+  "seconds": 85
+ },
+ "COALINDIA": {
+  "ticker": "COALINDIA",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3249,
+  "q_confirmed": 3134,
+  "q_totals": 615,
+  "q_failed_totals": 2,
+  "q_bad_labels": 6,
+  "q_issues": [
+   "FY2024 standalone Balance Sheet: 67/67 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 90/93 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 82/90 figures confirmed by the report's totals (91%); 1 garbled label(s)",
+   "FY2022 standalone Profit & Loss: 53/57 figures confirmed by the report's totals (93%); 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 68/68 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 77/90 figures confirmed by the report's totals (86%); 2 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 74/76 figures confirmed by the report's totals (97%); 1 garbled label(s)"
+  ],
+  "verified": 60,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 60
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2025: ours=143368.92 Screener=169177.0",
+   "DIFF consolidated Total assets FY2022: ours=193484.6 Screener=179436.0",
+   "DIFF consolidated Total assets FY2026: ours=285660.27 Screener=283956.0",
+   "DIFF standalone Revenue FY2025: ours=1594.17 Screener=1626.0"
+  ],
+  "seconds": 81
+ },
+ "POWERGRID": {
+  "ticker": "POWERGRID",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 6,
+  "ok": 36,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3043,
+  "q_confirmed": 2939,
+  "q_totals": 591,
+  "q_failed_totals": 6,
+  "q_bad_labels": 1,
+  "q_issues": [
+   "FY2024 standalone Profit & Loss: 40/50 figures confirmed by the report's totals (80%); 6 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 111/118 figures confirmed by the report's totals (94%); 1 garbled label(s)"
+  ],
+  "verified": 58,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 58
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2022: ours=255198.39 Screener=250950.0",
+   "DIFF consolidated Total assets FY2023: ours=252273.06 NSE XBRL=250295.55 Screener=250303.0",
+   "DIFF consolidated Cash from operations FY2023: ours=40202.87 Screener=38005.0",
+   "DIFF standalone Revenue FY2023: ours=42635.9 Screener=43343.0",
+   "DIFF standalone Total assets FY2022: ours=252057.87 Screener=247885.0",
+   "DIFF standalone Cash from operations FY2023: ours=37839.42 Screener=35268.0"
+  ],
+  "seconds": 82
+ },
+ "ONGC": {
+  "ticker": "ONGC",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 40,
+  "check": 2,
+  "missing": 0,
+  "problems": [
+   "FY2021 standalone Cash Flow: CHECK: only 0 value rows parsed",
+   "FY2020 standalone Cash Flow: CHECK: only 0 value rows parsed"
+  ],
+  "ai_used": 0,
+  "q_cells": 4315,
+  "q_confirmed": 4104,
+  "q_totals": 754,
+  "q_failed_totals": 24,
+  "q_bad_labels": 8,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 149/162 figures confirmed by the report's totals (92%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 147/156 figures confirmed by the report's totals (94%); 1 total(s) don't add up",
+   "FY2025 standalone Cash Flow: 101/101 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 140/169 figures confirmed by the report's totals (83%); 3 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 121/125 figures confirmed by the report's totals (97%); 2 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 124/129 figures confirmed by the report's totals (96%); 2 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 148/195 figures confirmed by the report's totals (76%); 4 total(s) don't add up; 3 garbled label(s)",
+   "FY2021 standalone Balance Sheet: 87/96 figures confirmed by the report's totals (91%); 4 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 106/149 figures confirmed by the report's totals (71%); 5 total(s) don't add up; 2 garbled label(s)",
+   "FY2020 standalone Profit & Loss: 49/53 figures confirmed by the report's totals (92%); 1 garbled label(s)",
+   "FY2020 standalone Balance Sheet: 89/95 figures confirmed by the report's totals (94%); 2 total(s) don't add up"
+  ],
+  "verified": 42,
+  "compared": 62,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 16,
+    "match": 12
+   },
+   "Screener": {
+    "checked": 62,
+    "match": 39
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2022: ours=531792.54 Screener=491246.0",
+   "DIFF consolidated Revenue FY2023: ours=684829.223 Screener=632291.0",
+   "DIFF consolidated Revenue FY2024: ours=653170.767 Screener=601581.0",
+   "DIFF consolidated Revenue FY2025: ours=663260.582 Screener=612064.0",
+   "DIFF consolidated Revenue FY2026: ours=662247.317 Screener=608663.0",
+   "DIFF consolidated Net profit FY2023: ours=34046.461 Screener=32778.0",
+   "DIFF consolidated Total assets FY2019: ours=499493.757 Screener=492343.0",
+   "DIFF consolidated Total assets FY2022: ours=586537.977 Screener=583260.0",
+   "DIFF consolidated Total assets FY2023: ours=642773.732 NSE XBRL=614528.73 Screener=613115.0",
+   "DIFF consolidated Total assets FY2024: ours=741997.923 NSE XBRL=710192.97 Screener=736621.0",
+   "DIFF consolidated Total assets FY2025: ours=758728.876 Screener=752658.0",
+   "DIFF consolidated Total assets FY2026: ours=791905.18 Screener=785602.0",
+   "DIFF consolidated Cash from operations FY2023: ours=86062.101 Screener=84211.0",
+   "DIFF standalone Revenue FY2023: ours=155517.315 Screener=144513.0",
+   "DIFF standalone Revenue FY2024: ours=138402.131 Screener=129741.0",
+   "DIFF standalone Revenue FY2025: ours=137846.29 Screener=133863.0",
+   "DIFF standalone Net profit FY2023: ours=40096.503 Screener=38829.0",
+   "DIFF standalone Total assets FY2020: ours=303336.305 Screener=297253.0",
+   "DIFF standalone Total assets FY2023: ours=369878.37 NSE XBRL=367037.09 Screener=367707.0",
+   "DIFF standalone Cash from operations FY2023: ours=80837.816 Screener=79121.0"
+  ],
+  "seconds": 117
+ },
+ "DMART": {
+  "ticker": "DMART",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3109,
+  "q_confirmed": 2906,
+  "q_totals": 576,
+  "q_failed_totals": 44,
+  "q_bad_labels": 4,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 48/57 figures confirmed by the report's totals (84%); 4 total(s) don't add up",
+   "FY2026 consolidated Cash Flow: 88/95 figures confirmed by the report's totals (93%); 2 total(s) don't add up",
+   "FY2026 standalone Cash Flow: 80/96 figures confirmed by the report's totals (83%); 2 total(s) don't add up",
+   "FY2025 consolidated Profit & Loss: 48/57 figures confirmed by the report's totals (84%); 4 total(s) don't add up",
+   "FY2025 consolidated Cash Flow: 83/89 figures confirmed by the report's totals (93%); 1 total(s) don't add up",
+   "FY2025 standalone Cash Flow: 82/88 figures confirmed by the report's totals (93%); 1 total(s) don't add up",
+   "FY2024 consolidated Profit & Loss: 48/57 figures confirmed by the report's totals (84%); 4 total(s) don't add up",
+   "FY2024 consolidated Cash Flow: 82/88 figures confirmed by the report's totals (93%); 1 total(s) don't add up",
+   "FY2024 standalone Cash Flow: 84/90 figures confirmed by the report's totals (93%); 1 total(s) don't add up",
+   "FY2023 consolidated Profit & Loss: 48/57 figures confirmed by the report's totals (84%); 4 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 81/89 figures confirmed by the report's totals (91%); 1 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 83/91 figures confirmed by the report's totals (91%); 1 total(s) don't add up",
+   "FY2022 consolidated Profit & Loss: 48/57 figures confirmed by the report's totals (84%); 4 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 79/92 figures confirmed by the report's totals (86%); 1 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 86/92 figures confirmed by the report's totals (93%); 1 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 48/57 figures confirmed by the report's totals (84%); 4 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 106/111 figures confirmed by the report's totals (95%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 99/111 figures confirmed by the report's totals (89%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 48/57 figures confirmed by the report's totals (84%); 4 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 109/112 figures confirmed by the report's totals (97%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 110/113 figures confirmed by the report's totals (97%); 1 total(s) don't add up; 1 garbled label(s)"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 42
+ },
+ "BHARTIARTL": {
+  "ticker": "BHARTIARTL",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3709,
+  "q_confirmed": 3633,
+  "q_totals": 670,
+  "q_failed_totals": 3,
+  "q_bad_labels": 3,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 104/104 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 104/104 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 100/101 figures confirmed by the report's totals (99%); 1 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 85/96 figures confirmed by the report's totals (89%); 1 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 89/103 figures confirmed by the report's totals (86%); 2 total(s) don't add up"
+  ],
+  "verified": 58,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 18
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 56
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2020: ours=84676.5 NSE XBRL=87539.0 Screener=87539.0",
+   "DIFF consolidated Net profit FY2020: ours=-33618 NSE XBRL=-30664.2 Screener=-30664.0",
+   "DIFF consolidated Net profit FY2021: ours=-23420.7 NSE XBRL=-12364.0 Screener=-12364.0",
+   "DIFF consolidated Total assets FY2022: ours=363656 Screener=361207.0",
+   "DIFF consolidated Total assets FY2025: ours=514360.4 Screener=505006.0",
+   "DIFF consolidated Total assets FY2026: ours=552151.6 Screener=545373.0"
+  ],
+  "seconds": 118
+ },
+ "CERA": {
+  "ticker": "CERA",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 3,
+  "ok": 39,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 2835,
+  "q_confirmed": 2504,
+  "q_totals": 522,
+  "q_failed_totals": 37,
+  "q_bad_labels": 3,
+  "q_issues": [
+   "FY2025 consolidated Balance Sheet: 70/80 figures confirmed by the report's totals (88%); 2 total(s) don't add up",
+   "FY2024 consolidated Cash Flow: 46/85 figures confirmed by the report's totals (54%); 5 total(s) don't add up",
+   "FY2024 standalone Cash Flow: 42/81 figures confirmed by the report's totals (52%); 4 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 58/85 figures confirmed by the report's totals (68%); 3 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 77/79 figures confirmed by the report's totals (97%); 1 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 47/86 figures confirmed by the report's totals (55%); 4 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 39/76 figures confirmed by the report's totals (51%); 4 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 110/110 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Balance Sheet: 66/66 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Cash Flow: 27/67 figures confirmed by the report's totals (40%); 7 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 60/60 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 25/61 figures confirmed by the report's totals (41%); 7 total(s) don't add up"
+  ],
+  "verified": 60,
+  "compared": 60,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 21
+   },
+   "Screener": {
+    "checked": 60,
+    "match": 60
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 38
+ },
+ "TITAN": {
+  "ticker": "TITAN",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3592,
+  "q_confirmed": 3418,
+  "q_totals": 616,
+  "q_failed_totals": 0,
+  "q_bad_labels": 11,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 114/127 figures confirmed by the report's totals (90%); 1 garbled label(s)",
+   "FY2026 standalone Cash Flow: 114/119 figures confirmed by the report's totals (96%); 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 98/101 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2024 standalone Cash Flow: 91/94 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 93/116 figures confirmed by the report's totals (80%); 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 93/105 figures confirmed by the report's totals (89%); 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 96/119 figures confirmed by the report's totals (81%); 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 108/112 figures confirmed by the report's totals (96%); 1 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 96/105 figures confirmed by the report's totals (91%); 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 95/99 figures confirmed by the report's totals (96%); 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 85/87 figures confirmed by the report's totals (98%); 1 garbled label(s)"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 86
+ },
+ "DLF": {
+  "ticker": "DLF",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3608,
+  "q_confirmed": 3533,
+  "q_totals": 626,
+  "q_failed_totals": 0,
+  "q_bad_labels": 19,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 103/105 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2026 standalone Cash Flow: 102/104 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 103/103 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 standalone Cash Flow: 101/101 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 103/103 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 standalone Cash Flow: 102/102 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 106/106 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 106/106 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 117/117 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 standalone Balance Sheet: 83/83 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 115/115 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 111/120 figures confirmed by the report's totals (92%); 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 123/123 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 66/70 figures confirmed by the report's totals (94%); 1 garbled label(s)",
+   "FY2020 consolidated Cash Flow: 118/118 figures confirmed by the report's totals (100%); 4 garbled label(s)",
+   "FY2020 standalone Cash Flow: 121/121 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 58,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 16,
+    "match": 14
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 56
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2019: ours=66922.4592 Screener=66483.0",
+   "DIFF consolidated Total assets FY2020: ours=57229.787 Screener=55890.0",
+   "DIFF consolidated Total assets FY2021: ours=54809.6707 Screener=53488.0",
+   "DIFF consolidated Total assets FY2022: ours=52503.3952 Screener=51167.0",
+   "DIFF consolidated Total assets FY2025: ours=69475.3744 Screener=68472.0",
+   "DIFF consolidated Total assets FY2026: ours=74874.773 Screener=73465.0"
+  ],
+  "seconds": 108
+ },
+ "SYMPHONY": {
+  "ticker": "SYMPHONY",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 40,
+  "check": 2,
+  "missing": 0,
+  "problems": [
+   "FY2026 standalone Cash Flow: CHECK: operating cash flow row not found",
+   "FY2022 consolidated Cash Flow: CHECK: operating cash flow row not found"
+  ],
+  "ai_used": 0,
+  "q_cells": 3138,
+  "q_confirmed": 2965,
+  "q_totals": 640,
+  "q_failed_totals": 20,
+  "q_bad_labels": 11,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 53/57 figures confirmed by the report's totals (93%); 1 garbled label(s)",
+   "FY2026 standalone Profit & Loss: 48/52 figures confirmed by the report's totals (92%); 1 garbled label(s)",
+   "FY2026 standalone Cash Flow: 65/88 figures confirmed by the report's totals (74%); 5 total(s) don't add up",
+   "FY2025 consolidated Profit & Loss: 58/64 figures confirmed by the report's totals (91%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 95/95 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 standalone Profit & Loss: 50/54 figures confirmed by the report's totals (93%); 1 garbled label(s)",
+   "FY2024 consolidated Profit & Loss: 60/65 figures confirmed by the report's totals (92%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2024 standalone Profit & Loss: 49/53 figures confirmed by the report's totals (92%); 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 63/69 figures confirmed by the report's totals (91%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 59/93 figures confirmed by the report's totals (63%); 8 total(s) don't add up",
+   "FY2021 standalone Profit & Loss: 50/56 figures confirmed by the report's totals (89%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 63/69 figures confirmed by the report's totals (91%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 standalone Profit & Loss: 51/57 figures confirmed by the report's totals (89%); 1 total(s) don't add up; 1 garbled label(s)"
+  ],
+  "verified": 60,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 58
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2019: ours=1070.56 Screener=1065.0",
+   "DIFF consolidated Total assets FY2025: ours=1334.04 Screener=1322.0",
+   "MISSING consolidated Cash from operations FY2019: ours=None Screener=140.0",
+   "MISSING standalone Cash from operations FY2026: ours=None Screener=16.0"
+  ],
+  "seconds": 36
+ },
+ "AXISBANK": {
+  "ticker": "AXISBANK",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 6,
+  "ok": 36,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 1784,
+  "q_confirmed": 1688,
+  "q_totals": 304,
+  "q_failed_totals": 0,
+  "q_bad_labels": 4,
+  "q_issues": [
+   "FY2025 consolidated Cash Flow: 71/71 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 standalone Cash Flow: 75/75 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 70/70 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 standalone Cash Flow: 74/74 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 56,
+  "compared": 56,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 2,
+    "match": 2
+   },
+   "Screener": {
+    "checked": 56,
+    "match": 56
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 80
+ },
+ "KPRMILL": {
+  "ticker": "KPRMILL",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 41,
+  "check": 1,
+  "missing": 0,
+  "problems": [
+   "FY2022 consolidated Balance Sheet: CHECK: balance sheet does not tie (486,802.00 vs 168,117.00)"
+  ],
+  "ai_used": 0,
+  "q_cells": 2733,
+  "q_confirmed": 2654,
+  "q_totals": 566,
+  "q_failed_totals": 11,
+  "q_bad_labels": 29,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 84/84 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Balance Sheet: 66/68 figures confirmed by the report's totals (97%); 2 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 34/37 figures confirmed by the report's totals (92%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 consolidated Balance Sheet: 58/65 figures confirmed by the report's totals (89%); 1 total(s) don't add up; 5 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 67/88 figures confirmed by the report's totals (76%); 3 total(s) don't add up; 5 garbled label(s)",
+   "FY2021 standalone Profit & Loss: 34/36 figures confirmed by the report's totals (94%); 1 garbled label(s)",
+   "FY2021 standalone Balance Sheet: 66/66 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 standalone Cash Flow: 98/98 figures confirmed by the report's totals (100%); 8 garbled label(s)",
+   "FY2020 consolidated Balance Sheet: 65/65 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Cash Flow: 86/86 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 standalone Balance Sheet: 42/62 figures confirmed by the report's totals (68%); 4 total(s) don't add up; 3 garbled label(s)",
+   "FY2020 standalone Cash Flow: 95/95 figures confirmed by the report's totals (100%); 2 garbled label(s)"
+  ],
+  "verified": 62,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 20,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 62
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Net profit FY2020: ours=3716.68 Screener=377.0",
+   "DIFF consolidated Total assets FY2020: ours=2897.18 Screener=2882.0"
+  ],
+  "seconds": 173
+ },
+ "BANKBARODA": {
+  "ticker": "BANKBARODA",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 1997,
+  "q_confirmed": 1803,
+  "q_totals": 312,
+  "q_failed_totals": 1,
+  "q_bad_labels": 18,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 38/47 figures confirmed by the report's totals (81%); 1 total(s) don't add up",
+   "FY2025 consolidated Cash Flow: 65/68 figures confirmed by the report's totals (96%); 4 garbled label(s)",
+   "FY2025 standalone Cash Flow: 66/68 figures confirmed by the report's totals (97%); 4 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 65/67 figures confirmed by the report's totals (97%); 4 garbled label(s)",
+   "FY2023 standalone Cash Flow: 65/68 figures confirmed by the report's totals (96%); 4 garbled label(s)",
+   "FY2022 standalone Profit & Loss: 28/36 figures confirmed by the report's totals (78%); 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 41/47 figures confirmed by the report's totals (87%); 1 garbled label(s)"
+  ],
+  "verified": 62,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 2,
+    "match": 2
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 62
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Cash from operations FY2020: ours=1519.34 Screener=18531.0",
+   "DIFF standalone Cash from operations FY2020: ours=929.5 Screener=17941.0"
+  ],
+  "seconds": 107
+ },
+ "MUTHOOTFIN": {
+  "ticker": "MUTHOOTFIN",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3114,
+  "q_confirmed": 2981,
+  "q_totals": 460,
+  "q_failed_totals": 5,
+  "q_bad_labels": 8,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 71/83 figures confirmed by the report's totals (86%); 1 garbled label(s)",
+   "FY2026 standalone Cash Flow: 93/93 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 consolidated Profit & Loss: 70/82 figures confirmed by the report's totals (85%); 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 98/98 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 standalone Cash Flow: 91/91 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 96/96 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2024 standalone Cash Flow: 88/88 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 60/78 figures confirmed by the report's totals (77%); 1 total(s) don't add up",
+   "FY2021 standalone Profit & Loss: 44/59 figures confirmed by the report's totals (75%); 3 total(s) don't add up",
+   "FY2020 standalone Profit & Loss: 51/57 figures confirmed by the report's totals (89%); 1 total(s) don't add up"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 21
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 93
+ },
+ "WIPRO": {
+  "ticker": "WIPRO",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 41,
+  "check": 1,
+  "missing": 0,
+  "problems": [
+   "FY2020 consolidated Cash Flow: CHECK: operating cash flow row not found"
+  ],
+  "ai_used": 0,
+  "q_cells": 3673,
+  "q_confirmed": 3549,
+  "q_totals": 621,
+  "q_failed_totals": 0,
+  "q_bad_labels": 4,
+  "q_issues": [
+   "FY2026 consolidated Balance Sheet: 102/102 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2026 standalone Balance Sheet: 93/93 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 consolidated Balance Sheet: 102/104 figures confirmed by the report's totals (98%); 1 garbled label(s)",
+   "FY2025 standalone Balance Sheet: 91/93 figures confirmed by the report's totals (98%); 1 garbled label(s)"
+  ],
+  "verified": 60,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 21
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 60
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2019: ours=58584.5 NSE XBRL=59018.9 Screener=59019.0",
+   "DIFF consolidated Total assets FY2019: ours=57190.6 Screener=82586.0",
+   "DIFF standalone Net profit FY2025: ours=10792.4 Screener=10913.0",
+   "MISSING standalone Net profit FY2026: ours=None Screener=12130.0"
+  ],
+  "seconds": 96
+ },
+ "HEROMOTOCO": {
+  "ticker": "HEROMOTOCO",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3493,
+  "q_confirmed": 3302,
+  "q_totals": 760,
+  "q_failed_totals": 56,
+  "q_bad_labels": 13,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 107/115 figures confirmed by the report's totals (93%); 4 total(s) don't add up",
+   "FY2026 standalone Cash Flow: 88/96 figures confirmed by the report's totals (92%); 4 total(s) don't add up",
+   "FY2025 consolidated Cash Flow: 108/117 figures confirmed by the report's totals (92%); 4 total(s) don't add up",
+   "FY2025 standalone Profit & Loss: 43/49 figures confirmed by the report's totals (88%); 1 garbled label(s)",
+   "FY2025 standalone Cash Flow: 91/100 figures confirmed by the report's totals (91%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 107/116 figures confirmed by the report's totals (92%); 4 total(s) don't add up",
+   "FY2024 standalone Cash Flow: 91/100 figures confirmed by the report's totals (91%); 4 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 108/116 figures confirmed by the report's totals (93%); 4 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 90/98 figures confirmed by the report's totals (92%); 4 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 111/119 figures confirmed by the report's totals (93%); 4 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 91/99 figures confirmed by the report's totals (92%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 78/84 figures confirmed by the report's totals (93%); 2 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 111/119 figures confirmed by the report's totals (93%); 4 total(s) don't add up",
+   "FY2021 standalone Profit & Loss: 43/49 figures confirmed by the report's totals (88%); 2 garbled label(s)",
+   "FY2021 standalone Cash Flow: 93/101 figures confirmed by the report's totals (92%); 4 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 78/82 figures confirmed by the report's totals (95%); 2 garbled label(s)",
+   "FY2020 consolidated Cash Flow: 103/117 figures confirmed by the report's totals (88%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 standalone Profit & Loss: 42/46 figures confirmed by the report's totals (91%); 2 garbled label(s)",
+   "FY2020 standalone Cash Flow: 91/100 figures confirmed by the report's totals (91%); 4 total(s) don't add up; 1 garbled label(s)"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 84
+ },
+ "SBILIFE": {
+  "ticker": "SBILIFE",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 28,
+  "ok": 26,
+  "check": 2,
+  "missing": 0,
+  "problems": [
+   "FY2026 standalone Profit & Loss: CHECK: 10 of 32 rows have no current-year value (unreadable font?)",
+   "FY2020 standalone Profit & Loss: CHECK: 9 of 28 rows have no current-year value (unreadable font?)"
+  ],
+  "ai_used": 0,
+  "q_cells": 1770,
+  "q_confirmed": 1578,
+  "q_totals": 330,
+  "q_failed_totals": 14,
+  "q_bad_labels": 7,
+  "q_issues": [
+   "FY2026 standalone Profit & Loss: 38/44 figures confirmed by the report's totals (86%); 1 garbled label(s)",
+   "FY2026 standalone Balance Sheet: 44/58 figures confirmed by the report's totals (76%); 2 total(s) don't add up",
+   "FY2026 standalone Revenue Account: 81/84 figures confirmed by the report's totals (96%); 1 garbled label(s)",
+   "FY2025 standalone Profit & Loss: 37/43 figures confirmed by the report's totals (86%); 2 garbled label(s)",
+   "FY2025 standalone Balance Sheet: 43/57 figures confirmed by the report's totals (75%); 2 total(s) don't add up",
+   "FY2025 standalone Cash Flow: 72/72 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 standalone Revenue Account: 79/83 figures confirmed by the report's totals (95%); 1 garbled label(s)",
+   "FY2024 standalone Profit & Loss: 33/39 figures confirmed by the report's totals (85%); 1 garbled label(s)",
+   "FY2024 standalone Balance Sheet: 41/59 figures confirmed by the report's totals (69%); 2 total(s) don't add up",
+   "FY2023 standalone Balance Sheet: 40/58 figures confirmed by the report's totals (69%); 2 total(s) don't add up",
+   "FY2022 standalone Balance Sheet: 40/58 figures confirmed by the report's totals (69%); 2 total(s) don't add up",
+   "FY2021 standalone Balance Sheet: 40/58 figures confirmed by the report's totals (69%); 2 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 41/59 figures confirmed by the report's totals (69%); 2 total(s) don't add up"
+  ],
+  "verified": 16,
+  "compared": 32,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 0,
+    "match": 0
+   },
+   "Screener": {
+    "checked": 32,
+    "match": 16
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "MISSING standalone Revenue FY2019: ours=None Screener=44604.0",
+   "MISSING standalone Revenue FY2020: ours=None Screener=43798.0",
+   "MISSING standalone Revenue FY2021: ours=None Screener=81913.0",
+   "MISSING standalone Revenue FY2022: ours=None Screener=82983.0",
+   "MISSING standalone Revenue FY2023: ours=None Screener=80636.0",
+   "MISSING standalone Revenue FY2024: ours=None Screener=131988.0",
+   "MISSING standalone Revenue FY2025: ours=None Screener=116888.0",
+   "MISSING standalone Revenue FY2026: ours=None Screener=112315.0",
+   "DIFF standalone Total assets FY2019: ours=142997.8345 Screener=146734.0",
+   "DIFF standalone Total assets FY2020: ours=162557.8888 Screener=165580.0",
+   "DIFF standalone Total assets FY2021: ours=222592.0678 Screener=226830.0",
+   "DIFF standalone Total assets FY2022: ours=268207.1989 Screener=273337.0",
+   "DIFF standalone Total assets FY2023: ours=309586.5567 Screener=314599.0",
+   "DIFF standalone Total assets FY2024: ours=392782.98 Screener=398277.0",
+   "DIFF standalone Total assets FY2025: ours=450923.19 Screener=457095.0",
+   "DIFF standalone Total assets FY2026: ours=492053.37 Screener=500046.0"
+  ],
+  "seconds": 137
+ },
+ "TECHM": {
+  "ticker": "TECHM",
+  "reports": [
+   2020,
+   2021,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 36,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 2832,
+  "q_confirmed": 2755,
+  "q_totals": 556,
+  "q_failed_totals": 3,
+  "q_bad_labels": 9,
+  "q_issues": [
+   "FY2025 consolidated Cash Flow: 100/101 figures confirmed by the report's totals (99%); 1 garbled label(s)",
+   "FY2024 consolidated Profit & Loss: 64/70 figures confirmed by the report's totals (91%); 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 84/87 figures confirmed by the report's totals (97%); 2 garbled label(s)",
+   "FY2024 standalone Profit & Loss: 42/48 figures confirmed by the report's totals (88%); 1 garbled label(s)",
+   "FY2024 standalone Balance Sheet: 78/79 figures confirmed by the report's totals (99%); 1 garbled label(s)",
+   "FY2024 standalone Cash Flow: 94/99 figures confirmed by the report's totals (95%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2023 standalone Balance Sheet: 78/78 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2020 standalone Balance Sheet: 63/72 figures confirmed by the report's totals (88%); 2 total(s) don't add up"
+  ],
+  "verified": 62,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 18,
+    "match": 15
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 60
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2022: ours=44870.7 Screener=44416.0",
+   "DIFF consolidated Total assets FY2025: ours=44494.5 Screener=44267.0"
+  ],
+  "seconds": 102
+ },
+ "CIPLA": {
+  "ticker": "CIPLA",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3500,
+  "q_confirmed": 3313,
+  "q_totals": 630,
+  "q_failed_totals": 9,
+  "q_bad_labels": 7,
+  "q_issues": [
+   "FY2025 standalone Profit & Loss: 60/71 figures confirmed by the report's totals (85%); 1 total(s) don't add up",
+   "FY2024 standalone Profit & Loss: 65/79 figures confirmed by the report's totals (82%); 2 total(s) don't add up",
+   "FY2023 standalone Profit & Loss: 65/79 figures confirmed by the report's totals (82%); 2 total(s) don't add up",
+   "FY2022 standalone Profit & Loss: 62/76 figures confirmed by the report's totals (82%); 2 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 88/88 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Cash Flow: 95/97 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 standalone Balance Sheet: 81/81 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 92/94 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 4 garbled label(s)"
+  ],
+  "verified": 57,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 18
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 55
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2019: ours=23963.32 Screener=23762.0",
+   "DIFF consolidated Total assets FY2020: ours=23662.56 Screener=23423.0",
+   "DIFF consolidated Total assets FY2021: ours=25151.89 Screener=24855.0",
+   "DIFF consolidated Total assets FY2022: ours=27101.12 Screener=26857.0",
+   "MISSING standalone Revenue FY2019: ours=None NSE XBRL=12374.01 Screener=12374.0",
+   "MISSING standalone Revenue FY2020: ours=None NSE XBRL=12659.15 Screener=12659.0",
+   "DIFF standalone Revenue FY2023: ours=14345.34 Screener=15791.0"
+  ],
+  "seconds": 78
+ },
+ "JSWSTEEL": {
+  "ticker": "JSWSTEEL",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3843,
+  "q_confirmed": 3681,
+  "q_totals": 810,
+  "q_failed_totals": 60,
+  "q_bad_labels": 5,
+  "q_issues": [
+   "FY2026 consolidated Balance Sheet: 105/109 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2026 standalone Balance Sheet: 91/95 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2025 consolidated Balance Sheet: 105/109 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2025 standalone Balance Sheet: 91/95 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2025 standalone Cash Flow: 91/105 figures confirmed by the report's totals (87%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2024 consolidated Balance Sheet: 106/110 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2024 standalone Balance Sheet: 91/95 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2023 consolidated Profit & Loss: 80/87 figures confirmed by the report's totals (92%); 1 garbled label(s)",
+   "FY2023 consolidated Balance Sheet: 103/107 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 106/109 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2023 standalone Profit & Loss: 55/62 figures confirmed by the report's totals (89%); 1 garbled label(s)",
+   "FY2023 standalone Balance Sheet: 88/92 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 60/83 figures confirmed by the report's totals (72%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 consolidated Balance Sheet: 102/106 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2022 standalone Balance Sheet: 88/92 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2021 consolidated Balance Sheet: 101/105 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2021 standalone Balance Sheet: 87/91 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2020 consolidated Balance Sheet: 95/99 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 82/86 figures confirmed by the report's totals (95%); 4 total(s) don't add up"
+  ],
+  "verified": 61,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 18
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 61
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2020: ours=72610 NSE XBRL=73326.0 Screener=73326.0",
+   "DIFF standalone Revenue FY2020: ours=63546 NSE XBRL=64262.0 Screener=64262.0",
+   "DIFF standalone Cash from operations FY2021: ours=17557 Screener=17733.0"
+  ],
+  "seconds": 123
+ },
+ "VEDL": {
+  "ticker": "VEDL",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3911,
+  "q_confirmed": 3768,
+  "q_totals": 651,
+  "q_failed_totals": 36,
+  "q_bad_labels": 7,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 94/129 figures confirmed by the report's totals (73%); 6 total(s) don't add up",
+   "FY2026 standalone Profit & Loss: 85/101 figures confirmed by the report's totals (84%); 8 total(s) don't add up",
+   "FY2026 standalone Cash Flow: 115/115 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 standalone Profit & Loss: 70/76 figures confirmed by the report's totals (92%); 4 total(s) don't add up",
+   "FY2025 standalone Cash Flow: 109/109 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 100/100 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 standalone Profit & Loss: 68/74 figures confirmed by the report's totals (92%); 4 total(s) don't add up",
+   "FY2024 standalone Cash Flow: 101/101 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Profit & Loss: 68/74 figures confirmed by the report's totals (92%); 4 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 97/97 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 76/94 figures confirmed by the report's totals (81%); 2 total(s) don't add up",
+   "FY2022 standalone Profit & Loss: 66/73 figures confirmed by the report's totals (90%); 4 total(s) don't add up",
+   "FY2021 standalone Profit & Loss: 65/72 figures confirmed by the report's totals (90%); 4 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 94/94 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 49,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 13
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 47
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "MISSING consolidated Revenue FY2019: ours=None NSE XBRL=92048.0 Screener=92048.0",
+   "MISSING consolidated Revenue FY2020: ours=None NSE XBRL=83545.0 Screener=84447.0",
+   "MISSING consolidated Revenue FY2021: ours=None NSE XBRL=86863.0 Screener=88021.0",
+   "MISSING consolidated Revenue FY2022: ours=None NSE XBRL=132732.0 Screener=132732.0",
+   "MISSING consolidated Revenue FY2023: ours=None Screener=147308.0",
+   "DIFF consolidated Total assets FY2019: ours=202043 Screener=198568.0",
+   "DIFF consolidated Total assets FY2020: ours=183622 Screener=180737.0",
+   "DIFF consolidated Total assets FY2021: ours=185711 Screener=183496.0",
+   "DIFF consolidated Total assets FY2022: ours=198382 Screener=193947.0",
+   "DIFF consolidated Total assets FY2025: ours=203293 Screener=199940.0",
+   "MISSING standalone Revenue FY2019: ours=None NSE XBRL=38644.0 Screener=38644.0",
+   "MISSING standalone Revenue FY2020: ours=None NSE XBRL=35417.0 Screener=35858.0",
+   "MISSING standalone Revenue FY2021: ours=None NSE XBRL=37120.0 Screener=37440.0",
+   "MISSING standalone Revenue FY2022: ours=None NSE XBRL=62801.0 Screener=63277.0",
+   "MISSING standalone Revenue FY2023: ours=None Screener=68080.0"
+  ],
+  "seconds": 153
+ },
+ "ADANIPORTS": {
+  "ticker": "ADANIPORTS",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3918,
+  "q_confirmed": 3836,
+  "q_totals": 739,
+  "q_failed_totals": 8,
+  "q_bad_labels": 3,
+  "q_issues": [
+   "FY2023 consolidated Cash Flow: 112/130 figures confirmed by the report's totals (86%); 1 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 102/119 figures confirmed by the report's totals (86%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 119/119 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 72/77 figures confirmed by the report's totals (94%); 2 total(s) don't add up",
+   "FY2020 standalone Profit & Loss: 47/52 figures confirmed by the report's totals (90%); 2 total(s) don't add up",
+   "FY2020 standalone Cash Flow: 111/119 figures confirmed by the report's totals (93%); 1 total(s) don't add up; 1 garbled label(s)"
+  ],
+  "verified": 59,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 17
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 57
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2020: ours=11438.77 NSE XBRL=11873.07 Screener=11873.0",
+   "DIFF consolidated Total assets FY2021: ours=75463.66 Screener=74582.0",
+   "DIFF consolidated Total assets FY2022: ours=99685.82 Screener=98328.0",
+   "DIFF consolidated Total assets FY2025: ours=135332.23 Screener=133443.0",
+   "DIFF consolidated Total assets FY2026: ours=185314.76 Screener=183099.0"
+  ],
+  "seconds": 101
+ },
+ "GRASIM": {
+  "ticker": "GRASIM",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 4199,
+  "q_confirmed": 4010,
+  "q_totals": 794,
+  "q_failed_totals": 58,
+  "q_bad_labels": 2,
+  "q_issues": [
+   "FY2025 consolidated Cash Flow: 124/128 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2024 standalone Balance Sheet: 83/87 figures confirmed by the report's totals (95%); 4 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 134/136 figures confirmed by the report's totals (99%); 2 total(s) don't add up; 1 garbled label(s)",
+   "FY2023 standalone Balance Sheet: 83/87 figures confirmed by the report's totals (95%); 4 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 103/107 figures confirmed by the report's totals (96%); 4 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 135/139 figures confirmed by the report's totals (97%); 4 total(s) don't add up",
+   "FY2022 standalone Balance Sheet: 84/88 figures confirmed by the report's totals (95%); 4 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 104/112 figures confirmed by the report's totals (93%); 8 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 96/114 figures confirmed by the report's totals (84%); 4 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 137/141 figures confirmed by the report's totals (97%); 4 total(s) don't add up",
+   "FY2021 standalone Balance Sheet: 82/86 figures confirmed by the report's totals (95%); 4 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 100/108 figures confirmed by the report's totals (93%); 8 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 94/108 figures confirmed by the report's totals (87%); 4 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 77/81 figures confirmed by the report's totals (95%); 4 total(s) don't add up"
+  ],
+  "verified": 59,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 14
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 58
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "MISSING consolidated Revenue FY2019: ours=None NSE XBRL=72970.64 Screener=77200.0",
+   "DIFF consolidated Revenue FY2020: ours=75140.71 NSE XBRL=77625.1 Screener=68252.0",
+   "DIFF consolidated Net profit FY2021: ours=6749.24 NSE XBRL=6986.7 Screener=6987.0",
+   "DIFF consolidated Net profit FY2022: ours=10690.55 NSE XBRL=11206.29 Screener=11206.0",
+   "MISSING standalone Revenue FY2019: ours=None NSE XBRL=20550.43 Screener=20550.0"
+  ],
+  "seconds": 166
+ },
+ "INDIGO": {
+  "ticker": "INDIGO",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3433,
+  "q_confirmed": 3316,
+  "q_totals": 624,
+  "q_failed_totals": 0,
+  "q_bad_labels": 6,
+  "q_issues": [
+   "FY2021 consolidated Profit & Loss: 54/58 figures confirmed by the report's totals (93%); 3 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 54/58 figures confirmed by the report's totals (93%); 3 garbled label(s)"
+  ],
+  "verified": 62,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 62
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2021: ours=20813.917 Screener=43051.0",
+   "DIFF standalone Total assets FY2021: ours=20760.531 Screener=42974.0"
+  ],
+  "seconds": 59
+ },
+ "APOLLOHOSP": {
+  "ticker": "APOLLOHOSP",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3497,
+  "q_confirmed": 3236,
+  "q_totals": 684,
+  "q_failed_totals": 41,
+  "q_bad_labels": 4,
+  "q_issues": [
+   "FY2026 standalone Profit & Loss: 40/44 figures confirmed by the report's totals (91%); 1 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 116/117 figures confirmed by the report's totals (99%); 1 total(s) don't add up; 1 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 113/113 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Profit & Loss: 44/55 figures confirmed by the report's totals (80%); 1 total(s) don't add up",
+   "FY2022 consolidated Balance Sheet: 87/98 figures confirmed by the report's totals (89%); 2 total(s) don't add up",
+   "FY2022 consolidated Cash Flow: 105/108 figures confirmed by the report's totals (97%); 1 total(s) don't add up",
+   "FY2022 standalone Profit & Loss: 39/59 figures confirmed by the report's totals (66%); 4 total(s) don't add up",
+   "FY2022 standalone Balance Sheet: 81/81 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 93/104 figures confirmed by the report's totals (89%); 2 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 103/106 figures confirmed by the report's totals (97%); 1 total(s) don't add up",
+   "FY2021 standalone Profit & Loss: 36/48 figures confirmed by the report's totals (75%); 4 total(s) don't add up",
+   "FY2021 standalone Balance Sheet: 68/77 figures confirmed by the report's totals (88%); 3 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 38/103 figures confirmed by the report's totals (37%); 7 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 44/62 figures confirmed by the report's totals (71%); 5 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 56/100 figures confirmed by the report's totals (56%); 8 total(s) don't add up",
+   "FY2020 standalone Profit & Loss: 39/45 figures confirmed by the report's totals (87%); 2 total(s) don't add up"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 99
+ },
+ "BRITANNIA": {
+  "ticker": "BRITANNIA",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3370,
+  "q_confirmed": 3224,
+  "q_totals": 708,
+  "q_failed_totals": 28,
+  "q_bad_labels": 2,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 67/79 figures confirmed by the report's totals (85%); 4 total(s) don't add up",
+   "FY2025 consolidated Profit & Loss: 68/80 figures confirmed by the report's totals (85%); 4 total(s) don't add up",
+   "FY2024 consolidated Profit & Loss: 68/80 figures confirmed by the report's totals (85%); 4 total(s) don't add up",
+   "FY2024 consolidated Cash Flow: 101/101 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 consolidated Profit & Loss: 68/79 figures confirmed by the report's totals (86%); 3 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 88/88 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 99/100 figures confirmed by the report's totals (99%); 1 total(s) don't add up",
+   "FY2022 consolidated Profit & Loss: 68/78 figures confirmed by the report's totals (87%); 2 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 92/94 figures confirmed by the report's totals (98%); 2 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 68/78 figures confirmed by the report's totals (87%); 2 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 89/91 figures confirmed by the report's totals (98%); 2 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 67/77 figures confirmed by the report's totals (87%); 2 total(s) don't add up",
+   "FY2020 standalone Cash Flow: 83/85 figures confirmed by the report's totals (98%); 2 total(s) don't add up"
+  ],
+  "verified": 63,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 20,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 63
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Cash from operations FY2021: ours=1875.52 Screener=1851.0"
+  ],
+  "seconds": 54
+ },
+ "TATAPOWER": {
+  "ticker": "TATAPOWER",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 38,
+  "check": 4,
+  "missing": 0,
+  "problems": [
+   "FY2021 standalone Profit & Loss: CHECK: revenue row not found",
+   "FY2021 standalone Balance Sheet: CHECK: could not find Total assets / Total equity and liabilities",
+   "FY2020 standalone Profit & Loss: CHECK: revenue row not found",
+   "FY2020 standalone Balance Sheet: CHECK: could not find Total assets / Total equity and liabilities"
+  ],
+  "ai_used": 0,
+  "q_cells": 4672,
+  "q_confirmed": 4409,
+  "q_totals": 765,
+  "q_failed_totals": 41,
+  "q_bad_labels": 1,
+  "q_issues": [
+   "FY2025 consolidated Profit & Loss: 68/121 figures confirmed by the report's totals (56%); 8 total(s) don't add up",
+   "FY2024 consolidated Profit & Loss: 77/110 figures confirmed by the report's totals (70%); 5 total(s) don't add up",
+   "FY2023 consolidated Profit & Loss: 108/113 figures confirmed by the report's totals (96%); 1 total(s) don't add up",
+   "FY2023 consolidated Balance Sheet: 111/111 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Profit & Loss: 67/73 figures confirmed by the report's totals (92%); 1 total(s) don't add up",
+   "FY2022 consolidated Profit & Loss: 93/126 figures confirmed by the report's totals (74%); 6 total(s) don't add up",
+   "FY2022 standalone Profit & Loss: 69/82 figures confirmed by the report's totals (84%); 3 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 107/131 figures confirmed by the report's totals (82%); 3 total(s) don't add up",
+   "FY2021 consolidated Balance Sheet: 98/112 figures confirmed by the report's totals (88%); 1 total(s) don't add up",
+   "FY2021 standalone Profit & Loss: 19/24 figures confirmed by the report's totals (79%); 2 total(s) don't add up",
+   "FY2021 standalone Balance Sheet: 36/38 figures confirmed by the report's totals (95%); 2 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 122/133 figures confirmed by the report's totals (92%); 2 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 176/178 figures confirmed by the report's totals (99%); 1 total(s) don't add up",
+   "FY2020 standalone Profit & Loss: 23/29 figures confirmed by the report's totals (79%); 3 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 28/36 figures confirmed by the report's totals (78%); 3 total(s) don't add up"
+  ],
+  "verified": 54,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 20,
+    "match": 10
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 54
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Net profit FY2019: ours=2731.5 Screener=2606.0",
+   "DIFF consolidated Net profit FY2020: ours=1726.67 NSE XBRL=1316.44 Screener=1316.0",
+   "DIFF consolidated Net profit FY2021: ours=1484.85 NSE XBRL=1438.65 Screener=1439.0",
+   "DIFF consolidated Net profit FY2022: ours=2623.44 NSE XBRL=2155.61 Screener=2156.0",
+   "MISSING standalone Revenue FY2019: ours=None NSE XBRL=7932.83 Screener=8255.0",
+   "MISSING standalone Revenue FY2020: ours=None NSE XBRL=7726.39 Screener=7726.0",
+   "MISSING standalone Net profit FY2019: ours=None NSE XBRL=1708.58 Screener=1769.0",
+   "MISSING standalone Net profit FY2020: ours=None NSE XBRL=148.12 Screener=148.0",
+   "MISSING standalone Total assets FY2019: ours=None Screener=38135.0",
+   "MISSING standalone Total assets FY2020: ours=None Screener=37616.0"
+  ],
+  "seconds": 134
+ },
+ "BPCL": {
+  "ticker": "BPCL",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 40,
+  "check": 2,
+  "missing": 0,
+  "problems": [
+   "FY2022 consolidated Profit & Loss: CHECK: net profit row not found",
+   "FY2022 standalone Profit & Loss: CHECK: net profit row not found"
+  ],
+  "ai_used": 0,
+  "q_cells": 3462,
+  "q_confirmed": 3210,
+  "q_totals": 641,
+  "q_failed_totals": 29,
+  "q_bad_labels": 60,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 70/72 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2026 consolidated Balance Sheet: 94/94 figures confirmed by the report's totals (100%); 3 garbled label(s)",
+   "FY2025 consolidated Profit & Loss: 70/72 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2024 consolidated Profit & Loss: 70/72 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2023 consolidated Profit & Loss: 70/72 figures confirmed by the report's totals (97%); 1 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 103/105 figures confirmed by the report's totals (98%); 2 total(s) don't add up",
+   "FY2023 standalone Cash Flow: 124/128 figures confirmed by the report's totals (97%); 2 total(s) don't add up",
+   "FY2022 consolidated Profit & Loss: 36/59 figures confirmed by the report's totals (61%); 3 total(s) don't add up; 6 garbled label(s)",
+   "FY2022 consolidated Balance Sheet: 48/74 figures confirmed by the report's totals (65%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 44/94 figures confirmed by the report's totals (47%); 5 total(s) don't add up; 9 garbled label(s)",
+   "FY2022 standalone Profit & Loss: 25/27 figures confirmed by the report's totals (93%); 9 garbled label(s)",
+   "FY2022 standalone Balance Sheet: 46/54 figures confirmed by the report's totals (85%); 1 total(s) don't add up; 6 garbled label(s)",
+   "FY2022 standalone Cash Flow: 47/92 figures confirmed by the report's totals (51%); 2 total(s) don't add up; 18 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 58/80 figures confirmed by the report's totals (72%); 4 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 106/120 figures confirmed by the report's totals (88%); 2 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 126/140 figures confirmed by the report's totals (90%); 1 garbled label(s)",
+   "FY2020 consolidated Profit & Loss: 57/77 figures confirmed by the report's totals (74%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 consolidated Cash Flow: 77/77 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 122/122 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 55,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 20,
+    "match": 18
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 48
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2019: ours=340879.15 Screener=298226.0",
+   "DIFF consolidated Revenue FY2023: ours=533547.29 Screener=473187.0",
+   "DIFF consolidated Revenue FY2024: ours=506992.6 Screener=448083.0",
+   "DIFF consolidated Revenue FY2025: ours=500517.48 Screener=440272.0",
+   "DIFF consolidated Revenue FY2026: ours=522820.41 Screener=455228.0",
+   "DIFF standalone Revenue FY2023: ours=533467.55 Screener=473125.0",
+   "DIFF standalone Revenue FY2024: ours=506805.81 Screener=447908.0",
+   "DIFF standalone Revenue FY2025: ours=500371.25 Screener=440132.0",
+   "DIFF standalone Revenue FY2026: ours=522668.25 Screener=455076.0"
+  ],
+  "seconds": 177
+ },
+ "TTKPRESTIG": {
+  "ticker": "TTKPRESTIG",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 40,
+  "check": 2,
+  "missing": 0,
+  "problems": [
+   "FY2021 consolidated Cash Flow: CHECK: operating cash flow row not found",
+   "FY2021 standalone Cash Flow: CHECK: operating cash flow row not found"
+  ],
+  "ai_used": 0,
+  "q_cells": 2763,
+  "q_confirmed": 2658,
+  "q_totals": 476,
+  "q_failed_totals": 13,
+  "q_bad_labels": 18,
+  "q_issues": [
+   "FY2026 consolidated Balance Sheet: 70/70 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2024 consolidated Balance Sheet: 67/67 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 84/87 figures confirmed by the report's totals (97%); 1 total(s) don't add up; 2 garbled label(s)",
+   "FY2024 standalone Balance Sheet: 58/58 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 consolidated Balance Sheet: 65/65 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 79/85 figures confirmed by the report's totals (93%); 2 total(s) don't add up; 2 garbled label(s)",
+   "FY2023 standalone Balance Sheet: 59/59 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Profit & Loss: 46/64 figures confirmed by the report's totals (72%); 1 total(s) don't add up",
+   "FY2022 consolidated Balance Sheet: 63/63 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 82/82 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 standalone Balance Sheet: 58/58 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Profit & Loss: 61/71 figures confirmed by the report's totals (86%); 1 total(s) don't add up",
+   "FY2021 consolidated Balance Sheet: 57/61 figures confirmed by the report's totals (93%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2021 standalone Balance Sheet: 51/55 figures confirmed by the report's totals (93%); 4 total(s) don't add up; 1 garbled label(s)",
+   "FY2020 consolidated Balance Sheet: 56/56 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 standalone Balance Sheet: 50/50 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 20,
+    "match": 20
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 31
+ },
+ "ASTRAL": {
+  "ticker": "ASTRAL",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3084,
+  "q_confirmed": 3000,
+  "q_totals": 716,
+  "q_failed_totals": 2,
+  "q_bad_labels": 9,
+  "q_issues": [
+   "FY2025 consolidated Balance Sheet: 84/84 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 85/93 figures confirmed by the report's totals (91%); 1 garbled label(s)",
+   "FY2025 standalone Balance Sheet: 78/78 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2025 standalone Cash Flow: 77/83 figures confirmed by the report's totals (93%); 1 garbled label(s)",
+   "FY2023 consolidated Profit & Loss: 91/97 figures confirmed by the report's totals (94%); 2 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 79/79 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 76/76 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 75/75 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Cash Flow: 75/75 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 61,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 18
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 61
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Net profit FY2023: ours=459.5 Screener=472.0",
+   "DIFF consolidated Total assets FY2022: ours=1745.1 Screener=3387.0",
+   "DIFF consolidated Total assets FY2023: ours=2249.2 NSE XBRL=4373.1 Screener=4362.0"
+  ],
+  "seconds": 46
+ },
+ "HAVELLS": {
+  "ticker": "HAVELLS",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3293,
+  "q_confirmed": 3174,
+  "q_totals": 706,
+  "q_failed_totals": 15,
+  "q_bad_labels": 4,
+  "q_issues": [
+   "FY2026 consolidated Profit & Loss: 47/66 figures confirmed by the report's totals (71%); 3 garbled label(s)",
+   "FY2026 standalone Cash Flow: 83/87 figures confirmed by the report's totals (95%); 1 total(s) don't add up",
+   "FY2023 consolidated Cash Flow: 91/91 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 93/95 figures confirmed by the report's totals (98%); 1 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 91/93 figures confirmed by the report's totals (98%); 1 total(s) don't add up",
+   "FY2021 consolidated Profit & Loss: 63/72 figures confirmed by the report's totals (88%); 1 total(s) don't add up",
+   "FY2021 consolidated Cash Flow: 93/96 figures confirmed by the report's totals (97%); 1 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 90/92 figures confirmed by the report's totals (98%); 1 total(s) don't add up",
+   "FY2020 consolidated Profit & Loss: 61/77 figures confirmed by the report's totals (79%); 3 total(s) don't add up",
+   "FY2020 consolidated Balance Sheet: 80/82 figures confirmed by the report's totals (98%); 2 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 92/94 figures confirmed by the report's totals (98%); 1 total(s) don't add up",
+   "FY2020 standalone Balance Sheet: 82/84 figures confirmed by the report's totals (98%); 2 total(s) don't add up",
+   "FY2020 standalone Cash Flow: 88/90 figures confirmed by the report's totals (98%); 1 total(s) don't add up"
+  ],
+  "verified": 64,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 21
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 64
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 81
+ },
+ "DIXON": {
+  "ticker": "DIXON",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3146,
+  "q_confirmed": 3079,
+  "q_totals": 646,
+  "q_failed_totals": 4,
+  "q_bad_labels": 20,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 109/109 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2026 standalone Cash Flow: 99/99 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 101/101 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2025 standalone Cash Flow: 89/89 figures confirmed by the report's totals (100%); 3 garbled label(s)",
+   "FY2024 consolidated Cash Flow: 95/95 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2024 standalone Cash Flow: 89/89 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 consolidated Balance Sheet: 84/84 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 92/92 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2023 standalone Cash Flow: 91/91 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 90/92 figures confirmed by the report's totals (98%); 1 total(s) don't add up; 2 garbled label(s)",
+   "FY2022 standalone Cash Flow: 87/87 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2021 standalone Profit & Loss: 34/46 figures confirmed by the report's totals (74%); 2 total(s) don't add up",
+   "FY2021 standalone Balance Sheet: 67/68 figures confirmed by the report's totals (99%); 1 total(s) don't add up",
+   "FY2020 consolidated Cash Flow: 96/96 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 48,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 18,
+    "match": 18
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 48
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Revenue FY2025: ours=3886010 Screener=38860.0",
+   "DIFF consolidated Revenue FY2026: ours=4887280 Screener=48873.0",
+   "DIFF consolidated Net profit FY2025: ours=123258 Screener=1233.0",
+   "DIFF consolidated Net profit FY2026: ours=164425 Screener=1644.0",
+   "DIFF consolidated Total assets FY2025: ours=1676687 Screener=16758.0",
+   "DIFF consolidated Total assets FY2026: ours=1916164 Screener=19152.0",
+   "DIFF consolidated Cash from operations FY2025: ours=114975 Screener=1150.0",
+   "DIFF consolidated Cash from operations FY2026: ours=178229 Screener=1782.0",
+   "DIFF standalone Revenue FY2025: ours=540090 Screener=5401.0",
+   "DIFF standalone Revenue FY2026: ours=393048 Screener=3930.0",
+   "DIFF standalone Net profit FY2025: ours=56590 Screener=566.0",
+   "DIFF standalone Net profit FY2026: ours=75944 Screener=759.0",
+   "DIFF standalone Total assets FY2025: ours=348041 Screener=3480.0",
+   "DIFF standalone Total assets FY2026: ours=430882 Screener=4309.0",
+   "DIFF standalone Cash from operations FY2025: ours=27859 Screener=279.0",
+   "DIFF standalone Cash from operations FY2026: ours=-10357 Screener=-104.0"
+  ],
+  "seconds": 58
+ },
+ "PIIND": {
+  "ticker": "PIIND",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 40,
+  "check": 0,
+  "missing": 2,
+  "problems": [
+   "FY2024 consolidated Cash Flow: MISSING: statement not found in PDF",
+   "FY2023 consolidated Cash Flow: MISSING: statement not found in PDF"
+  ],
+  "ai_used": 0,
+  "q_cells": 3157,
+  "q_confirmed": 3048,
+  "q_totals": 600,
+  "q_failed_totals": 0,
+  "q_bad_labels": 0,
+  "q_issues": [],
+  "verified": 63,
+  "compared": 63,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 20,
+    "match": 18
+   },
+   "Screener": {
+    "checked": 63,
+    "match": 63
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [],
+  "seconds": 65
+ },
+ "TRENT": {
+  "ticker": "TRENT",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 6,
+  "ok": 35,
+  "check": 1,
+  "missing": 0,
+  "problems": [
+   "FY2025 consolidated Cash Flow: CHECK: operating cash flow row not found"
+  ],
+  "ai_used": 0,
+  "q_cells": 2766,
+  "q_confirmed": 2681,
+  "q_totals": 608,
+  "q_failed_totals": 0,
+  "q_bad_labels": 17,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 98/98 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2026 standalone Cash Flow: 97/97 figures confirmed by the report's totals (100%); 3 garbled label(s)",
+   "FY2023 consolidated Cash Flow: 99/99 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 100/100 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 consolidated Cash Flow: 99/99 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2022 standalone Cash Flow: 99/99 figures confirmed by the report's totals (100%); 3 garbled label(s)",
+   "FY2021 consolidated Cash Flow: 101/101 figures confirmed by the report's totals (100%); 3 garbled label(s)",
+   "FY2021 standalone Cash Flow: 99/99 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 consolidated Cash Flow: 98/98 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2020 standalone Cash Flow: 97/97 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 57,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 18
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 57
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Cash from operations FY2021: ours=324.46 Screener=285.0",
+   "DIFF consolidated Cash from operations FY2022: ours=149.21 NSE XBRL=0.58 Screener=58.0",
+   "DIFF consolidated Cash from operations FY2023: ours=662.84 Screener=595.0",
+   "MISSING consolidated Cash from operations FY2024: ours=None Screener=1349.0",
+   "DIFF standalone Cash from operations FY2021: ours=285.03 Screener=324.0",
+   "DIFF standalone Cash from operations FY2022: ours=58.08 NSE XBRL=577.83 Screener=149.0",
+   "DIFF standalone Cash from operations FY2023: ours=594.88 Screener=663.0"
+  ],
+  "seconds": 43
+ },
+ "IRCTC": {
+  "ticker": "IRCTC",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 12,
+  "ok": 20,
+  "check": 10,
+  "missing": 0,
+  "problems": [
+   "FY2026 consolidated Cash Flow: CHECK: operating cash flow row not found",
+   "FY2026 standalone Cash Flow: CHECK: operating cash flow row not found",
+   "FY2025 consolidated Cash Flow: CHECK: operating cash flow row not found",
+   "FY2025 standalone Cash Flow: CHECK: operating cash flow row not found",
+   "FY2024 consolidated Cash Flow: CHECK: operating cash flow row not found",
+   "FY2024 standalone Cash Flow: CHECK: operating cash flow row not found",
+   "FY2023 standalone Cash Flow: CHECK: operating cash flow row not found",
+   "FY2022 standalone Cash Flow: CHECK: operating cash flow row not found",
+   "FY2021 standalone Cash Flow: CHECK: operating cash flow row not found",
+   "FY2020 standalone Cash Flow: CHECK: operating cash flow row not found"
+  ],
+  "ai_used": 0,
+  "q_cells": 2338,
+  "q_confirmed": 2258,
+  "q_totals": 416,
+  "q_failed_totals": 0,
+  "q_bad_labels": 9,
+  "q_issues": [
+   "FY2024 consolidated Profit & Loss: 55/63 figures confirmed by the report's totals (87%); 1 garbled label(s)",
+   "FY2024 standalone Profit & Loss: 55/63 figures confirmed by the report's totals (87%); 1 garbled label(s)",
+   "FY2023 standalone Profit & Loss: 57/65 figures confirmed by the report's totals (88%); 1 garbled label(s)",
+   "FY2022 standalone Profit & Loss: 57/65 figures confirmed by the report's totals (88%); 1 garbled label(s)",
+   "FY2021 standalone Profit & Loss: 53/61 figures confirmed by the report's totals (87%); 2 garbled label(s)",
+   "FY2021 standalone Cash Flow: 97/97 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2020 standalone Profit & Loss: 49/57 figures confirmed by the report's totals (86%); 1 garbled label(s)",
+   "FY2020 standalone Cash Flow: 80/80 figures confirmed by the report's totals (100%); 1 garbled label(s)"
+  ],
+  "verified": 36,
+  "compared": 48,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 8,
+    "match": 5
+   },
+   "Screener": {
+    "checked": 48,
+    "match": 36
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "MISSING consolidated Cash from operations FY2023: ours=None Screener=812.0",
+   "MISSING consolidated Cash from operations FY2024: ours=None Screener=882.0",
+   "MISSING consolidated Cash from operations FY2025: ours=None Screener=833.0",
+   "MISSING consolidated Cash from operations FY2026: ours=None Screener=1273.0",
+   "MISSING standalone Cash from operations FY2019: ours=None Screener=499.0",
+   "MISSING standalone Cash from operations FY2020: ours=None Screener=409.0",
+   "MISSING standalone Cash from operations FY2021: ours=None Screener=248.0",
+   "MISSING standalone Cash from operations FY2022: ours=None NSE XBRL=330.52 Screener=524.0",
+   "MISSING standalone Cash from operations FY2023: ours=None Screener=812.0",
+   "MISSING standalone Cash from operations FY2024: ours=None Screener=882.0",
+   "MISSING standalone Cash from operations FY2025: ours=None Screener=834.0",
+   "MISSING standalone Cash from operations FY2026: ours=None Screener=1274.0"
+  ],
+  "seconds": 54
+ },
+ "INDHOTEL": {
+  "ticker": "INDHOTEL",
+  "reports": [
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "not_applicable": 0,
+  "ok": 42,
+  "check": 0,
+  "missing": 0,
+  "problems": [],
+  "ai_used": 0,
+  "q_cells": 3644,
+  "q_confirmed": 3576,
+  "q_totals": 678,
+  "q_failed_totals": 8,
+  "q_bad_labels": 4,
+  "q_issues": [
+   "FY2026 consolidated Cash Flow: 113/113 figures confirmed by the report's totals (100%); 2 garbled label(s)",
+   "FY2025 consolidated Cash Flow: 109/109 figures confirmed by the report's totals (100%); 1 garbled label(s)",
+   "FY2023 standalone Cash Flow: 121/123 figures confirmed by the report's totals (98%); 2 total(s) don't add up",
+   "FY2022 standalone Cash Flow: 121/123 figures confirmed by the report's totals (98%); 2 total(s) don't add up",
+   "FY2021 standalone Cash Flow: 119/121 figures confirmed by the report's totals (98%); 2 total(s) don't add up",
+   "FY2020 standalone Cash Flow: 116/118 figures confirmed by the report's totals (98%); 2 total(s) don't add up; 1 garbled label(s)"
+  ],
+  "verified": 60,
+  "compared": 64,
+  "per_source": {
+   "NSE XBRL": {
+    "checked": 22,
+    "match": 22
+   },
+   "Screener": {
+    "checked": 64,
+    "match": 58
+   },
+   "Yahoo": {
+    "checked": 0,
+    "match": 0
+   }
+  },
+  "accuracy_issues": [
+   "DIFF consolidated Total assets FY2019: ours=9583.76 Screener=9514.0",
+   "DIFF consolidated Total assets FY2020: ours=11518.26 Screener=11442.0",
+   "DIFF consolidated Total assets FY2021: ours=11512.71 Screener=11435.0",
+   "DIFF consolidated Total assets FY2022: ours=13089.62 Screener=13002.0"
+  ],
+  "seconds": 127
+ }
+}

@@ -1,0 +1,545 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "BAJFINANCE",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 416,
+   "name": "417",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 417,
+   "name": "418",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "BAJFINANCE\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    25816.65,
+    22079.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -72776.01,
+    -61163.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    1008.98,
+    880.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment on financial instruments (Gross of recoveries)",
+   "values": [
+    10281.5,
+    7966.03
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net loss on disposal of property, plant and equipment and other intangible assets",
+   "values": [
+    18.34,
+    35.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    28665.95,
+    24769.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share based payment expenses",
+   "values": [
+    439.6,
+    393.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair value changes",
+   "values": [
+    -471.24,
+    -539.03
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Service fees for management of assigned portfolio of loans",
+   "values": [
+    -15.71,
+    -27.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income on derecognised (assigned) loans",
+   "values": [
+    -465.46,
+    -552.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -1.14,
+    -1.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of (profit)/loss from associate",
+   "values": [
+    -16.46,
+    -17.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -7515,
+    -6174.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash inflow from interest on loans",
+   "values": [
+    70393.75,
+    58185.94
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash inflow from interest on investments",
+   "values": [
+    2947.54,
+    2313.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash inflow from servicing of assigned loans",
+   "values": [
+    51.39,
+    59.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash outflow towards finance cost",
+   "values": [
+    -25946.79,
+    -22420.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operation before working capital changes",
+   "values": [
+    39930.89,
+    31963.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Working capital changes:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in bank balances other than cash and cash equivalents",
+   "values": [
+    -4124.26,
+    -3095.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in trade receivables",
+   "values": [
+    -52.03,
+    -206.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in loans",
+   "values": [
+    -103794.27,
+    -89988.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in investments classified as FVTPL",
+   "values": [
+    6212.53,
+    -1429.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in other financial assets",
+   "values": [
+    736.52,
+    531.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in other non-financial assets",
+   "values": [
+    33.81,
+    -116.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in derivative financial instruments (net)",
+   "values": [
+    105.12,
+    56.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in trade payables",
+   "values": [
+    226.49,
+    -186
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in other payables",
+   "values": [
+    242.89,
+    166.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in other financial liabilities",
+   "values": [
+    724.18,
+    -7.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in provisions",
+   "values": [
+    250.99,
+    67.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in other non-financial liabilities",
+   "values": [
+    178.19,
+    38.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -99259.84,
+    -94170.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax paid (net of refunds)",
+   "values": [
+    -6460.85,
+    -5585.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in operating activities (I)",
+   "values": [
+    -65789.8,
+    -67791.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of property, plant and equipment and capital work-in-progress",
+   "values": [
+    -560.03,
+    -584.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of other intangible assets and intangible assets under development",
+   "values": [
+    -401.07,
+    -497.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of property, plant and equipment and other intangible assets",
+   "values": [
+    65.25,
+    36.39
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of investments measured at amortised cost",
+   "values": [
+    -59340.07,
+    -27461.88
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from liquidation of investments measured at amortised cost",
+   "values": [
+    59446.67,
+    27624.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of investments classified as FVOCI",
+   "values": [
+    -44831.64,
+    -31594.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from liquidation of investments classified as FVOCI",
+   "values": [
+    42440.11,
+    29745.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of equity investments designated under FVOCI",
+   "values": [
+    -308.14,
+    -35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of equity investments designated under FVOCI",
+   "values": [
+    99.15,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    1.14,
+    1.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in investing activities (II)",
+   "values": [
+    -3388.63,
+    -2765.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Issue of equity share capital (including securities premium)",
+   "values": [
+    435.92,
+    1251.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Issue of equity share capital of subsidiary (including securities premium)",
+   "values": [
+    2.81,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from dilution of stake in subsidiary (net of expenses and tax)",
+   "values": [
+    1380.22,
+    6097.67
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share issue expenses",
+   "values": [
+    -3.47,
+    -0.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -3476.61,
+    -2225.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of lease liability",
+   "values": [
+    -242.53,
+    -214.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits received (net)",
+   "values": [
+    -3761.08,
+    10527.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Short-term borrowing availed (net)",
+   "values": [
+    11884.78,
+    8787.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Long-term borrowing availed",
+   "values": [
+    113336.67,
+    84967.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Long-term borrowing repaid",
+   "values": [
+    -52123.84,
+    -39026.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from financing activities (III)",
+   "values": [
+    67432.87,
+    70164.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents (I+II+III)",
+   "values": [
+    -1745.56,
+    -392.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    3642.46,
+    4034.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    1896.9,
+    3642.46
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

@@ -1,0 +1,449 @@
+{
+ "ticker": "ASTRAL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 172,
+   "name": "173",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Consolidated Balance Sheet",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "As at March 31, 2026",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(₹ In Million)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "March 31, March 31, ASSETS",
+   "values": [
+    2026.0,
+    2025.0
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment (A)",
+   "values": [
+    23671.0,
+    21421.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress (D)",
+   "values": [
+    887.0,
+    1160.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    3156.0,
+    3146.0
+   ]
+  },
+  {
+   "label": "Other Intangible assets (B)",
+   "values": [
+    850.0,
+    1158.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development (E)",
+   "values": [
+    56.0,
+    null
+   ]
+  },
+  {
+   "label": "Right of use assets (C)",
+   "values": [
+    1717.0,
+    1391.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    7.0,
+    2.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    298.0,
+    298.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets (Net)",
+   "values": [
+    231.0,
+    82.0
+   ]
+  },
+  {
+   "label": "Non-current tax assets",
+   "values": [
+    145.0,
+    118.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    710.0,
+    296.0
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    31728.0,
+    29072.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    11173.0,
+    10111.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    4751.0,
+    4353.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    8904.0,
+    6081.0
+   ]
+  },
+  {
+   "label": "Bank balances other than (ii) above",
+   "values": [
+    530.0,
+    2.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    7.0,
+    13.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    147.0,
+    130.0
+   ]
+  },
+  {
+   "label": "Current tax assets (Net)",
+   "values": [
+    2.0,
+    1.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    877.0,
+    797.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    26391.0,
+    21488.0
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    58119.0,
+    50560.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    269.0,
+    269.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    40310.0,
+    35901.0
+   ]
+  },
+  {
+   "label": "Equity attributable to equity share holders of the Parent",
+   "values": [
+    40579.0,
+    36170.0
+   ]
+  },
+  {
+   "label": "Non-controlling Interests",
+   "values": [
+    -0.0,
+    757.0
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    40579.0,
+    36927.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    830.0,
+    898.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    713.0,
+    665.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    33.0,
+    null
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    160.0,
+    86.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (Net)",
+   "values": [
+    826.0,
+    551.0
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    2562.0,
+    2200.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    701.0,
+    541.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    259.0,
+    228.0
+   ]
+  },
+  {
+   "label": "Trade payables a total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    342.0,
+    587.0
+   ]
+  },
+  {
+   "label": "b total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    11211.0,
+    8002.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    973.0,
+    1007.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    1228.0,
+    954.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    161.0,
+    24.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (Net)",
+   "values": [
+    103.0,
+    90.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    14978.0,
+    11433.0
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    17540.0,
+    13633.0
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    58119.0,
+    50560.0
+   ]
+  }
+ ],
+ "pdf": "ASTRAL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5772a6ee-bd33-47d5-bbd1-85b269bd26c3.pdf",
+ "parsed_at": "2026-11-04 11:27 UTC"
+}

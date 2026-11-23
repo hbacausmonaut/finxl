@@ -1,0 +1,501 @@
+{
+ "ticker": "MARUTI",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 235,
+   "name": "236R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    779.5
+   ]
+  },
+  {
+   "page": 236,
+   "name": "237L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    779.5
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    191185.0,
+    196200.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Share of profit of associates",
+   "values": [
+    -2591.0,
+    -2152.0
+   ]
+  },
+  {
+   "label": "Share of profit of joint ventures",
+   "values": [
+    -264.0,
+    -287.0
+   ]
+  },
+  {
+   "label": "Share of dividend from joint ventures and associates",
+   "values": [
+    356.0,
+    432.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    67417.0,
+    56082.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    2387.0,
+    1942.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -3839.0,
+    -4329.0
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -111.0,
+    -92.0
+   ]
+  },
+  {
+   "label": "Net loss on sale / discarding of property, plant and equipment and 478 capital work-in-progress",
+   "values": [
+    739.0,
+    673.0
+   ]
+  },
+  {
+   "label": "Net gain on sale of investments in debt mutual funds",
+   "values": [
+    -2216.0,
+    -1297.0
+   ]
+  },
+  {
+   "label": "Fair valuation gain on investment in debt mutual funds",
+   "values": [
+    -35190.0,
+    -43992.0
+   ]
+  },
+  {
+   "label": "Unrealised foreign exchange (gain) / loss",
+   "values": [
+    149.0,
+    35.0
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    218022.0,
+    203215.0
+   ]
+  },
+  {
+   "label": "Adjustments for changes in working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase) / decrease in other financial assets (non-current)",
+   "values": [
+    -4352.0,
+    -22.0
+   ]
+  },
+  {
+   "label": "(Increase) / decrease in other non-current assets",
+   "values": [
+    101.0,
+    -10.0
+   ]
+  },
+  {
+   "label": "(Increase) / decrease in inventories",
+   "values": [
+    -44074.0,
+    -15951.0
+   ]
+  },
+  {
+   "label": "(Increase) / decrease in trade receivables",
+   "values": [
+    12360.0,
+    -19692.0
+   ]
+  },
+  {
+   "label": "(Increase) / decrease in advance in the nature of loans (current)",
+   "values": [
+    -9.0,
+    -105.0
+   ]
+  },
+  {
+   "label": "(Increase) / decrease in other financial assets (current)",
+   "values": [
+    68.0,
+    1001.0
+   ]
+  },
+  {
+   "label": "(Increase) / decrease in other current assets",
+   "values": [
+    -15980.0,
+    -12022.0
+   ]
+  },
+  {
+   "label": "Increase / (decrease) in other non-current financial liabilities",
+   "values": [
+    null,
+    5.0
+   ]
+  },
+  {
+   "label": "Increase / (decrease) in non-current provisions",
+   "values": [
+    10.0,
+    -172.0
+   ]
+  },
+  {
+   "label": "Increase / (decrease) in other non-current liabilities",
+   "values": [
+    -1072.0,
+    2202.0
+   ]
+  },
+  {
+   "label": "Increase / (decrease) in trade payables",
+   "values": [
+    51939.0,
+    26063.0
+   ]
+  },
+  {
+   "label": "Increase / (decrease) in other financial liabilities (current)",
+   "values": [
+    2901.0,
+    14358.0
+   ]
+  },
+  {
+   "label": "Increase / (decrease) in current provisions",
+   "values": [
+    6260.0,
+    1353.0
+   ]
+  },
+  {
+   "label": "Increase / (decrease) in other current liabilities",
+   "values": [
+    8197.0,
+    -355.0
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    234371.0,
+    199868.0
+   ]
+  },
+  {
+   "label": "Income taxes paid (Net of refund)",
+   "values": [
+    -43372.0,
+    -38068.0
+   ]
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    190999.0,
+    161800.0
+   ]
+  },
+  {
+   "label": "Cash flows from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Payments for purchase of property, plant and equipment and capital work in progress",
+   "values": [
+    -101227.0,
+    -102307.0
+   ]
+  },
+  {
+   "label": "Payments for purchase of intangible assets and intangible assets under development",
+   "values": [
+    -2749.0,
+    -3903.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    520.0,
+    417.0
+   ]
+  },
+  {
+   "label": "Payments for purchase of investment in equity shares of associates",
+   "values": [
+    null,
+    -180.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of debt mutual funds",
+   "values": [
+    1019686.0,
+    697954.0
+   ]
+  },
+  {
+   "label": "Payments for purchase of debt mutual funds",
+   "values": [
+    -1080179.0,
+    -738801.0
+   ]
+  },
+  {
+   "label": "Payments for purchase of unquoted investments",
+   "values": [
+    -20.0,
+    -20.0
+   ]
+  },
+  {
+   "label": "Payments for purchase of quoted investments",
+   "values": [
+    -136.0,
+    null
+   ]
+  },
+  {
+   "label": "Investment in fixed deposits with bank",
+   "values": [
+    -17841.0,
+    -11154.0
+   ]
+  },
+  {
+   "label": "Proceeds from fixed deposits with bank",
+   "values": [
+    30955.0,
+    8464.0
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    3545.0,
+    4439.0
+   ]
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    111.0,
+    92.0
+   ]
+  },
+  {
+   "label": "Net cash outflow from investing activities",
+   "values": [
+    -147335.0,
+    -144999.0
+   ]
+  },
+  {
+   "label": "Cash flows from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Movement in short term borrowings (Net)",
+   "values": [
+    null,
+    -331.0
+   ]
+  },
+  {
+   "label": "Payment of dividend on equity shares",
+   "values": [
+    -42444.0,
+    -39300.0
+   ]
+  },
+  {
+   "label": "Repayment of lease liabilities",
+   "values": [
+    -359.0,
+    -253.0
+   ]
+  },
+  {
+   "label": "Interest on lease liabilities",
+   "values": [
+    -82.0,
+    -89.0
+   ]
+  },
+  {
+   "label": "Finance costs paid (other than interest on lease liabilities)",
+   "values": [
+    -1955.0,
+    -1578.0
+   ]
+  },
+  {
+   "label": "Net cash outflow from financing activities",
+   "values": [
+    -44840.0,
+    -41551.0
+   ]
+  },
+  {
+   "label": "Net increase / (decrease) in cash and cash equivalents",
+   "values": [
+    -1176.0,
+    -24750.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    1845.0,
+    26595.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    669.0,
+    1845.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents comprises",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Cheques on hand",
+   "values": [
+    11.0,
+    2.0
+   ]
+  },
+  {
+   "label": "Balance with banks",
+   "values": [
+    658.0,
+    825.0
+   ]
+  },
+  {
+   "label": "Deposits (less than 3 months original maturity period)",
+   "values": [
+    null,
+    1018.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    669.0,
+    1845.0
+   ]
+  },
+  {
+   "label": "Non-cash investing and financing transaction",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Acquisition of right-of-use assets",
+   "values": [
+    515.0,
+    454.0
+   ]
+  },
+  {
+   "label": "Export promotion Capital Goods Grants",
+   "values": [
+    1310.0,
+    1052.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1825.0,
+    1506.0
+   ]
+  }
+ ],
+ "pdf": "MARUTI\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf",
+ "parsed_at": "2026-11-05 11:55 UTC"
+}

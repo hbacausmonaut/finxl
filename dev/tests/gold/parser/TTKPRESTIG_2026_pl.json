@@ -1,0 +1,365 @@
+{
+ "ticker": "TTKPRESTIG",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 189,
+   "name": "190",
+   "clip": [
+    0.0,
+    0.0,
+    623.6,
+    822.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    2973.57,
+    2714.78
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    67.34,
+    75.99
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    3040.91,
+    2790.77
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of Materials consumed",
+   "values": [
+    513.02,
+    523.72
+   ]
+  },
+  {
+   "label": "Purchase of Stock in Trade",
+   "values": [
+    1215.51,
+    1060.93
+   ]
+  },
+  {
+   "label": "Changes in Inventory of Finished Goods, Stock in trade and work in progress",
+   "values": [
+    -43.65,
+    -10.01
+   ]
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    316.62,
+    289.67
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    14.96,
+    15.68
+   ]
+  },
+  {
+   "label": "Depreciation and Amortisation",
+   "values": [
+    80.95,
+    70.71
+   ]
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    696.37,
+    594.07
+   ]
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    2793.79,
+    2544.77
+   ]
+  },
+  {
+   "label": "Profit Before Exceptional Items and Tax",
+   "values": [
+    247.13,
+    246.0
+   ]
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Impairment of Investments",
+   "values": [
+    null,
+    -71.42
+   ]
+  },
+  {
+   "label": "Voluntary Retirement Scheme",
+   "values": [
+    -9.98,
+    null
+   ]
+  },
+  {
+   "label": "Impact of Labour Codes",
+   "values": [
+    -17.37,
+    null
+   ]
+  },
+  {
+   "label": "Profit Before Tax",
+   "values": [
+    219.78,
+    174.58
+   ]
+  },
+  {
+   "label": "Tax Expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    67.88,
+    70.76
+   ]
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    -4.77,
+    -4.19
+   ]
+  },
+  {
+   "label": "Profit for the Year",
+   "values": [
+    156.67,
+    108.01
+   ]
+  },
+  {
+   "label": "Add: Share of Profit/(Loss) in Associate",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit After Taxes and Share of Associate",
+   "values": [
+    156.67,
+    108.01
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurements of defined benefit plan actuarial gains/ (losses)",
+   "values": [
+    -1.88,
+    -2.63
+   ]
+  },
+  {
+   "label": "Change in fair value of equity instruments designated irrevocably as FVTOCI",
+   "values": [
+    -0.07,
+    -0.04
+   ]
+  },
+  {
+   "label": "Income Tax (Expense) / Income on above",
+   "values": [
+    0.5,
+    0.67
+   ]
+  },
+  {
+   "label": "Share of Other Comprehensive Income of Associate",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -1.45,
+    -2.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange Difference on translating Financial Statements of a foreign operation",
+   "values": [
+    21.01,
+    11.6
+   ]
+  },
+  {
+   "label": "Total Other Comprehensive Income for the Year",
+   "values": [
+    19.56,
+    9.6
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the Year",
+   "values": [
+    176.23,
+    117.61
+   ]
+  },
+  {
+   "label": "(Comprising Profit and Other Comprehensive Income for the Year)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners",
+   "values": [
+    160.59,
+    112.44
+   ]
+  },
+  {
+   "label": "Non Controlling Interest",
+   "values": [
+    -3.92,
+    -4.43
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners",
+   "values": [
+    19.55,
+    9.6
+   ]
+  },
+  {
+   "label": "Non Controlling Interest",
+   "values": [
+    0.01,
+    0.0
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners",
+   "values": [
+    180.14,
+    122.04
+   ]
+  },
+  {
+   "label": "Non Controlling Interest",
+   "values": [
+    -3.91,
+    -4.43
+   ]
+  },
+  {
+   "label": "Earnings Per Equity Share(Face Value Rs.1/- each)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Basic(`)",
+   "values": [
+    11.73,
+    8.17
+   ]
+  },
+  {
+   "label": "(2) Diluted(`)",
+   "values": [
+    11.72,
+    8.16
+   ]
+  }
+ ],
+ "pdf": "TTKPRESTIG/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9048dae8-85f9-431f-8a67-37817161b4dd.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

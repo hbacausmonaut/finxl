@@ -1,0 +1,344 @@
+{
+ "ticker": "PIDILITIND",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 263,
+   "name": "264",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    779.5
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    14600.83,
+    13140.31
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    266.18,
+    247.22
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    14867.01,
+    13387.53
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of Materials Consumed",
+   "values": [
+    5620.81,
+    5393.15
+   ]
+  },
+  {
+   "label": "Purchases of Stock-in-Trade",
+   "values": [
+    898.54,
+    741.89
+   ]
+  },
+  {
+   "label": "Changes in inventories of Finished Goods, Stock-in-Trade and Work-in-Progress",
+   "values": [
+    -30.3,
+    -138.76
+   ]
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    1941.22,
+    1741.62
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    54.22,
+    50.35
+   ]
+  },
+  {
+   "label": "Depreciation, Amortisation and Impairment Expense",
+   "values": [
+    394.71,
+    358.48
+   ]
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    2651.56,
+    2389.9
+   ]
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    11530.76,
+    10536.63
+   ]
+  },
+  {
+   "label": "Profit before Share of profit / (loss) of Associates and Joint Venture, Exceptional Items and Tax",
+   "values": [
+    3336.25,
+    2850.9
+   ]
+  },
+  {
+   "label": "Share of loss in Associates and Joint Venture (net of tax)",
+   "values": [
+    -2.37,
+    -3.28
+   ]
+  },
+  {
+   "label": "Profit before Exceptional Items and Tax",
+   "values": [
+    3333.88,
+    2847.62
+   ]
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    13.71,
+    24.92
+   ]
+  },
+  {
+   "label": "Profit before Tax",
+   "values": [
+    3320.17,
+    2822.7
+   ]
+  },
+  {
+   "label": "Tax Expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    846.13,
+    712.62
+   ]
+  },
+  {
+   "label": "Deferred Tax (Net)",
+   "values": [
+    3.32,
+    13.91
+   ]
+  },
+  {
+   "label": "Total Tax Expense",
+   "values": [
+    849.45,
+    726.53
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    2470.72,
+    2096.17
+   ]
+  },
+  {
+   "label": "Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    2448.92,
+    2076.24
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    21.8,
+    19.93
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement of Defined Benefit Plans",
+   "values": [
+    -0.09,
+    -16.32
+   ]
+  },
+  {
+   "label": "Income tax on remeasurement of defined benefit plans",
+   "values": [
+    0.02,
+    4.04
+   ]
+  },
+  {
+   "label": "Fair value gain / (loss) on investments through OCI",
+   "values": [
+    -19.42,
+    8.15
+   ]
+  },
+  {
+   "label": "Income tax on fair value gain on investment through OCI",
+   "values": [
+    2.78,
+    -2.88
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange differences in translating the financial statements of foreign operations",
+   "values": [
+    40.94,
+    1.31
+   ]
+  },
+  {
+   "label": "Total Other Comprehensive Income / (Loss) for the year, net of tax",
+   "values": [
+    24.23,
+    -5.7
+   ]
+  },
+  {
+   "label": "Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    23.65,
+    -6.26
+   ]
+  },
+  {
+   "label": "Non-Controlling Interests",
+   "values": [
+    0.58,
+    0.56
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the year",
+   "values": [
+    2494.95,
+    2090.47
+   ]
+  },
+  {
+   "label": "Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    2472.57,
+    2069.98
+   ]
+  },
+  {
+   "label": "Non-Controlling Interests",
+   "values": [
+    22.38,
+    20.49
+   ]
+  },
+  {
+   "label": "Earnings Per Equity Share (Face Value 1 each)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic ( )",
+   "values": [
+    24.07,
+    20.41
+   ]
+  },
+  {
+   "label": "Diluted ( )",
+   "values": [
+    24.01,
+    20.36
+   ]
+  }
+ ],
+ "pdf": "PIDILITIND/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/84c374a7-10a3-4a3b-8693-cc7e75a0a6b8.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

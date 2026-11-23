@@ -1,0 +1,435 @@
+{
+ "ticker": "EICHERMOT",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 301,
+   "name": "302",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    2357.88,
+    2268.7
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    203.08,
+    110.3
+   ]
+  },
+  {
+   "label": "Intangible assets",
+   "values": [
+    1174.98,
+    887.73
+   ]
+  },
+  {
+   "label": "Right of use assets",
+   "values": [
+    318.84,
+    317.04
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    533.22,
+    381.17
+   ]
+  },
+  {
+   "label": "Investments in joint ventures",
+   "values": [
+    3723.49,
+    3140.85
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Other investments",
+   "values": [
+    10940.48,
+    10802.5
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    2936.6,
+    2070.4
+   ]
+  },
+  {
+   "label": "Non-current tax assets (net)",
+   "values": [
+    84.52,
+    89.71
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    336.22,
+    151.85
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    22609.31,
+    20220.25
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    1967.82,
+    1563.75
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    2831.97,
+    847.55
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    353.51,
+    549.64
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    234.29,
+    218.96
+   ]
+  },
+  {
+   "label": "Bank balances other than (iii) above",
+   "values": [
+    21.75,
+    44.05
+   ]
+  },
+  {
+   "label": "Loans / Bill discounting",
+   "values": [
+    451.24,
+    445.96
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    3025.96,
+    2868.12
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    667.71,
+    416.13
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    9554.25,
+    6954.16
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    32163.56,
+    27174.41
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    27.43,
+    27.42
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    25072.72,
+    21269.07
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    25100.15,
+    21296.49
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    201.63,
+    184.36
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    129.12,
+    123.81
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    16.0,
+    29.24
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    604.42,
+    463.67
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    259.51,
+    194.91
+   ]
+  },
+  {
+   "label": "Government grants",
+   "values": [
+    170.47,
+    123.2
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    658.28,
+    492.95
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    2039.43,
+    1612.14
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    117.38,
+    82.11
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    65.82,
+    67.85
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    100.34,
+    40.11
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    2638.1,
+    2489.64
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    539.55,
+    354.85
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    658.46,
+    558.58
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    168.9,
+    122.8
+   ]
+  },
+  {
+   "label": "Government grants",
+   "values": [
+    28.79,
+    40.48
+   ]
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    400.94,
+    270.68
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    305.7,
+    238.68
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    5023.98,
+    4265.78
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    7063.41,
+    5877.92
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    32163.56,
+    27174.41
+   ]
+  }
+ ],
+ "pdf": "EICHERMOT/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d17e4c7d-5ef6-4135-b0f3-cc7bb1ca7f09.pdf",
+ "parsed_at": "2026-11-04 11:18 UTC"
+}

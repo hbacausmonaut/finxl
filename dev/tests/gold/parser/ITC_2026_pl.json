@@ -1,0 +1,477 @@
+{
+ "ticker": "ITC",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 254,
+   "name": "255",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Continuing Operations",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue From Operations 23A,23B",
+   "values": [
+    89913.33,
+    81612.78
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    2425.8,
+    2529.69
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    92339.13,
+    84142.47
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    26272.33,
+    23757.33
+   ]
+  },
+  {
+   "label": "Purchases of Stock-in-Trade and Biological Assets",
+   "values": [
+    8826.01,
+    8947.04
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, Stock-in-Trade, work-in-progress, intermediates and Biological Assets",
+   "values": [
+    -2550.46,
+    -725.65
+   ]
+  },
+  {
+   "label": "Excise duty",
+   "values": [
+    11044.93,
+    6289.44
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    6781.5,
+    6169.78
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    85.17,
+    45.06
+   ]
+  },
+  {
+   "label": "Depreciation and amortization expense",
+   "values": [
+    1710.53,
+    1646.32
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    12221.11,
+    11196.63
+   ]
+  },
+  {
+   "label": "Total expenses (IV)",
+   "values": [
+    64391.12,
+    57325.95
+   ]
+  },
+  {
+   "label": "Share of profit / (loss) of Associates and Joint Ventures",
+   "values": [
+    377.08,
+    110.42
+   ]
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    28325.09,
+    26926.94
+   ]
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    -291.7,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    28033.39,
+    26926.94
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    6412.97,
+    6509.61
+   ]
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    602.27,
+    380.86
+   ]
+  },
+  {
+   "label": "Profit for the year from continuing operations (VIII-IX)",
+   "values": [
+    21018.15,
+    20036.47
+   ]
+  },
+  {
+   "label": "Profit before exceptional items and tax from discontinued operations",
+   "values": [
+    null,
+    525.84
+   ]
+  },
+  {
+   "label": "Exceptional Items of discontinued operations",
+   "values": [
+    null,
+    15128.81
+   ]
+  },
+  {
+   "label": "Tax expense of discontinued operations",
+   "values": [
+    null,
+    638.64
+   ]
+  },
+  {
+   "label": "Profit for the year from discontinued operations",
+   "values": [
+    null,
+    15016.01
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    21018.15,
+    35052.48
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "A (i) Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurements of the defined benefit plans",
+   "values": [
+    -22.05,
+    -26.13
+   ]
+  },
+  {
+   "label": "Equity instruments through other comprehensive income",
+   "values": [
+    -839.64,
+    -1043.31
+   ]
+  },
+  {
+   "label": "Effective portion of gains / (losses) on designated portion of hedging instruments in a cash flow hedge",
+   "values": [
+    33.54,
+    0.23
+   ]
+  },
+  {
+   "label": "Share of other comprehensive income in Associates and Joint Ventures",
+   "values": [
+    -7.12,
+    -3.41
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values": [
+    111.65,
+    59.58
+   ]
+  },
+  {
+   "label": "B (i) Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange differences on translating the financial statements of foreign operations",
+   "values": [
+    131.48,
+    352.94
+   ]
+  },
+  {
+   "label": "Debt instruments through other comprehensive income",
+   "values": [
+    -61.73,
+    72.81
+   ]
+  },
+  {
+   "label": "Effective portion of gains / (losses) on designated portion of hedging instruments in a cash flow hedge",
+   "values": [
+    -78.57,
+    -12.98
+   ]
+  },
+  {
+   "label": "Share of other comprehensive income in Associates and Joint Ventures",
+   "values": [
+    53.74,
+    -14.45
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will be reclassified to profit or loss",
+   "values": [
+    35.41,
+    -10.14
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income [A(i+ii)+B(i+ii)]",
+   "values": [
+    -643.29,
+    -624.86
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the year",
+   "values": [
+    20374.86,
+    34427.62
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the parent",
+   "values": [
+    20689.47,
+    34746.63
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    328.68,
+    305.85
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the parent",
+   "values": [
+    -642.2,
+    -624.87
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    -1.09,
+    0.01
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the year",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the parent",
+   "values": [
+    20047.27,
+    34121.76
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    327.59,
+    305.86
+   ]
+  },
+  {
+   "label": "XVIII Earnings per equity share (Face Value ` 1.00 each)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "For Continuing Operations",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in `)",
+   "values": [
+    16.52,
+    15.78
+   ]
+  },
+  {
+   "label": "Diluted (in `)",
+   "values": [
+    16.51,
+    15.76
+   ]
+  },
+  {
+   "label": "For Discontinued Operations",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in `)",
+   "values": [
+    null,
+    12.01
+   ]
+  },
+  {
+   "label": "Diluted (in `)",
+   "values": [
+    null,
+    11.99
+   ]
+  },
+  {
+   "label": "For Continuing and Discontinued Operations",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in `)",
+   "values": [
+    16.52,
+    27.79
+   ]
+  },
+  {
+   "label": "Diluted (in `)",
+   "values": [
+    16.51,
+    27.75
+   ]
+  }
+ ],
+ "pdf": "ITC/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf",
+ "parsed_at": "2026-11-04 11:18 UTC"
+}

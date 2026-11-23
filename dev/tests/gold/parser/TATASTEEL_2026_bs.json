@@ -1,0 +1,543 @@
+{
+ "ticker": "TATASTEEL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 421,
+   "name": "422",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 422,
+   "name": "423",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": null,
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment F164",
+   "values": [
+    149878.21,
+    125215.17
+   ]
+  },
+  {
+   "label": "Capital work-in-progress F164",
+   "values": [
+    27510.29,
+    40601.88
+   ]
+  },
+  {
+   "label": "Right-of-use assets F170",
+   "values": [
+    10072.66,
+    8087.95
+   ]
+  },
+  {
+   "label": "Goodwill F173",
+   "values": [
+    7533.8,
+    5958.53
+   ]
+  },
+  {
+   "label": "Other intangible assets F174",
+   "values": [
+    12423.46,
+    11652.41
+   ]
+  },
+  {
+   "label": "Intangible assets under development F174",
+   "values": [
+    986.42,
+    1020.47
+   ]
+  },
+  {
+   "label": "Equity accounted investments F177",
+   "values": [
+    2943.47,
+    2970.86
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments F179",
+   "values": [
+    3141.84,
+    2780.6
+   ]
+  },
+  {
+   "label": "Loans F181",
+   "values": [
+    126.2,
+    114.66
+   ]
+  },
+  {
+   "label": "Derivative assets",
+   "values": [
+    703.85,
+    0.05
+   ]
+  },
+  {
+   "label": "Other financial assets F183",
+   "values": [
+    828.59,
+    1662.34
+   ]
+  },
+  {
+   "label": "Retirement benefit assets F185",
+   "values": [
+    86.38,
+    12.67
+   ]
+  },
+  {
+   "label": "Non-current tax assets",
+   "values": [
+    3852.0,
+    3824.52
+   ]
+  },
+  {
+   "label": "Deferred tax assets F186",
+   "values": [
+    4739.49,
+    3936.22
+   ]
+  },
+  {
+   "label": "Other assets F189",
+   "values": [
+    3907.28,
+    3164.93
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    228733.94,
+    211003.26
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories F190",
+   "values": [
+    47249.22,
+    44589.94
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments F179",
+   "values": [
+    1003.54,
+    442.65
+   ]
+  },
+  {
+   "label": "Trade receivables F191",
+   "values": [
+    4916.89,
+    5260.06
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents F192",
+   "values": [
+    8884.95,
+    9604.96
+   ]
+  },
+  {
+   "label": "Other balances with banks F193",
+   "values": [
+    1172.58,
+    2042.02
+   ]
+  },
+  {
+   "label": "Loans F181",
+   "values": [
+    3.35,
+    4.98
+   ]
+  },
+  {
+   "label": "Derivative assets",
+   "values": [
+    961.47,
+    370.5
+   ]
+  },
+  {
+   "label": "Other financial assets F183",
+   "values": [
+    2396.5,
+    1456.14
+   ]
+  },
+  {
+   "label": "Retirement benefit assets F185",
+   "values": [
+    null,
+    2.33
+   ]
+  },
+  {
+   "label": "Current tax assets",
+   "values": [
+    76.28,
+    79.52
+   ]
+  },
+  {
+   "label": "Other assets F189",
+   "values": [
+    5600.33,
+    4538.44
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    72265.11,
+    68391.54
+   ]
+  },
+  {
+   "label": "Assets held for sale F193",
+   "values": [
+    255.06,
+    null
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    301254.11,
+    279394.8
+   ]
+  },
+  {
+   "label": "Equity and liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital F194",
+   "values": [
+    1247.44,
+    1247.44
+   ]
+  },
+  {
+   "label": "Other equity F197",
+   "values": [
+    100920.21,
+    89922.19
+   ]
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    102167.65,
+    91169.63
+   ]
+  },
+  {
+   "label": "Non-controlling interests F202",
+   "values": [
+    1612.8,
+    183.15
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    103780.45,
+    91352.78
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings F204",
+   "values": [
+    63753.67,
+    68551.81
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    6232.99,
+    4832.71
+   ]
+  },
+  {
+   "label": "Derivative liabilities",
+   "values": [
+    null,
+    206.38
+   ]
+  },
+  {
+   "label": "Other financial liabilities F211",
+   "values": [
+    1262.62,
+    1294.17
+   ]
+  },
+  {
+   "label": "Provisions F211",
+   "values": [
+    5989.63,
+    5806.5
+   ]
+  },
+  {
+   "label": "Retirement benefit obligations F185",
+   "values": [
+    3289.63,
+    3272.01
+   ]
+  },
+  {
+   "label": "Deferred income F213",
+   "values": [
+    1598.57,
+    764.91
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities F186",
+   "values": [
+    15332.24,
+    14430.15
+   ]
+  },
+  {
+   "label": "Other liabilities F214",
+   "values": [
+    3096.67,
+    2789.83
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    100556.02,
+    101948.47
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings F204",
+   "values": [
+    21202.72,
+    20412.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    1192.3,
+    1004.53
+   ]
+  },
+  {
+   "label": "Trade payables F214",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro and small enterprises",
+   "values": [
+    1898.89,
+    1510.71
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro and small enterprises",
+   "values": [
+    32613.49,
+    27465.15
+   ]
+  },
+  {
+   "label": "Acceptances",
+   "values": [
+    297.76,
+    338.52
+   ]
+  },
+  {
+   "label": "Derivative liabilities",
+   "values": [
+    260.71,
+    391.18
+   ]
+  },
+  {
+   "label": "Other financial liabilities F211",
+   "values": [
+    17509.83,
+    15820.51
+   ]
+  },
+  {
+   "label": "Provisions F211",
+   "values": [
+    6048.2,
+    3888.29
+   ]
+  },
+  {
+   "label": "Retirement benefit obligations F185",
+   "values": [
+    148.63,
+    154.62
+   ]
+  },
+  {
+   "label": "Deferred income F213",
+   "values": [
+    88.09,
+    30.71
+   ]
+  },
+  {
+   "label": "Current tax liabilities",
+   "values": [
+    2470.72,
+    1775.52
+   ]
+  },
+  {
+   "label": "Other liabilities F214",
+   "values": [
+    13186.3,
+    13301.81
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    96917.64,
+    86093.55
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    197473.66,
+    188042.02
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    301254.11,
+    279394.8
+   ]
+  }
+ ],
+ "pdf": "TATASTEEL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb836c3a-cf5f-427d-bc71-e368d5861e02.pdf",
+ "parsed_at": "2026-11-04 11:19 UTC"
+}

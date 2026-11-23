@@ -1,0 +1,480 @@
+{
+ "ticker": "HCLTECH",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 395,
+   "name": "396",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    756.0
+   ]
+  },
+  {
+   "page": 396,
+   "name": "397",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    756.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    4657.0,
+    4501.0
+   ]
+  },
+  {
+   "label": "Capital work in progress",
+   "values": [
+    60.0,
+    59.0
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    3592.0,
+    3016.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    23888.0,
+    21756.0
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    5160.0,
+    6899.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    82.0,
+    null
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    130.0,
+    91.0
+   ]
+  },
+  {
+   "label": "Trade receivables - unbilled",
+   "values": [
+    601.0,
+    1022.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    50.0,
+    586.0
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    3585.0,
+    2212.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    1146.0,
+    1064.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    2765.0,
+    2229.0
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    45716.0,
+    43435.0
+   ]
+  },
+  {
+   "label": "(2) Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    239.0,
+    133.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    6960.0,
+    7473.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Billed",
+   "values": [
+    23585.0,
+    19523.0
+   ]
+  },
+  {
+   "label": "Unbilled",
+   "values": [
+    7956.0,
+    6319.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    8265.0,
+    8245.0
+   ]
+  },
+  {
+   "label": "Other bank balances",
+   "values": [
+    15160.0,
+    13044.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    1017.0,
+    976.0
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    1626.0,
+    1589.0
+   ]
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    226.0,
+    148.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    5508.0,
+    4659.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    70542.0,
+    62109.0
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    116258.0,
+    105544.0
+   ]
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    543.0,
+    543.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    74622.0,
+    69112.0
+   ]
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    75165.0,
+    69655.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    32.0,
+    18.0
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY",
+   "values": [
+    75197.0,
+    69673.0
+   ]
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    37.0,
+    70.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    3180.0,
+    2638.0
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    1401.0,
+    464.0
+   ]
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    1162.0,
+    1059.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    2001.0,
+    1920.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    1381.0,
+    1615.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    73.0,
+    66.0
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    9235.0,
+    7832.0
+   ]
+  },
+  {
+   "label": "(2) Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    122.0,
+    2221.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    1876.0,
+    1347.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Billed",
+   "values": [
+    3726.0,
+    3016.0
+   ]
+  },
+  {
+   "label": "Unbilled",
+   "values": [
+    3980.0,
+    3209.0
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    9228.0,
+    7009.0
+   ]
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    5053.0,
+    4657.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    2315.0,
+    2278.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1664.0,
+    1487.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    3862.0,
+    2815.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    31826.0,
+    28039.0
+   ]
+  },
+  {
+   "label": "TOTAL LIABILITIES",
+   "values": [
+    41061.0,
+    35871.0
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    116258.0,
+    105544.0
+   ]
+  }
+ ],
+ "pdf": "HCLTECH/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

@@ -1,0 +1,502 @@
+[
+ {
+  "ticker": "HCLTECH",
+  "sector": "IT services",
+  "round": 1
+ },
+ {
+  "ticker": "PIDILITIND",
+  "sector": "Chemicals / adhesives",
+  "round": 1
+ },
+ {
+  "ticker": "RELIANCE",
+  "sector": "Conglomerate (O2C, telecom, retail)",
+  "round": 1
+ },
+ {
+  "ticker": "HDFCBANK",
+  "sector": "Private bank",
+  "round": 1
+ },
+ {
+  "ticker": "NTPC",
+  "sector": "PSU power utility",
+  "round": 1
+ },
+ {
+  "ticker": "ASIANPAINT",
+  "sector": "Paints",
+  "round": 1
+ },
+ {
+  "ticker": "VINATIORGA",
+  "sector": "Specialty chemicals (mid cap)",
+  "round": 1
+ },
+ {
+  "ticker": "TCS",
+  "sector": "IT services",
+  "round": 2
+ },
+ {
+  "ticker": "INFY",
+  "sector": "IT services",
+  "round": 2
+ },
+ {
+  "ticker": "ICICIBANK",
+  "sector": "Private bank",
+  "round": 2
+ },
+ {
+  "ticker": "SBIN",
+  "sector": "PSU bank",
+  "round": 2
+ },
+ {
+  "ticker": "KOTAKBANK",
+  "sector": "Private bank",
+  "round": 2
+ },
+ {
+  "ticker": "BAJFINANCE",
+  "sector": "NBFC",
+  "round": 2
+ },
+ {
+  "ticker": "CHOLAFIN",
+  "sector": "NBFC (vehicle finance)",
+  "round": 2
+ },
+ {
+  "ticker": "HDFCLIFE",
+  "sector": "Life insurance",
+  "round": 2
+ },
+ {
+  "ticker": "ICICIGI",
+  "sector": "General insurance",
+  "round": 2
+ },
+ {
+  "ticker": "BAJAJFINSV",
+  "sector": "Financial holding company",
+  "round": 2
+ },
+ {
+  "ticker": "HINDUNILVR",
+  "sector": "FMCG",
+  "round": 2
+ },
+ {
+  "ticker": "NESTLEIND",
+  "sector": "FMCG (changed year-end in 2020)",
+  "round": 2
+ },
+ {
+  "ticker": "ITC",
+  "sector": "FMCG / conglomerate",
+  "round": 2
+ },
+ {
+  "ticker": "MARUTI",
+  "sector": "Automobiles",
+  "round": 2
+ },
+ {
+  "ticker": "EICHERMOT",
+  "sector": "Automobiles (2-wheelers, trucks)",
+  "round": 2
+ },
+ {
+  "ticker": "SUNPHARMA",
+  "sector": "Pharmaceuticals",
+  "round": 2
+ },
+ {
+  "ticker": "DRREDDY",
+  "sector": "Pharmaceuticals",
+  "round": 2
+ },
+ {
+  "ticker": "TATASTEEL",
+  "sector": "Metals (steel)",
+  "round": 2
+ },
+ {
+  "ticker": "HINDALCO",
+  "sector": "Metals (aluminium, Novelis)",
+  "round": 2
+ },
+ {
+  "ticker": "ULTRACEMCO",
+  "sector": "Cement",
+  "round": 2
+ },
+ {
+  "ticker": "LT",
+  "sector": "Capital goods / infrastructure",
+  "round": 2
+ },
+ {
+  "ticker": "ONGC",
+  "sector": "PSU oil & gas",
+  "round": 2
+ },
+ {
+  "ticker": "COALINDIA",
+  "sector": "PSU mining",
+  "round": 2
+ },
+ {
+  "ticker": "POWERGRID",
+  "sector": "PSU power transmission",
+  "round": 2
+ },
+ {
+  "ticker": "BHARTIARTL",
+  "sector": "Telecom",
+  "round": 2
+ },
+ {
+  "ticker": "DMART",
+  "sector": "Retail",
+  "round": 2
+ },
+ {
+  "ticker": "DLF",
+  "sector": "Real estate",
+  "round": 2
+ },
+ {
+  "ticker": "TITAN",
+  "sector": "Consumer (jewellery, watches)",
+  "round": 2
+ },
+ {
+  "ticker": "KPRMILL",
+  "sector": "Textiles (small/mid cap)",
+  "round": 2
+ },
+ {
+  "ticker": "CERA",
+  "sector": "Sanitaryware (small cap)",
+  "round": 2
+ },
+ {
+  "ticker": "SYMPHONY",
+  "sector": "Consumer durables (small cap)",
+  "round": 2
+ },
+ {
+  "ticker": "AXISBANK",
+  "sector": "Private bank",
+  "round": 3
+ },
+ {
+  "ticker": "BANKBARODA",
+  "sector": "PSU bank",
+  "round": 3
+ },
+ {
+  "ticker": "MUTHOOTFIN",
+  "sector": "NBFC (gold loans)",
+  "round": 3
+ },
+ {
+  "ticker": "SBILIFE",
+  "sector": "Life insurance",
+  "round": 3
+ },
+ {
+  "ticker": "WIPRO",
+  "sector": "IT services",
+  "round": 3
+ },
+ {
+  "ticker": "TECHM",
+  "sector": "IT services",
+  "round": 3
+ },
+ {
+  "ticker": "HEROMOTOCO",
+  "sector": "Automobiles (2-wheelers)",
+  "round": 3
+ },
+ {
+  "ticker": "CIPLA",
+  "sector": "Pharmaceuticals",
+  "round": 3
+ },
+ {
+  "ticker": "JSWSTEEL",
+  "sector": "Metals (steel)",
+  "round": 3
+ },
+ {
+  "ticker": "VEDL",
+  "sector": "Metals & mining",
+  "round": 3
+ },
+ {
+  "ticker": "GRASIM",
+  "sector": "Holding conglomerate",
+  "round": 3
+ },
+ {
+  "ticker": "ADANIPORTS",
+  "sector": "Ports / infrastructure",
+  "round": 3
+ },
+ {
+  "ticker": "BPCL",
+  "sector": "PSU oil marketing",
+  "round": 3
+ },
+ {
+  "ticker": "TATAPOWER",
+  "sector": "Power utility",
+  "round": 3
+ },
+ {
+  "ticker": "APOLLOHOSP",
+  "sector": "Healthcare",
+  "round": 3
+ },
+ {
+  "ticker": "INDIGO",
+  "sector": "Aviation",
+  "round": 3
+ },
+ {
+  "ticker": "BRITANNIA",
+  "sector": "FMCG",
+  "round": 3
+ },
+ {
+  "ticker": "HAVELLS",
+  "sector": "Electricals",
+  "round": 3
+ },
+ {
+  "ticker": "TTKPRESTIG",
+  "sector": "Kitchen appliances (small cap)",
+  "round": 3
+ },
+ {
+  "ticker": "ASTRAL",
+  "sector": "Pipes (mid cap)",
+  "round": 3
+ },
+ {
+  "ticker": "DIXON",
+  "sector": "Electronics manufacturing",
+  "round": 4
+ },
+ {
+  "ticker": "PIIND",
+  "sector": "Agrochemicals",
+  "round": 4
+ },
+ {
+  "ticker": "IRCTC",
+  "sector": "PSU railway services",
+  "round": 4
+ },
+ {
+  "ticker": "TRENT",
+  "sector": "Fashion retail",
+  "round": 4
+ },
+ {
+  "ticker": "INDHOTEL",
+  "sector": "Hotels",
+  "round": 4
+ },
+ {
+  "ticker": "FEDERALBNK",
+  "sector": "Private bank (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "AUBANK",
+  "sector": "Small finance bank",
+  "round": 5
+ },
+ {
+  "ticker": "SHRIRAMFIN",
+  "sector": "NBFC (vehicle / MSME loans)",
+  "round": 5
+ },
+ {
+  "ticker": "LICHSGFIN",
+  "sector": "Housing finance",
+  "round": 5
+ },
+ {
+  "ticker": "HDFCAMC",
+  "sector": "Asset management",
+  "round": 5
+ },
+ {
+  "ticker": "CDSL",
+  "sector": "Depository / market infrastructure (small cap)",
+  "round": 5
+ },
+ {
+  "ticker": "PERSISTENT",
+  "sector": "IT services (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "KPITTECH",
+  "sector": "Automotive software (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "MASTEK",
+  "sector": "IT services (small cap)",
+  "round": 5
+ },
+ {
+  "ticker": "BAJAJ-AUTO",
+  "sector": "Automobiles (2-/3-wheelers)",
+  "round": 5
+ },
+ {
+  "ticker": "MOTHERSON",
+  "sector": "Auto components",
+  "round": 5
+ },
+ {
+  "ticker": "BALKRISIND",
+  "sector": "Tyres (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "LUPIN",
+  "sector": "Pharmaceuticals",
+  "round": 5
+ },
+ {
+  "ticker": "AJANTPHARM",
+  "sector": "Pharmaceuticals (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "DABUR",
+  "sector": "FMCG (ayurvedic / personal care)",
+  "round": 5
+ },
+ {
+  "ticker": "MARICO",
+  "sector": "FMCG (edible oils / hair care)",
+  "round": 5
+ },
+ {
+  "ticker": "SHREECEM",
+  "sector": "Cement",
+  "round": 5
+ },
+ {
+  "ticker": "SRF",
+  "sector": "Chemicals / technical textiles",
+  "round": 5
+ },
+ {
+  "ticker": "DEEPAKNTR",
+  "sector": "Chemicals (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "FINEORG",
+  "sector": "Specialty chemicals (small cap)",
+  "round": 5
+ },
+ {
+  "ticker": "SIEMENS",
+  "sector": "Capital goods (electrical)",
+  "round": 5
+ },
+ {
+  "ticker": "CUMMINSIND",
+  "sector": "Capital goods (engines)",
+  "round": 5
+ },
+ {
+  "ticker": "BEL",
+  "sector": "PSU defence electronics",
+  "round": 5
+ },
+ {
+  "ticker": "VOLTAS",
+  "sector": "Consumer durables (air conditioners)",
+  "round": 5
+ },
+ {
+  "ticker": "CROMPTON",
+  "sector": "Consumer electricals (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "GODREJPROP",
+  "sector": "Real estate",
+  "round": 5
+ },
+ {
+  "ticker": "OBEROIRLTY",
+  "sector": "Real estate (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "MAXHEALTH",
+  "sector": "Hospitals",
+  "round": 5
+ },
+ {
+  "ticker": "LALPATHLAB",
+  "sector": "Diagnostics (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "BLUEDART",
+  "sector": "Logistics / express delivery (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "IGL",
+  "sector": "City gas distribution",
+  "round": 5
+ },
+ {
+  "ticker": "PETRONET",
+  "sector": "LNG import terminals",
+  "round": 5
+ },
+ {
+  "ticker": "TORNTPOWER",
+  "sector": "Power utility (private)",
+  "round": 5
+ },
+ {
+  "ticker": "PAGEIND",
+  "sector": "Apparel (mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "KAJARIACER",
+  "sector": "Ceramic tiles (small/mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "RELAXO",
+  "sector": "Footwear (small/mid cap)",
+  "round": 5
+ },
+ {
+  "ticker": "SUNTV",
+  "sector": "Media / broadcasting",
+  "round": 5
+ }
+]

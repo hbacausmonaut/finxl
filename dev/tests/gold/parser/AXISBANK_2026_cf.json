@@ -1,0 +1,347 @@
+{
+ "ticker": "AXISBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 530,
+   "name": "531",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  },
+  {
+   "page": 531,
+   "name": "532",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from/(used in) operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net profit before taxes",
+   "values": [
+    32130.41,
+    36586.47
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation on fixed assets, intangibles and goodwill",
+   "values": [
+    1892.93,
+    1766.97
+   ]
+  },
+  {
+   "label": "Mark-to-Market (gain)/loss on investments",
+   "values": [
+    875.28,
+    -700.52
+   ]
+  },
+  {
+   "label": "Amortisation of premium/discount on investments",
+   "values": [
+    930.92,
+    651.6
+   ]
+  },
+  {
+   "label": "Provision for Non Performing Assets (including bad debts)/restructured assets",
+   "values": [
+    13350.18,
+    11643.69
+   ]
+  },
+  {
+   "label": "Provision on standard assets and other contingencies",
+   "values": [
+    3856.56,
+    349.86
+   ]
+  },
+  {
+   "label": "Profit/(Loss) on sale of land, buildings and other assets (net)",
+   "values": [
+    -3.79,
+    10.29
+   ]
+  },
+  {
+   "label": "Employee stock options/units expense",
+   "values": [
+    483.38,
+    430.54
+   ]
+  },
+  {
+   "label": "(i)",
+   "values": [
+    53515.87,
+    50738.9
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in investments",
+   "values": [
+    -8199.98,
+    -13441.73
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in advances",
+   "values": [
+    -214445.2,
+    -93762.98
+   ]
+  },
+  {
+   "label": "Increase /(Decrease) in deposits",
+   "values": [
+    162870.54,
+    103818.49
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in other assets",
+   "values": [
+    -29455.57,
+    -5449.9
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in other liabilities & provisions",
+   "values": [
+    34013.91,
+    10628.91
+   ]
+  },
+  {
+   "label": "(ii)",
+   "values": [
+    -55216.3,
+    1792.79
+   ]
+  },
+  {
+   "label": "Direct taxes paid (iii)",
+   "values": [
+    -6936.28,
+    -8148.01
+   ]
+  },
+  {
+   "label": "Net cash flow from/(used in) operating activities (i)+(ii)+(iii) (A)",
+   "values": [
+    -8636.71,
+    44383.68
+   ]
+  },
+  {
+   "label": "Cash flow from/(used in) investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of fixed assets",
+   "values": [
+    -2210.0,
+    -2445.54
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in Held to Maturity investments",
+   "values": [
+    -43757.32,
+    -47170.1
+   ]
+  },
+  {
+   "label": "Increase in investment in Associate",
+   "values": [
+    null,
+    -1612.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of fixed assets",
+   "values": [
+    50.02,
+    12.51
+   ]
+  },
+  {
+   "label": "Net cash from/(used in) investing activities (B)",
+   "values": [
+    -45917.3,
+    -51215.13
+   ]
+  },
+  {
+   "label": "Cash flow from/(used in) financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issue of subordinated debt, Additional Tier I instruments",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Repayment of subordinated debt, Additional Tier I instruments",
+   "values": [
+    -852.75,
+    -826.45
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in borrowings (other than subordinated debt, Additional Tier I instruments (net))",
+   "values": [
+    60676.62,
+    -6686.35
+   ]
+  },
+  {
+   "label": "Proceeds from issue of share capital",
+   "values": [
+    2.16,
+    2.16
+   ]
+  },
+  {
+   "label": "Proceeds from share premium (net of share issue expenses)",
+   "values": [
+    678.72,
+    683.68
+   ]
+  },
+  {
+   "label": "Payment of dividend",
+   "values": [
+    -310.14,
+    -309.09
+   ]
+  },
+  {
+   "label": "Increase in minority interest",
+   "values": [
+    163.06,
+    135.69
+   ]
+  },
+  {
+   "label": "Net cash generated from/(used in) financing activities (C)",
+   "values": [
+    60357.67,
+    -7000.36
+   ]
+  },
+  {
+   "label": "Effect of exchange fluctuation translation reserve (D)",
+   "values": [
+    849.21,
+    37.33
+   ]
+  },
+  {
+   "label": "Net increase in cash and cash equivalents (A)+(B)+(C)+(D)",
+   "values": [
+    6652.87,
+    -13794.48
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    102698.7,
+    116493.18
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    109351.57,
+    102698.7
+   ]
+  },
+  {
+   "label": "Notes to the Cash Flow Statement",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents includes the following",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Balances with Reserve Bank of India (Refer Schedule 6)",
+   "values": [
+    78627.37,
+    73638.44
+   ]
+  },
+  {
+   "label": "Balances with Banks and Money at Call and Short Notice (Refer Schedule 7)",
+   "values": [
+    30724.2,
+    29060.26
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    109351.57,
+    102698.7
+   ]
+  }
+ ],
+ "pdf": "AXISBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/854bc96b-9951-492e-ad95-d44fcc856195.pdf",
+ "parsed_at": "2026-11-04 11:24 UTC"
+}

@@ -1,0 +1,585 @@
+{
+ "ticker": "TATAPOWER",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 245,
+   "name": "246R",
+   "clip": [
+    595.4,
+    0.0,
+    1190.9,
+    841.7
+   ]
+  },
+  {
+   "page": 246,
+   "name": "247L",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    841.7
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    62428.59,
+    65478.24
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    1743.07,
+    1513.93
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    64171.66,
+    66992.17
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of Power Purchased",
+   "values": [
+    19647.25,
+    20523.61
+   ]
+  },
+  {
+   "label": "Cost of Fuel",
+   "values": [
+    7498.39,
+    13918.47
+   ]
+  },
+  {
+   "label": "Transmission Charges",
+   "values": [
+    1467.98,
+    1277.81
+   ]
+  },
+  {
+   "label": "Raw Material Consumed and Construction cost (Including Project Land and Sub- contracting cost)",
+   "values": [
+    8618.4,
+    4921.46
+   ]
+  },
+  {
+   "label": "Purchase of Finished Goods and Spares",
+   "values": [
+    42.35,
+    31.84
+   ]
+  },
+  {
+   "label": "Decrease/(Increase) in Stock-in-Trade and Work-in-Progress",
+   "values": [
+    -84.11,
+    -440.76
+   ]
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    4693.73,
+    4372.92
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    5256.79,
+    4702.44
+   ]
+  },
+  {
+   "label": "Depreciation and Amortisation Expenses",
+   "values": [
+    4811.09,
+    4116.86
+   ]
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    7449.54,
+    6943.02
+   ]
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    59401.41,
+    60367.67
+   ]
+  },
+  {
+   "label": "Profit/(Loss) Before Movement in Regulatory Deferral Balances, Exceptional Items, Tax and Share of Net Profit of Associates and Joint Ventures",
+   "values": [
+    4770.25,
+    6624.5
+   ]
+  },
+  {
+   "label": "Movement in Regulatory Deferral Balances (Net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Add/(Less): Net Movement in Regulatory Deferral Balances",
+   "values": [
+    153.83,
+    -1341.06
+   ]
+  },
+  {
+   "label": "Add/(Less): Net Movement in Regulatory Deferral Balances in respect of earlier years 20(2), & (4)",
+   "values": [
+    1047.09,
+    493.49
+   ]
+  },
+  {
+   "label": "Add/(Less): Deferred Tax Recoverable/(Payable)",
+   "values": [
+    51.12,
+    -128.59
+   ]
+  },
+  {
+   "label": "Total Movement in Regulatory Deferral Balances (Net)",
+   "values": [
+    1252.04,
+    -976.16
+   ]
+  },
+  {
+   "label": "Profit/(Loss) Before Exceptional Items, Tax and Share of Net Profit of Associates and Joint Ventures",
+   "values": [
+    6022.29,
+    5648.34
+   ]
+  },
+  {
+   "label": "Share of Net Profit of Associates and Joint Ventures accounted for using the Equity",
+   "values": [
+    707.87,
+    793.33
+   ]
+  },
+  {
+   "label": "Method",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit/(Loss) Before Exceptional Items and Tax",
+   "values": [
+    6730.16,
+    6441.67
+   ]
+  },
+  {
+   "label": "Add/(Less): Exceptional Items",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Gain on Dilution of Interest in an Associate 8 b(ii)",
+   "values": [
+    null,
+    161.95
+   ]
+  },
+  {
+   "label": "Provision towards stamp duty on merger 29(3)",
+   "values": [
+    null,
+    -140.0
+   ]
+  },
+  {
+   "label": "Impairment of Goodwill a",
+   "values": [
+    null,
+    -106.0
+   ]
+  },
+  {
+   "label": "Impairment of Investment 19(iii)(b)",
+   "values": [
+    -94.17,
+    null
+   ]
+  },
+  {
+   "label": "Impairment of Property Plant & Equipment 4(1)(c)",
+   "values": [
+    null,
+    -38.0
+   ]
+  },
+  {
+   "label": "Total Exceptional Items",
+   "values": [
+    -94.17,
+    -122.05
+   ]
+  },
+  {
+   "label": "Profit/(Loss) Before Tax for the year",
+   "values": [
+    6635.99,
+    6319.62
+   ]
+  },
+  {
+   "label": "Tax Expense/(Credit)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    963.39,
+    667.37
+   ]
+  },
+  {
+   "label": "Current Tax in respect of earlier years",
+   "values": [
+    -18.5,
+    5.14
+   ]
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    562.69,
+    567.05
+   ]
+  },
+  {
+   "label": "Deferred Tax relating to earlier years",
+   "values": [
+    10.85,
+    5.08
+   ]
+  },
+  {
+   "label": "Tax impact of merger &",
+   "values": [
+    null,
+    299.61
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1518.43,
+    1544.25
+   ]
+  },
+  {
+   "label": "Profit/(Loss) for the year",
+   "values": [
+    5117.56,
+    4775.37
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income/(Expenses)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "A Add/(Less): (i) Items that will not be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement of the Defined Benefit Plans",
+   "values": [
+    -180.92,
+    -425.08
+   ]
+  },
+  {
+   "label": "Movement in Regulatory Deferral Balance",
+   "values": [
+    166.62,
+    365.01
+   ]
+  },
+  {
+   "label": "Equity Instruments classified at FVTOCI",
+   "values": [
+    -471.66,
+    248.14
+   ]
+  },
+  {
+   "label": "Tax relating to items that will not be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    -0.52,
+    1.77
+   ]
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    75.82,
+    -149.73
+   ]
+  },
+  {
+   "label": "Share of Other Comprehensive Income/(Loss) of Associates and Joint Ventures accounted for using the Equity Method (net of tax)",
+   "values": [
+    -53.67,
+    -1.56
+   ]
+  },
+  {
+   "label": "B Add/(Less): (i) Items that will be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange Differences in translating the financial statements of foreign operations",
+   "values": [
+    641.49,
+    134.53
+   ]
+  },
+  {
+   "label": "Effective portion of cash flow hedge",
+   "values": [
+    443.88,
+    -100.21
+   ]
+  },
+  {
+   "label": "Tax relating to items that will be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    -102.69,
+    22.99
+   ]
+  },
+  {
+   "label": "Share of Other Comprehensive Income/(Loss) of Associates and Joint Ventures accounted for using the Equity Method (net of tax)",
+   "values": [
+    81.71,
+    38.98
+   ]
+  },
+  {
+   "label": "Total Other Comprehensive Income for the Year",
+   "values": [
+    600.06,
+    134.84
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the Year",
+   "values": [
+    5717.62,
+    4910.21
+   ]
+  },
+  {
+   "label": "Profit/(Loss) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    3747.19,
+    3971.0
+   ]
+  },
+  {
+   "label": "Non-controlling Interest",
+   "values": [
+    1370.37,
+    804.37
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    5117.56,
+    4775.37
+   ]
+  },
+  {
+   "label": "Others Comprehensive Income/(Expenses) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    562.42,
+    146.43
+   ]
+  },
+  {
+   "label": "Non-controlling Interest",
+   "values": [
+    37.64,
+    -11.59
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    600.06,
+    134.84
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income/(Expenses) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    4309.61,
+    4117.43
+   ]
+  },
+  {
+   "label": "Non-controlling Interest",
+   "values": [
+    1408.01,
+    792.78
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    5717.62,
+    4910.21
+   ]
+  },
+  {
+   "label": "Earnings Per Equity Share (of ` 1/- each) (`)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Before Net Movement in Regulatory Deferral Balances",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    10.72,
+    14.64
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    10.71,
+    14.63
+   ]
+  },
+  {
+   "label": "After Net Movement in Regulatory Deferral Balances",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    11.72,
+    12.42
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    11.71,
+    12.41
+   ]
+  }
+ ],
+ "pdf": "TATAPOWER/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a5491ca0-092d-4f99-a329-c62579cc6ef2.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

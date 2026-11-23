@@ -1,0 +1,560 @@
+{
+ "ticker": "NTPC",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 186,
+   "name": "187L",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    792.0
+   ]
+  },
+  {
+   "page": 186,
+   "name": "187R",
+   "clip": [
+    612.0,
+    0.0,
+    1224.0,
+    792.0
+   ]
+  },
+  {
+   "page": 187,
+   "name": "188L",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    792.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax and regulatory deferral account balances",
+   "values": [
+    27133.56,
+    28496.41
+   ]
+  },
+  {
+   "label": "Add: Net movements in regulatory deferral account balances (net of tax)",
+   "values": [
+    -2464.22,
+    3701.92
+   ]
+  },
+  {
+   "label": "Add: Tax on net movements in regulatory deferral account balances",
+   "values": [
+    -540.97,
+    792.67
+   ]
+  },
+  {
+   "label": "Profit before tax including movement in regulatory deferral account balances",
+   "values": [
+    24128.37,
+    32991.0
+   ]
+  },
+  {
+   "label": "Adjustment for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation, amortisation and impairment expense",
+   "values": [
+    19629.33,
+    17401.19
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1106.84,
+    581.79
+   ]
+  },
+  {
+   "label": "Share of net profits of joint ventures accounted for using equity method",
+   "values": [
+    -2864.1,
+    -2213.71
+   ]
+  },
+  {
+   "label": "On account of government grants",
+   "values": [
+    -147.83,
+    -122.69
+   ]
+  },
+  {
+   "label": "Deferred foreign currency fluctuation asset",
+   "values": [
+    610.9,
+    576.02
+   ]
+  },
+  {
+   "label": "Deferred income from foreign currency fluctuation",
+   "values": [
+    259.66,
+    173.77
+   ]
+  },
+  {
+   "label": "Regulatory deferral account debit balances",
+   "values": [
+    3005.19,
+    -4494.59
+   ]
+  },
+  {
+   "label": "Fly ash utilisation reserve fund",
+   "values": [
+    -764.15,
+    304.61
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    13652.75,
+    13047.74
+   ]
+  },
+  {
+   "label": "Unwinding of discount on vendor liabilities",
+   "values": [
+    148.14,
+    120.33
+   ]
+  },
+  {
+   "label": "Loss on fair valuation of non-current trade receivables at amortised cost",
+   "values": [
+    89.9,
+    null
+   ]
+  },
+  {
+   "label": "Interest income/Late payment Surcharge/Gain on sale of investments",
+   "values": [
+    -1071.62,
+    -958.54
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -18.14,
+    -9.8
+   ]
+  },
+  {
+   "label": "Provisions written back",
+   "values": [
+    -208.0,
+    -619.07
+   ]
+  },
+  {
+   "label": "Gain on option contract / hedging",
+   "values": [
+    -11.05,
+    -1.35
+   ]
+  },
+  {
+   "label": "Other non cash miscellaneous income",
+   "values": [
+    -33.18,
+    -187.97
+   ]
+  },
+  {
+   "label": "Profit on de-recognition of property, plant and equipment",
+   "values": [
+    -5.19,
+    -36.48
+   ]
+  },
+  {
+   "label": "Loss on de-recognition of property, plant and equipment",
+   "values": [
+    256.18,
+    219.53
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    33635.63,
+    23780.78
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    57764.0,
+    56771.78
+   ]
+  },
+  {
+   "label": "Adjustment for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    -2369.3,
+    -1976.89
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    1482.1,
+    676.88
+   ]
+  },
+  {
+   "label": "Trade payables, provisions, other financial liabilities and other liabilities",
+   "values": [
+    482.31,
+    2440.05
+   ]
+  },
+  {
+   "label": "Loans, other financial assets and other assets",
+   "values": [
+    -2873.08,
+    -3109.76
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -3277.97,
+    -1969.72
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    54486.03,
+    54802.06
+   ]
+  },
+  {
+   "label": "Income taxes (paid) / refunded",
+   "values": [
+    -3584.22,
+    -4314.22
+   ]
+  },
+  {
+   "label": "Net cash from/(used in) operating activities - A",
+   "values": [
+    50901.81,
+    50487.84
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment & intangible assets",
+   "values": [
+    -44049.78,
+    -41335.25
+   ]
+  },
+  {
+   "label": "Proceeds of property, plant and equipment & intangible assets",
+   "values": [
+    42.91,
+    278.32
+   ]
+  },
+  {
+   "label": "Redemption of Non convertible debentures",
+   "values": [
+    50.0,
+    50.0
+   ]
+  },
+  {
+   "label": "Investment in joint venture companies (net)",
+   "values": [
+    295.38,
+    -1789.89
+   ]
+  },
+  {
+   "label": "Interest income/Late payment Surcharge/Gain on sale of investments",
+   "values": [
+    932.51,
+    767.7
+   ]
+  },
+  {
+   "label": "Government Grant received",
+   "values": [
+    295.94,
+    599.1
+   ]
+  },
+  {
+   "label": "Dividend received from other investments",
+   "values": [
+    18.14,
+    9.8
+   ]
+  },
+  {
+   "label": "Income tax paid on income from investing activities",
+   "values": [
+    -499.82,
+    -465.95
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    5336.34,
+    -3965.45
+   ]
+  },
+  {
+   "label": "Net cash from/(used in) investing activities - B",
+   "values": [
+    -37578.38,
+    -45851.62
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from non-current borrowings",
+   "values": [
+    42132.61,
+    35467.07
+   ]
+  },
+  {
+   "label": "Repayment of non-current borrowings",
+   "values": [
+    -35582.51,
+    -29113.42
+   ]
+  },
+  {
+   "label": "Proceeds /repayments of current borrowings (Net)",
+   "values": [
+    8617.2,
+    6764.76
+   ]
+  },
+  {
+   "label": "Proceeds from Securities premium (Net of expenses)",
+   "values": [
+    null,
+    9026.0
+   ]
+  },
+  {
+   "label": "Payment of lease liabilities",
+   "values": [
+    -209.72,
+    -138.68
+   ]
+  },
+  {
+   "label": "Gain on option contract / hedging",
+   "values": [
+    11.05,
+    1.35
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -17537.73,
+    -17873.54
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -8759.26,
+    -8206.54
+   ]
+  },
+  {
+   "label": "Net cash from/(used in) financing activities - C",
+   "values": [
+    -11328.36,
+    -4073.0
+   ]
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents",
+   "values": [
+    1995.07,
+    563.22
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    1426.56,
+    863.34
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    3421.63,
+    1426.56
+   ]
+  },
+  {
+   "label": "Notes",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "three months.",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Reconciliation of cash and cash equivalents",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents as per Note -16",
+   "values": [
+    3421.63,
+    1426.56
+   ]
+  },
+  {
+   "label": "commitments.",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "NTPC LIMITED |",
+   "values": [
+    null,
+    369.0
+   ]
+  },
+  {
+   "label": "Cash flows during the year",
+   "values": [
+    -10987.63,
+    -209.72
+   ]
+  },
+  {
+   "label": "Non-cash changes due to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Acquisitions under Right of use asset",
+   "values": [
+    null,
+    1435.07
+   ]
+  },
+  {
+   "label": "Equity shares issued",
+   "values": [
+    -216.23,
+    null
+   ]
+  },
+  {
+   "label": "Interest on borrowings",
+   "values": [
+    17933.56,
+    null
+   ]
+  },
+  {
+   "label": "Variation in exchange rates",
+   "values": [
+    4787.16,
+    null
+   ]
+  },
+  {
+   "label": "Transaction costs on borrowings",
+   "values": [
+    -55.15,
+    null
+   ]
+  },
+  {
+   "label": "Closing balance as at 31 March 2026",
+   "values": [
+    236696.64,
+    3746.38
+   ]
+  }
+ ],
+ "pdf": "NTPC/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/dbc69766-f1e1-4ecc-9fa9-7599477167db.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

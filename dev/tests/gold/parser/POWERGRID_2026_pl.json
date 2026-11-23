@@ -1,0 +1,256 @@
+{
+ "ticker": "POWERGRID",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 283,
+   "name": "284L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 283,
+   "name": "284R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue From Operations",
+   "values": [
+    46732.87,
+    45792.32
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    951.56,
+    1667.06
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    47684.43,
+    47459.38
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    2668.9,
+    2604.4
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    8447.58,
+    8700.13
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    13029.68,
+    12904.15
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    6084.9,
+    4122.55
+   ]
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    30231.06,
+    28331.23
+   ]
+  },
+  {
+   "label": "Profit before Share of net profit/(loss) of investments in Joint Ventures accounted for using Equity Method, Tax and Regulatory Deferral Account Balances",
+   "values": [
+    17453.37,
+    19128.15
+   ]
+  },
+  {
+   "label": "Share of net profit/(loss) of investments in Joint",
+   "values": [
+    -132.34,
+    -110.26
+   ]
+  },
+  {
+   "label": "Ventures accounted for using Equity Method",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before Tax and Regulatory Deferral Account",
+   "values": [
+    17321.03,
+    19017.89
+   ]
+  },
+  {
+   "label": "Balances",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax - Current Year",
+   "values": [
+    3164.61,
+    3362.25
+   ]
+  },
+  {
+   "label": "Earlier Years",
+   "values": [
+    34.69,
+    0.02
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -4580.61,
+    410.49
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -1381.31,
+    3772.76
+   ]
+  },
+  {
+   "label": "Profit for the period before Regulatory Deferral",
+   "values": [
+    18702.34,
+    15245.13
+   ]
+  },
+  {
+   "label": "Account Balances",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net movement in Regulatory Deferral Account",
+   "values": [
+    -2774.39,
+    276.31
+   ]
+  },
+  {
+   "label": "Balances - Income/ (Expenses) (net of tax)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit for the period attributable to owners of the parent",
+   "values": [
+    15927.95,
+    15521.44
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss (net of tax)",
+   "values": [
+    173.54,
+    -239.34
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss (net of tax)",
+   "values": [
+    93.52,
+    null
+   ]
+  },
+  {
+   "label": "Share of Other comprehensive income of Joint",
+   "values": [
+    -1.23,
+    3.06
+   ]
+  },
+  {
+   "label": "Ventures accounted for using Equity Method",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the period attributable to owners of the parent",
+   "values": [
+    16193.78,
+    15285.16
+   ]
+  }
+ ],
+ "pdf": "POWERGRID/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5bfc82cf-cf35-4f6d-9d47-c00b6583a3bc.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

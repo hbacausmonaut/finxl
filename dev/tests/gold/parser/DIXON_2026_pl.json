@@ -1,0 +1,330 @@
+{
+ "ticker": "DIXON",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 418,
+   "name": "419",
+   "clip": [
+    0.0,
+    0.0,
+    612.3,
+    793.7
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": null,
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    4887280.0,
+    3886010.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    71304.0,
+    2023.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    4958584.0,
+    3888033.0
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    4546038.0,
+    3609981.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "values": [
+    -18320.0,
+    -26699.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    71115.0,
+    56742.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    13747.0,
+    15435.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    39298.0,
+    28102.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    101795.0,
+    95228.0
+   ]
+  },
+  {
+   "label": "Total expenses (4)",
+   "values": [
+    4753673.0,
+    3778789.0
+   ]
+  },
+  {
+   "label": "Profit before share of profit of Joint Ventures and tax (3-4)",
+   "values": [
+    204911.0,
+    109244.0
+   ]
+  },
+  {
+   "label": "Share of profit of Joint Ventures",
+   "values": [
+    2145.0,
+    1738.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional item and tax",
+   "values": [
+    207056.0,
+    110982.0
+   ]
+  },
+  {
+   "label": "Exceptional items",
+   "values": [
+    null,
+    45998.0
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    207056.0,
+    156980.0
+   ]
+  },
+  {
+   "label": "Tax expenses (net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    41262.0,
+    25305.0
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    1433.0,
+    8478.0
+   ]
+  },
+  {
+   "label": "Income tax related to earlier years",
+   "values": [
+    -64.0,
+    -61.0
+   ]
+  },
+  {
+   "label": "Total tax expenses (10)",
+   "values": [
+    42631.0,
+    33722.0
+   ]
+  },
+  {
+   "label": "Profit for the year (9-10)",
+   "values": [
+    164425.0,
+    123258.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income ('OCI')",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    42.0,
+    42.0
+   ]
+  },
+  {
+   "label": "re-measurement of post employment benefit obligations",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit and loss",
+   "values": [
+    -12.0,
+    -10.0
+   ]
+  },
+  {
+   "label": "Share of OCI in Joint Ventures (net)",
+   "values": [
+    37.0,
+    null
+   ]
+  },
+  {
+   "label": "Other comprehensive income for the year",
+   "values": [
+    67.0,
+    32.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    164492.0,
+    123290.0
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to (a) Owners of the Company",
+   "values": [
+    143864.0,
+    109554.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    20561.0,
+    13704.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    164425.0,
+    123258.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income attributable to (a) Owners of the Company",
+   "values": [
+    53.0,
+    -22.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    14.0,
+    54.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    67.0,
+    32.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income attributable to (a) Owners of the Company",
+   "values": [
+    143917.0,
+    109532.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    20575.0,
+    13758.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    164492.0,
+    123290.0
+   ]
+  },
+  {
+   "label": "Earnings per equity share ('EPS')",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Nominal value of share ` 2)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (`)",
+   "values": [
+    271.59,
+    205.7
+   ]
+  },
+  {
+   "label": "Diluted (`)",
+   "values": [
+    269.35,
+    202.58
+   ]
+  }
+ ],
+ "pdf": "DIXON/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf",
+ "parsed_at": "2026-11-04 11:27 UTC"
+}

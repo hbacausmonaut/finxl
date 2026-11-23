@@ -1,0 +1,767 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "ULTRACEMCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 260,
+   "name": "261L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    773.9
+   ]
+  },
+  {
+   "page": 260,
+   "name": "261R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    773.9
+   ]
+  },
+  {
+   "page": 261,
+   "name": "262L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    773.9
+   ]
+  }
+ ],
+ "pdf": "ULTRACEMCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1551898a-ebd8-40be-960b-1b16f0a1af60.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash Flows from Operating Activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit Before tax",
+   "values": [
+    10927.19,
+    7528.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and Amortisation Expense (Refer Note 32)",
+   "values": [
+    4644.46,
+    4014.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain on Fair Valuation of Investments",
+   "values": [
+    -63.54,
+    -111.91
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain on Fair Valuation of SGST / VAT Deferment Loan",
+   "values": [
+    -44.36,
+    -48.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unrealised Exchange (Gain)/ Loss",
+   "values": [
+    -50.41,
+    58.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share in (Profit) / Loss on equity accounted investment",
+   "values": [
+    15.83,
+    10.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment in value of Investments/ Assets",
+   "values": [
+    50.07,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Compensation Expenses under Employees Stock Options Scheme",
+   "values": [
+    51.96,
+    51.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Allowances for credit losses on Advances / debts (net)",
+   "values": [
+    4.8,
+    46.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bad Debts Written-off",
+   "values": [
+    9.47,
+    1.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Excess Provision / unclaimed liabilities written back (net)",
+   "values": [
+    -181.65,
+    -61.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision for Stamp Duty on Business Combination",
+   "values": [
+    null,
+    88.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest and Dividend Income",
+   "values": [
+    -261.44,
+    -293.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    1871.71,
+    1650.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on Sale / Retirement of Property, Plant and Equipment",
+   "values": [
+    -40.85,
+    -56.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on Sale of Current and Non-Current Investments (net)",
+   "values": [
+    -83.52,
+    -233.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    16849.72,
+    12645.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Movements in working capital:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/ (Decrease) in Trade payables and other Liabilities",
+   "values": [
+    590.28,
+    -475.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/ (Decrease) in Provisions",
+   "values": [
+    112.37,
+    -33.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in Trade receivables",
+   "values": [
+    -27.6,
+    -607.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in Inventories",
+   "values": [
+    -67.92,
+    -316.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / Decrease in Financial and Other Assets",
+   "values": [
+    -840.3,
+    762.72
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from Operations",
+   "values": [
+    16616.55,
+    11974.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Taxes paid (net of refund)",
+   "values": [
+    -1300.69,
+    -1300.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash generated from Operating Activities (A)",
+   "values": [
+    15315.86,
+    10673.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flows from Investing Activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Property, Plant and Equipment",
+   "values": [
+    -9677.77,
+    -9129.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Sale of Property, Plant and Equipment",
+   "values": [
+    167.16,
+    178.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for Cost of transfer of Assets",
+   "values": [
+    -94.98,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Purchase) / Redemption of Liquid Investment (net)",
+   "values": [
+    -207.12,
+    1142.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Investments",
+   "values": [
+    -4940.29,
+    -15005.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Sale of Investments",
+   "values": [
+    4029.12,
+    17972.72
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Redemption / (Investment) of Non-Current Fixed Deposits with Bank and Others",
+   "values": [
+    262,
+    -612.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in Joint Venture and Associates",
+   "values": [
+    -74.92,
+    -149.37
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acquisition of Equity Shares in Subsidiary (Refer Note 40)",
+   "values": [
+    -52.73,
+    -10112.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Investment) / Redemption in Other Bank deposits and Others",
+   "values": [
+    176.24,
+    -288.03
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in Other Non-Current Equity Investments (Net)",
+   "values": [
+    -62.63,
+    -879.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of Equity Shares in a Subsidiary",
+   "values": [
+    788.51,
+    36.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend Received",
+   "values": [
+    null,
+    0.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Received",
+   "values": [
+    207.33,
+    342.03
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash used in Investing Activities (B)",
+   "values": [
+    -9480.08,
+    -16504.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flows from Financing Activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Issue of Share Capital on exercise of ESOS",
+   "values": [
+    null,
+    2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Treasury Shares",
+   "values": [
+    -119.35,
+    -100.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Issue of Treasury Shares",
+   "values": [
+    50.01,
+    31.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of Non-Current Borrowings",
+   "values": [
+    -1425.74,
+    -550.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Non-Current Borrowings",
+   "values": [
+    203.22,
+    7341.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Current Borrowings (net)",
+   "values": [
+    -243.37,
+    2068.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of Lease Liabilities",
+   "values": [
+    -216.53,
+    -165.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Paid on Lease Liabilities",
+   "values": [
+    -59.76,
+    -60.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Paid",
+   "values": [
+    -1868.69,
+    -1478.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend Paid",
+   "values": [
+    -2273.36,
+    -2011.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash (used in) / generated from Financing Activities (C)",
+   "values": [
+    -5953.57,
+    5075.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Decrease in Cash and Cash Equivalents (A + B + C)",
+   "values": [
+    -117.79,
+    -755.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents at the Beginning of the Year (Refer Note 13)",
+   "values": [
+    467.21,
+    553.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement & Construction Materials P.S.C. (RAKWCT) (Refer Note 43)",
+   "values": [
+    null,
+    1.89
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash and Cash Equivalents transferred from Kesoram Industries Limited (KIL) (Refer Note 42)",
+   "values": [
+    null,
+    76.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents transferred from The India Cements Limited (INDIACEM) (Refer Note 41)",
+   "values": [
+    null,
+    586.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents transferred from Birla White Wall Care Private Limited (Refer Note 40)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effect of Exchange rate fluctuation on Cash and Cash Equivalents",
+   "values": [
+    5.06,
+    3.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents at the End of the Year (Refer Note 13) (D+E+F+G+H+I+J)",
+   "values": [
+    354.48,
+    467.21
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 70,
+  "rows_reader": 64,
+  "rows_aligned": 64,
+  "rows_agreed": 62,
+  "missing_in_parser": 0,
+  "extra_in_parser": 6,
+  "label_diffs": 2,
+  "value_diffs": 0,
+  "values_reader": 108,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 58,
+   "reader_index": 58,
+   "label_parser": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement &",
+   "label_reader": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement & Construction Materials P.S.C. (RAKWCT) (Refer Note 43)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 1.89
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": 1.89
+   },
+   "page": 260,
+   "search": [
+    "1.89",
+    "1.89"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 59,
+   "reader_index": null,
+   "label_parser": "Construction Materials P.S.C. (RAKWCT) (Refer Note 43)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 260,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d003",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 62,
+   "reader_index": null,
+   "label_parser": "(Refer Note 41)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 260,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 64,
+   "reader_index": null,
+   "label_parser": "(Refer Note 40)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 260,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 66,
+   "reader_index": 63,
+   "label_parser": "Cash and Cash Equivalents at the End of the Year (Refer Note 13)",
+   "label_reader": "Cash and Cash Equivalents at the End of the Year (Refer Note 13) (D+E+F+G+H+I+J)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 354.48,
+    "2025": 467.21
+   },
+   "values_reader": {
+    "2026": 354.48,
+    "2025": 467.21
+   },
+   "page": 260,
+   "search": [
+    "354.48",
+    "467.21"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 67,
+   "reader_index": null,
+   "label_parser": "Non-Current Borrowing (including current maturities of Non-Current Borrowing)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 166.12,
+    "2025": 16374.2
+   },
+   "values_reader": {},
+   "page": 260,
+   "search": [
+    "166.12",
+    "16,374.20"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d007",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 68,
+   "reader_index": null,
+   "label_parser": "Current Borrowing",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 15.58,
+    "2025": 6656.79
+   },
+   "values_reader": {},
+   "page": 260,
+   "search": [
+    "15.58",
+    "6,656.79"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d008",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 69,
+   "reader_index": null,
+   "label_parser": "Subtotal",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 181.7,
+    "2025": 23030.99
+   },
+   "values_reader": {},
+   "page": 260,
+   "search": [
+    "181.70",
+    "23,030.99"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ]
+}

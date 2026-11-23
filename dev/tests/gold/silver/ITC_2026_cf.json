@@ -1,0 +1,676 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "ITC",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 257,
+   "name": "258",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 258,
+   "name": "259",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "ITC/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash Flow from Operating Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT BEFORE TAX FROM CONTINUING OPERATIONS",
+   "values": [
+    28033.39,
+    26926.94
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT BEFORE TAX FROM DISCONTINUED OPERATIONS",
+   "values": [
+    null,
+    15654.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "ADJUSTMENTS FOR:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortization expense",
+   "values": [
+    1710.53,
+    1950.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share based payments to employees",
+   "values": [
+    128,
+    133.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    85.17,
+    50.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    -1462.23,
+    -1510.46
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend Income",
+   "values": [
+    -15.16,
+    -12.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on sale of property, plant and equipment, lease termination",
+   "values": [
+    -11.56,
+    -135.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventory write-offs/write-downs (net of reversals)",
+   "values": [
+    362.93,
+    235.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Doubtful and bad debts",
+   "values": [
+    30.12,
+    11.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Doubtful and bad advances, loans and deposits",
+   "values": [
+    0.62,
+    1.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment of investment in joint venture and associate",
+   "values": [
+    0.07,
+    7.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss recognised on disposal of subsidiary",
+   "values": [
+    0.99,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain recognised on divestment of shares held in associate",
+   "values": [
+    -0.01,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of (profit)/loss of associates and joint ventures",
+   "values": [
+    -377.08,
+    -121.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain recognised on fair valuation of net assets distributed pursuant to Scheme of Demerger of Hotels business",
+   "values": [
+    null,
+    -15583.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain arising on financial instruments measured at amortised cost/fair value through profit or loss/fair value through other comprehensive income",
+   "values": [
+    -860.01,
+    -896.84
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Foreign currency translations and transactions - Net",
+   "values": [
+    -25.57,
+    6.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "OPERATING PROFIT BEFORE WORKING CAPITAL CHANGES",
+   "values": [
+    27600.2,
+    26719.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "ADJUSTMENTS FOR:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables, advances and other assets",
+   "values": [
+    468.08,
+    -1022.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories and biological assets other than bearer plants",
+   "values": [
+    -3306.25,
+    -2975.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables, other liabilities and provisions",
+   "values": [
+    75.89,
+    1256.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH GENERATED FROM OPERATIONS",
+   "values": [
+    24837.92,
+    23977.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax paid (net of refunds)",
+   "values": [
+    -6373.61,
+    -6350.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET CASH FROM OPERATING ACTIVITIES",
+   "values": [
+    18464.31,
+    17627.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flow from Investing Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of property, plant and equipment, Intangibles, ROU asset etc.",
+   "values": [
+    -2182.89,
+    -2278.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of property, plant and equipment",
+   "values": [
+    50.45,
+    175.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of current investments",
+   "values": [
+    -65566.51,
+    -65999.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale/redemption of current investments",
+   "values": [
+    62370.47,
+    66919.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in associates",
+   "values": [
+    -183.09,
+    -29.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Divestment of shares held in associate",
+   "values": [
+    0.01,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -2606.33,
+    -373.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale/redemption of non-current investments",
+   "values": [
+    3366.19,
+    390.91
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment towards business combination, including cash and cash equivalents assumed/acquired [Refer Note 30(ix)]",
+   "values": [
+    -279.47,
+    -248.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received from associates and joint venture",
+   "values": [
+    30.27,
+    25.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received from others",
+   "values": [
+    15.16,
+    12.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    917.01,
+    1072.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in bank deposits (original maturity more than 3 months)",
+   "values": [
+    -1449.33,
+    -6256.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Redemption/maturity of bank deposits (original maturity more than 3 months)",
+   "values": [
+    3762.04,
+    6931.16
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Investment in deposit with financial institution",
+   "values": [
+    -1768.5,
+    -1200
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Maturity of deposit with financial institution",
+   "values": [
+    1200,
+    500
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans given to employees",
+   "values": [
+    -9.53,
+    -17.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans realised from employees",
+   "values": [
+    13.31,
+    13.88
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET CASH USED IN INVESTING ACTIVITIES",
+   "values": [
+    -2320.74,
+    -364.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flow from Financing Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of share capital",
+   "values": [
+    404.85,
+    797.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from current borrowings",
+   "values": [
+    2060.5,
+    89.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of current borrowings",
+   "values": [
+    -96.44,
+    -52.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from non-current borrowings",
+   "values": [
+    60,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of non-current borrowings",
+   "values": [
+    -8.87,
+    -1.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Principal payment of lease liabilities",
+   "values": [
+    -68.24,
+    -65.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -81.7,
+    -50.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acquisition of non-controlling interest",
+   "values": [
+    -154.22,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase in statutory restricted accounts balances",
+   "values": [
+    9.02,
+    8.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -18271.44,
+    -17782.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend distribution tax (paid)/refund received",
+   "values": [
+    -0.58,
+    19.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET CASH USED IN FINANCING ACTIVITIES",
+   "values": [
+    -16147.12,
+    -17037.4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET (DECREASE)/INCREASE IN CASH AND CASH EQUIVALENTS",
+   "values": [
+    -3.55,
+    225.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "OPENING CASH AND CASH EQUIVALENTS",
+   "values": [
+    622.38,
+    596.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "LESS: ON DEMERGER OF HOTELS BUSINESS",
+   "values": [
+    null,
+    199.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CLOSING CASH AND CASH EQUIVALENTS",
+   "values": [
+    618.83,
+    622.38
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 67,
+  "rows_reader": 65,
+  "rows_aligned": 65,
+  "rows_agreed": 63,
+  "missing_in_parser": 0,
+  "extra_in_parser": 2,
+  "label_diffs": 2,
+  "value_diffs": 0,
+  "values_reader": 112,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 18,
+   "reader_index": null,
+   "label_parser": "Net gain arising on financial instruments measured at amortised",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 257,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 19,
+   "reader_index": 18,
+   "label_parser": "cost / fair value through profit or loss / fair value through other comprehensive income",
+   "label_reader": "Net gain arising on financial instruments measured at amortised cost/fair value through profit or loss/fair value through other comprehensive income",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -860.01,
+    "2025": -896.84
+   },
+   "values_reader": {
+    "2026": -860.01,
+    "2025": -896.84
+   },
+   "page": 257,
+   "search": [
+    "860.01",
+    "896.84"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 43,
+   "reader_index": null,
+   "label_parser": "Redemption / maturity of bank deposits",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 257,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 44,
+   "reader_index": 42,
+   "label_parser": "(original maturity more than 3 months)",
+   "label_reader": "Redemption/maturity of bank deposits (original maturity more than 3 months)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3762.04,
+    "2025": 6931.16
+   },
+   "values_reader": {
+    "2026": 3762.04,
+    "2025": 6931.16
+   },
+   "page": 257,
+   "search": [
+    "3,762.04",
+    "6,931.16"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

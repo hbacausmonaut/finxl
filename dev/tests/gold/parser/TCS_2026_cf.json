@@ -1,0 +1,578 @@
+{
+ "ticker": "TCS",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 172,
+   "name": "173",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    756.0
+   ]
+  },
+  {
+   "page": 173,
+   "name": "174",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    756.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": null,
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    49454.0,
+    48797.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    5560.0,
+    5242.0
+   ]
+  },
+  {
+   "label": "Bad debts and advances written off, allowance for expected credit losses and doubtful advances (net)",
+   "values": [
+    184.0,
+    128.0
+   ]
+  },
+  {
+   "label": "Provision towards legal claim (Refer note 20)",
+   "values": [
+    1010.0,
+    null
+   ]
+  },
+  {
+   "label": "Provision towards Re-structuring expenses (Refer note 25)",
+   "values": [
+    120.0,
+    null
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    16033.0,
+    16534.0
+   ]
+  },
+  {
+   "label": "Net gain on lease modification",
+   "values": [
+    -110.0,
+    -15.0
+   ]
+  },
+  {
+   "label": "Net gain on sub-lease",
+   "values": [
+    -8.0,
+    null
+   ]
+  },
+  {
+   "label": "Unrealised foreign exchange gain",
+   "values": [
+    -176.0,
+    -1.0
+   ]
+  },
+  {
+   "label": "Net gain on disposal of property, plant and equipment",
+   "values": [
+    -17.0,
+    -20.0
+   ]
+  },
+  {
+   "label": "Net gain on disposal / fair valuation of investments",
+   "values": [
+    -701.0,
+    -269.0
+   ]
+  },
+  {
+   "label": "Net gain on fair valuation of call option",
+   "values": [
+    -17.0,
+    null
+   ]
+  },
+  {
+   "label": "Transaction cost on incorporation of subsidiary",
+   "values": [
+    18.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -3854.0,
+    -3296.0
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -35.0,
+    -43.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    1227.0,
+    796.0
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    68688.0,
+    67853.0
+   ]
+  },
+  {
+   "label": "Net change in Inventories",
+   "values": [
+    -8.0,
+    7.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Billed",
+   "values": [
+    -4778.0,
+    -5519.0
+   ]
+  },
+  {
+   "label": "Unbilled",
+   "values": [
+    -470.0,
+    291.0
+   ]
+  },
+  {
+   "label": "Loans and other financial assets",
+   "values": [
+    197.0,
+    -738.0
+   ]
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    837.0,
+    -2552.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    -1105.0,
+    3718.0
+   ]
+  },
+  {
+   "label": "Unearned and deferred revenue",
+   "values": [
+    320.0,
+    395.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    2814.0,
+    -119.0
+   ]
+  },
+  {
+   "label": "Other liabilities and provisions",
+   "values": [
+    -17.0,
+    1158.0
+   ]
+  },
+  {
+   "label": "Cash flows generated from operations",
+   "values": [
+    66478.0,
+    64494.0
+   ]
+  },
+  {
+   "label": "Taxes paid (net of refunds)",
+   "values": [
+    -14384.0,
+    -15586.0
+   ]
+  },
+  {
+   "label": "Net cash flows generated from operating activities",
+   "values": [
+    52094.0,
+    48908.0
+   ]
+  },
+  {
+   "label": "CASH FLOWS FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Bank deposits placed",
+   "values": [
+    -8506.0,
+    -10496.0
+   ]
+  },
+  {
+   "label": "Inter-corporate deposits placed",
+   "values": [
+    -1500.0,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of investments (including reverse repo(net))#",
+   "values": [
+    -151864.0,
+    -145962.0
+   ]
+  },
+  {
+   "label": "Payment for purchase of property, plant and equipment",
+   "values": [
+    -3670.0,
+    -2917.0
+   ]
+  },
+  {
+   "label": "Payment including advances for acquiring right-of-use assets",
+   "values": [
+    -109.0,
+    -76.0
+   ]
+  },
+  {
+   "label": "Payment for purchase of intangible assets",
+   "values": [
+    -367.0,
+    -944.0
+   ]
+  },
+  {
+   "label": "Earmarked deposits placed with banks",
+   "values": [
+    -530.0,
+    null
+   ]
+  },
+  {
+   "label": "Acquisition of assets (Refer note 21)",
+   "values": [
+    -554.0,
+    -1063.0
+   ]
+  },
+  {
+   "label": "Acquisition of subsidiaries (net of cash of H130 crore) (Refer note 7)",
+   "values": [
+    -6750.0,
+    null
+   ]
+  },
+  {
+   "label": "Advance towards acquisition of investment",
+   "values": [
+    -250.0,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from bank deposits",
+   "values": [
+    9259.0,
+    8177.0
+   ]
+  },
+  {
+   "label": "Proceeds from inter-corporate deposits",
+   "values": [
+    null,
+    170.0
+   ]
+  },
+  {
+   "label": "Proceeds from disposal / redemption of investments#",
+   "values": [
+    148023.0,
+    147695.0
+   ]
+  },
+  {
+   "label": "Proceeds from sub-lease receivable",
+   "values": [
+    9.0,
+    5.0
+   ]
+  },
+  {
+   "label": "Proceeds from disposal of property, plant and equipment",
+   "values": [
+    65.0,
+    23.0
+   ]
+  },
+  {
+   "label": "Proceeds from Earmarked deposits",
+   "values": [
+    825.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    3008.0,
+    3056.0
+   ]
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    84.0,
+    40.0
+   ]
+  },
+  {
+   "label": "Loan given",
+   "values": [
+    null,
+    -29.0
+   ]
+  },
+  {
+   "label": "Loan recovered",
+   "values": [
+    null,
+    3.0
+   ]
+  },
+  {
+   "label": "Transaction cost on incorporation of subsidiary",
+   "values": [
+    -18.0,
+    null
+   ]
+  },
+  {
+   "label": "Net cash flows used in investing activities",
+   "values": [
+    -12845.0,
+    -2318.0
+   ]
+  },
+  {
+   "label": "CASH FLOWS FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Repayment of lease liabilities1",
+   "values": [
+    -1861.0,
+    -1664.0
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -901.0,
+    -840.0
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -39437.0,
+    -44864.0
+   ]
+  },
+  {
+   "label": "Dividend paid to non-controlling interests",
+   "values": [
+    -134.0,
+    -98.0
+   ]
+  },
+  {
+   "label": "Sale of shares to non-controlling interests",
+   "values": [
+    null,
+    28.0
+   ]
+  },
+  {
+   "label": "Issue of equity shares to non-controlling interests",
+   "values": [
+    3.0,
+    null
+   ]
+  },
+  {
+   "label": "Issue of Class A compulsorily convertible preference shares to non-controlling interests",
+   "values": [
+    71.0,
+    null
+   ]
+  },
+  {
+   "label": "Issue of Class B compulsorily convertible preference shares",
+   "values": [
+    126.0,
+    null
+   ]
+  },
+  {
+   "label": "Net cash flows used in financing activities",
+   "values": [
+    -42133.0,
+    -47438.0
+   ]
+  },
+  {
+   "label": "Net change in cash and cash equivalents",
+   "values": [
+    -2884.0,
+    -848.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    8342.0,
+    9016.0
+   ]
+  },
+  {
+   "label": "Exchange difference on translation of foreign currency cash and cash equivalents",
+   "values": [
+    959.0,
+    174.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    6417.0,
+    8342.0
+   ]
+  },
+  {
+   "label": "Components of cash and cash equivalents",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Balances with banks",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "In current accounts",
+   "values": [
+    3193.0,
+    3421.0
+   ]
+  },
+  {
+   "label": "In deposit accounts",
+   "values": [
+    3217.0,
+    4907.0
+   ]
+  },
+  {
+   "label": "Cheques on hand -* -*",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash on hand -* -*",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remittances in transit",
+   "values": [
+    7.0,
+    14.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    6417.0,
+    8342.0
+   ]
+  }
+ ],
+ "pdf": "TCS/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

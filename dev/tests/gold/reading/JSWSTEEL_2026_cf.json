@@ -1,0 +1,512 @@
+{
+ "ticker": "JSWSTEEL",
+ "fy": 2026,
+ "statement": "cf",
+ "scope": "consolidated",
+ "reader": "claude",
+ "read_at": "2026-11-04 17:00 UTC",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    29250,
+    5077
+   ],
+   "page": 289
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Depreciation and amortization expenses",
+   "values": [
+    9601,
+    9309
+   ],
+   "page": 289
+  },
+  {
+   "label": "Loss on sale of property, plant and equipment (net)",
+   "values": [
+    118,
+    132
+   ],
+   "page": 289
+  },
+  {
+   "label": "Gain on sale of financial investments designated as fair value through profit and loss ('FVTPL')",
+   "values": [
+    -364,
+    -24
+   ],
+   "page": 289
+  },
+  {
+   "label": "Export obligation deferred income amortization",
+   "values": [
+    -153,
+    -34
+   ],
+   "page": 289
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -686,
+    -547
+   ],
+   "page": 289
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -24,
+    -24
+   ],
+   "page": 289
+  },
+  {
+   "label": "Interest expense",
+   "values": [
+    8537,
+    8125
+   ],
+   "page": 289
+  },
+  {
+   "label": "Unrealised exchange (gain)/loss (net)",
+   "values": [
+    2460,
+    584
+   ],
+   "page": 289
+  },
+  {
+   "label": "Gain on financial instruments designated as FVTPL",
+   "values": [
+    -19,
+    -23
+   ],
+   "page": 289
+  },
+  {
+   "label": "Unwinding of interest on financial assets carried at amortised cost",
+   "values": [
+    -4,
+    -3
+   ],
+   "page": 289
+  },
+  {
+   "label": "Share based payment expense",
+   "values": [
+    167,
+    170
+   ],
+   "page": 289
+  },
+  {
+   "label": "Fair value loss on financial instruments designated as FVTPL",
+   "values": [
+    1,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Share of (profit)/loss from joint ventures and associates (net)",
+   "values": [
+    475,
+    311
+   ],
+   "page": 289
+  },
+  {
+   "label": "Allowances for doubtful receivable and advances",
+   "values": [
+    85,
+    11
+   ],
+   "page": 289
+  },
+  {
+   "label": "Exceptional items (net) (refer note 48)",
+   "values": [
+    -17359,
+    489
+   ],
+   "page": 289
+  },
+  {
+   "label": "",
+   "values": [
+    2835,
+    18476
+   ],
+   "page": 289
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    32085,
+    23553
+   ],
+   "page": 289
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "(Increase)/Decrease in inventories",
+   "values": [
+    -3176,
+    2609
+   ],
+   "page": 289
+  },
+  {
+   "label": "(Increase) in trade receivables",
+   "values": [
+    -3686,
+    -866
+   ],
+   "page": 289
+  },
+  {
+   "label": "(Increase) in other assets",
+   "values": [
+    -2338,
+    -1229
+   ],
+   "page": 289
+  },
+  {
+   "label": "Increase/(Decrease) in acceptances",
+   "values": [
+    1464,
+    2921
+   ],
+   "page": 289
+  },
+  {
+   "label": "Increase/(Decrease) in trade payable and other liabilities",
+   "values": [
+    4053,
+    -4017
+   ],
+   "page": 289
+  },
+  {
+   "label": "(Decrease)/Increase in provisions",
+   "values": [
+    -25,
+    -99
+   ],
+   "page": 289
+  },
+  {
+   "label": "",
+   "values": [
+    -3708,
+    -681
+   ],
+   "page": 289
+  },
+  {
+   "label": "Cash flow from operations",
+   "values": [
+    28377,
+    22872
+   ],
+   "page": 289
+  },
+  {
+   "label": "Income taxes paid (net of refund received)",
+   "values": [
+    -3225,
+    -1973
+   ],
+   "page": 289
+  },
+  {
+   "label": "Net cashflow generated from operating activities",
+   "values": [
+    25152,
+    20899
+   ],
+   "page": 289
+  },
+  {
+   "label": "Cash flow from investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Purchases of property, plant and equipment and intangibles assets (including under development and capital advances)",
+   "values": [
+    -14654,
+    -12694
+   ],
+   "page": 289
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment and intangible asset",
+   "values": [
+    112,
+    59
+   ],
+   "page": 289
+  },
+  {
+   "label": "Proceeds from slump sale (refer note 48(a))",
+   "values": [
+    29375,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Cash flow on acquisition/disposal of subsidiaries (Net) (refer note 52)",
+   "values": [
+    -1411,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Investment in joint ventures and associates",
+   "values": [
+    -1104,
+    -1880
+   ],
+   "page": 289
+  },
+  {
+   "label": "Equity investment in other related parties/others",
+   "values": [
+    -137,
+    -78
+   ],
+   "page": 289
+  },
+  {
+   "label": "Proceeds from sale of investment",
+   "values": [
+    105,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Loans repaid by related parties",
+   "values": [
+    null,
+    50
+   ],
+   "page": 289
+  },
+  {
+   "label": "Purchase of current investments",
+   "values": [
+    -800,
+    -12049
+   ],
+   "page": 289
+  },
+  {
+   "label": "Sale of current investments",
+   "values": [
+    6475,
+    6274
+   ],
+   "page": 289
+  },
+  {
+   "label": "Bank deposits not considered as cash and cash equivalents (net)",
+   "values": [
+    33,
+    2637
+   ],
+   "page": 289
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    672,
+    660
+   ],
+   "page": 289
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    24,
+    24
+   ],
+   "page": 289
+  },
+  {
+   "label": "Net cash used in investing activities",
+   "values": [
+    18690,
+    -16997
+   ],
+   "page": 289
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Proceeds from sale of treasury shares",
+   "values": [
+    -394,
+    -44
+   ],
+   "page": 289
+  },
+  {
+   "label": "Proceeds from non-current borrowings",
+   "values": [
+    14399,
+    28243
+   ],
+   "page": 289
+  },
+  {
+   "label": "Repayment of non-current borrowings",
+   "values": [
+    -21695,
+    -16697
+   ],
+   "page": 289
+  },
+  {
+   "label": "Proceeds from/(repayment) of current borrowings (net)",
+   "values": [
+    1650,
+    -2061
+   ],
+   "page": 289
+  },
+  {
+   "label": "Repayment of lease liabilities",
+   "values": [
+    -464,
+    -369
+   ],
+   "page": 289
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -8922,
+    -8835
+   ],
+   "page": 289
+  },
+  {
+   "label": "Dividend paid (including corporate dividend tax)",
+   "values": [
+    -685,
+    -1785
+   ],
+   "page": 289
+  },
+  {
+   "label": "Proceeds from Sale and leaseback of an under construction asset (refer note 56)",
+   "values": [
+    null,
+    1286
+   ],
+   "page": 289
+  },
+  {
+   "label": "Net cash used in financing activities",
+   "values": [
+    -16111,
+    -262
+   ],
+   "page": 289
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents(A+B+C)",
+   "values": [
+    27731,
+    3640
+   ],
+   "page": 289
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of year",
+   "values": [
+    11655,
+    8030
+   ],
+   "page": 289
+  },
+  {
+   "label": "Add: Translation adjustment in cash and cash equivalents",
+   "values": [
+    -42,
+    -15
+   ],
+   "page": 289
+  },
+  {
+   "label": "Add: Cash and cash equivalents pursuant to business combinations",
+   "values": [
+    12,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Less: Cash and cash equivalents transferred pursuant to slump sale of subsidiary business (refer note 48(a))",
+   "values": [
+    -100,
+    null
+   ],
+   "page": 289
+  },
+  {
+   "label": "Cash and cash equivalents at the end of year",
+   "values": [
+    39256,
+    11655
+   ],
+   "page": 289
+  }
+ ],
+ "notes": "Statement spans printed pages 574 (p290L: sections A and B) and 575 (p290R: section C and closing cash), both PDF page index 289. Inner/outer columns: line items in inner column, sub-totals in outer column. Two unlabelled outer-column sub-total lines (sum of adjustments 2,835/18,476; sum of working-capital changes (3,708)/(681)) recorded with empty label. 'Net cash used in investing activities' FY2026 printed as positive 18,690 (no brackets), copied as printed. Excluded: 'Reconciliation forming Statement of Cash flows' table, footnotes, Notes 1-2 and signatures below the statement. -next page is Notes to accounts (not a continuation)."
+}

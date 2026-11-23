@@ -1,0 +1,501 @@
+{
+ "ticker": "TECHM",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 582,
+   "name": "583",
+   "clip": [
+    0.0,
+    0.0,
+    540.0,
+    774.0
+   ]
+  },
+  {
+   "page": 583,
+   "name": "584",
+   "clip": [
+    0.0,
+    0.0,
+    540.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "A Cash Flow from Operating Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit Before Tax",
+   "values": [
+    65731.0,
+    56532.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and Amortisation Expense",
+   "values": [
+    18816.0,
+    18529.0
+   ]
+  },
+  {
+   "label": "Bad debts and advance written off, allowance/(reversal) of doubtful receivables / unbilled revenue and advances (net)",
+   "values": [
+    1110.0,
+    2639.0
+   ]
+  },
+  {
+   "label": "Share of (Profit) / Loss of Associates/ Joint Ventures",
+   "values": [
+    15.0,
+    -86.0
+   ]
+  },
+  {
+   "label": "Net Gain on disposal of Property, Plant and Equipment and Investment property",
+   "values": [
+    -76.0,
+    -4536.0
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    3374.0,
+    3217.0
+   ]
+  },
+  {
+   "label": "Unrealised Exchange Loss (net)",
+   "values": [
+    6171.0,
+    2220.0
+   ]
+  },
+  {
+   "label": "Share Based Payments to Employees",
+   "values": [
+    963.0,
+    686.0
+   ]
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    -980.0,
+    -1966.0
+   ]
+  },
+  {
+   "label": "Rental Income",
+   "values": [
+    -184.0,
+    -263.0
+   ]
+  },
+  {
+   "label": "Dividend Income on Investments carried at fair value through profit and loss",
+   "values": [
+    -3.0,
+    -13.0
+   ]
+  },
+  {
+   "label": "Gain on Investments carried at fair value through profit and loss (net)",
+   "values": [
+    -1539.0,
+    -1304.0
+   ]
+  },
+  {
+   "label": "Change in fair valuation of Contractual Obligation",
+   "values": [
+    -304.0,
+    -665.0
+   ]
+  },
+  {
+   "label": "Impairment of Goodwill and Non-Current Assets",
+   "values": [
+    null,
+    273.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    93094.0,
+    75263.0
+   ]
+  },
+  {
+   "label": "Changes in working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade Receivables and Contract assets",
+   "values": [
+    -16549.0,
+    -3899.0
+   ]
+  },
+  {
+   "label": "Other financial assets and other assets",
+   "values": [
+    -12871.0,
+    -5393.0
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    5166.0,
+    6299.0
+   ]
+  },
+  {
+   "label": "Unearned revenue",
+   "values": [
+    3911.0,
+    -1492.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities, other liabilities and provisions",
+   "values": [
+    5471.0,
+    1823.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -14872.0,
+    -2662.0
+   ]
+  },
+  {
+   "label": "Cash generated from operating activities before taxes",
+   "values": [
+    78222.0,
+    72601.0
+   ]
+  },
+  {
+   "label": "Income taxes paid, net",
+   "values": [
+    -16502.0,
+    -14744.0
+   ]
+  },
+  {
+   "label": "Net cash generated from operating activities (A)",
+   "values": [
+    61720.0,
+    57857.0
+   ]
+  },
+  {
+   "label": "B Cash Flow from Investing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Property, Plant and Equipment and Intangible",
+   "values": [
+    -6957.0,
+    -5935.0
+   ]
+  },
+  {
+   "label": "Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of Property, Plant and Equipment and Investment Property",
+   "values": [
+    1496.0,
+    1106.0
+   ]
+  },
+  {
+   "label": "Purchase of Mutual Funds and Other Investments",
+   "values": [
+    -255756.0,
+    -236284.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale / redemption of Mutual Funds and Other",
+   "values": [
+    254900.0,
+    238283.0
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from sale of subsidiary",
+   "values": [
+    142.0,
+    null
+   ]
+  },
+  {
+   "label": "Payment for acquisition of Business and contractual obligation under acquisition agreements, net of cash acquired",
+   "values": [
+    -899.0,
+    -1620.0
+   ]
+  },
+  {
+   "label": "Rental Income",
+   "values": [
+    249.0,
+    539.0
+   ]
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    3.0,
+    null
+   ]
+  },
+  {
+   "label": "Fixed Deposit/ Margin Money Placed",
+   "values": [
+    -467.0,
+    -2154.0
+   ]
+  },
+  {
+   "label": "Fixed Deposit/ Margin Money Realized",
+   "values": [
+    1946.0,
+    3923.0
+   ]
+  },
+  {
+   "label": "Interest Income Received",
+   "values": [
+    1251.0,
+    1910.0
+   ]
+  },
+  {
+   "label": "Net cash used in in investing activities (B)",
+   "values": [
+    -4092.0,
+    -232.0
+   ]
+  },
+  {
+   "label": "C Cash Flow from Financing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issuance of equity shares from exercise of stock options",
+   "values": [
+    9.0,
+    90.0
+   ]
+  },
+  {
+   "label": "Payment of dividend",
+   "values": [
+    -40255.0,
+    -38418.0
+   ]
+  },
+  {
+   "label": "Acquisition of Non Controlling Interest",
+   "values": [
+    null,
+    -927.0
+   ]
+  },
+  {
+   "label": "Proceeds from Long-Term Borrowings",
+   "values": [
+    null,
+    80.0
+   ]
+  },
+  {
+   "label": "Repayment of Long-Term Borrowings",
+   "values": [
+    null,
+    -325.0
+   ]
+  },
+  {
+   "label": "Net change in Short-Term Borrowings",
+   "values": [
+    -4338.0,
+    -10506.0
+   ]
+  },
+  {
+   "label": "Repayment of lease liabilities",
+   "values": [
+    -4638.0,
+    -5350.0
+   ]
+  },
+  {
+   "label": "Finance Costs paid",
+   "values": [
+    -2083.0,
+    -2636.0
+   ]
+  },
+  {
+   "label": "Net cash used in financing activities (C)",
+   "values": [
+    -51305.0,
+    -57992.0
+   ]
+  },
+  {
+   "label": "Net Increase / (Decrease) in cash and cash equivalents during the year",
+   "values": [
+    6323.0,
+    -367.0
+   ]
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    953.0,
+    81.0
+   ]
+  },
+  {
+   "label": "(E)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the beginning of the year (F)",
+   "values": [
+    43185.0,
+    43471.0
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the end of the year (* '+)",
+   "values": [
+    50461.0,
+    43185.0
+   ]
+  },
+  {
+   "label": "(refer note 16)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "` in Million",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Components of Cash and Cash equivalents For the year ended",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "March 31, 2026 March 31,",
+   "values": [
+    null,
+    2025.0
+   ]
+  },
+  {
+   "label": "Cash in hand",
+   "values": [
+    2.0,
+    246.0
+   ]
+  },
+  {
+   "label": "Balances with banks",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "In Current Account",
+   "values": [
+    39291.0,
+    32974.0
+   ]
+  },
+  {
+   "label": "In Deposit Account (original maturities less than three months)",
+   "values": [
+    11168.0,
+    9965.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    50461.0,
+    43185.0
+   ]
+  }
+ ],
+ "pdf": "TECHM/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/758bed2c-792d-434f-a326-118a8b4e7989.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

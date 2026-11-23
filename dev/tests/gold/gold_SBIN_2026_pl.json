@@ -1,0 +1,255 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "SBIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 313,
+   "name": "314",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "pdf": "SBIN\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest earned",
+   "values": [
+    5149325904,
+    4903126989
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    1977109381,
+    1730306185
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL",
+   "values": [
+    7126435285,
+    6633433174
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENDITURE",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest expended",
+   "values": [
+    3150048084,
+    3009433353
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating expenses",
+   "values": [
+    2626504484,
+    2365735186
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions and contingencies",
+   "values": [
+    498198031,
+    468093091
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL",
+   "values": [
+    6274750599,
+    5843261630
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit for the year (before adjustment for Share in Profit of Associates and Minority Interest)",
+   "values": [
+    851684686,
+    790171544
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Share in Profit of Associates",
+   "values": [
+    14971990,
+    15054709
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Less: Minority Interest",
+   "values": [
+    33668852,
+    29612882
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit for the Group",
+   "values": [
+    832987824,
+    775613371
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add Profit Brought forward",
+   "values": [
+    1084468560,
+    720191793
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL",
+   "values": [
+    1917456384,
+    1495805164
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "APPROPRIATIONS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Statutory Reserve",
+   "values": [
+    243829391,
+    215947894
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Capital Reserve",
+   "values": [
+    66660474,
+    21715683
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to / (from) Investment Fluctuation Reserve",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Revenue and Other Reserves",
+   "values": [
+    12597104,
+    32108706
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend for the current year",
+   "values": [
+    160151215,
+    141901459
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax on Dividend",
+   "values": [
+    398083,
+    305234
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance carried over to Balance Sheet",
+   "values": [
+    1433820117,
+    1083826188
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL",
+   "values": [
+    1917456384,
+    1495805164
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EARNINGS PER EQUITY SHARE (Face value ₹ 1 per share)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    91.16,
+    86.91
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    91.16,
+    86.91
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

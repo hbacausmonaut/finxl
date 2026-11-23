@@ -1,0 +1,148 @@
+{
+ "generated": "2026-11-08T00:19:16",
+ "sample_size": 100,
+ "answered": 100,
+ "seed": 20261104,
+ "groups": {
+  "confirmed": {
+   "sampled": 50,
+   "correct": 49,
+   "wrong": 1,
+   "cant_tell": 0,
+   "unanswered": 0,
+   "judged": 50,
+   "accuracy": 0.98,
+   "ci95": [
+    0.8950431352816304,
+    0.9964608319110235
+   ],
+   "population": 174049
+  },
+  "unchecked": {
+   "sampled": 30,
+   "correct": 26,
+   "wrong": 4,
+   "cant_tell": 0,
+   "unanswered": 0,
+   "judged": 30,
+   "accuracy": 0.8666666666666667,
+   "ci95": [
+    0.7031831605558306,
+    0.9469043057578189
+   ],
+   "population": 6572
+  },
+  "flagged": {
+   "sampled": 20,
+   "correct": 20,
+   "wrong": 0,
+   "cant_tell": 0,
+   "unanswered": 0,
+   "judged": 20,
+   "accuracy": 1.0,
+   "ci95": [
+    0.8388698745050667,
+    1.0
+   ],
+   "population": 932
+  }
+ },
+ "errors": [
+  {
+   "id": "a025",
+   "ticker": "ONGC",
+   "scope": "standalone",
+   "kind": "bs",
+   "label": "No. 31, 31, 31, LIABILITIES",
+   "year": 2019,
+   "value": 201.9,
+   "group": "unchecked",
+   "report_fy": 2020,
+   "pages": "223, 224",
+   "reason": "wrong number",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Junk row: the column heading '31, 2019' was read as a figure, not a real line item."
+  },
+  {
+   "id": "a026",
+   "ticker": "SHRIRAMFIN",
+   "scope": "standalone",
+   "kind": "cf",
+   "label": "Components of cash and cash equivalents March 31, 2026 March",
+   "year": 2022,
+   "value": 2022.0,
+   "group": "unchecked",
+   "report_fy": 2023,
+   "pages": "168, 169",
+   "reason": "wrong number",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Junk row: the year 2022 in a table heading was read as a figure."
+  },
+  {
+   "id": "a079",
+   "ticker": "DIXON",
+   "scope": "consolidated",
+   "kind": "pl",
+   "label": "Subtotal",
+   "year": 2025,
+   "value": 32.0,
+   "group": "confirmed",
+   "report_fy": 2026,
+   "pages": "419",
+   "reason": "wrong unit",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Report prints 32 in Rs lakh, so 0.32 crore. The Excel shows 32. All DIXON FY2025-26 columns are unconverted."
+  },
+  {
+   "id": "a087",
+   "ticker": "MASTEK",
+   "scope": "consolidated",
+   "kind": "pl",
+   "label": "Basic - I",
+   "year": 2019,
+   "value": 42.61,
+   "group": "unchecked",
+   "report_fy": 2020,
+   "pages": "239",
+   "reason": "garbled label",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Figure is right. Label 'Basic - I': the letter I is a rupee sign not mapped back."
+  },
+  {
+   "id": "a090",
+   "ticker": "IRCTC",
+   "scope": "consolidated",
+   "kind": "pl",
+   "label": "(1) Basic (in ₹) (Face value H 2 Per Share)",
+   "year": 2023,
+   "value": 12.57,
+   "group": "unchecked",
+   "report_fy": 2024,
+   "pages": "316",
+   "reason": "garbled label",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Figure is right. Label says 'Face value H 2': H is a rupee sign not mapped back."
+  }
+ ],
+ "errors_by_reason": {
+  "wrong number": 2,
+  "wrong unit": 1,
+  "garbled label": 2
+ },
+ "overall_sample": {
+  "sampled": 100,
+  "correct": 95,
+  "wrong": 5,
+  "cant_tell": 0,
+  "unanswered": 0,
+  "judged": 100,
+  "accuracy": 0.95,
+  "ci95": [
+   0.8882480347279118,
+   0.9784566385436864
+  ]
+ },
+ "overall_weighted": {
+  "accuracy": 0.9760001395368478,
+  "ci95": [
+   0.9308958376289606,
+   1.0
+  ],
+  "note": "each group weighted by its share of all figures"
+ }
+}

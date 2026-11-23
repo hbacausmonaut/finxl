@@ -1,0 +1,176 @@
+{
+ "ticker": "ICICIBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 372,
+   "name": "373",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CAPITAL AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Capital",
+   "values": [
+    14322344.0,
+    14245974.0
+   ]
+  },
+  {
+   "label": "Employees stock options/units outstanding",
+   "values": [
+    26820675.0,
+    20698433.0
+   ]
+  },
+  {
+   "label": "Reserves and surplus",
+   "values": [
+    3589461138.0,
+    3104114654.0
+   ]
+  },
+  {
+   "label": "Minority interest",
+   "values": [
+    165109619.0,
+    148367361.0
+   ]
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    18300201210.0,
+    16416374040.0
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    2202642771.0,
+    2188834453.0
+   ]
+  },
+  {
+   "label": "Policyholders' funds",
+   "values": [
+    2964990702.0,
+    2943055571.0
+   ]
+  },
+  {
+   "label": "Other liabilities and provisions",
+   "values": [
+    1881431261.0,
+    1586723648.0
+   ]
+  },
+  {
+   "label": "TOTAL CAPITAL AND LIABILITIES",
+   "values": [
+    29144979720.0,
+    26422414134.0
+   ]
+  },
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and balances with Reserve Bank of India",
+   "values": [
+    1212371937.0,
+    1202409132.0
+   ]
+  },
+  {
+   "label": "Balances with banks and money at call and short notice",
+   "values": [
+    1437435296.0,
+    937825505.0
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    8707198823.0,
+    8863768108.0
+   ]
+  },
+  {
+   "label": "Advances",
+   "values": [
+    16446579678.0,
+    14206637124.0
+   ]
+  },
+  {
+   "label": "Fixed assets",
+   "values": [
+    174203410.0,
+    158124234.0
+   ]
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    1061690036.0,
+    969055719.0
+   ]
+  },
+  {
+   "label": "Goodwill on consolidation",
+   "values": [
+    105500540.0,
+    84594312.0
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    29144979720.0,
+    26422414134.0
+   ]
+  },
+  {
+   "label": "Contingent liabilities",
+   "values": [
+    63867022339.0,
+    78850007864.0
+   ]
+  },
+  {
+   "label": "Bills for collection",
+   "values": [
+    1594079092.0,
+    1313614604.0
+   ]
+  }
+ ],
+ "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

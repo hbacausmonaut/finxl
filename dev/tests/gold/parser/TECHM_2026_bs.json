@@ -1,0 +1,449 @@
+{
+ "ticker": "TECHM",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 580,
+   "name": "581",
+   "clip": [
+    0.0,
+    0.0,
+    540.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, Plant and Equipment",
+   "values": [
+    24256.0,
+    23805.0
+   ]
+  },
+  {
+   "label": "Capital Work-in-Progress",
+   "values": [
+    268.0,
+    206.0
+   ]
+  },
+  {
+   "label": "Right-of-Use Asset",
+   "values": [
+    19802.0,
+    15186.0
+   ]
+  },
+  {
+   "label": "Investment Property",
+   "values": [
+    323.0,
+    340.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    84560.0,
+    76993.0
+   ]
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    19699.0,
+    23491.0
+   ]
+  },
+  {
+   "label": "Investment accounted for using the Equity method",
+   "values": [
+    550.0,
+    539.0
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    352.0,
+    2354.0
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Billed",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    69.0,
+    108.0
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    3563.0,
+    5374.0
+   ]
+  },
+  {
+   "label": "Deferred Tax Assets (Net)",
+   "values": [
+    21864.0,
+    18573.0
+   ]
+  },
+  {
+   "label": "Other Tax Assets (Net)",
+   "values": [
+    30422.0,
+    30557.0
+   ]
+  },
+  {
+   "label": "Other Non-Current Assets",
+   "values": [
+    12219.0,
+    10627.0
+   ]
+  },
+  {
+   "label": "Total Non-Current Assets",
+   "values": [
+    217947.0,
+    208153.0
+   ]
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    1042.0,
+    394.0
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    33355.0,
+    28928.0
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Billed",
+   "values": [
+    75369.0,
+    65486.0
+   ]
+  },
+  {
+   "label": "(2) Unbilled",
+   "values": [
+    58208.0,
+    49984.0
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents",
+   "values": [
+    50461.0,
+    43185.0
+   ]
+  },
+  {
+   "label": "Bank Balances other than (iii) above",
+   "values": [
+    593.0,
+    2237.0
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    4476.0,
+    4123.0
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    52243.0,
+    42455.0
+   ]
+  },
+  {
+   "label": "Total Current Assets",
+   "values": [
+    275747.0,
+    236792.0
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    493694.0,
+    444945.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity Share Capital",
+   "values": [
+    4428.0,
+    4424.0
+   ]
+  },
+  {
+   "label": "Other Equity",
+   "values": [
+    291726.0,
+    269191.0
+   ]
+  },
+  {
+   "label": "Equity Attributable to Owners of the Company",
+   "values": [
+    296154.0,
+    273615.0
+   ]
+  },
+  {
+   "label": "Non controlling Interest",
+   "values": [
+    4616.0,
+    4302.0
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    300770.0,
+    277917.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    15888.0,
+    11472.0
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    548.0,
+    160.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    17159.0,
+    14027.0
+   ]
+  },
+  {
+   "label": "Deferred tax Liabilities (Net)",
+   "values": [
+    2017.0,
+    2279.0
+   ]
+  },
+  {
+   "label": "Other Non-Current Liabilities",
+   "values": [
+    33.0,
+    46.0
+   ]
+  },
+  {
+   "label": "Total Non-Current Liabilities",
+   "values": [
+    35645.0,
+    27984.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    696.0,
+    4714.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    5278.0,
+    4066.0
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    50400.0,
+    44108.0
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    29929.0,
+    22845.0
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    25119.0,
+    20527.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    12086.0,
+    12770.0
+   ]
+  },
+  {
+   "label": "Current Tax Liabilities (Net)",
+   "values": [
+    21467.0,
+    17710.0
+   ]
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    144975.0,
+    126740.0
+   ]
+  },
+  {
+   "label": "Suspense Account (Net)",
+   "values": [
+    12304.0,
+    12304.0
+   ]
+  },
+  {
+   "label": "Total Equity and Liabilities and Suspense Account",
+   "values": [
+    493694.0,
+    444945.0
+   ]
+  }
+ ],
+ "pdf": "TECHM/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/758bed2c-792d-434f-a326-118a8b4e7989.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

@@ -1,0 +1,330 @@
+{
+ "ticker": "CIPLA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 352,
+   "name": "353",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "(1) Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from sale of products",
+   "values": [
+    27711.69,
+    27145.4
+   ]
+  },
+  {
+   "label": "Other operating revenue",
+   "values": [
+    450.9,
+    402.22
+   ]
+  },
+  {
+   "label": "Total revenue from operations",
+   "values": [
+    28162.59,
+    27547.62
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    882.01,
+    861.87
+   ]
+  },
+  {
+   "label": "(2) Total income (a+b)",
+   "values": [
+    29044.6,
+    28409.49
+   ]
+  },
+  {
+   "label": "(3) Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    5841.62,
+    5409.6
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    4451.37,
+    3851.49
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "values": [
+    -743.88,
+    -332.1
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    5366.33,
+    4832.83
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    54.39,
+    62.01
+   ]
+  },
+  {
+   "label": "Depreciation, impairment and amortisation expense",
+   "values": [
+    1210.98,
+    1106.95
+   ]
+  },
+  {
+   "label": "Impairment of investment in associates",
+   "values": [
+    42.02,
+    null
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    7322.23,
+    6657.9
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    23545.06,
+    21588.68
+   ]
+  },
+  {
+   "label": "(4) Profit before exceptional items, tax and share of profit/(loss) from associates (2-3)",
+   "values": [
+    5499.54,
+    6820.81
+   ]
+  },
+  {
+   "label": "(5) Exceptional item - (Loss)",
+   "values": [
+    -275.91,
+    null
+   ]
+  },
+  {
+   "label": "(6) Profit before tax and share of profit/(loss) from associates",
+   "values": [
+    5223.63,
+    6820.81
+   ]
+  },
+  {
+   "label": "(7) Tax expense/credit (net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    1440.95,
+    1708.35
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -87.11,
+    -178.59
+   ]
+  },
+  {
+   "label": "Total tax expense (net)",
+   "values": [
+    1353.84,
+    1529.76
+   ]
+  },
+  {
+   "label": "(8) Net profit after tax before share of profit/(loss) from associates (6-7)",
+   "values": [
+    3869.79,
+    5291.05
+   ]
+  },
+  {
+   "label": "(9) Share of profit/loss (-) of associates",
+   "values": [
+    -8.05,
+    -21.85
+   ]
+  },
+  {
+   "label": "(10) Net profit for the year",
+   "values": [
+    3861.74,
+    5269.2
+   ]
+  },
+  {
+   "label": "(11) Other comprehensive income/(loss) for the year",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    -188.93,
+    -66.11
+   ]
+  },
+  {
+   "label": "Income tax on item that will not be reclassified to profit or loss",
+   "values": [
+    2.07,
+    9.94
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    828.14,
+    276.16
+   ]
+  },
+  {
+   "label": "Income tax on item that will be reclassified to profit or loss",
+   "values": [
+    46.46,
+    -1.33
+   ]
+  },
+  {
+   "label": "Total other comprehensive income for the year",
+   "values": [
+    687.74,
+    218.66
+   ]
+  },
+  {
+   "label": "(12) Total comprehensive income for the year",
+   "values": [
+    4549.48,
+    5487.86
+   ]
+  },
+  {
+   "label": "(13) Profit for the year attributable to (a) Owners of the parent",
+   "values": [
+    3879.23,
+    5272.52
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    -17.49,
+    -3.32
+   ]
+  },
+  {
+   "label": "(14) Other comprehensive income/(loss) attributable to (a) Owners of the parent",
+   "values": [
+    688.69,
+    216.94
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    -0.95,
+    1.72
+   ]
+  },
+  {
+   "label": "(15) Total comprehensive income attributable to (a) Owners of the parent",
+   "values": [
+    4567.92,
+    5489.46
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    -18.44,
+    -1.6
+   ]
+  },
+  {
+   "label": "(16) Earnings per equity share of face value of J 2 each",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in H)",
+   "values": [
+    48.03,
+    65.29
+   ]
+  },
+  {
+   "label": "Diluted (in H)",
+   "values": [
+    48.0,
+    65.24
+   ]
+  }
+ ],
+ "pdf": "CIPLA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

@@ -1,0 +1,396 @@
+{
+ "ticker": "WIPRO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 302,
+   "name": "303",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 303,
+   "name": "304",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flows from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    132655.0,
+    132180.0
+   ]
+  },
+  {
+   "label": "Adjustments to reconcile profit for the",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "year to net cash generated from operating",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Gain on sale of property, plant and equipment, net",
+   "values": [
+    -393.0,
+    -606.0
+   ]
+  },
+  {
+   "label": "Depreciation, amortisation and impairment expense",
+   "values": [
+    29107.0,
+    29579.0
+   ]
+  },
+  {
+   "label": "Unrealised exchange (gain)/loss, net",
+   "values": [
+    2168.0,
+    -623.0
+   ]
+  },
+  {
+   "label": "Share-based compensation expense",
+   "values": [
+    4465.0,
+    5551.0
+   ]
+  },
+  {
+   "label": "Share of net (profit)/loss of associate and joint venture accounted for using per equity method",
+   "values": [
+    -257.0,
+    -254.0
+   ]
+  },
+  {
+   "label": "Income tax expense and Finance and other income, net of",
+   "values": [
+    40767.0,
+    42777.0
+   ]
+  },
+  {
+   "label": "finance costs",
+   "values": [
+    -21914.0,
+    -23432.0
+   ]
+  },
+  {
+   "label": "Change in fair value of contingent consideration",
+   "values": [
+    49.0,
+    -169.0
+   ]
+  },
+  {
+   "label": "Lifetime expected credit loss",
+   "values": [
+    2838.0,
+    324.0
+   ]
+  },
+  {
+   "label": "Changes in operating assets and",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "liabilities, net of effects from acquisitions",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in trade receivables",
+   "values": [
+    -11442.0,
+    1894.0
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in unbilled in receivables and contract assets of",
+   "values": [
+    -14498.0,
+    -1331.0
+   ]
+  },
+  {
+   "label": "(I (Increase)/Decrease in inventories (Increase)/Decrease in other financial",
+   "values": [
+    184.0,
+    213.0
+   ]
+  },
+  {
+   "label": "assets and other assets",
+   "values": [
+    -205.0,
+    6609.0
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in trade payables, other financial liabilities, other liabilities and provisions",
+   "values": [
+    8482.0,
+    548.0
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in contract liabilities",
+   "values": [
+    3555.0,
+    2341.0
+   ]
+  },
+  {
+   "label": "Cash generated from operating activities before taxes",
+   "values": [
+    175561.0,
+    195601.0
+   ]
+  },
+  {
+   "label": "Income taxes paid",
+   "values": [
+    -26245.0,
+    -26175.0
+   ]
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    149316.0,
+    169426.0
+   ]
+  },
+  {
+   "label": "Cash flows from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Payment for purchase of property, plant and equipment",
+   "values": [
+    -15603.0,
+    -14737.0
+   ]
+  },
+  {
+   "label": "Proceeds from disposal of property, plant and equipment",
+   "values": [
+    758.0,
+    1822.0
+   ]
+  },
+  {
+   "label": "Investment in associate",
+   "values": [
+    -352.0,
+    null
+   ]
+  },
+  {
+   "label": "Payment for purchase of investments",
+   "values": [
+    -837806.0,
+    -801582.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of investments",
+   "values": [
+    816732.0,
+    706520.0
+   ]
+  },
+  {
+   "label": "Payment for business acquisitions including deposits and escrow, net of cash acquired",
+   "values": [
+    -26033.0,
+    -964.0
+   ]
+  },
+  {
+   "label": "Repayment of security deposit for property, plant and equipment",
+   "values": [
+    null,
+    -300.0
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    28878.0,
+    26212.0
+   ]
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    3.0,
+    2299.0
+   ]
+  },
+  {
+   "label": "Net cash used in investing activities",
+   "values": [
+    -33423.0,
+    -80730.0
+   ]
+  },
+  {
+   "label": "Cash flows from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issuance of equity shares and shares pending allotment",
+   "values": [
+    33.0,
+    27.0
+   ]
+  },
+  {
+   "label": "Repayment of borrowings",
+   "values": [
+    -259841.0,
+    -177672.0
+   ]
+  },
+  {
+   "label": "Proceeds from borrowings",
+   "values": [
+    253089.0,
+    195595.0
+   ]
+  },
+  {
+   "label": "Payment of lease liabilities including interests",
+   "values": [
+    -11561.0,
+    -10474.0
+   ]
+  },
+  {
+   "label": "Payment for contingent consideration",
+   "values": [
+    -648.0,
+    null
+   ]
+  },
+  {
+   "label": "Payment of deferred consideration on business combination",
+   "values": [
+    -221.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest and finance costs paid",
+   "values": [
+    -6336.0,
+    -8689.0
+   ]
+  },
+  {
+   "label": "Payment of dividend",
+   "values": [
+    -115206.0,
+    -62750.0
+   ]
+  },
+  {
+   "label": "Payment of dividend to Non-controlling interest holders",
+   "values": [
+    -569.0,
+    null
+   ]
+  },
+  {
+   "label": "Net cash used in financing activities",
+   "values": [
+    -141260.0,
+    -63963.0
+   ]
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents during the year",
+   "values": [
+    -25367.0,
+    24733.0
+   ]
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    8948.0,
+    290.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    121974.0,
+    96951.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    105555.0,
+    121974.0
+   ]
+  }
+ ],
+ "pdf": "WIPRO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4ffaa08-a47a-487b-b136-eb4f26c1bace.pdf",
+ "parsed_at": "2026-11-04 11:24 UTC"
+}

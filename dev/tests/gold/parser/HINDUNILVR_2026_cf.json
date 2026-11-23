@@ -1,0 +1,634 @@
+{
+ "ticker": "HINDUNILVR",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 187,
+   "name": "188L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 187,
+   "name": "188R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "A CASH FLOWS FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax from continuing operations",
+   "values": [
+    13812.0,
+    14428.0
+   ]
+  },
+  {
+   "label": "Profit / (loss) before tax from discontinued operations",
+   "values": [
+    4336.0,
+    -13.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    1436.0,
+    1363.0
+   ]
+  },
+  {
+   "label": "Loss on sale of property, plant and equipment",
+   "values": [
+    40.0,
+    43.0
+   ]
+  },
+  {
+   "label": "Fair value loss on financial liability on acquisition",
+   "values": [
+    502.0,
+    120.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -546.0,
+    -755.0
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -5.0,
+    null
+   ]
+  },
+  {
+   "label": "Other non operating income - Fair value gain on investments",
+   "values": [
+    -195.0,
+    -256.0
+   ]
+  },
+  {
+   "label": "Profit on sale of stake in joint venture",
+   "values": [
+    -256.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest expense",
+   "values": [
+    424.0,
+    372.0
+   ]
+  },
+  {
+   "label": "Profit on sale of water purification business",
+   "values": [
+    null,
+    -595.0
+   ]
+  },
+  {
+   "label": "Payment from Retirement Benefit Scheme Reserve",
+   "values": [
+    -0.0,
+    -1.0
+   ]
+  },
+  {
+   "label": "Share of loss of joint venture",
+   "values": [
+    15.0,
+    8.0
+   ]
+  },
+  {
+   "label": "Inventory written off (net)",
+   "values": [
+    233.0,
+    189.0
+   ]
+  },
+  {
+   "label": "Bad debts/assets written off net of Provision/(write back)",
+   "values": [
+    23.0,
+    24.0
+   ]
+  },
+  {
+   "label": "Reversal of indemnification asset on expiry of underlying income tax provision",
+   "values": [
+    34.0,
+    null
+   ]
+  },
+  {
+   "label": "Equity settled share based payment expense",
+   "values": [
+    16.0,
+    11.0
+   ]
+  },
+  {
+   "label": "Gain on demerger of ice cream business",
+   "values": [
+    -4611.0,
+    null
+   ]
+  },
+  {
+   "label": "Mark-to-market (gain)/loss on derivative financial instruments",
+   "values": [
+    -105.0,
+    4.0
+   ]
+  },
+  {
+   "label": "Cash generated from operations before working capital changes",
+   "values": [
+    15153.0,
+    14942.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in Non-Current Assets",
+   "values": [
+    10.0,
+    -87.0
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in Current Assets",
+   "values": [
+    76.0,
+    -1275.0
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in Inventories",
+   "values": [
+    -692.0,
+    -584.0
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in Non-Current Liabilities",
+   "values": [
+    -184.0,
+    -284.0
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in Current Liabilities",
+   "values": [
+    1476.0,
+    1442.0
+   ]
+  },
+  {
+   "label": "Cash flows generated from operations before tax",
+   "values": [
+    15839.0,
+    14154.0
+   ]
+  },
+  {
+   "label": "Taxes paid, net of refunds",
+   "values": [
+    -4840.0,
+    -2268.0
+   ]
+  },
+  {
+   "label": "Net cash flows generated from operating activities - [A]",
+   "values": [
+    10999.0,
+    11886.0
+   ]
+  },
+  {
+   "label": "B CASH FLOWS FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment",
+   "values": [
+    -1258.0,
+    -1254.0
+   ]
+  },
+  {
+   "label": "Sale proceeds of property, plant and equipment",
+   "values": [
+    29.0,
+    13.0
+   ]
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -112.0,
+    null
+   ]
+  },
+  {
+   "label": "Sale proceeds of non-current investments",
+   "values": [
+    1.0,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of intangible assets",
+   "values": [
+    -103.0,
+    -21.0
+   ]
+  },
+  {
+   "label": "Sale proceeds of water purification business",
+   "values": [
+    null,
+    595.0
+   ]
+  },
+  {
+   "label": "Purchase consideration towards business combination",
+   "values": [
+    -2661.0,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of non-controlling interests",
+   "values": [
+    -824.0,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of current investments",
+   "values": [
+    -25417.0,
+    -22957.0
+   ]
+  },
+  {
+   "label": "Sale proceeds of current investments",
+   "values": [
+    25116.0,
+    23987.0
+   ]
+  },
+  {
+   "label": "Loans repaid by others",
+   "values": [
+    56.0,
+    11.0
+   ]
+  },
+  {
+   "label": "Loans given to others",
+   "values": [
+    -55.0,
+    -11.0
+   ]
+  },
+  {
+   "label": "Investment in term deposits (having original maturity of more than 3 months)",
+   "values": [
+    -1911.0,
+    -2499.0
+   ]
+  },
+  {
+   "label": "Redemption/maturity of term deposits (having original maturity of more than 3 months)",
+   "values": [
+    2759.0,
+    7774.0
+   ]
+  },
+  {
+   "label": "Investments in term deposits (with original maturity of more than twelve months but remaining maturity of less than twelve months)",
+   "values": [
+    -43.0,
+    null
+   ]
+  },
+  {
+   "label": "Redemption/maturity of term deposits (with remaining maturity of more than twelve months)",
+   "values": [
+    8.0,
+    null
+   ]
+  },
+  {
+   "label": "Consideration received on disposal of joint venture (net of transaction costs)",
+   "values": [
+    298.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    428.0,
+    835.0
+   ]
+  },
+  {
+   "label": "Dividend received from others",
+   "values": [
+    5.0,
+    null
+   ]
+  },
+  {
+   "label": "Net cash flows (used in) / generated from investing activities - [B]",
+   "values": [
+    -3684.0,
+    6473.0
+   ]
+  },
+  {
+   "label": "C CASH FLOWS FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -10124.0,
+    -12473.0
+   ]
+  },
+  {
+   "label": "Repayment of borrowings",
+   "values": [
+    -46.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest paid on borrowings",
+   "values": [
+    -4.0,
+    -3.0
+   ]
+  },
+  {
+   "label": "Principal payment of lease liabilities",
+   "values": [
+    -507.0,
+    -498.0
+   ]
+  },
+  {
+   "label": "Interest paid on lease liabilities",
+   "values": [
+    -129.0,
+    -127.0
+   ]
+  },
+  {
+   "label": "Net cash flows used in financing activities - [C]",
+   "values": [
+    -10810.0,
+    -13101.0
+   ]
+  },
+  {
+   "label": "Net (decrease) / increase in cash and cash equivalents - [A+B+C]",
+   "values": [
+    -3495.0,
+    5258.0
+   ]
+  },
+  {
+   "label": "Add: Cash and cash equivalents at the beginning of the year",
+   "values": [
+    6070.0,
+    812.0
+   ]
+  },
+  {
+   "label": "Add: Cash acquired under Business Combination",
+   "values": [
+    13.0,
+    null
+   ]
+  },
+  {
+   "label": "Less: Impact on account of demerger of Ice Cream Business",
+   "values": [
+    -5.0,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    2583.0,
+    6070.0
+   ]
+  },
+  {
+   "label": "Components of cash and cash equivalents",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents as per consolidated balance sheet (refer note 13)",
+   "values": [
+    2583.0,
+    6071.0
+   ]
+  },
+  {
+   "label": "Less: Bank overdraft (refer note 23)",
+   "values": [
+    null,
+    -1.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents for consolidated statement of cash flows",
+   "values": [
+    2583.0,
+    6070.0
+   ]
+  },
+  {
+   "label": "Movement in current borrowings and lease liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Additions",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Transferred pursuant Closing",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Reconciliation Opening through",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Taken/ Non- cash to scheme of demerger balance",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "between opening balance business",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Payments) movement of Ice Cream Business 31st March,",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "and closing balance 1st April, 2025 combination (refer note 44)",
+   "values": [
+    null,
+    2026.0
+   ]
+  },
+  {
+   "label": "(refer note 43)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "1,647 (636) 732",
+   "values": [
+    null,
+    1478.0
+   ]
+  },
+  {
+   "label": "(refer Note 20)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current borrowings - (46)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Opening",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Reconciliation between opening and closing Taken/ Non- cash Closing balance",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "balance balance (Payments) movement 31st March, 1st April, 2024",
+   "values": [
+    null,
+    2025.0
+   ]
+  },
+  {
+   "label": "Lease Liabilities (Refer note 20) 1,471",
+   "values": [
+    801.0,
+    1647.0
+   ]
+  }
+ ],
+ "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+ "parsed_at": "2026-11-04 11:17 UTC"
+}

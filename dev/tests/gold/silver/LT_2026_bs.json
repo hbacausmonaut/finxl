@@ -1,0 +1,658 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "LT",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 616,
+   "name": "617",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 617,
+   "name": "618",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "pdf": "LT/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "ASSETS:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    15663.02,
+    14128.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    3036.25,
+    2390.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment property",
+   "values": [
+    223.22,
+    1157.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment property under construction",
+   "values": [
+    897.12,
+    501.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    8481.54,
+    8348.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    1828.21,
+    17050.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    274.7,
+    197.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    3773.8,
+    2869.02
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments in joint ventures and associates",
+   "values": [
+    2258.01,
+    2318.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other investments",
+   "values": [
+    6593.92,
+    9126.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans towards financing activities",
+   "values": [
+    74995.72,
+    62847.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other loans",
+   "values": [
+    586.81,
+    348.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    4276.78,
+    1863.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    88711.24,
+    76504
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    4252.76,
+    3792.88
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax Assets (net)",
+   "values": [
+    4397.21,
+    4581.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    2699.49,
+    2659.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sub-total - Non-current assets",
+   "values": [
+    134238.56,
+    134182.39
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    9530.93,
+    7670.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    59524.86,
+    43360.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    60461.26,
+    53713.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    15391.24,
+    12187
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other bank balances",
+   "values": [
+    5456.43,
+    10778.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans towards financing activities",
+   "values": [
+    42825.48,
+    36077.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other loans",
+   "values": [
+    634.46,
+    416.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    7713.29,
+    5419.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    192007.02,
+    161953.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    91303.18,
+    75559.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sub-total - Current assets",
+   "values": [
+    292841.13,
+    245184.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Group(s) of assets classified as held for sale",
+   "values": [
+    25470.19,
+    157.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    452549.88,
+    379524.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EQUITY AND LIABILITIES:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    275.13,
+    275.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    109014.67,
+    97380.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    109289.8,
+    97655.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    19240.66,
+    17748.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL EQUITY",
+   "values": [
+    128530.46,
+    115403.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    63738.59,
+    57503.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    2767.05,
+    2265.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    1979.86,
+    252.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    68485.5,
+    60020.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    832.48,
+    1124.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    167.11,
+    410.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    36.82,
+    594.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sub-total - Non-current liabilities",
+   "values": [
+    69521.91,
+    62149.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    34778.53,
+    35861.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current maturities of long term borrowings",
+   "values": [
+    23165.9,
+    36194.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    1046.52,
+    584.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Due to micro enterprises and small enterprises",
+   "values": [
+    1840.35,
+    1414.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Due to others",
+   "values": [
+    67615.28,
+    51045.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    11092.88,
+    6273.37
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    139539.46,
+    131373.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    85861.52,
+    63326.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    5009.03,
+    4691.67
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    3121.46,
+    2579.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sub-total - Current liabilities",
+   "values": [
+    233531.47,
+    201970.9
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Liabilities associated with group(s) of assets classified as held for sale",
+   "values": [
+    20966.04,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL LIABILITIES",
+   "values": [
+    324019.42,
+    264120.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    452549.88,
+    379524.1
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 71,
+  "rows_reader": 71,
+  "rows_aligned": 71,
+  "rows_agreed": 70,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 115,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 9,
+   "reader_index": 9,
+   "label_parser": "Right-of-use assets 61(b)(ii)",
+   "label_reader": "Right-of-use assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3773.8,
+    "2025": 2869.02
+   },
+   "values_reader": {
+    "2026": 3773.8,
+    "2025": 2869.02
+   },
+   "page": 616,
+   "search": [
+    "3,773.80",
+    "2,869.02"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

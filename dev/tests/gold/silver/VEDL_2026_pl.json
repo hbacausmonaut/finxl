@@ -1,0 +1,749 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "VEDL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 243,
+   "name": "244R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "VEDL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3725606c-05f5-40b2-b122-55c0a6e7bdd1.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Continuing Operations:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue",
+   "values": [
+    76672,
+    61605
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other operating income",
+   "values": [
+    1765,
+    1112
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total revenue from operations",
+   "values": [
+    78437,
+    62717
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1550,
+    1830
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total income",
+   "values": [
+    79987,
+    64547
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    29891,
+    23102
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    260,
+    173
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "values": [
+    -227,
+    -695
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Power and fuel charges",
+   "values": [
+    3651,
+    3640
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefit expense",
+   "values": [
+    1748,
+    1722
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    2817,
+    4197
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation, depletion and amortisation expense",
+   "values": [
+    4810,
+    4233
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    19930,
+    16197
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    62880,
+    52569
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before share in profit of jointly controlled entities and associates, exceptional items and tax",
+   "values": [
+    17107,
+    11978
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Share in (loss)/profit of jointly controlled entities and associates",
+   "values": [
+    -1,
+    1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    17106,
+    11979
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net exceptional gain/(loss)",
+   "values": [
+    20,
+    -351
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    17126,
+    11628
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense/(benefit):",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other than exceptional items",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net current tax expense",
+   "values": [
+    4349,
+    2909
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net deferred tax expense/(benefit)",
+   "values": [
+    292,
+    -536
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional items",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net current tax expense/(benefit)",
+   "values": [
+    6,
+    -21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net deferred tax (benefit)/expense",
+   "values": [
+    -1,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net tax expense",
+   "values": [
+    4646,
+    2352
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit after tax from continuing operations",
+   "values": [
+    12480,
+    9276
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Discontinued Operations:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    22498,
+    13030
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net exceptional (loss)/gain",
+   "values": [
+    -4198,
+    2219
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net tax expense",
+   "values": [
+    5684,
+    3990
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit after tax from discontinued operations",
+   "values": [
+    12616,
+    11259
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit after tax (A)",
+   "values": [
+    25096,
+    20535
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/(loss) from continuing operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Re-measurement gain on defined benefit plans",
+   "values": [
+    11,
+    15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    -1,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain/ (loss) on FVOCI equity investment",
+   "values": [
+    52,
+    -15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    62,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net loss on cash flow hedges recognised",
+   "values": [
+    -470,
+    -19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax benefit",
+   "values": [
+    120,
+    6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net (loss)/gain on cash flow hedges recycled to profit or loss",
+   "values": [
+    -1,
+    2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax benefit/(expense)",
+   "values": [
+    6,
+    -2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net (loss)/gain on FVOCI debt investment",
+   "values": [
+    -3,
+    30
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax benefit/(expense)",
+   "values": [
+    0,
+    -3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange differences on translation",
+   "values": [
+    1458,
+    84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    1111,
+    98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive (loss)/income from discontinued operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Re-measurement (loss) on defined benefit plans",
+   "values": [
+    -28,
+    -17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax benefit",
+   "values": [
+    4,
+    2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -24,
+    -15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net (loss)/gain on cash flow hedges recognised during the period",
+   "values": [
+    -4525,
+    623
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax benefit/ (expense)",
+   "values": [
+    1139,
+    -157
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain/(loss) on cash flow hedges recycled to profit or loss",
+   "values": [
+    319,
+    -304
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax (expense)/benefit",
+   "values": [
+    -80,
+    77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange differences on translation",
+   "values": [
+    526,
+    188
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax benefit",
+   "values": [
+    41,
+    16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -2580,
+    443
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total other comprehensive (loss)/ income, net of tax (B)",
+   "values": [
+    -1431,
+    526
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income, net of tax (A+B)",
+   "values": [
+    23665,
+    21061
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of Vedanta Limited",
+   "values": [
+    17391,
+    14988
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    7705,
+    5547
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/(loss) attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of Vedanta Limited",
+   "values": [
+    -1273,
+    435
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    -158,
+    91
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of Vedanta Limited",
+   "values": [
+    16118,
+    15423
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    7547,
+    5638
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Nominal value per share: ₹1 (31 March 2025: ₹1)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share for continuing operations (₹):",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    18.09,
+    13.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    17.94,
+    13.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share for discontinued operations (₹):",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    26.49,
+    25.59
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    26.27,
+    25.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share for continuing and discontinued operations (₹):",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    44.58,
+    38.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    44.21,
+    38.65
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 87,
+  "rows_reader": 87,
+  "rows_aligned": 87,
+  "rows_agreed": 87,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 129,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": []
+}

@@ -1,0 +1,508 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "ICICIBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 373,
+   "name": "374",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest earned",
+   "values": [
+    1952184591,
+    1863314641
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1168999002,
+    1082554702
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL INCOME",
+   "values": [
+    3121183593,
+    2945869343
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENDITURE",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest expended",
+   "values": [
+    890285812,
+    890276529
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating expenses",
+   "values": [
+    1403936173,
+    1277999771
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions and contingencies (refer note 18.6)",
+   "values": [
+    250227667,
+    233405909
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL EXPENDITURE",
+   "values": [
+    2544449652,
+    2401682209
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT/(LOSS)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net profit for the year (before share in profit of associates and minority interest)",
+   "values": [
+    576733941,
+    544187134
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Share of profit in associates",
+   "values": [
+    2628566,
+    1506622
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net profit for the year before deducting minority interest",
+   "values": [
+    579362507,
+    545693756
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Less: Minority interest",
+   "values": [
+    37285479,
+    35401801
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consolidated profit/(loss) for the year attributable to the Group",
+   "values": [
+    542077028,
+    510291955
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Brought forward consolidated profit attributable to the Group",
+   "values": [
+    1183850670,
+    898257800
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL PROFIT/(LOSS)",
+   "values": [
+    1725927698,
+    1408549755
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "APPROPRIATIONS/TRANSFERS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Capital Reserve",
+   "values": [
+    3036999,
+    68700
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to/(from) Investment Fluctuation Reserve",
+   "values": [
+    null,
+    2586100
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to/(from) Revenue and Other Reserves",
+   "values": [
+    1382560,
+    1073620
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Statutory Reserve",
+   "values": [
+    125367000,
+    118068000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Special Reserve",
+   "values": [
+    34725000,
+    32490000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid during the year",
+   "values": [
+    78531534,
+    70412665
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance carried over to balance sheet",
+   "values": [
+    1482884605,
+    1183850670
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL",
+   "values": [
+    1725927698,
+    1408549755
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per share (refer note 18.1)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    75.89,
+    72.41
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    74.77,
+    71.14
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Face value per share (₹)",
+   "values": [
+    2,
+    2
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 27,
+  "rows_reader": 30,
+  "rows_aligned": 26,
+  "rows_agreed": 24,
+  "missing_in_parser": 4,
+  "extra_in_parser": 1,
+  "label_diffs": 2,
+  "value_diffs": 2,
+  "values_reader": 49,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "thousand",
+  "unit_reader": "thousand"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 14,
+   "reader_index": 14,
+   "label_parser": "Consolidated profit/(loss) for the year attributable to the",
+   "label_reader": "Consolidated profit/(loss) for the year attributable to the Group",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": 542077028,
+    "2025": 510291955
+   },
+   "page": 373,
+   "search": [
+    "54,20,77,028",
+    "51,02,91,955"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "value",
+   "year": 2026,
+   "parser_index": 14,
+   "reader_index": 14,
+   "label_parser": "Consolidated profit/(loss) for the year attributable to the",
+   "label_reader": "Consolidated profit/(loss) for the year attributable to the Group",
+   "value_parser": null,
+   "value_reader": 542077028,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": 542077028,
+    "2025": 510291955
+   },
+   "page": 373,
+   "search": [
+    "54,20,77,028"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "value",
+   "year": 2025,
+   "parser_index": 14,
+   "reader_index": 14,
+   "label_parser": "Consolidated profit/(loss) for the year attributable to the",
+   "label_reader": "Consolidated profit/(loss) for the year attributable to the Group",
+   "value_parser": null,
+   "value_reader": 510291955,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": 542077028,
+    "2025": 510291955
+   },
+   "page": 373,
+   "search": [
+    "51,02,91,955"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 15,
+   "reader_index": null,
+   "label_parser": "Group",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 542077028,
+    "2025": 510291955
+   },
+   "values_reader": {},
+   "page": 373,
+   "search": [
+    "54,20,77,028",
+    "51,02,91,955"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 17,
+   "reader_index": 16,
+   "label_parser": "TOTAL molcfqLEilppF",
+   "label_reader": "TOTAL PROFIT/(LOSS)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1725927698,
+    "2025": 1408549755
+   },
+   "values_reader": {
+    "2026": 1725927698,
+    "2025": 1408549755
+   },
+   "page": 373,
+   "search": [
+    "1,72,59,27,698",
+    "1,40,85,49,755"
+   ],
+   "pattern": "garbled_label",
+   "pattern_text": "Garbled label (undecoded font)"
+  },
+  {
+   "id": "d006",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 26,
+   "label_parser": null,
+   "label_reader": "Earnings per share (refer note 18.1)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 373,
+   "search": [],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d007",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 27,
+   "label_parser": null,
+   "label_reader": "Basic (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 75.89,
+    "2025": 72.41
+   },
+   "page": 373,
+   "search": [
+    "75.89",
+    "72.41"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d008",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 28,
+   "label_parser": null,
+   "label_reader": "Diluted (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 74.77,
+    "2025": 71.14
+   },
+   "page": 373,
+   "search": [
+    "74.77",
+    "71.14"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d009",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 29,
+   "label_parser": null,
+   "label_reader": "Face value per share (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 2,
+    "2025": 2
+   },
+   "page": 373,
+   "search": [
+    "2",
+    "2"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  }
+ ]
+}

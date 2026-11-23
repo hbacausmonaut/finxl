@@ -1,0 +1,670 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "EICHERMOT",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 304,
+   "name": "305",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 305,
+   "name": "306",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "EICHERMOT/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d17e4c7d-5ef6-4135-b0f3-cc7bb1ca7f09.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax and after share of profit of joint venture",
+   "values": [
+    7102.06,
+    5933.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of joint venture",
+   "values": [
+    -797.81,
+    -699.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    840.37,
+    729.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain on sale of property, plant and equipment",
+   "values": [
+    -2.67,
+    -2.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss on sale of property, plant and equipment",
+   "values": [
+    4.14,
+    10.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Grant income on soft loan from State Industries Promotion Corporation of Tamil Nadu Ltd. (SIPCOT)",
+   "values": [
+    -7.16,
+    -10.13
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Net gain on financial instruments at fair value through profit or loss",
+   "values": [
+    -745.55,
+    -863.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Liabilities no longer required, written back",
+   "values": [
+    -36.52,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income recognised",
+   "values": [
+    -473.86,
+    -317.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses recognised in respect of equity-settled share-based payments",
+   "values": [
+    55.09,
+    47.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange difference on reinstatement of property, plant and equipment, intangible assets including capital work-in progress and intangible assets under development",
+   "values": [
+    -112.26,
+    -32.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unrealised foreign exchange difference",
+   "values": [
+    -9.47,
+    -0.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain on exercise of termination option of leases",
+   "values": [
+    -2.54,
+    -0.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision for credit impaired trade receivables and advances (including write off)",
+   "values": [
+    0.09,
+    0.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs recognised",
+   "values": [
+    71.53,
+    54.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating profit before changes in working capital",
+   "values": [
+    5885.44,
+    4849.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in working capital:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for (increase) / decrease in non-current assets:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    -2.85,
+    -4.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    -109.01,
+    6.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for (increase) / decrease in current assets:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -404.07,
+    -154.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    190.1,
+    -175.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    24.57,
+    -4.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    -276.93,
+    -103.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for increase / (decrease) in non-current liabilities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    -14.39,
+    14.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    59.13,
+    15.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Government grants",
+   "values": [
+    51.42,
+    -8.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other liabilities",
+   "values": [
+    140.75,
+    35.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for increase / (decrease) in current liabilities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    260.62,
+    439.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    88.16,
+    9.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    52.03,
+    13.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Government grants",
+   "values": [
+    -11.78,
+    14.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    130.26,
+    8.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other liabilities",
+   "values": [
+    99.88,
+    104.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operating activities",
+   "values": [
+    6163.33,
+    5060.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax paid (net of refunds)",
+   "values": [
+    -1358.49,
+    -1080.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows from / (used in) operating activities (A)",
+   "values": [
+    4804.84,
+    3979.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase/Acquisition of Property, plant and equipment and Intangible assets including capital work-in progress, intangible assets under development, payment for capital advance and capital creditors",
+   "values": [
+    -1275.26,
+    -1039.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from disposal of property, plant and equipment and intangible assets",
+   "values": [
+    8.71,
+    10.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of equity investments",
+   "values": [
+    null,
+    5.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of debt mutual funds and bonds",
+   "values": [
+    8312.09,
+    6820.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of debt mutual funds and bonds",
+   "values": [
+    -9630.75,
+    -6939.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments in fixed deposits (maturity more than three months)",
+   "values": [
+    -3197.4,
+    -3166.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Maturity proceeds from fixed deposits (maturity more than three months)",
+   "values": [
+    2269.19,
+    1470
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bill discounting on behalf of a related party (net)",
+   "values": [
+    -5.28,
+    30.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend from joint venture company",
+   "values": [
+    217.6,
+    136
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received on bank deposits and others",
+   "values": [
+    337.12,
+    187.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows from / (used in) investing activities (B)",
+   "values": [
+    -2963.98,
+    -2483.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Working capital loan availed",
+   "values": [
+    79.36,
+    21.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Re-payment of working capital loan",
+   "values": [
+    -70.99,
+    -43.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Soft loan received from SIPCOT",
+   "values": [
+    6.03,
+    16.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -37.49,
+    -24.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of equity share capital under employee stock option plan and restricted stock units plan (including securities premium)",
+   "values": [
+    12.3,
+    86.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from grant of restricted stock units to employees of joint venture",
+   "values": [
+    22.17,
+    9.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest on lease liabilities paid",
+   "values": [
+    -12.08,
+    -12.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of principal portion of lease liabilities",
+   "values": [
+    -62.22,
+    -55.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -1919.95,
+    -1397.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows from / (used in) financing activities (C)",
+   "values": [
+    -1982.87,
+    -1398.67
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in foreign currency translation arising on consolidation (D)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange difference on conversion of foreign branch and subsidiaries",
+   "values": [
+    130.44,
+    22.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Increase/(decrease) in cash and cash equivalents (A)+(B)+(C)+(D)",
+   "values": [
+    -11.57,
+    120.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    218.96,
+    98.39
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    207.39,
+    218.96
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 71,
+  "rows_reader": 70,
+  "rows_aligned": 70,
+  "rows_agreed": 69,
+  "missing_in_parser": 0,
+  "extra_in_parser": 1,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 118,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Grant income on soft loan from State Industries Promotion Corporation of Tamil Nadu",
+   "label_reader": "Grant income on soft loan from State Industries Promotion Corporation of Tamil Nadu Ltd. (SIPCOT)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -7.16,
+    "2025": -10.13
+   },
+   "values_reader": {
+    "2026": -7.16,
+    "2025": -10.13
+   },
+   "page": 304,
+   "search": [
+    "7.16",
+    "10.13"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 8,
+   "reader_index": null,
+   "label_parser": "Ltd. (SIPCOT)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 304,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

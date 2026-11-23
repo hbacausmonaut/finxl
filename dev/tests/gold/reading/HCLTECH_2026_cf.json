@@ -1,0 +1,440 @@
+{
+ "ticker": "HCLTECH",
+ "fy": 2026,
+ "statement": "cf",
+ "scope": "consolidated",
+ "reader": "claude",
+ "read_at": "2026-11-04 17:40 UTC",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flows from operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 401
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    22102,
+    23261
+   ],
+   "page": 401
+  },
+  {
+   "label": "Adjustment for:",
+   "values": [
+    null,
+    null
+   ],
+   "page": 401
+  },
+  {
+   "label": "Depreciation and amortization expense",
+   "values": [
+    4355,
+    4084
+   ],
+   "page": 401
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -1542,
+    -1567
+   ],
+   "page": 401
+  },
+  {
+   "label": "Provision for doubtful debts / bad debts written off (net)",
+   "values": [
+    107,
+    15
+   ],
+   "page": 401
+  },
+  {
+   "label": "Income on investments carried at fair value through profit and loss",
+   "values": [
+    -192,
+    -195
+   ],
+   "page": 401
+  },
+  {
+   "label": "Profit on sale of debt securities",
+   "values": [
+    -2,
+    null
+   ],
+   "page": 401
+  },
+  {
+   "label": "Interest expense",
+   "values": [
+    434,
+    336
+   ],
+   "page": 401
+  },
+  {
+   "label": "Loss (profit) on sale of property, plant and equipment (net)",
+   "values": [
+    4,
+    -10
+   ],
+   "page": 401
+  },
+  {
+   "label": "Share based payment to employees",
+   "values": [
+    478,
+    218
+   ],
+   "page": 401
+  },
+  {
+   "label": "Divestment in subsidiaries",
+   "values": [
+    null,
+    -574
+   ],
+   "page": 401
+  },
+  {
+   "label": "Other non-cash charges (net)",
+   "values": [
+    -171,
+    -74
+   ],
+   "page": 401
+  },
+  {
+   "label": "",
+   "values": [
+    25573,
+    25494
+   ],
+   "page": 401
+  },
+  {
+   "label": "Net change in",
+   "values": [
+    null,
+    null
+   ],
+   "page": 401
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    -2248,
+    -119
+   ],
+   "page": 401
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -59,
+    77
+   ],
+   "page": 401
+  },
+  {
+   "label": "Other financial assets and other assets",
+   "values": [
+    86,
+    -225
+   ],
+   "page": 401
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    736,
+    249
+   ],
+   "page": 401
+  },
+  {
+   "label": "Other financial liabilities, contract liabilities, provisions and other liabilities",
+   "values": [
+    -37,
+    1028
+   ],
+   "page": 401
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    24051,
+    26504
+   ],
+   "page": 401
+  },
+  {
+   "label": "Income taxes paid (net of refunds)",
+   "values": [
+    -4076,
+    -4243
+   ],
+   "page": 401
+  },
+  {
+   "label": "Net cash flow from operating activities (A)",
+   "values": [
+    19975,
+    22261
+   ],
+   "page": 401
+  },
+  {
+   "label": "Cash flows from investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 401
+  },
+  {
+   "label": "Purchase of property, plant and equipment and intangibles",
+   "values": [
+    -1422,
+    -1108
+   ],
+   "page": 401
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    23,
+    25
+   ],
+   "page": 401
+  },
+  {
+   "label": "Payments for business acquisitions, net of cash acquired",
+   "values": [
+    -159,
+    -1982
+   ],
+   "page": 401
+  },
+  {
+   "label": "Investments in bank deposits",
+   "values": [
+    -17350,
+    -15442
+   ],
+   "page": 401
+  },
+  {
+   "label": "Proceeds from bank deposits",
+   "values": [
+    15164,
+    12622
+   ],
+   "page": 401
+  },
+  {
+   "label": "Deposits placed with body corporates",
+   "values": [
+    -480,
+    -1512
+   ],
+   "page": 401
+  },
+  {
+   "label": "Proceeds from deposits placed with body corporates",
+   "values": [
+    975,
+    1030
+   ],
+   "page": 401
+  },
+  {
+   "label": "Purchase of investments in securities",
+   "values": [
+    -48685,
+    -43861
+   ],
+   "page": 401
+  },
+  {
+   "label": "Proceeds from sale/maturity of investments in securities",
+   "values": [
+    49369,
+    43711
+   ],
+   "page": 401
+  },
+  {
+   "label": "Investment in equity instruments",
+   "values": [
+    -8,
+    -4
+   ],
+   "page": 401
+  },
+  {
+   "label": "Distribution from limited liability partnership",
+   "values": [
+    3,
+    4
+   ],
+   "page": 401
+  },
+  {
+   "label": "Divestment in subsidiaries, net of cash",
+   "values": [
+    null,
+    687
+   ],
+   "page": 401
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    1430,
+    1322
+   ],
+   "page": 401
+  },
+  {
+   "label": "Income taxes paid",
+   "values": [
+    -333,
+    -406
+   ],
+   "page": 401
+  },
+  {
+   "label": "Net cash flow used in investing activities (B)",
+   "values": [
+    -1473,
+    -4914
+   ],
+   "page": 401
+  },
+  {
+   "label": "Cash flows from financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 401
+  },
+  {
+   "label": "Repayment of long term borrowings",
+   "values": [
+    -2305,
+    -84
+   ],
+   "page": 401
+  },
+  {
+   "label": "Proceeds from short term borrowings",
+   "values": [
+    318,
+    377
+   ],
+   "page": 401
+  },
+  {
+   "label": "Repayment of short term borrowings",
+   "values": [
+    -321,
+    -374
+   ],
+   "page": 401
+  },
+  {
+   "label": "Payments for deferred and contingent consideration on business acquisitions",
+   "values": [
+    -1,
+    -50
+   ],
+   "page": 401
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -14618,
+    -16250
+   ],
+   "page": 401
+  },
+  {
+   "label": "Acquisition of treasury shares",
+   "values": [
+    -711,
+    -676
+   ],
+   "page": 401
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -46,
+    -51
+   ],
+   "page": 401
+  },
+  {
+   "label": "Payment of lease liabilities including interest",
+   "values": [
+    -1685,
+    -1453
+   ],
+   "page": 401
+  },
+  {
+   "label": "Net cash flow used in financing activities (C)",
+   "values": [
+    -19369,
+    -18561
+   ],
+   "page": 401
+  },
+  {
+   "label": "Net decrease in cash and cash equivalents (A+B+C)",
+   "values": [
+    -867,
+    -1214
+   ],
+   "page": 401
+  },
+  {
+   "label": "Effect of exchange differences on cash and cash equivalents held in foreign currency",
+   "values": [
+    817,
+    18
+   ],
+   "page": 401
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    8245,
+    9441
+   ],
+   "page": 401
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year as per note 3.10 (a)",
+   "values": [
+    8195,
+    8245
+   ],
+   "page": 401
+  }
+ ],
+ "notes": "Statement body is entirely on page 401 (0-based). One unlabelled sub-total line after the adjustments (25,573 / 25,494) written with label \"\". Section markers A/B/C dropped. Excluded: page 402 (titled 'Consolidated Statement of Cash flows' but containing only 'Notes:' - the reconciliation of liabilities from financing activities table, the total income taxes paid memo (4,409 / 4,649 crores), the earmarked balances note) and the signature block. Next page (403) is Notes to accounts, not a continuation. '-' cells written as null."
+}

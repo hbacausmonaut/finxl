@@ -1,0 +1,651 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "CHOLAFIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 279,
+   "name": "280",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  },
+  {
+   "page": 280,
+   "name": "281",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "pdf": "CHOLAFIN/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4c6276e4-8c0c-4e5f-a963-6ec2f7977b0d.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash Flow from Operating Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit Before Tax",
+   "values": [
+    6973.04,
+    5741.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments to reconcile profit before tax to net cash flows:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    283.89,
+    244.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment of financial instruments",
+   "values": [
+    3536.34,
+    2494.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on derecognition of financial instruments under amortised cost category",
+   "values": [
+    -439.11,
+    -159.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    14384.13,
+    12494.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss on Sale of Property plant and equipment ( Net )",
+   "values": [
+    7.21,
+    2.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Intangible Assets Under Development -Expensed off",
+   "values": [
+    null,
+    1.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair value change in Mutual funds-realised",
+   "values": [
+    -124.52,
+    -187.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair value change in Mutual funds-unrealised",
+   "values": [
+    -0.05,
+    -0.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain/(loss) on fair value change in equity shares/ Other financial Instruments-Un-realised",
+   "values": [
+    11.78,
+    -3.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair value change in Alternative Investment Fund-realised",
+   "values": [
+    null,
+    -0.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair value change in Alternative Investment Fund-unrealised",
+   "values": [
+    -1.24,
+    -0.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Income on bank deposits and other investments",
+   "values": [
+    -831.49,
+    -668.59
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -0.05,
+    -0.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest on Income Tax Refund",
+   "values": [
+    -43.76,
+    -40.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share based payment expense",
+   "values": [
+    84.09,
+    74.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    16867.22,
+    14252.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating Profit Before Working Capital Changes",
+   "values": [
+    23840.26,
+    19994.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for :-",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in operating Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans",
+   "values": [
+    -45120.59,
+    -42070.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    -207.89,
+    91.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    -84.66,
+    190.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Non Financial Assets",
+   "values": [
+    -10.82,
+    -23.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from de-recognition of financial assets recognised at amortised cost",
+   "values": [
+    5878.9,
+    2000.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in operating liabilities & Provisions",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payables",
+   "values": [
+    627.32,
+    159.19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Financial liabilities",
+   "values": [
+    218.81,
+    48.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    45.85,
+    41.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Non Financial liabilities",
+   "values": [
+    -13.61,
+    12.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flow used in Operations",
+   "values": [
+    -14826.43,
+    -19555.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Costs paid",
+   "values": [
+    -14227.95,
+    -11976.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    0.05,
+    0.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Received on Bank Deposits and Other Investments",
+   "values": [
+    814.29,
+    660.67
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -13413.61,
+    -11316.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -28240.04,
+    -30871.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax paid (Net of refunds)",
+   "values": [
+    -1780.76,
+    -1541.39
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash Used in Operating Activities (A)",
+   "values": [
+    -30020.8,
+    -32413.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flow from Investing Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Property, plant and equipment, Intangible assets, Capital work-in-progress and Intangible assets under development",
+   "values": [
+    -265.11,
+    -199.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Sale of Property, Plant and Equipment",
+   "values": [
+    23.36,
+    12.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Mutual Funds Units",
+   "values": [
+    -161227.71,
+    -197683.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Redemption of Mutual Funds Units",
+   "values": [
+    161325.1,
+    197829.91
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in Treasury Bill (Net)",
+   "values": [
+    621.89,
+    -281.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in STRIPS (Net)",
+   "values": [
+    -57.46,
+    -172.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in Government Securities (Net)",
+   "values": [
+    -776.74,
+    -1836.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of Investments - Asset held for sale",
+   "values": [
+    null,
+    48.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in Security receipts-ARC",
+   "values": [
+    -47.14,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase/Proceeds from sale of Investments",
+   "values": [
+    -1.24,
+    -0.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in Bank Fixed Deposits (Net of withdrawals)",
+   "values": [
+    -2148.96,
+    -666.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash Used in Investing Activities (B)",
+   "values": [
+    -2554.01,
+    -2948.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flow from Financing Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of Share Capital (Including Securities Premium and conversion of CCDs)",
+   "values": [
+    1468.07,
+    47.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of Lease liabilities",
+   "values": [
+    -153.25,
+    -133.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of debt securities",
+   "values": [
+    30416.33,
+    23665.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Redemption of Debt securities (including conversion of CCDs)",
+   "values": [
+    -19757.94,
+    -18544.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Borrowing other than debt securities",
+   "values": [
+    128806.95,
+    131326.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of borrowing - Other than debt securities",
+   "values": [
+    -107602.63,
+    -102045.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of subordinated liabilities",
+   "values": [
+    2602,
+    5760
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of subordinated liabilities",
+   "values": [
+    null,
+    -112.4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    34464.71,
+    40049.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividends Paid",
+   "values": [
+    -169.52,
+    -168.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash generated from Financing Activities (C)",
+   "values": [
+    35610.01,
+    39795.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Increase / (Decrease) in Cash and Cash Equivalents (A+B+C)",
+   "values": [
+    3035.2,
+    4434.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents at the Beginning of the year",
+   "values": [
+    5279.65,
+    845.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents at the End of the year",
+   "values": [
+    8314.85,
+    5279.65
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 70,
+  "rows_reader": 68,
+  "rows_aligned": 68,
+  "rows_agreed": 68,
+  "missing_in_parser": 0,
+  "extra_in_parser": 2,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 117,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 68,
+   "reader_index": null,
+   "label_parser": "Non-cash financing and investing activities",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 279,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 69,
+   "reader_index": null,
+   "label_parser": "Acquistion of right -of-use of assets",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 165.87,
+    "2025": 314.59
+   },
+   "values_reader": {},
+   "page": 279,
+   "search": [
+    "165.87",
+    "314.59"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "ticker": "KOTAKBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 61,
+   "name": "62",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CAPITAL AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Capital",
+   "values": [
+    9946465.0,
+    9941115.0
+   ]
+  },
+  {
+   "label": "Employees' Stock Options/Units (Grants) Outstanding",
+   "values": [
+    1131215.0,
+    942677.0
+   ]
+  },
+  {
+   "label": "Reserves and Surplus",
+   "values": [
+    1801181029.0,
+    1564009706.0
+   ]
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    5669403265.0,
+    4947074752.0
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    953935315.0,
+    976220344.0
+   ]
+  },
+  {
+   "label": "Policyholders' Funds",
+   "values": [
+    961683428.0,
+    851210618.0
+   ]
+  },
+  {
+   "label": "Other Liabilities and Provisions",
+   "values": [
+    636247193.0,
+    448344158.0
+   ]
+  },
+  {
+   "label": "Total capital and liabilities",
+   "values": [
+    10033527910.0,
+    8797743370.0
+   ]
+  },
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Balances with Reserve Bank of India",
+   "values": [
+    512817365.0,
+    417483508.0
+   ]
+  },
+  {
+   "label": "Balances with Banks and Money at Call and Short Notice",
+   "values": [
+    508093671.0,
+    373134027.0
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    2906328066.0,
+    2842549990.0
+   ]
+  },
+  {
+   "label": "Advances",
+   "values": [
+    5657678786.0,
+    4861655200.0
+   ]
+  },
+  {
+   "label": "Fixed Assets",
+   "values": [
+    28528046.0,
+    28108003.0
+   ]
+  },
+  {
+   "label": "Other Assets",
+   "values": [
+    410604409.0,
+    265335075.0
+   ]
+  },
+  {
+   "label": "Goodwill on Consolidation",
+   "values": [
+    9477567.0,
+    9477567.0
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    10033527910.0,
+    8797743370.0
+   ]
+  },
+  {
+   "label": "Contingent Liabilities",
+   "values": [
+    9897914181.0,
+    11271592571.0
+   ]
+  },
+  {
+   "label": "Bills for Collection",
+   "values": [
+    684737496.0,
+    526908188.0
+   ]
+  }
+ ],
+ "pdf": "KOTAKBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1b719fb-23e9-4cb8-b303-720eb0e31cc4.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

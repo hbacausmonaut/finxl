@@ -1,0 +1,449 @@
+{
+ "ticker": "HAVELLS",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 346,
+   "name": "347",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    3813.02,
+    3252.13
+   ]
+  },
+  {
+   "label": "Capital work in progress",
+   "values": [
+    439.49,
+    116.47
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    310.47,
+    310.47
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    1219.38,
+    1089.31
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    3.04,
+    1.72
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investment in associate",
+   "values": [
+    5.63,
+    null
+   ]
+  },
+  {
+   "label": "Other investments",
+   "values": [
+    882.74,
+    10.98
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    null,
+    0.39
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    64.97,
+    36.44
+   ]
+  },
+  {
+   "label": "Contract assets",
+   "values": [
+    null,
+    1.01
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    164.64,
+    97.01
+   ]
+  },
+  {
+   "label": "Non Current tax assets",
+   "values": [
+    17.64,
+    22.97
+   ]
+  },
+  {
+   "label": "Total non current assets",
+   "values": [
+    6921.02,
+    4938.9
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    4440.67,
+    4046.85
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    789.77,
+    1258.33
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    790.62,
+    807.25
+   ]
+  },
+  {
+   "label": "Bank balances other than (ii) above",
+   "values": [
+    1572.88,
+    2570.86
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    8.82,
+    5.65
+   ]
+  },
+  {
+   "label": "Contract assets",
+   "values": [
+    1.01,
+    11.33
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    218.01,
+    166.82
+   ]
+  },
+  {
+   "label": "Total current assets excluding assets classified as held for sale",
+   "values": [
+    7821.78,
+    8867.09
+   ]
+  },
+  {
+   "label": "Assets classified as held for sale",
+   "values": [
+    3.45,
+    3.42
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    7825.23,
+    8870.51
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    14746.25,
+    13809.41
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    62.73,
+    62.69
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    9392.74,
+    8261.1
+   ]
+  },
+  {
+   "label": "Equity attributable to equity holders of parent company",
+   "values": [
+    9455.47,
+    8323.79
+   ]
+  },
+  {
+   "label": "Non controlling interest",
+   "values": [
+    13.2,
+    17.18
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    9468.67,
+    8340.97
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    187.96,
+    241.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    25.03,
+    12.53
+   ]
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    11.49,
+    5.78
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    31.55,
+    54.74
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    434.57,
+    375.32
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    2.26,
+    4.31
+   ]
+  },
+  {
+   "label": "Total non current liabilities",
+   "values": [
+    692.86,
+    693.68
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    77.24,
+    77.54
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises; and",
+   "values": [
+    223.24,
+    198.88
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    2685.16,
+    2848.1
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    880.26,
+    870.02
+   ]
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    142.89,
+    106.03
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    276.96,
+    334.9
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    11.11,
+    62.68
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    287.86,
+    276.61
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    4584.72,
+    4774.76
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    5277.58,
+    5468.44
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    14746.25,
+    13809.41
+   ]
+  }
+ ],
+ "pdf": "HAVELLS/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/91649597-75d8-410c-b359-b79e40e6bd6b.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

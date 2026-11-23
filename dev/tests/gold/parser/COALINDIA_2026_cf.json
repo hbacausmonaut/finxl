@@ -1,0 +1,529 @@
+{
+ "ticker": "COALINDIA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 232,
+   "name": "233L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 232,
+   "name": "233R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    41923.09,
+    47163.44
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Share of Joint Venture",
+   "values": [
+    -758.35,
+    -462.26
+   ]
+  },
+  {
+   "label": "Depreciation, amortisation and impairment expenses",
+   "values": [
+    10136.67,
+    9092.16
+   ]
+  },
+  {
+   "label": "Interest and other income from investment",
+   "values": [
+    -4121.77,
+    -3391.27
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    1212.15,
+    877.97
+   ]
+  },
+  {
+   "label": "(Profit)/Loss on sale of Property, Plant and Equipment",
+   "values": [
+    1.06,
+    0.53
+   ]
+  },
+  {
+   "label": "Liability and provision written back",
+   "values": [
+    -2931.78,
+    -2495.78
+   ]
+  },
+  {
+   "label": "Allowances and Provisions",
+   "values": [
+    248.71,
+    540.69
+   ]
+  },
+  {
+   "label": "Write off",
+   "values": [
+    2.66,
+    186.99
+   ]
+  },
+  {
+   "label": "Reversal of Stripping Activity Provision",
+   "values": [
+    -1964.9,
+    -2881.75
+   ]
+  },
+  {
+   "label": "Stripping Activity Adjustment",
+   "values": [
+    -4070.72,
+    -4103.03
+   ]
+  },
+  {
+   "label": "Foreign Exchange rate variance",
+   "values": [
+    9.84,
+    7.03
+   ]
+  },
+  {
+   "label": "Cash flows from operating activities before changes in following assets and liabilities",
+   "values": [
+    39686.66,
+    44534.72
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    -1351.2,
+    1575.5
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -2796.1,
+    -2683.04
+   ]
+  },
+  {
+   "label": "Loans and advances and other financial assets",
+   "values": [
+    -1571.51,
+    -84.04
+   ]
+  },
+  {
+   "label": "Other current and non current Assets",
+   "values": [
+    3493.2,
+    -5727.49
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    2352.23,
+    1816.68
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    4265.77,
+    1132.37
+   ]
+  },
+  {
+   "label": "Other current and non current liabilities",
+   "values": [
+    4240.4,
+    2127.34
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    -528.84,
+    -854.51
+   ]
+  },
+  {
+   "label": "Cash Generated from Operation",
+   "values": [
+    47790.61,
+    41837.53
+   ]
+  },
+  {
+   "label": "Income Tax (Paid)",
+   "values": [
+    -4576.01,
+    -11600.63
+   ]
+  },
+  {
+   "label": "Net Cash Flow generated from Operating Activities ( A )",
+   "values": [
+    43214.6,
+    30236.9
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Payments for Property, Plant and Equipments, Capital work in progress and Intangible assets",
+   "values": [
+    -12092.13,
+    -13842.75
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of Property, Plant and Equipments",
+   "values": [
+    68.18,
+    53.56
+   ]
+  },
+  {
+   "label": "Payments for Exploration and Evaluation Asset",
+   "values": [
+    -407.51,
+    -489.39
+   ]
+  },
+  {
+   "label": "Realisation of deposits/(Deposits) with Banks",
+   "values": [
+    -23627.6,
+    -387.18
+   ]
+  },
+  {
+   "label": "Proceeds from/(Investment in) Mutual Fund, Shares etc.",
+   "values": [
+    -762.86,
+    384.64
+   ]
+  },
+  {
+   "label": "Payment for Equity investment in Joint Venture",
+   "values": [
+    -863.55,
+    -96.67
+   ]
+  },
+  {
+   "label": "Interest received on Investment",
+   "values": [
+    3730.89,
+    3264.19
+   ]
+  },
+  {
+   "label": "Net Cash used in Investing Activities ( B )",
+   "values": [
+    -33954.58,
+    -11113.6
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from /(Repayment of) non current borrowings",
+   "values": [
+    1822.84,
+    1733.43
+   ]
+  },
+  {
+   "label": "Proceeds from /(Repayment of) current borrowings",
+   "values": [
+    3090.6,
+    1511.03
+   ]
+  },
+  {
+   "label": "Repayment of lease liabilities (including interest)",
+   "values": [
+    -79.74,
+    -89.26
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -437.24,
+    -225.18
+   ]
+  },
+  {
+   "label": "Dividend paid on Equity shares/deposited in Investor Education and Protection Fund",
+   "values": [
+    -16197.13,
+    -16238.52
+   ]
+  },
+  {
+   "label": "Net Cash (used in)/generated from Financing Activities ( C )",
+   "values": [
+    -11800.67,
+    -13308.5
+   ]
+  },
+  {
+   "label": "Net Increase / (Decrease) in Cash and Cash equivalent",
+   "values": [
+    -2540.64,
+    5814.8
+   ]
+  },
+  {
+   "label": "Cash and Cash equivalent as at the beginning of the year",
+   "values": [
+    11160.26,
+    5345.46
+   ]
+  },
+  {
+   "label": "Cash and Cash equivalent as at the end of the year",
+   "values": [
+    8619.62,
+    11160.26
+   ]
+  },
+  {
+   "label": "Reconciliation of Cash and Cash equivalents (Refer Note 4.4)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Cash equivalents (Net of bank Overdraft)",
+   "values": [
+    8619.62,
+    11160.26
+   ]
+  },
+  {
+   "label": "Components of Cash and Cash Equivalents",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Balances with Banks",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "in Deposit Accounts",
+   "values": [
+    5000.23,
+    7554.39
+   ]
+  },
+  {
+   "label": "in Current Accounts",
+   "values": [
+    2953.58,
+    2192.09
+   ]
+  },
+  {
+   "label": "Bank Balances outside India",
+   "values": [
+    0.12,
+    0.16
+   ]
+  },
+  {
+   "label": "ICDs with Primary Dealers",
+   "values": [
+    665.5,
+    1170.8
+   ]
+  },
+  {
+   "label": "Cheques, Drafts and Stamps in hand",
+   "values": [
+    null,
+    0.01
+   ]
+  },
+  {
+   "label": "Cash in hand",
+   "values": [
+    null,
+    0.01
+   ]
+  },
+  {
+   "label": "Bank Overdraft (Refer note 8.1)",
+   "values": [
+    -0.04,
+    -0.42
+   ]
+  },
+  {
+   "label": "Others e-procurement account/GeM account/Imprest balances",
+   "values": [
+    0.23,
+    243.22
+   ]
+  },
+  {
+   "label": "Total (Refer note 4.4 and note 8.1 for components of Cash and Cash Equivalents)",
+   "values": [
+    8619.62,
+    11160.26
+   ]
+  },
+  {
+   "label": "Corporate Overview Statutory Reports Financial Statements",
+   "values": [
+    null,
+    459.0
+   ]
+  },
+  {
+   "label": "STATEMENT OF CASH FLOW - CONSOLIDATED",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "For the Year Ended 31-03-2026",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(H in Crore)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current Finance Lease Current",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings* Liabilities borrowings",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Opening balance as at 01-04-2025",
+   "values": [
+    7394.56,
+    237.33
+   ]
+  },
+  {
+   "label": "Cash flows during the year",
+   "values": [
+    1938.21,
+    -79.74
+   ]
+  },
+  {
+   "label": "Non-cash changes due to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Acquisitions and unwinding finance cost under finance lease",
+   "values": [
+    null,
+    93.13
+   ]
+  },
+  {
+   "label": "Accrued Interest on borrowings",
+   "values": [
+    23.77,
+    -139.14
+   ]
+  },
+  {
+   "label": "Closing balance as at 31-03-2026",
+   "values": [
+    9356.54,
+    250.72
+   ]
+  }
+ ],
+ "pdf": "COALINDIA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a545232-5986-454c-b936-70e14712b84e.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

@@ -1,0 +1,253 @@
+{
+ "ticker": "ICICIBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 374,
+   "name": "375",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from/(used in) operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit/(loss) before taxes",
+   "values": [
+    735916383.0,
+    694640235.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation",
+   "values": [
+    31226502.0,
+    26903750.0
+   ]
+  },
+  {
+   "label": "Net (appreciation)/depreciation on investments",
+   "values": [
+    2903439.0,
+    -1023190.0
+   ]
+  },
+  {
+   "label": "Specific provision for non-performing loans, restructured and standard loans",
+   "values": [
+    62768188.0,
+    41272474.0
+   ]
+  },
+  {
+   "label": "General provision for standard assets",
+   "values": [
+    8355345.0,
+    7011427.0
+   ]
+  },
+  {
+   "label": "Provision for contingencies & others",
+   "values": [
+    -8675607.0,
+    -7227370.0
+   ]
+  },
+  {
+   "label": "(Profit)/loss on sale of fixed assets and other assets",
+   "values": [
+    -2886200.0,
+    -439077.0
+   ]
+  },
+  {
+   "label": "Employees stock options/units expense",
+   "values": [
+    9687013.0,
+    7901495.0
+   ]
+  },
+  {
+   "label": "(i)",
+   "values": [
+    839295063.0,
+    769039744.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in investments",
+   "values": [
+    60753099.0,
+    75014144.0
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in advances",
+   "values": [
+    -2302710742.0,
+    -1640197486.0
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in deposits",
+   "values": [
+    1883800653.0,
+    1980574515.0
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in other assets",
+   "values": [
+    -134938285.0,
+    -5176415.0
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in other liabilities and provisions1",
+   "values": [
+    492533925.0,
+    229962676.0
+   ]
+  },
+  {
+   "label": "(ii)",
+   "values": [
+    -561350.0,
+    640177434.0
+   ]
+  },
+  {
+   "label": "Refund/(payment) of direct taxes (iii)",
+   "values": [
+    -165479524.0,
+    -181164596.0
+   ]
+  },
+  {
+   "label": "Net cash flow from/(used in) operating activities (i)+(ii)+(iii) (A)",
+   "values": [
+    673254189.0,
+    1228052582.0
+   ]
+  },
+  {
+   "label": "Cash flow from/(used in) investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of fixed assets",
+   "values": [
+    -37299949.0,
+    -47700055.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of fixed assets",
+   "values": [
+    1829389.0,
+    646115.0
+   ]
+  },
+  {
+   "label": "(Purchase)/sale of held to maturity securities",
+   "values": [
+    -94665319.0,
+    -725829665.0
+   ]
+  },
+  {
+   "label": "Net cash flow from/(used in) investing activities (B)",
+   "values": [
+    -130135879.0,
+    -772883605.0
+   ]
+  },
+  {
+   "label": "Cash flow from/(used in) financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issue of share capital (including ESOPs/ESUSs)",
+   "values": [
+    13606496.0,
+    14375199.0
+   ]
+  },
+  {
+   "label": "Proceeds from long-term borrowings",
+   "values": [
+    481787715.0,
+    404464948.0
+   ]
+  },
+  {
+   "label": "Repayment of long-term borrowings",
+   "values": [
+    -501532043.0,
+    -399331062.0
+   ]
+  },
+  {
+   "label": "Net proceeds/(repayment) of short-term borrowings",
+   "values": [
+    38063900.0,
+    106795922.0
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -78531534.0,
+    -70412665.0
+   ]
+  },
+  {
+   "label": "Net cash flow from/(used in) financing activities (C)",
+   "values": [
+    -46605466.0,
+    55892342.0
+   ]
+  }
+ ],
+ "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

@@ -1,0 +1,296 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "KPRMILL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 177,
+   "name": "178",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    793.7
+   ]
+  }
+ ],
+ "pdf": "KPRMILL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7176212b-4cc0-474d-850c-b514102e2234.pdf",
+ "unit": "lakh",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    665037,
+    638788
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    13392,
+    7438
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income (I+II)",
+   "values": [
+    678429,
+    646226
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    410134,
+    386132
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of stock-in-trade",
+   "values": [
+    4959,
+    5494
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in inventories of finished goods, stock -in- trade and work- in-progress",
+   "values": [
+    -11098,
+    -2652
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    78304,
+    67190
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    5160,
+    4977
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    21560,
+    20787
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    56010,
+    58020
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    565029,
+    539948
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax (III-V)",
+   "values": [
+    113400,
+    106278
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "- Pertaining to current period",
+   "values": [
+    25085,
+    23324
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "- Pertaining to prior year",
+   "values": [
+    30,
+    357
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    1635,
+    1086
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    26750,
+    24767
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the period (VI-VII)",
+   "values": [
+    86650,
+    81511
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income for the period, net of tax",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the period (VIII+IX)",
+   "values": [
+    86650,
+    81511
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share (EPS)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic and Diluted EPS (in ₹) of face value ₹ 1/- each",
+   "values": [
+    25.35,
+    23.85
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 27,
+  "rows_reader": 27,
+  "rows_aligned": 27,
+  "rows_agreed": 26,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 38,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "lakh",
+  "unit_reader": "lakh"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 26,
+   "reader_index": 26,
+   "label_parser": "Basic and Diluted EPS (in `) of face value ` 1/- each",
+   "label_reader": "Basic and Diluted EPS (in ₹) of face value ₹ 1/- each",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 25.35,
+    "2025": 23.85
+   },
+   "values_reader": {
+    "2026": 25.35,
+    "2025": 23.85
+   },
+   "page": 177,
+   "search": [
+    "25.35",
+    "23.85"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "ticker": "ADANIPORTS",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 333,
+   "name": "334L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    779.5
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, Plant and Equipment (a)",
+   "values": [
+    93242.9,
+    62394.43
+   ]
+  },
+  {
+   "label": "Right-of-Use Assets (b)",
+   "values": [
+    8761.08,
+    6177.54
+   ]
+  },
+  {
+   "label": "Capital Work-in-Progress (e)",
+   "values": [
+    12672.13,
+    11592.19
+   ]
+  },
+  {
+   "label": "Investment Property (f)",
+   "values": [
+    1859.01,
+    1459.16
+   ]
+  },
+  {
+   "label": "Goodwill (d)",
+   "values": [
+    9735.82,
+    7093.59
+   ]
+  },
+  {
+   "label": "Other Intangible Assets (c)",
+   "values": [
+    18053.69,
+    12491.6
+   ]
+  },
+  {
+   "label": "Intangible Assets under development (g)",
+   "values": [
+    16.92,
+    113.91
+   ]
+  },
+  {
+   "label": "Investments accounted using Equity Method (a)",
+   "values": [
+    3340.86,
+    3082.64
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments (b)",
+   "values": [
+    853.14,
+    824.93
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    98.61,
+    24.0
+   ]
+  },
+  {
+   "label": "Loans to Joint Venture Entities",
+   "values": [
+    1014.92,
+    704.15
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Bank Deposits having maturity over twelve months",
+   "values": [
+    2455.23,
+    1633.51
+   ]
+  },
+  {
+   "label": "Other Financial Assets other than above",
+   "values": [
+    3561.05,
+    3323.67
+   ]
+  },
+  {
+   "label": "Deferred Tax Assets (net)",
+   "values": [
+    2216.23,
+    1889.58
+   ]
+  },
+  {
+   "label": "Other Non-Current Assets",
+   "values": [
+    5458.34,
+    3583.21
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    163339.93,
+    116388.11
+   ]
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    685.0,
+    521.8
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    1254.65,
+    751.88
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    6382.54,
+    4432.36
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents",
+   "values": [
+    5161.55,
+    3406.32
+   ]
+  },
+  {
+   "label": "Bank Balances other than Cash and Cash Equivalents",
+   "values": [
+    3321.96,
+    3199.65
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    88.0,
+    70.6
+   ]
+  },
+  {
+   "label": "Loans to Joint Venture Entities",
+   "values": [
+    2.37,
+    102.57
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    2165.34,
+    4471.8
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    2913.42,
+    1800.39
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    21974.83,
+    18757.37
+   ]
+  },
+  {
+   "label": "Assets classified as Held for Sale",
+   "values": [
+    null,
+    186.75
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    185314.76,
+    135332.23
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity Share Capital",
+   "values": [
+    460.79,
+    432.03
+   ]
+  },
+  {
+   "label": "Other Equity",
+   "values": [
+    95664.51,
+    62003.36
+   ]
+  },
+  {
+   "label": "Total Equity attributable to Equity holders of the parent",
+   "values": [
+    96125.3,
+    62435.39
+   ]
+  },
+  {
+   "label": "Non-Controlling Interests",
+   "values": [
+    2856.18,
+    2537.95
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    98981.48,
+    64973.34
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    50424.16,
+    35830.68
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    7786.56,
+    5389.61
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    589.45,
+    207.45
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1453.81,
+    1149.36
+   ]
+  },
+  {
+   "label": "Deferred Tax Liabilities (net)",
+   "values": [
+    7563.55,
+    4653.26
+   ]
+  },
+  {
+   "label": "Other Non-Current Liabilities",
+   "values": [
+    2755.4,
+    2142.54
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    70572.93,
+    49372.9
+   ]
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    4678.81,
+    9979.35
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    509.46,
+    254.56
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    242.31,
+    166.73
+   ]
+  },
+  {
+   "label": "total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    2493.93,
+    2553.77
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    6147.82,
+    5359.74
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    1449.59,
+    2242.68
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    138.62,
+    236.77
+   ]
+  },
+  {
+   "label": "Current Tax Liabilities (net)",
+   "values": [
+    99.81,
+    144.84
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    15760.35,
+    20938.44
+   ]
+  },
+  {
+   "label": "Liabilities associated with Assets classified as Held for Sale",
+   "values": [
+    null,
+    47.55
+   ]
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    86333.28,
+    70358.89
+   ]
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    185314.76,
+    135332.23
+   ]
+  }
+ ],
+ "pdf": "ADANIPORTS/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aaa81a60-9ae5-42c6-870c-2abb13d032bb.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

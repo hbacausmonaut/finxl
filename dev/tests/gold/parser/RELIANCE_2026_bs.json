@@ -1,0 +1,424 @@
+{
+ "ticker": "RELIANCE",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 138,
+   "name": "139L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 138,
+   "name": "139R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, Plant and Equipment",
+   "values": [
+    751087.0,
+    683102.0
+   ]
+  },
+  {
+   "label": "Spectrum",
+   "values": [
+    188120.0,
+    147122.0
+   ]
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    157126.0,
+    144639.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    28462.0,
+    24530.0
+   ]
+  },
+  {
+   "label": "Capital Work-in-Progress",
+   "values": [
+    192287.0,
+    169710.0
+   ]
+  },
+  {
+   "label": "Spectrum Under Development",
+   "values": [
+    8611.0,
+    54176.0
+   ]
+  },
+  {
+   "label": "Other Intangible Assets Under Development",
+   "values": [
+    36788.0,
+    38472.0
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    150901.0,
+    123672.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    826.0,
+    742.0
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    4899.0,
+    6088.0
+   ]
+  },
+  {
+   "label": "Deferred Tax Assets (Net)",
+   "values": [
+    594.0,
+    408.0
+   ]
+  },
+  {
+   "label": "Other Non-Current Assets",
+   "values": [
+    64190.0,
+    58190.0
+   ]
+  },
+  {
+   "label": "Total Non-Current Assets",
+   "values": [
+    1583891.0,
+    1450851.0
+   ]
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    166941.0,
+    146062.0
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    97431.0,
+    118709.0
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    58491.0,
+    42121.0
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents",
+   "values": [
+    145977.0,
+    106502.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    4870.0,
+    5182.0
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    57926.0,
+    23546.0
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    62613.0,
+    57148.0
+   ]
+  },
+  {
+   "label": "Total Current Assets",
+   "values": [
+    594249.0,
+    499270.0
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    2178140.0,
+    1950121.0
+   ]
+  },
+  {
+   "label": "Equity and Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity Share Capital",
+   "values": [
+    13532.0,
+    13532.0
+   ]
+  },
+  {
+   "label": "Other Equity",
+   "values": [
+    890498.0,
+    829668.0
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    181836.0,
+    166426.0
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    1085866.0,
+    1009626.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    270751.0,
+    236899.0
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    16198.0,
+    17142.0
+   ]
+  },
+  {
+   "label": "Deferred Payment Liabilities",
+   "values": [
+    99552.0,
+    104410.0
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    37833.0,
+    10909.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    21793.0,
+    28304.0
+   ]
+  },
+  {
+   "label": "Deferred Tax Liabilities (Net)",
+   "values": [
+    97961.0,
+    83453.0
+   ]
+  },
+  {
+   "label": "Other Non-Current Liabilities",
+   "values": [
+    6932.0,
+    5641.0
+   ]
+  },
+  {
+   "label": "Total Non-Current Liabilities",
+   "values": [
+    551020.0,
+    486758.0
+   ]
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    103670.0,
+    110631.0
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    7381.0,
+    4903.0
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    158842.0,
+    186789.0
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    64660.0,
+    57143.0
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    201503.0,
+    90124.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    5198.0,
+    4147.0
+   ]
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    541254.0,
+    453737.0
+   ]
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    1092274.0,
+    940495.0
+   ]
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    2178140.0,
+    1950121.0
+   ]
+  }
+ ],
+ "pdf": "RELIANCE/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

@@ -1,0 +1,527 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "HEROMOTOCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 212,
+   "name": "213R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "HEROMOTOCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b80c703d-600d-472b-a18c-9565f6f780a7.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    47411.24,
+    40923.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1058.13,
+    1044.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total income",
+   "values": [
+    48469.37,
+    41967.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of raw materials consumed",
+   "values": [
+    31186.16,
+    26607.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    796.53,
+    547.91
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in inventories of finished goods, stock-in-trade and work-in-progress",
+   "values": [
+    -303.32,
+    -244.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    2829.47,
+    2680.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    78.27,
+    70.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    854.99,
+    824.59
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    5857.27,
+    5386.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    41299.37,
+    35872.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before share of profit/(loss) of associates, exceptional items and tax (I - II)",
+   "values": [
+    7170,
+    6094.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/(loss) from associates",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share in net profit/(loss) of associates (net of tax)",
+   "values": [
+    384.58,
+    -161.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items and tax (III+IV)",
+   "values": [
+    7554.58,
+    5933.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional item",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expense towards- New Labour Code",
+   "values": [
+    119,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax (V-VI)",
+   "values": [
+    7435.58,
+    5933.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    1638.11,
+    1448.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax charge",
+   "values": [
+    21.77,
+    109.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    1659.88,
+    1557.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit after tax (VII -VIII)",
+   "values": [
+    5775.7,
+    4375.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/(loss)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified subsequently to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Re-measurement (losses) on defined benefit plans",
+   "values": [
+    -21.42,
+    -16.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    5.38,
+    4.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of Other comprehensive income/(loss) of associates",
+   "values": [
+    -0.08,
+    0.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -16.12,
+    -11.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified subsequently to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange differences in translating the financial information of foreign operations",
+   "values": [
+    55.04,
+    -18.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -13.85,
+    4.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of Other comprehensive income/(loss) of associates",
+   "values": [
+    31.54,
+    -13.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    72.73,
+    -27.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/(loss), net of tax",
+   "values": [
+    56.61,
+    -39.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income/(loss), net of tax (IX + X)",
+   "values": [
+    5832.31,
+    4336.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit/(loss) attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "- Owners of the Company",
+   "values": [
+    5741.73,
+    4378.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "- Non-controlling interests",
+   "values": [
+    33.97,
+    -2.67
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    5775.7,
+    4375.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/(loss) for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "-Owners of the Company",
+   "values": [
+    43.9,
+    -32.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "-Non-controlling interests",
+   "values": [
+    12.71,
+    -6.94
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    56.61,
+    -39.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income/(loss) for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "- Owners of the Company",
+   "values": [
+    5785.63,
+    4346.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "- Non-controlling interests",
+   "values": [
+    46.68,
+    -9.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    5832.31,
+    4336.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per share (face value of ₹ 2 each) in Rupees",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    287.01,
+    218.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    286.72,
+    218.69
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 53,
+  "rows_reader": 53,
+  "rows_aligned": 53,
+  "rows_agreed": 51,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 2,
+  "value_diffs": 0,
+  "values_reader": 81,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 10,
+   "reader_index": 10,
+   "label_parser": "Depreciation and amortisation expense 5, 7 and",
+   "label_reader": "Depreciation and amortisation expense",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 854.99,
+    "2025": 824.59
+   },
+   "values_reader": {
+    "2026": 854.99,
+    "2025": 824.59
+   },
+   "page": 212,
+   "search": [
+    "854.99",
+    "824.59"
+   ],
+   "pattern": "note_ref_in_label",
+   "pattern_text": "Note number left in the label"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 50,
+   "reader_index": 50,
+   "label_parser": "Earnings per share (face value of K 2 each) in Rupees",
+   "label_reader": "Earnings per share (face value of ₹ 2 each) in Rupees",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 212,
+   "search": [],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  }
+ ]
+}

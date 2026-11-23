@@ -1,0 +1,317 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "VINATIORGA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 188,
+   "name": "189",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    777.6
+   ]
+  }
+ ],
+ "pdf": "VINATIORGA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/30a4c42b-d9d5-4ecc-b50b-647f684b7ac8.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    2226.89,
+    2248.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    52.64,
+    44.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total income",
+   "values": [
+    2279.53,
+    2292.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    1066.29,
+    1182.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of stock in trade",
+   "values": [
+    0.51,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in inventories of finished goods and work-in-progress",
+   "values": [
+    -32.4,
+    13.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefit expense",
+   "values": [
+    175.42,
+    139.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    0.41,
+    0.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    111.36,
+    88.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    363.2,
+    331.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    1684.79,
+    1756.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    594.74,
+    536.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    133.56,
+    116.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    21.45,
+    18.46
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earlier years tax adjustments",
+   "values": [
+    -4.01,
+    -4.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    151,
+    130.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    443.74,
+    405.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remeasurements of defined benefit plans",
+   "values": [
+    -0.22,
+    -0.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expenses relating to items that will not be reclassified to profit or loss",
+   "values": [
+    0.05,
+    0.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to foreign currency translation reserve",
+   "values": [
+    -0.03,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total other comprehensive income for the year, net of tax",
+   "values": [
+    -0.2,
+    -0.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    443.54,
+    404.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share (in ₹)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    42.8,
+    39.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    42.8,
+    39.09
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 30,
+  "rows_reader": 30,
+  "rows_aligned": 30,
+  "rows_agreed": 29,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 46,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 27,
+   "reader_index": 27,
+   "label_parser": "Earnings per equity share (in `) (a)",
+   "label_reader": "Earnings per equity share (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 188,
+   "search": [],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  }
+ ]
+}

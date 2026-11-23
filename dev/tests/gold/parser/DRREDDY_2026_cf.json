@@ -1,0 +1,358 @@
+{
+ "ticker": "DRREDDY",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 194,
+   "name": "195R",
+   "clip": [
+    612.0,
+    0.0,
+    1224.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flows from / (used in) operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    53927.0,
+    76795.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Fair value changes and profit on sale of financial instruments measured at FVTPL*, net",
+   "values": [
+    -2359.0,
+    -3554.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    20588.0,
+    17037.0
+   ]
+  },
+  {
+   "label": "Impairment of non-current assets, net",
+   "values": [
+    3518.0,
+    1693.0
+   ]
+  },
+  {
+   "label": "Allowance for credit losses (on trade receivables and other advances)",
+   "values": [
+    690.0,
+    161.0
+   ]
+  },
+  {
+   "label": "Profit on sale/disposal of assets, net",
+   "values": [
+    -2547.0,
+    -1512.0
+   ]
+  },
+  {
+   "label": "Share of profit of equity accounted investees",
+   "values": [
+    -134.0,
+    -217.0
+   ]
+  },
+  {
+   "label": "Unrealized exchange loss/(gain), net",
+   "values": [
+    -529.0,
+    211.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -3726.0,
+    -2677.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    3738.0,
+    2829.0
+   ]
+  },
+  {
+   "label": "Equity settled share-based payment expense",
+   "values": [
+    326.0,
+    424.0
+   ]
+  },
+  {
+   "label": "Inventories write-down",
+   "values": [
+    7517.0,
+    5220.0
+   ]
+  },
+  {
+   "label": "Changes in operating assets and liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    -6722.0,
+    -10283.0
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -8601.0,
+    -12753.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    2790.0,
+    340.0
+   ]
+  },
+  {
+   "label": "Other assets and other liabilities, net",
+   "values": [
+    1787.0,
+    -7293.0
+   ]
+  },
+  {
+   "label": "Cash flows generated from operations",
+   "values": [
+    70263.0,
+    66421.0
+   ]
+  },
+  {
+   "label": "Income tax paid, net",
+   "values": [
+    -13526.0,
+    -19993.0
+   ]
+  },
+  {
+   "label": "Net cash flows from operating activities",
+   "values": [
+    56737.0,
+    46428.0
+   ]
+  },
+  {
+   "label": "Cash flows from / (used in) investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment",
+   "values": [
+    -23306.0,
+    -27504.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    309.0,
+    512.0
+   ]
+  },
+  {
+   "label": "Purchase of other intangible assets",
+   "values": [
+    -15099.0,
+    -6894.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of other intangible assets",
+   "values": [
+    1401.0,
+    732.0
+   ]
+  },
+  {
+   "label": "Investment in associates",
+   "values": [
+    -51.0,
+    -317.0
+   ]
+  },
+  {
+   "label": "Purchase of investments (including bank deposits)",
+   "values": [
+    -46718.0,
+    -28492.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of investments (including bank deposits)",
+   "values": [
+    19602.0,
+    53610.0
+   ]
+  },
+  {
+   "label": "Payment for acquisition of business(Refer note 2.39 B)",
+   "values": [
+    -3152.0,
+    -53096.0
+   ]
+  },
+  {
+   "label": "Interest and dividend received",
+   "values": [
+    1521.0,
+    3372.0
+   ]
+  },
+  {
+   "label": "Net cash flows used in investing activities",
+   "values": [
+    -65493.0,
+    -58077.0
+   ]
+  },
+  {
+   "label": "Cash flows from / (used in) financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issuance of equity shares (including treasury shares)",
+   "values": [
+    397.0,
+    193.0
+   ]
+  },
+  {
+   "label": "Purchase of treasury shares",
+   "values": [
+    null,
+    -1389.0
+   ]
+  },
+  {
+   "label": "Proceeds from short-term loans and borrowings, net (Refer note 2.11 A & 2.11 B)",
+   "values": [
+    20257.0,
+    24490.0
+   ]
+  },
+  {
+   "label": "Repayment of long-term loans and borrowings (Refer note A & 2.11 B)",
+   "values": [
+    -1.0,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issuance of equity shares in subsidiary to non controlling interest (Refer note 2.39 A)",
+   "values": [
+    null,
+    7056.0
+   ]
+  },
+  {
+   "label": "Payment of principal portion of lease liabilities (Refer note C)",
+   "values": [
+    -1263.0,
+    -1294.0
+   ]
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -6659.0,
+    -6662.0
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -4441.0,
+    -3483.0
+   ]
+  },
+  {
+   "label": "Net cash flows from financing activities",
+   "values": [
+    8290.0,
+    18911.0
+   ]
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents",
+   "values": [
+    -466.0,
+    7262.0
+   ]
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    1241.0,
+    224.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year (Refer note D)",
+   "values": [
+    14593.0,
+    7107.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year (1)(Refer note D)",
+   "values": [
+    15368.0,
+    14593.0
+   ]
+  }
+ ],
+ "pdf": "DRREDDY/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4d586a3-1dea-4aca-9bdc-143fa8564ad1.pdf",
+ "parsed_at": "2026-11-04 11:18 UTC"
+}

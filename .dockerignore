@@ -1,0 +1,12 @@
+.git
+dev
+docs
+data
+**/__pycache__
+web/node_modules
+web/.next
+web/out
+.env
+.env.*
+!deploy/.env.example
+.claude

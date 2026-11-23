@@ -1,0 +1,953 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "CERA",
+ "fy": 2026,
+ "scope": "standalone",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 151,
+   "name": "152",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 152,
+   "name": "153",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "CERA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/903e8d5c-0373-4a07-9b1d-13920a29c910.pdf",
+ "unit": "lakh",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flows from operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit before tax",
+   "values": [
+    26911.25,
+    30609.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation & Amortization",
+   "values": [
+    3865.75,
+    3851.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Allowance for / (Reversal of) Expected Credit Loss - Trade Receivables",
+   "values": [
+    179.17,
+    -15.9
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Profit on Divestment of Share in Subsidiary",
+   "values": [
+    -553.5,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment Loss on Investment",
+   "values": [
+    null,
+    150.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Amortization of Prepaid Rentals",
+   "values": [
+    22.59,
+    20.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bad Debts written off (Net)",
+   "values": [
+    26.66,
+    67.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Cost",
+   "values": [
+    646.78,
+    711.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest on Security Deposit (Non Cash)",
+   "values": [
+    -20.96,
+    -18.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Interest Received",
+   "values": [
+    -299.76,
+    -342.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Foreign Exchange Fluctuations (Income) / Loss (Net)",
+   "values": [
+    31.88,
+    16.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on Sale of Investments",
+   "values": [
+    -68.06,
+    -312.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Gain on Fair Valuation of Investments in Mutual Funds",
+   "values": [
+    -4009.48,
+    -5202.81
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Compensation Expenses under Employees Stock Options Scheme",
+   "values": [
+    249.55,
+    308.84
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Share Buy Back Expenses",
+   "values": [
+    null,
+    181.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Liabilities & provisions no longer required, written back",
+   "values": [
+    -1.09,
+    -0.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Credit Balances written back",
+   "values": [
+    -1349.5,
+    -3414.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss / (Gain) on Foreign Currency Translation (Net)",
+   "values": [
+    -53.28,
+    -10.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss / (Profit) on Sale of Property, Plant and Equipment (Net)",
+   "values": [
+    -55.06,
+    -77.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss / (Profit) on Discard of Property, Plant and Equipment",
+   "values": [
+    10.51,
+    223.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of Profit on Investment in LLP",
+   "values": [
+    -149.78,
+    -228.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss / (Gain) on Termination of Lease",
+   "values": [
+    -6.08,
+    -38.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -1533.66,
+    -4130.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    25377.59,
+    26478.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for changes in working capital",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in Inventories",
+   "values": [
+    1005.37,
+    -4718.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in Trade Receivables",
+   "values": [
+    -796.35,
+    -6713.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in Other Financial Assets",
+   "values": [
+    51.9,
+    -65.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/ Decrease in Other Assets",
+   "values": [
+    -234.24,
+    166.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in Trade Payable",
+   "values": [
+    2896.63,
+    892.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in Other Financial Liabilities",
+   "values": [
+    -367.46,
+    -2347.37
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in Provisions",
+   "values": [
+    -758.74,
+    195.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in Other Liabilities",
+   "values": [
+    930.13,
+    3374.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    2727.24,
+    -9216.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    28104.83,
+    17262.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income Taxes paid",
+   "values": [
+    -6915.68,
+    -5702.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated by operating activities (Total-A)",
+   "values": [
+    21189.15,
+    11560.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow from Investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payments for Property, Plant and Equipments, Capital Work-in-progress, Investment Property & Capital Advances",
+   "values": [
+    -2090.13,
+    -2739.3
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Payments for Intangible Assets",
+   "values": [
+    -35.86,
+    -58.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of Property, Plant and Equipments & Intangible Assets",
+   "values": [
+    120.45,
+    124.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds / (Payments) from Debentures",
+   "values": [
+    1002.06,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds / (Payments) from Fixed Deposit",
+   "values": [
+    -1161.04,
+    -820.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payments for purchase of Mutual Funds",
+   "values": [
+    -22200,
+    -11200
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of Mutual Funds",
+   "values": [
+    13331.4,
+    27130.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Movement in Current Account of Subsidiaries",
+   "values": [
+    720.34,
+    25.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Divestment in Subsidiaries",
+   "values": [
+    1154.28,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Received",
+   "values": [
+    310.72,
+    355.72
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in investing activities (Total-B)",
+   "values": [
+    -8847.78,
+    12818.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of Lease Liabilities",
+   "values": [
+    -1364.31,
+    -1210.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceed / Repayment of Short Term Borrowings (Working Capital)",
+   "values": [
+    -1466.3,
+    -75.81
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Dividend on Equity Shares paid",
+   "values": [
+    -8381.77,
+    -7803.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Buyback of equity shares including tax and expenses thereon",
+   "values": [
+    null,
+    -16208.72
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Treasury Shares purchased during the year (ESOP)",
+   "values": [
+    -118.78,
+    -257.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Exercise of shares held by ESOP Trust",
+   "values": [
+    0.07,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Cost (Other than Non Cash)",
+   "values": [
+    -137.4,
+    -202.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in financing activities (Total-C)",
+   "values": [
+    -11468.49,
+    -25759.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase/(decrease) in Cash & cash equivalents (A+B+C)",
+   "values": [
+    872.88,
+    -1380.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash & cash equivalent - Opening Balance",
+   "values": [
+    411.84,
+    1792.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash & cash equivalent - Closing Balance",
+   "values": [
+    1284.72,
+    411.84
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 75,
+  "rows_reader": 63,
+  "rows_aligned": 63,
+  "rows_agreed": 58,
+  "missing_in_parser": 0,
+  "extra_in_parser": 12,
+  "label_diffs": 5,
+  "value_diffs": 0,
+  "values_reader": 109,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "lakh",
+  "unit_reader": "lakh"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 4,
+   "reader_index": 4,
+   "label_parser": "Allowance for / (Reversal of) Expected Credit Loss",
+   "label_reader": "Allowance for / (Reversal of) Expected Credit Loss - Trade Receivables",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 179.17,
+    "2025": -15.9
+   },
+   "values_reader": {
+    "2026": 179.17,
+    "2025": -15.9
+   },
+   "page": 151,
+   "search": [
+    "179.17",
+    "15.90"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 5,
+   "reader_index": null,
+   "label_parser": "Trade Receivables",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 15,
+   "reader_index": 14,
+   "label_parser": "Net Gain on Fair Valuation of Investments in Mutual",
+   "label_reader": "Net Gain on Fair Valuation of Investments in Mutual Funds",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -4009.48,
+    "2025": -5202.81
+   },
+   "values_reader": {
+    "2026": -4009.48,
+    "2025": -5202.81
+   },
+   "page": 151,
+   "search": [
+    "4,009.48",
+    "5,202.81"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 16,
+   "reader_index": null,
+   "label_parser": "Funds",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 17,
+   "reader_index": 15,
+   "label_parser": "Compensation Expenses under Employees Stock",
+   "label_reader": "Compensation Expenses under Employees Stock Options Scheme",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 249.55,
+    "2025": 308.84
+   },
+   "values_reader": {
+    "2026": 249.55,
+    "2025": 308.84
+   },
+   "page": 151,
+   "search": [
+    "249.55",
+    "308.84"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 18,
+   "reader_index": null,
+   "label_parser": "Options Scheme",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d007",
+   "kind": "label",
+   "year": null,
+   "parser_index": 43,
+   "reader_index": 40,
+   "label_parser": "Payments for Property, Plant and Equipments, Capital Work-in-progress, Investment Property &",
+   "label_reader": "Payments for Property, Plant and Equipments, Capital Work-in-progress, Investment Property & Capital Advances",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -2090.13,
+    "2025": -2739.3
+   },
+   "values_reader": {
+    "2026": -2090.13,
+    "2025": -2739.3
+   },
+   "page": 151,
+   "search": [
+    "2,090.13",
+    "2,739.30"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d008",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 44,
+   "reader_index": null,
+   "label_parser": "Capital Advances",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d009",
+   "kind": "label",
+   "year": null,
+   "parser_index": 57,
+   "reader_index": 53,
+   "label_parser": "Proceed / Repayment of Short Term Borrowings",
+   "label_reader": "Proceed / Repayment of Short Term Borrowings (Working Capital)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -1466.3,
+    "2025": -75.81
+   },
+   "values_reader": {
+    "2026": -1466.3,
+    "2025": -75.81
+   },
+   "page": 152,
+   "search": [
+    "1,466.30",
+    "75.81"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d010",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 58,
+   "reader_index": null,
+   "label_parser": "(Working Capital)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d011",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 68,
+   "reader_index": null,
+   "label_parser": "Notes to Cash Flow Statement Year ended Year ended",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d012",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 69,
+   "reader_index": null,
+   "label_parser": "31st March, 2026 31st March, Components of Cash & cash equivalents",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 2025
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [
+    "2,025"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d013",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 70,
+   "reader_index": null,
+   "label_parser": "Balances with banks",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1012.41,
+    "2025": 410.87
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [
+    "1,012.41",
+    "410.87"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d014",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 71,
+   "reader_index": null,
+   "label_parser": "Cash on Hand",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2.67,
+    "2025": 0.97
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [
+    "2.67",
+    "0.97"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d015",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 72,
+   "reader_index": null,
+   "label_parser": "Bank FDs with original maturity of less than 3 months",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 42.67,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [
+    "42.67"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d016",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 73,
+   "reader_index": null,
+   "label_parser": "Margin Money Deposits with Bank held as security with maturity of less than 3 months",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 226.97,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [
+    "226.97"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d017",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 74,
+   "reader_index": null,
+   "label_parser": "Cash & cash equivalents considered in Cash Flow Statement",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1284.72,
+    "2025": 411.84
+   },
+   "values_reader": {},
+   "page": 151,
+   "search": [
+    "1,284.72",
+    "411.84"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ]
+}

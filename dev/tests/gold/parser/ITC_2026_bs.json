@@ -1,0 +1,421 @@
+{
+ "ticker": "ITC",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 253,
+   "name": "254",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, Plant and Equipment",
+   "values": [
+    17471.2,
+    17428.89
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    1499.41,
+    1087.6
+   ]
+  },
+  {
+   "label": "Investment Property",
+   "values": [
+    303.36,
+    322.4
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    993.29,
+    896.93
+   ]
+  },
+  {
+   "label": "Other Intangible assets",
+   "values": [
+    3173.66,
+    2724.74
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    102.47,
+    3.31
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    501.02,
+    581.89
+   ]
+  },
+  {
+   "label": "Investment accounted for using the equity method",
+   "values": [
+    5288.24,
+    4711.78
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    12089.55,
+    13720.54
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    4.87,
+    7.6
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    343.22,
+    1611.13
+   ]
+  },
+  {
+   "label": "Deferred tax assets (Net)",
+   "values": [
+    155.18,
+    87.98
+   ]
+  },
+  {
+   "label": "Income Tax Assets (Net)",
+   "values": [
+    70.05,
+    50.24
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    1088.45,
+    962.37
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    18622.96,
+    15637.56
+   ]
+  },
+  {
+   "label": "Biological assets other than bearer plants",
+   "values": [
+    249.69,
+    198.58
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    20750.64,
+    16287.5
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    3922.86,
+    4719.67
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    643.46,
+    620.0
+   ]
+  },
+  {
+   "label": "Bank Balances other than (iii) above",
+   "values": [
+    2365.33,
+    3392.36
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    8.52,
+    9.51
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    2361.34,
+    1662.32
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    1783.61,
+    1365.78
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    93792.38,
+    88090.68
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity Share capital",
+   "values": [
+    1252.95,
+    1251.41
+   ]
+  },
+  {
+   "label": "Other Equity",
+   "values": [
+    71254.35,
+    68778.64
+   ]
+  },
+  {
+   "label": "Attributable to owners of the parent",
+   "values": [
+    72507.3,
+    70030.05
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    365.72,
+    367.89
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    60.0,
+    null
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    140.86,
+    137.21
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    510.4,
+    301.34
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    389.43,
+    303.11
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (Net)",
+   "values": [
+    3089.62,
+    2582.46
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    41.78,
+    34.51
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    2126.22,
+    91.26
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    71.98,
+    56.07
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "total outstanding dues of micro and small enterprises; and (B) total outstanding dues of creditors",
+   "values": [
+    350.13,
+    180.64
+   ]
+  },
+  {
+   "label": "other than micro and small enterprises",
+   "values": [
+    5289.42,
+    4626.66
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    2099.15,
+    1865.98
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    5037.64,
+    6203.79
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    423.91,
+    80.06
+   ]
+  },
+  {
+   "label": "Current Tax Liabilities (Net)",
+   "values": [
+    1288.82,
+    1229.65
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    93792.38,
+    88090.68
+   ]
+  }
+ ],
+ "pdf": "ITC/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf",
+ "parsed_at": "2026-11-04 11:18 UTC"
+}

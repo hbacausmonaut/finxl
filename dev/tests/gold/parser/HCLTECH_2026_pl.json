@@ -1,0 +1,326 @@
+{
+ "ticker": "HCLTECH",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 397,
+   "name": "398",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    756.0
+   ]
+  },
+  {
+   "page": 398,
+   "name": "399",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    756.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    130144.0,
+    117055.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1530.0,
+    2485.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    131674.0,
+    119540.0
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of stock-in-trade",
+   "values": [
+    2715.0,
+    1976.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of stock-in-trade",
+   "values": [
+    -106.0,
+    52.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    74143.0,
+    66755.0
+   ]
+  },
+  {
+   "label": "Outsourcing costs",
+   "values": [
+    18422.0,
+    15162.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    869.0,
+    644.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortization expense",
+   "values": [
+    4355.0,
+    4084.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    8218.0,
+    7606.0
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    108616.0,
+    96279.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional item and tax",
+   "values": [
+    23058.0,
+    23261.0
+   ]
+  },
+  {
+   "label": "Exceptional Item",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "One time impact of New Labour Codes",
+   "values": [
+    956.0,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    22102.0,
+    23261.0
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    5105.0,
+    5161.0
+   ]
+  },
+  {
+   "label": "Deferred tax charge",
+   "values": [
+    345.0,
+    701.0
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    5450.0,
+    5862.0
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    16652.0,
+    17399.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income (loss)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to statement of profit and loss",
+   "values": [
+    -559.0,
+    -1.0
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to statement of profit and loss",
+   "values": [
+    148.0,
+    20.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to statement of profit and loss",
+   "values": [
+    3633.0,
+    681.0
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will be reclassified to statement of profit and loss",
+   "values": [
+    487.0,
+    5.0
+   ]
+  },
+  {
+   "label": "Total other comprehensive income (loss), net of tax",
+   "values": [
+    3709.0,
+    705.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    20361.0,
+    18104.0
+   ]
+  },
+  {
+   "label": "Profit (loss) for the year attributable to Owners of the Company",
+   "values": [
+    16642.0,
+    17390.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    10.0,
+    9.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    16652.0,
+    17399.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to Owners of the Company",
+   "values": [
+    3705.0,
+    704.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    4.0,
+    1.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    3709.0,
+    705.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to Owners of the Company",
+   "values": [
+    20347.0,
+    18094.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    14.0,
+    10.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    20361.0,
+    18104.0
+   ]
+  },
+  {
+   "label": "Earnings per equity share of ₹ 2 each",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    61.46,
+    64.16
+   ]
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    61.36,
+    64.09
+   ]
+  }
+ ],
+ "pdf": "HCLTECH/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

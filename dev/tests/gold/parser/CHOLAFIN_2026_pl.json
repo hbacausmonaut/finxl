@@ -1,0 +1,365 @@
+{
+ "ticker": "CHOLAFIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 276,
+   "name": "277",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    28403.26,
+    23747.74
+   ]
+  },
+  {
+   "label": "Net gain on derecognition of financial instruments under amortised cost category",
+   "values": [
+    439.11,
+    159.04
+   ]
+  },
+  {
+   "label": "Fee & commission income",
+   "values": [
+    2114.21,
+    1739.08
+   ]
+  },
+  {
+   "label": "Net gain on fair value change on financial instrument",
+   "values": [
+    111.38,
+    196.57
+   ]
+  },
+  {
+   "label": "Sale of services",
+   "values": [
+    5.14,
+    3.55
+   ]
+  },
+  {
+   "label": "Total Revenue from operations (I)",
+   "values": [
+    31073.1,
+    25845.98
+   ]
+  },
+  {
+   "label": "Other income (II)",
+   "values": [
+    465.63,
+    306.58
+   ]
+  },
+  {
+   "label": "Total Income (III) = (I) + (II)",
+   "values": [
+    31538.73,
+    26152.56
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    14384.13,
+    12494.53
+   ]
+  },
+  {
+   "label": "Impairment of financial instruments",
+   "values": [
+    3536.34,
+    2494.31
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    4195.08,
+    3327.75
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense 15, &",
+   "values": [
+    283.89,
+    244.83
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    2166.25,
+    1849.69
+   ]
+  },
+  {
+   "label": "Total Expenses (IV)",
+   "values": [
+    24565.69,
+    20411.11
+   ]
+  },
+  {
+   "label": "Profit before tax (V) = (III) - (IV)",
+   "values": [
+    6973.04,
+    5741.45
+   ]
+  },
+  {
+   "label": "Tax expense/(benefit)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Pertaining to profit for the current year",
+   "values": [
+    2052.56,
+    1716.38
+   ]
+  },
+  {
+   "label": "Adjustment of tax relating to earlier year(s)",
+   "values": [
+    -38.75,
+    10.22
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -269.65,
+    -245.15
+   ]
+  },
+  {
+   "label": "Net tax expense (VI)",
+   "values": [
+    1744.16,
+    1481.45
+   ]
+  },
+  {
+   "label": "Profit for the year (A) = (V) - (VI)",
+   "values": [
+    5228.88,
+    4260.0
+   ]
+  },
+  {
+   "label": "Share of Profit/(loss) from Associates (net of tax)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Share of Profit/(loss) from Joint Venture (net of tax)",
+   "values": [
+    3.73,
+    2.7
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    5232.61,
+    4262.7
+   ]
+  },
+  {
+   "label": "Other Comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Re-measurement gain / (loss) of Post employment benefit Obligations (net)",
+   "values": [
+    -3.75,
+    -13.63
+   ]
+  },
+  {
+   "label": "Income tax impact",
+   "values": [
+    0.94,
+    3.43
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net gain / (loss) on Cashflow Hedge Reserve",
+   "values": [
+    234.28,
+    -174.92
+   ]
+  },
+  {
+   "label": "Income tax impact",
+   "values": [
+    -58.97,
+    44.03
+   ]
+  },
+  {
+   "label": "Other comprehensive income/(loss) net of tax for the year (B)",
+   "values": [
+    172.5,
+    -141.09
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income net of tax (A) + (B)",
+   "values": [
+    5405.11,
+    4121.61
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity holders of the Parent Company",
+   "values": [
+    5232.61,
+    4262.7
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income (net of tax) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity holders of the Parent Company",
+   "values": [
+    172.5,
+    -141.09
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity holders of the Parent Company",
+   "values": [
+    5405.11,
+    4121.61
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Earnings per equity share of ₹ 2 each",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    61.98,
+    50.72
+   ]
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    61.83,
+    50.6
+   ]
+  }
+ ],
+ "pdf": "CHOLAFIN/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4c6276e4-8c0c-4e5f-a963-6ec2f7977b0d.pdf",
+ "parsed_at": "2026-11-04 11:17 UTC"
+}

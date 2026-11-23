@@ -1,0 +1,213 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "AXISBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 528,
+   "name": "529",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "AXISBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/854bc96b-9951-492e-ad95-d44fcc856195.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Capital and Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital",
+   "values": [
+    621.63,
+    619.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employees’ Stock Options/Units Outstanding",
+   "values": [
+    1456.43,
+    1182.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Reserves & Surplus",
+   "values": [
+    212957.29,
+    185433.36
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Minority Interest",
+   "values": [
+    798.19,
+    635.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    1333791.44,
+    1170920.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    280510.62,
+    220686.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Liabilities and Provisions",
+   "values": [
+    115914.69,
+    77484.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total capital and liabilities",
+   "values": [
+    1946050.29,
+    1656962.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Balances with Reserve Bank of India",
+   "values": [
+    78627.37,
+    73638.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balances with Banks and Money at Call and Short Notice",
+   "values": [
+    30724.2,
+    29060.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    446422.18,
+    396685.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Advances",
+   "values": [
+    1282392.17,
+    1081229.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fixed Assets",
+   "values": [
+    6756.03,
+    6492.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Assets",
+   "values": [
+    100839.1,
+    69568.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Goodwill on Consolidation",
+   "values": [
+    289.24,
+    289.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    1946050.29,
+    1656962.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Contingent Liabilities",
+   "values": [
+    3031841.24,
+    2878200.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bills for Collection",
+   "values": [
+    90282.85,
+    76931.2
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 20,
+  "rows_reader": 20,
+  "rows_aligned": 20,
+  "rows_agreed": 20,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 36,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": []
+}

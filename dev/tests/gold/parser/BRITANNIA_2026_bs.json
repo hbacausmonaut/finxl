@@ -1,0 +1,435 @@
+{
+ "ticker": "BRITANNIA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 132,
+   "name": "133L",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    2672.98,
+    2734.61
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    39.04,
+    89.2
+   ]
+  },
+  {
+   "label": "Investment property",
+   "values": [
+    27.9,
+    28.9
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    143.95,
+    132.78
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    5.09,
+    7.51
+   ]
+  },
+  {
+   "label": "Investment in associates and joint venture",
+   "values": [
+    453.53,
+    483.62
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    1517.71,
+    1270.17
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    25.0,
+    25.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    30.99,
+    28.19
+   ]
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    43.01,
+    36.59
+   ]
+  },
+  {
+   "label": "Tax assets (net)",
+   "values": [
+    69.31,
+    46.26
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    25.77,
+    42.04
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    5054.28,
+    4924.87
+   ]
+  },
+  {
+   "label": "(2) Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    1345.93,
+    1236.51
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    1638.52,
+    1111.64
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    469.21,
+    448.61
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    220.0,
+    132.78
+   ]
+  },
+  {
+   "label": "Bank balances other than (iii) above",
+   "values": [
+    132.44,
+    179.7
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    65.0,
+    50.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    664.53,
+    630.46
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    142.03,
+    123.98
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    4677.66,
+    3913.68
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    9731.94,
+    8838.55
+   ]
+  },
+  {
+   "label": "Equity and liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    24.09,
+    24.09
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    5082.47,
+    4331.63
+   ]
+  },
+  {
+   "label": "Equity attributable to equity holders of the parent",
+   "values": [
+    5106.56,
+    4355.72
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    29.32,
+    25.6
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    5135.88,
+    4381.32
+   ]
+  },
+  {
+   "label": "(2) Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    286.11,
+    712.94
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    19.31,
+    19.45
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    72.95,
+    72.21
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    1.62,
+    1.8
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    36.08,
+    32.57
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    416.07,
+    838.97
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    1071.72,
+    511.83
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    3.14,
+    2.29
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    21.41,
+    27.83
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    1875.0,
+    1724.4
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    442.81,
+    429.34
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    88.67,
+    194.7
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    594.52,
+    604.66
+   ]
+  },
+  {
+   "label": "Tax liabilities (net)",
+   "values": [
+    82.72,
+    123.21
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    4179.99,
+    3618.26
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    4596.06,
+    4457.23
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    9731.94,
+    8838.55
+   ]
+  }
+ ],
+ "pdf": "BRITANNIA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d92eccd5-0a82-4722-a751-da1d0998a0b8.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

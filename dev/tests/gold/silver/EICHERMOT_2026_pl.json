@@ -1,0 +1,667 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "EICHERMOT",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 302,
+   "name": "303",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "EICHERMOT/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d17e4c7d-5ef6-4135-b0f3-cc7bb1ca7f09.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from contract with customers",
+   "values": [
+    22977.57,
+    18538.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other operating income",
+   "values": [
+    429.99,
+    332.14
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    23407.56,
+    18870.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1486.53,
+    1304.9
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    24894.09,
+    20175.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of raw material and components consumed",
+   "values": [
+    12502.05,
+    9953.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of traded goods",
+   "values": [
+    835.26,
+    507.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in inventories of finished goods, work-in-progress and traded goods",
+   "values": [
+    -269.63,
+    -163.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    1637.57,
+    1391.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    71.53,
+    54.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    840.37,
+    729.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    2917.24,
+    2470.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    18534.39,
+    14941.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before share of profit of joint venture, exceptional items and tax",
+   "values": [
+    6359.7,
+    5233.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of joint venture (VE Commercial Vehicles Limited)",
+   "values": [
+    797.81,
+    699.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional item and tax",
+   "values": [
+    7157.51,
+    5933.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional item",
+   "values": [
+    -55.45,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    7102.06,
+    5933.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    1456.05,
+    1120.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    130.78,
+    78.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    1586.83,
+    1198.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    5515.23,
+    4734.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/(expense) (including share of other comprehensive income/(expense) of joint venture)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss:-",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Re-measurement gains/(losses) on defined benefit plans",
+   "values": [
+    5.93,
+    -9.72
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -1.49,
+    2.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in fair value of equity instruments through other comprehensive income (including foreign exchange gains/(losses) on reinstatement)",
+   "values": [
+    31.6,
+    -301.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -4.52,
+    43.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of other comprehensive income / (expense) in joint venture (net of tax)",
+   "values": [
+    0.78,
+    -1.59
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net other comprehensive income / (expense) not to be reclassified to profit or loss in subsequent periods",
+   "values": [
+    32.3,
+    -267.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss:-",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Exchange differences in translating the financial statements of foreign operations",
+   "values": [
+    130.44,
+    22.66
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -32.83,
+    -5.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Debt instruments through other comprehensive income",
+   "values": [
+    -17.25,
+    26.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    4.34,
+    -6.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of other comprehensive income / (expense) in joint venture (net of tax)",
+   "values": [
+    1.65,
+    0.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net other comprehensive income / (expense) to be reclassified to profit or loss in subsequent periods",
+   "values": [
+    86.35,
+    37.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income / (expense) for the year, net of tax",
+   "values": [
+    118.65,
+    -230.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year, net of tax",
+   "values": [
+    5633.88,
+    4504.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "-Owners of the Company",
+   "values": [
+    5515.23,
+    4734.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "-Non-controlling interests",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income / (expense) for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "-Owners of the Company",
+   "values": [
+    118.65,
+    -230.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "-Non-controlling interests",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "-Owners of the Company",
+   "values": [
+    5633.88,
+    4504.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "-Non-controlling interests",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share of ₹ 1 each (March 31, 2025: ₹1) (in ₹)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    201.09,
+    172.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    200.73,
+    172.37
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 52,
+  "rows_reader": 54,
+  "rows_aligned": 51,
+  "rows_agreed": 47,
+  "missing_in_parser": 3,
+  "extra_in_parser": 1,
+  "label_diffs": 4,
+  "value_diffs": 0,
+  "values_reader": 81,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 2,
+   "reader_index": 2,
+   "label_parser": "Other operating income (B)",
+   "label_reader": "Other operating income",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 429.99,
+    "2025": 332.14
+   },
+   "values_reader": {
+    "2026": 429.99,
+    "2025": 332.14
+   },
+   "page": 302,
+   "search": [
+    "429.99",
+    "332.14"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 25,
+   "reader_index": 25,
+   "label_parser": "Other comprehensive income/(expense) (including share of other",
+   "label_reader": "Other comprehensive income/(expense) (including share of other comprehensive income/(expense) of joint venture)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 302,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 26,
+   "label_parser": null,
+   "label_reader": "Items that will not be reclassified to profit or loss:-",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 302,
+   "search": [],
+   "pattern": "row_missing",
+   "pattern_text": "Line item missing from the parser output"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 26,
+   "reader_index": null,
+   "label_parser": "comprehensive income/(expense) of joint venture)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 302,
+   "search": [],
+   "pattern": "row_extra",
+   "pattern_text": "Extra row in the parser output"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 27,
+   "reader_index": 27,
+   "label_parser": "Items that will not be reclassified to profit or loss:- Re-measurement gains/(losses) on defined benefit plans",
+   "label_reader": "Re-measurement gains/(losses) on defined benefit plans",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 5.93,
+    "2025": -9.72
+   },
+   "values_reader": {
+    "2026": 5.93,
+    "2025": -9.72
+   },
+   "page": 302,
+   "search": [
+    "5.93",
+    "9.72"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d006",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 33,
+   "label_parser": null,
+   "label_reader": "Items that will be reclassified to profit or loss:-",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 302,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d007",
+   "kind": "label",
+   "year": null,
+   "parser_index": 33,
+   "reader_index": 34,
+   "label_parser": "Items that will be reclassified to profit or loss:- Exchange differences in translating the financial statements of foreign operations",
+   "label_reader": "Exchange differences in translating the financial statements of foreign operations",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 130.44,
+    "2025": 22.66
+   },
+   "values_reader": {
+    "2026": 130.44,
+    "2025": 22.66
+   },
+   "page": 302,
+   "search": [
+    "130.44",
+    "22.66"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d008",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 51,
+   "label_parser": null,
+   "label_reader": "Earnings per equity share of ₹ 1 each (March 31, 2025: ₹1) (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 302,
+   "search": [],
+   "pattern": "row_missing",
+   "pattern_text": "Line item missing from the parser output"
+  }
+ ]
+}

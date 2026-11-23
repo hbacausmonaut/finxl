@@ -1,0 +1,323 @@
+{
+ "format": "docfetcher-gold-disagreements/1",
+ "ticker": "SBIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "statement_name": "Balance Sheet",
+ "pdf": "SBIN\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf",
+ "pages": [
+  {
+   "page": 304,
+   "name": "305",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "reader": "claude",
+ "stats": {
+  "rows_parser": 18,
+  "rows_reader": 18,
+  "rows_aligned": 18,
+  "rows_agreed": 18,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 32,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "thousand",
+  "unit_reader": "thousand"
+ },
+ "disagreements": [],
+ "rows": [
+  {
+   "parser_index": 0,
+   "reader_index": 0,
+   "label_parser": "CAPITAL AND LIABILITIES",
+   "label_reader": "CAPITAL AND LIABILITIES",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 1,
+   "reader_index": 1,
+   "label_parser": "Capital",
+   "label_reader": "Capital",
+   "values_parser": {
+    "2026": 9230618,
+    "2025": 8924620
+   },
+   "values_reader": {
+    "2026": 9230618,
+    "2025": 8924620
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 2,
+   "reader_index": 2,
+   "label_parser": "Reserves & Surplus",
+   "label_reader": "Reserves & Surplus",
+   "values_parser": {
+    "2026": 5952078076,
+    "2025": 4861442967
+   },
+   "values_reader": {
+    "2026": 5952078076,
+    "2025": 4861442967
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 3,
+   "reader_index": 3,
+   "label_parser": "Minority Interest",
+   "label_reader": "Minority Interest",
+   "values_parser": {
+    "2026": 187682823,
+    "2025": 180258388
+   },
+   "values_reader": {
+    "2026": 187682823,
+    "2025": 180258388
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 4,
+   "reader_index": 4,
+   "label_parser": "Deposits",
+   "label_reader": "Deposits",
+   "values_parser": {
+    "2026": 60430971228,
+    "2025": 54398980191
+   },
+   "values_reader": {
+    "2026": 60430971228,
+    "2025": 54398980191
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 5,
+   "reader_index": 5,
+   "label_parser": "Borrowings",
+   "label_reader": "Borrowings",
+   "values_parser": {
+    "2026": 7773021450,
+    "2025": 6108572450
+   },
+   "values_reader": {
+    "2026": 7773021450,
+    "2025": 6108572450
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 6,
+   "reader_index": 6,
+   "label_parser": "Other Liabilities and Provisions",
+   "label_reader": "Other Liabilities and Provisions",
+   "values_parser": {
+    "2026": 8862701547,
+    "2025": 7583674792
+   },
+   "values_reader": {
+    "2026": 8862701547,
+    "2025": 7583674792
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Total capital and liabilities",
+   "label_reader": "TOTAL",
+   "values_parser": {
+    "2026": 83215685742,
+    "2025": 73141853408
+   },
+   "values_reader": {
+    "2026": 83215685742,
+    "2025": 73141853408
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 8,
+   "reader_index": 8,
+   "label_parser": "ASSETS",
+   "label_reader": "ASSETS",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 9,
+   "reader_index": 9,
+   "label_parser": "Cash and Balances with Reserve Bank of India",
+   "label_reader": "Cash and Balances with Reserve Bank of India",
+   "values_parser": {
+    "2026": 2686817368,
+    "2025": 2274851569
+   },
+   "values_reader": {
+    "2026": 2686817368,
+    "2025": 2274851569
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 10,
+   "reader_index": 10,
+   "label_parser": "Balances with Banks and Money at Call & Short Notice",
+   "label_reader": "Balances with Banks and Money at Call & Short Notice",
+   "values_parser": {
+    "2026": 1331614726,
+    "2025": 1304477859
+   },
+   "values_reader": {
+    "2026": 1331614726,
+    "2025": 1304477859
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 11,
+   "reader_index": 11,
+   "label_parser": "Investments",
+   "label_reader": "Investments",
+   "values_parser": {
+    "2026": 23595021713,
+    "2025": 22056011083
+   },
+   "values_reader": {
+    "2026": 23595021713,
+    "2025": 22056011083
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 12,
+   "reader_index": 12,
+   "label_parser": "Advances",
+   "label_reader": "Advances",
+   "values_parser": {
+    "2026": 49780132068,
+    "2025": 42508307364
+   },
+   "values_reader": {
+    "2026": 49780132068,
+    "2025": 42508307364
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 13,
+   "reader_index": 13,
+   "label_parser": "Fixed Assets",
+   "label_reader": "Fixed Assets",
+   "values_parser": {
+    "2026": 571521013,
+    "2025": 463376954
+   },
+   "values_reader": {
+    "2026": 571521013,
+    "2025": 463376954
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 14,
+   "reader_index": 14,
+   "label_parser": "Other Assets",
+   "label_reader": "Other Assets",
+   "values_parser": {
+    "2026": 5250578854,
+    "2025": 4534828579
+   },
+   "values_reader": {
+    "2026": 5250578854,
+    "2025": 4534828579
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 15,
+   "reader_index": 15,
+   "label_parser": "Total assets",
+   "label_reader": "TOTAL",
+   "values_parser": {
+    "2026": 83215685742,
+    "2025": 73141853408
+   },
+   "values_reader": {
+    "2026": 83215685742,
+    "2025": 73141853408
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 16,
+   "reader_index": 16,
+   "label_parser": "Contingent Liabilities",
+   "label_reader": "Contingent Liabilities",
+   "values_parser": {
+    "2026": 42411266054,
+    "2025": 26781115407
+   },
+   "values_reader": {
+    "2026": 42411266054,
+    "2025": 26781115407
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 17,
+   "reader_index": 17,
+   "label_parser": "Bills for Collection",
+   "label_reader": "Bills for Collection",
+   "values_parser": {
+    "2026": 1117030157,
+    "2025": 644725617
+   },
+   "values_reader": {
+    "2026": 1117030157,
+    "2025": 644725617
+   },
+   "issues": []
+  }
+ ],
+ "created_at": "2026-11-05 11:52 UTC"
+}

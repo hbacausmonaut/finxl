@@ -1,0 +1,431 @@
+{
+ "ticker": "ONGC",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 446,
+   "name": "447",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    782.6
+   ]
+  },
+  {
+   "page": 447,
+   "name": "448",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    782.6
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    6622473.17,
+    6632605.82
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    123565.26,
+    123978.1
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    6746038.43,
+    6756583.92
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Stock-in-Trade",
+   "values": [
+    2063459.37,
+    2214018.95
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, stock-in-trade and work-in progress",
+   "values": [
+    -32348.21,
+    6895.46
+   ]
+  },
+  {
+   "label": "Production, transportation, selling, distribution and other expenditure",
+   "values": [
+    3414042.34,
+    3393320.94
+   ]
+  },
+  {
+   "label": "Exploration costs written off",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Survey costs",
+   "values": [
+    15286.52,
+    23913.6
+   ]
+  },
+  {
+   "label": "Exploratory well costs",
+   "values": [
+    86496.64,
+    76054.34
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    130288.53,
+    145349.47
+   ]
+  },
+  {
+   "label": "Depletion, depreciation, amortisation and impairment",
+   "values": [
+    373906.66,
+    352060.02
+   ]
+  },
+  {
+   "label": "Provision, other impairment and write offs",
+   "values": [
+    44338.93,
+    29837.38
+   ]
+  },
+  {
+   "label": "Total expenses (IV)",
+   "values": [
+    6095470.78,
+    6241450.16
+   ]
+  },
+  {
+   "label": "Profit before exceptional items and tax (III-IV)",
+   "values": [
+    650567.65,
+    515133.76
+   ]
+  },
+  {
+   "label": "Exceptional items - Income/(expenses)",
+   "values": [
+    -4357.23,
+    -1510.86
+   ]
+  },
+  {
+   "label": "Share of profit of Associates",
+   "values": [
+    16079.19,
+    10811.66
+   ]
+  },
+  {
+   "label": "Share of profit of Joint Ventures",
+   "values": [
+    13939.87,
+    -455.75
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    676229.48,
+    523978.81
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax relating to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "current year",
+   "values": [
+    191300.21,
+    153643.31
+   ]
+  },
+  {
+   "label": "earlier years",
+   "values": [
+    -3278.55,
+    -1248.99
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -9723.22,
+    -11701.61
+   ]
+  },
+  {
+   "label": "Total tax expense (X)",
+   "values": [
+    178298.44,
+    140692.71
+   ]
+  },
+  {
+   "label": "Profit for the year (IX-X)",
+   "values": [
+    497931.04,
+    383286.1
+   ]
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement of the defined benefit plans",
+   "values": [
+    -9230.26,
+    -8895.13
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    2298.28,
+    2274.65
+   ]
+  },
+  {
+   "label": "Equity instruments through other comprehensive income",
+   "values": [
+    4486.66,
+    -79645.28
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -640.0,
+    1827.62
+   ]
+  },
+  {
+   "label": "Share of other comprehensive income in associates and joint ventures, to the extent not to be reclassified to profit or loss",
+   "values": [
+    79.01,
+    4.26
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange differences in translating the financial statement of foreign operation",
+   "values": [
+    65253.05,
+    30101.83
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -22771.58,
+    -10534.65
+   ]
+  },
+  {
+   "label": "Effective portion of gains (losses) on hedging instruments in cash flow hedges",
+   "values": [
+    -403.25,
+    948.04
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    101.48,
+    -238.6
+   ]
+  },
+  {
+   "label": "Share of other comprehensive income in associates and joint ventures, to the extent to be reclassified to profit or loss",
+   "values": [
+    -3542.67,
+    -724.6
+   ]
+  },
+  {
+   "label": "Total other comprehensive income (net of tax) (XII)",
+   "values": [
+    35630.72,
+    -64881.86
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the year",
+   "values": [
+    533561.76,
+    318404.24
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    414243.82,
+    362256.23
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    83687.22,
+    21029.87
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    497931.04,
+    383286.1
+   ]
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    36825.15,
+    -64077.26
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    -1194.43,
+    -804.6
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    35630.72,
+    -64881.86
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    451068.97,
+    298178.97
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    82492.79,
+    20225.27
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    533561.76,
+    318404.24
+   ]
+  },
+  {
+   "label": "Earnings per equity share: 47",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (`)",
+   "values": [
+    32.93,
+    28.8
+   ]
+  },
+  {
+   "label": "Diluted (`)",
+   "values": [
+    32.93,
+    28.8
+   ]
+  }
+ ],
+ "pdf": "ONGC/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a521f688-6bf3-465c-8f05-b20ed08b2f32.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

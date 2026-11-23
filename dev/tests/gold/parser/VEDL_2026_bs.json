@@ -1,0 +1,491 @@
+{
+ "ticker": "VEDL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 243,
+   "name": "244L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    30027.0,
+    97834.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    10310.0,
+    30939.0
+   ]
+  },
+  {
+   "label": "Intangible assets",
+   "values": [
+    521.0,
+    2071.0
+   ]
+  },
+  {
+   "label": "Exploration intangible assets under development",
+   "values": [
+    221.0,
+    2957.0
+   ]
+  },
+  {
+   "label": "Investments accounted for using the equity method",
+   "values": [
+    31.0,
+    27.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    1252.0,
+    1596.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    39.0,
+    1799.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    null,
+    2451.0
+   ]
+  },
+  {
+   "label": "Derivatives",
+   "values": [
+    90.0,
+    null
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    840.0,
+    3015.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    926.0,
+    3353.0
+   ]
+  },
+  {
+   "label": "Income tax assets (net)",
+   "values": [
+    1310.0,
+    1523.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    1620.0,
+    3963.0
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    47187.0,
+    151528.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    5414.0,
+    14474.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    14135.0,
+    12909.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    1305.0,
+    3636.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    1370.0,
+    3993.0
+   ]
+  },
+  {
+   "label": "Other bank balances",
+   "values": [
+    2369.0,
+    2977.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    1.0,
+    1840.0
+   ]
+  },
+  {
+   "label": "Derivatives",
+   "values": [
+    411.0,
+    434.0
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    277.0,
+    7597.0
+   ]
+  },
+  {
+   "label": "Income tax assets (net)",
+   "values": [
+    49.0,
+    88.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    1479.0,
+    3817.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    26810.0,
+    51765.0
+   ]
+  },
+  {
+   "label": "Assets classified as held for distribution",
+   "values": [
+    159240.0,
+    null
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    233237.0,
+    203293.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    391.0,
+    391.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    49261.0,
+    40821.0
+   ]
+  },
+  {
+   "label": "Equity attributable to owners of Vedanta Limited",
+   "values": [
+    49652.0,
+    41212.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    18925.0,
+    12541.0
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    68577.0,
+    53753.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    16209.0,
+    52712.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    326.0,
+    572.0
+   ]
+  },
+  {
+   "label": "Derivatives",
+   "values": [
+    60.0,
+    46.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    312.0,
+    985.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    746.0,
+    3223.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    4901.0,
+    13043.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    1168.0,
+    5384.0
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    23722.0,
+    75965.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    10786.0,
+    21141.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    523.0,
+    761.0
+   ]
+  },
+  {
+   "label": "Operational buyers' credit / suppliers' credit",
+   "values": [
+    5103.0,
+    16293.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro and small enterprises",
+   "values": [
+    null,
+    40.0
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro and small enterprises",
+   "values": [
+    7250.0,
+    10155.0
+   ]
+  },
+  {
+   "label": "Derivatives",
+   "values": [
+    569.0,
+    279.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    6989.0,
+    16006.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    2276.0,
+    7370.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    76.0,
+    372.0
+   ]
+  },
+  {
+   "label": "Income tax liabilities (net)",
+   "values": [
+    1451.0,
+    1158.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    35023.0,
+    73575.0
+   ]
+  },
+  {
+   "label": "Liabilities directly associated with the assets held for distribution",
+   "values": [
+    105915.0,
+    null
+   ]
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    233237.0,
+    203293.0
+   ]
+  }
+ ],
+ "pdf": "VEDL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3725606c-05f5-40b2-b122-55c0a6e7bdd1.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

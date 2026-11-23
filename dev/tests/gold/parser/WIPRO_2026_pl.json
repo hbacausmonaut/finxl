@@ -1,0 +1,480 @@
+{
+ "ticker": "WIPRO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 296,
+   "name": "297",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 297,
+   "name": "298",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    926240.0,
+    890884.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    38737.0,
+    38840.0
+   ]
+  },
+  {
+   "label": "Total income (A)",
+   "values": [
+    964977.0,
+    929724.0
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    5755.0,
+    2967.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of stock- in-trade",
+   "values": [
+    171.0,
+    195.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    555855.0,
+    533477.0
+   ]
+  },
+  {
+   "label": "Finance costs per Depreciation, amortisation and",
+   "values": [
+    14577.0,
+    14770.0
+   ]
+  },
+  {
+   "label": "and impairment expense and Sub-contracting and technical",
+   "values": [
+    29107.0,
+    29579.0
+   ]
+  },
+  {
+   "label": "fees",
+   "values": [
+    107668.0,
+    100148.0
+   ]
+  },
+  {
+   "label": "Facility expenses",
+   "values": [
+    15886.0,
+    16067.0
+   ]
+  },
+  {
+   "label": "Software license expense for internal use",
+   "values": [
+    21720.0,
+    19338.0
+   ]
+  },
+  {
+   "label": "Travel",
+   "values": [
+    13882.0,
+    14095.0
+   ]
+  },
+  {
+   "label": "Communication",
+   "values": [
+    3414.0,
+    3842.0
+   ]
+  },
+  {
+   "label": "Legal and professional charges",
+   "values": [
+    10199.0,
+    11270.0
+   ]
+  },
+  {
+   "label": "Marketing and brand building of in",
+   "values": [
+    3480.0,
+    3591.0
+   ]
+  },
+  {
+   "label": "(I Lifetime expected credit loss",
+   "values": [
+    2838.0,
+    324.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    7260.0,
+    5358.0
+   ]
+  },
+  {
+   "label": "Total expenses (B)",
+   "values": [
+    791812.0,
+    755021.0
+   ]
+  },
+  {
+   "label": "Profit before share of net profit/(loss) of associate and joint venture",
+   "values": [
+    173165.0,
+    174703.0
+   ]
+  },
+  {
+   "label": "Share of net profit/(loss) of associate and joint venture accounted for using the equity method (C)",
+   "values": [
+    257.0,
+    254.0
+   ]
+  },
+  {
+   "label": "Profit before tax (A)-(B)+(C)",
+   "values": [
+    173422.0,
+    174957.0
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    42665.0,
+    45405.0
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -1898.0,
+    -2628.0
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    40767.0,
+    42777.0
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    132655.0,
+    132180.0
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income (OCI)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurements of the defined benefit plans, net",
+   "values": [
+    142.0,
+    323.0
+   ]
+  },
+  {
+   "label": "Net change in fair value of",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "investment in equity instruments measured at fair value through OCI",
+   "values": [
+    -1452.0,
+    -3619.0
+   ]
+  },
+  {
+   "label": "Income taxes relating to items that will not be reclassified to profit or loss",
+   "values": [
+    -6.0,
+    94.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Foreign currency translation differences relating to foreign operations",
+   "values": [
+    46126.0,
+    7216.0
+   ]
+  },
+  {
+   "label": "Reclassification of foreign currency translation differences on liquidation of subsidiaries to consolidated statement of profit and loss",
+   "values": [
+    null,
+    -41.0
+   ]
+  },
+  {
+   "label": "Net change in time value of option contracts designated as cash flow hedges",
+   "values": [
+    73.0,
+    -248.0
+   ]
+  },
+  {
+   "label": "Net change in intrinsic value of option contracts designated as cash flow hedges",
+   "values": [
+    -1622.0,
+    193.0
+   ]
+  },
+  {
+   "label": "Net change in fair value of forward contracts designated as cash flow hedges",
+   "values": [
+    -7902.0,
+    -993.0
+   ]
+  },
+  {
+   "label": "Net change in fair value of investment in debt instruments measured at fair value through OCI",
+   "values": [
+    -2413.0,
+    1189.0
+   ]
+  },
+  {
+   "label": "Income taxes relating to items that will be reclassified to profit or loss",
+   "values": [
+    2576.0,
+    34.0
+   ]
+  },
+  {
+   "label": "Total other comprehensive income for the year, net of taxes",
+   "values": [
+    35522.0,
+    4148.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    168177.0,
+    136328.0
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity holders of the Company",
+   "values": [
+    131974.0,
+    131354.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    681.0,
+    826.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    132655.0,
+    132180.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity holders of the Company",
+   "values": [
+    35276.0,
+    4126.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    246.0,
+    22.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    35522.0,
+    4148.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity holders of the Company",
+   "values": [
+    167250.0,
+    135480.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    927.0,
+    848.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    168177.0,
+    136328.0
+   ]
+  },
+  {
+   "label": "Earnings per equity share: (Equity shares of par value K 2 each)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    12.6,
+    12.56
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    12.56,
+    12.52
+   ]
+  },
+  {
+   "label": "Weighted average number of equity shares used in computing earnings per equity share",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    10476247846.0,
+    10456741552.0
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    10503422936.0,
+    10488939392.0
+   ]
+  }
+ ],
+ "pdf": "WIPRO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4ffaa08-a47a-487b-b136-eb4f26c1bace.pdf",
+ "parsed_at": "2026-11-04 11:24 UTC"
+}

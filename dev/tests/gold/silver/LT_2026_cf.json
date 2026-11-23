@@ -1,0 +1,575 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "LT",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 622,
+   "name": "623",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 623,
+   "name": "624",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "pdf": "LT/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flow from operating activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    27698.25,
+    23104.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    -291.84,
+    -117.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation, amortisation, impairment and obsolescence",
+   "values": [
+    4364.75,
+    4121.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange difference on items grouped under financing/investing activities",
+   "values": [
+    81.06,
+    -5.91
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    -309.83,
+    -2.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    2625.46,
+    3173.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -3017.25,
+    -2449.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Profit)/loss on sale of Property, plant and equipment, Investment property and Intangible assets (net)",
+   "values": [
+    -79.08,
+    -187.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Profit)/loss on sale/fair valuation of investments (net)",
+   "values": [
+    -1862.65,
+    -1133.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bad debts and advances written off & Allowances for expected credit loss (net)",
+   "values": [
+    4036.46,
+    3532.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee stock option-discount",
+   "values": [
+    115.31,
+    222.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Profit)/Loss on investments/loans towards financing activity (net)",
+   "values": [
+    7.43,
+    -67.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on transfer of business undertaking in Development Projects business",
+   "values": [
+    null,
+    -187.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Gain)/loss on de-recognition of lease liability/right-of-use assets",
+   "values": [
+    -34.55,
+    -33.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Others",
+   "values": [
+    -103.79,
+    11.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    33229.73,
+    29981.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in trade and other receivables",
+   "values": [
+    -28150.93,
+    -10316
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in inventories",
+   "values": [
+    -2200.95,
+    -539.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in trade and other payables",
+   "values": [
+    45127.59,
+    9835.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operations before financing activities",
+   "values": [
+    48005.44,
+    28960.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in loans and advances towards financing activities",
+   "values": [
+    -25233.3,
+    -14208.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    22772.14,
+    14752.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Direct taxes paid [net]",
+   "values": [
+    -6031.17,
+    -5601.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    16740.97,
+    9151.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow from investing activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Property, plant and equipment, Investment property and Intangible assets",
+   "values": [
+    -4809.19,
+    -4418.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of Property, plant and equipment, Investment property and Intangible assets",
+   "values": [
+    340.51,
+    878.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -2114.32,
+    -2284.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of non-current investments",
+   "values": [
+    1190.36,
+    1726.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Purchase)/sale of current investments (net)",
+   "values": [
+    -10832.06,
+    -5950.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in other bank balance and cash not available for immediate use",
+   "values": [
+    3010.75,
+    -7192.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits/loans given to associates, joint ventures and third parties",
+   "values": [
+    -422.67,
+    -448.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits/loans repaid by associates, joint ventures and third parties",
+   "values": [
+    334.74,
+    318.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    2700.71,
+    2083.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received from joint ventures/associates",
+   "values": [
+    35.47,
+    27.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received from other investments",
+   "values": [
+    291.84,
+    117.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consideration received on transfer of other business undertaking",
+   "values": [
+    null,
+    52.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consideration received on disposal of subsidiaries/joint venture",
+   "values": [
+    null,
+    1065.37
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consideration received on transfer of business undertaking in Development Projects business",
+   "values": [
+    null,
+    634.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consideration paid on acquisition of business",
+   "values": [
+    -745.1,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consideration paid on acquisition of Subsidiaries (including contingent consideration)",
+   "values": [
+    -269.43,
+    -1049.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents acquired pursuant to acquisition of subsidiaries/business",
+   "values": [
+    123.74,
+    29.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents classified to held for sale",
+   "values": [
+    -319.05,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consideration paid on acquisition of stake in an associate/joint venture",
+   "values": [
+    -255.14,
+    -1096.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in investing activities",
+   "values": [
+    -11738.84,
+    -15508.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow from financing activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of share capital (including share application money) [net]",
+   "values": [
+    7.52,
+    9.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from non-current borrowings",
+   "values": [
+    40637.03,
+    38199.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of non-current borrowings",
+   "values": [
+    -36403.49,
+    -30782.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from/ (repayment of) other borrowings (net)",
+   "values": [
+    3056.63,
+    8297.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment (to)/from non-controlling interest (net)",
+   "values": [
+    -914.66,
+    -1196.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Settlement of derivative contracts related to borrowings",
+   "values": [
+    37.27,
+    50.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -4676.22,
+    -3849.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of lease liability",
+   "values": [
+    -718.28,
+    -562.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid on lease liability",
+   "values": [
+    -233.43,
+    -193.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid (including cash flows on account of interest rate swaps)",
+   "values": [
+    -2948.8,
+    -3415.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from/(used in) financing activities",
+   "values": [
+    -2156.43,
+    6556.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents (A + B + C)",
+   "values": [
+    2845.7,
+    199.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at beginning of the year",
+   "values": [
+    12187,
+    11958.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    358.54,
+    28.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at end of the year",
+   "values": [
+    15391.24,
+    12187
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 64,
+  "rows_reader": 64,
+  "rows_aligned": 64,
+  "rows_agreed": 64,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 112,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": []
+}

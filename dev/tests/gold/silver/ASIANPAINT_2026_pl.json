@@ -1,0 +1,643 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "ASIANPAINT",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 233,
+   "name": "234L",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    792.0
+   ]
+  },
+  {
+   "page": 233,
+   "name": "234R",
+   "clip": [
+    594.0,
+    0.0,
+    1188.0,
+    792.0
+   ]
+  }
+ ],
+ "pdf": "ASIANPAINT/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "REVENUE FROM OPERATIONS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from Sale of Products",
+   "values": [
+    35416.25,
+    33626.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from Sale of Services",
+   "values": [
+    100.12,
+    170.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Operating Revenue",
+   "values": [
+    67.17,
+    108.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    723.8,
+    572.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income (I)",
+   "values": [
+    36307.34,
+    34478.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of Materials Consumed",
+   "values": [
+    15384.05,
+    15793.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of Stock-in-Trade",
+   "values": [
+    4014.05,
+    3926.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in Inventories of Finished Goods, Stock-in-Trade and Work-in-Progress",
+   "values": [
+    603.68,
+    -205
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    2799.59,
+    2597.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    6086.25,
+    5786.4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Expenses (II)",
+   "values": [
+    28887.62,
+    27899.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EARNING BEFORE INTEREST, TAX, DEPRECIATION AND AMORTISATION (EBITDA) (I-II)",
+   "values": [
+    7419.72,
+    6578.82
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    195.41,
+    227.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and Amortisation Expense",
+   "values": [
+    1228.85,
+    1026.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT BEFORE SHARE OF PROFIT IN ASSOCIATES, EXCEPTIONAL ITEMS AND TAX",
+   "values": [
+    5995.46,
+    5325.46
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Share of profit in Associates",
+   "values": [
+    165.59,
+    140.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX",
+   "values": [
+    6161.05,
+    5466.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    157.61,
+    363.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT BEFORE TAX",
+   "values": [
+    6003.44,
+    5103.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax Expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    1523.02,
+    1388.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Short/(Excess) tax provision for earlier years",
+   "values": [
+    27.05,
+    -13.39
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    58.68,
+    17.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    1608.75,
+    1393.36
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT AFTER TAX",
+   "values": [
+    4394.69,
+    3709.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "OTHER COMPREHENSIVE INCOME (OCI)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remeasurement of the defined benefit plans",
+   "values": [
+    -24.94,
+    -2.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax benefit on remeasurement of defined benefit plans",
+   "values": [
+    6.17,
+    0.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net fair value (loss)/gain on investments in equity instruments through OCI",
+   "values": [
+    -22.59,
+    273.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax benefit/(expense) on net fair value gain on investment in equity instruments through OCI",
+   "values": [
+    3.97,
+    -42.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of OCI in Associates",
+   "values": [
+    -2.77,
+    -0.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net fair value (loss)/gain on investment in debt instruments through OCI",
+   "values": [
+    -18.99,
+    3.67
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax benefit/(expense) on net fair value gain on investment in debt instruments through OCI",
+   "values": [
+    2.72,
+    -0.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on cash flow hedges",
+   "values": [
+    8.44,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax expense on net gain on cash flow hedges",
+   "values": [
+    -2.12,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange difference arising on translation of foreign operations",
+   "values": [
+    22.67,
+    -115.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of OCI in Associates",
+   "values": [
+    0.08,
+    0.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Other Comprehensive Income (A+B)",
+   "values": [
+    -27.36,
+    114.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL COMPREHENSIVE INCOME FOR THE YEAR",
+   "values": [
+    4367.33,
+    3824.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT FOR THE YEAR ATTRIBUTABLE TO :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    4325.35,
+    3667.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Controlling interest",
+   "values": [
+    69.34,
+    42.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    4394.69,
+    3709.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "OTHER COMPREHENSIVE INCOME FOR THE YEAR ATTRIBUTABLE TO :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    -33.83,
+    153.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Controlling interest",
+   "values": [
+    6.47,
+    -38.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -27.36,
+    114.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL COMPREHENSIVE INCOME FOR THE YEAR ATTRIBUTABLE TO :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    4291.52,
+    3820.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Controlling interest",
+   "values": [
+    75.81,
+    3.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    4367.33,
+    3824.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share (Face value of ₹ 1 each)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    45.12,
+    38.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    45.11,
+    38.25
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 60,
+  "rows_reader": 58,
+  "rows_aligned": 58,
+  "rows_agreed": 55,
+  "missing_in_parser": 0,
+  "extra_in_parser": 2,
+  "label_diffs": 3,
+  "value_diffs": 0,
+  "values_reader": 94,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 13,
+   "reader_index": 13,
+   "label_parser": "EARNING BEFORE INTEREST, TAX, DEPRECIATION AND AMORTISATION",
+   "label_reader": "EARNING BEFORE INTEREST, TAX, DEPRECIATION AND AMORTISATION (EBITDA) (I-II)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 7419.72,
+    "2025": 6578.82
+   },
+   "values_reader": {
+    "2026": 7419.72,
+    "2025": 6578.82
+   },
+   "page": 233,
+   "search": [
+    "7,419.72",
+    "6,578.82"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 14,
+   "reader_index": null,
+   "label_parser": "(EBITDA) (I-II)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 233,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 17,
+   "reader_index": 16,
+   "label_parser": "PROFIT BEFORE SHARE OF PROFIT IN ASSOCIATES, EXCEPTIONAL ITEMS AND",
+   "label_reader": "PROFIT BEFORE SHARE OF PROFIT IN ASSOCIATES, EXCEPTIONAL ITEMS AND TAX",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 5995.46,
+    "2025": 5325.46
+   },
+   "values_reader": {
+    "2026": 5995.46,
+    "2025": 5325.46
+   },
+   "page": 233,
+   "search": [
+    "5,995.46",
+    "5,325.46"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 18,
+   "reader_index": null,
+   "label_parser": "TAX",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 233,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 57,
+   "reader_index": 55,
+   "label_parser": "Earnings per equity share (Face value of ₹ 1 each) 31",
+   "label_reader": "Earnings per equity share (Face value of ₹ 1 each)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 233,
+   "search": [],
+   "pattern": "note_ref_in_label",
+   "pattern_text": "Note number left in the label"
+  }
+ ]
+}

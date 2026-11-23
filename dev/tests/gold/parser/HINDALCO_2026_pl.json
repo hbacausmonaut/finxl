@@ -1,0 +1,389 @@
+{
+ "ticker": "HINDALCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 301,
+   "name": "302L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    773.9
+   ]
+  },
+  {
+   "page": 301,
+   "name": "302R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    773.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    274944.0,
+    238496.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    2889.0,
+    2708.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    277833.0,
+    241204.0
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    189642.0,
+    148244.0
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    1478.0,
+    1196.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock- in-trade",
+   "values": [
+    -14082.0,
+    -2327.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    17148.0,
+    15406.0
+   ]
+  },
+  {
+   "label": "Power and fuel",
+   "values": [
+    13622.0,
+    14396.0
+   ]
+  },
+  {
+   "label": "Finance cost",
+   "values": [
+    3480.0,
+    3419.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortization expense",
+   "values": [
+    8830.0,
+    7881.0
+   ]
+  },
+  {
+   "label": "Impairment loss/ (reversal) on non-current assets (Net)",
+   "values": [
+    324.0,
+    983.0
+   ]
+  },
+  {
+   "label": "Impairment loss/ (reversal) on financial assets (Net)",
+   "values": [
+    -6.0,
+    36.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    31934.0,
+    28757.0
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    252370.0,
+    217991.0
+   ]
+  },
+  {
+   "label": "Profit/ (Loss) before share in profit/ (loss) in equity accounted investments, exceptional items and tax",
+   "values": [
+    25463.0,
+    23213.0
+   ]
+  },
+  {
+   "label": "Share in profit/ (loss) in equity accounted investments (Net of tax)",
+   "values": [
+    -4.0,
+    3.0
+   ]
+  },
+  {
+   "label": "Profit/ (Loss) before exceptional items and tax",
+   "values": [
+    25459.0,
+    23216.0
+   ]
+  },
+  {
+   "label": "Exceptional income/ (expenses) (Net)",
+   "values": [
+    -6963.0,
+    -879.0
+   ]
+  },
+  {
+   "label": "Profit/ (Loss) before tax",
+   "values": [
+    18496.0,
+    22337.0
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax expense",
+   "values": [
+    7531.0,
+    6354.0
+   ]
+  },
+  {
+   "label": "Deferred tax expense",
+   "values": [
+    -2426.0,
+    -19.0
+   ]
+  },
+  {
+   "label": "Profit/ (Loss) for the year",
+   "values": [
+    13391.0,
+    16002.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income/ (loss) 26",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to Statement of Profit and Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement of defined benefit obligation",
+   "values": [
+    666.0,
+    26.0
+   ]
+  },
+  {
+   "label": "Change in fair value of equity instruments designated as FVTOCI",
+   "values": [
+    -258.0,
+    998.0
+   ]
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -131.0,
+    -281.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to Statement of Profit and Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Change in Fair Value of Trade Receivables Designated as FVTOCI",
+   "values": [
+    -11.0,
+    -3.0
+   ]
+  },
+  {
+   "label": "Change in fair value of debt instruments designated as FVTOCI",
+   "values": [
+    -58.0,
+    19.0
+   ]
+  },
+  {
+   "label": "Effective portion of cash flow hedges",
+   "values": [
+    -7642.0,
+    1032.0
+   ]
+  },
+  {
+   "label": "Cost of hedging reserve",
+   "values": [
+    -26.0,
+    36.0
+   ]
+  },
+  {
+   "label": "Foreign currency translation reserve",
+   "values": [
+    6150.0,
+    856.0
+   ]
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    2038.0,
+    -317.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income/ (loss) for the year",
+   "values": [
+    728.0,
+    2366.0
+   ]
+  },
+  {
+   "label": "Total comprehensive Income/ (loss) for the year",
+   "values": [
+    14119.0,
+    18368.0
+   ]
+  },
+  {
+   "label": "Profit/ (loss) attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    13391.0,
+    16001.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    1.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income/ (loss) attributable to: and Owners of the Company",
+   "values": [
+    728.0,
+    2366.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total comprehensive income/ (loss) attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "and Owners of the Company",
+   "values": [
+    14119.0,
+    18367.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    1.0
+   ]
+  },
+  {
+   "label": "Earnings Per Share: 27",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (`)",
+   "values": [
+    60.31,
+    72.05
+   ]
+  },
+  {
+   "label": "Diluted (`) and Notes forming part of consolidated financial statements 1-39",
+   "values": [
+    60.2,
+    71.91
+   ]
+  }
+ ],
+ "pdf": "HINDALCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb3b7080-855f-4cde-b688-d97575a72f3f.pdf",
+ "parsed_at": "2026-11-04 11:19 UTC"
+}

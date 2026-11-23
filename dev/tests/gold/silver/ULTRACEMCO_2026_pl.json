@@ -1,0 +1,450 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "ULTRACEMCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 258,
+   "name": "259R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    773.9
+   ]
+  }
+ ],
+ "pdf": "ULTRACEMCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1551898a-ebd8-40be-960b-1b16f0a1af60.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    88511.53,
+    75955.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    577.51,
+    744.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL INCOME (I)",
+   "values": [
+    89089.04,
+    76699.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of Materials Consumed",
+   "values": [
+    14568.44,
+    11821.72
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of Stock-in-Trade",
+   "values": [
+    2516.57,
+    1869.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in Inventories of Finished Goods, Stock-in-Trade and Work-in-Progress",
+   "values": [
+    103.35,
+    12.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    4162.44,
+    3604.59
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    1871.71,
+    1650.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and Amortisation Expense",
+   "values": [
+    4644.46,
+    4014.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Power and Fuel Expense",
+   "values": [
+    19597.16,
+    18419.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Freight and Forwarding Expense",
+   "values": [
+    19169.13,
+    17459.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    11374.21,
+    10210.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL EXPENSES (II)",
+   "values": [
+    78007.47,
+    69063.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before Exceptional Items, Share in Profit / (Loss) of Associates and Joint Venture and Tax expense (I)-(II)",
+   "values": [
+    11081.57,
+    7636.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional Items :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision for Impairment in value of Investment",
+   "values": [
+    50.07,
+    9.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Statutory Impact of New Labour Codes",
+   "values": [
+    88.48,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Stamp duty on Business Combination",
+   "values": [
+    null,
+    88.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before Share in Profit / (Loss) of Associates and Joint Venture and Tax Expense",
+   "values": [
+    10943.02,
+    7538.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share in Profit / (Loss) of Associate and Joint Venture (net of Tax expense)",
+   "values": [
+    -15.83,
+    -10.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before Tax Expense",
+   "values": [
+    10927.19,
+    7528.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax Expense:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax Charge",
+   "values": [
+    2313.62,
+    828.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred Tax Charge",
+   "values": [
+    425.22,
+    660.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Tax Expense",
+   "values": [
+    2738.84,
+    1488.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the period (III)",
+   "values": [
+    8188.35,
+    6039.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit / (Loss) attributable to Non-Controlling Interest",
+   "values": [
+    22.71,
+    0.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit attributable to Owners of the Parent",
+   "values": [
+    8165.64,
+    6039.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income/(Loss)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to Profit or Loss",
+   "values": [
+    -60.27,
+    701.86
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Income Tax Relating to Items that will not be reclassified to Profit or Loss",
+   "values": [
+    14.7,
+    -98.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to Profit or Loss",
+   "values": [
+    122.67,
+    80.64
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Income Tax Relating to Items that will be reclassified to Profit or Loss",
+   "values": [
+    79.03,
+    -11.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income/ (Loss) for the Year (IV)",
+   "values": [
+    156.13,
+    671.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income/ (Loss) attributable to Non-Controlling Interest",
+   "values": [
+    121.67,
+    33.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income/ (Loss) attributable to Owners of the Parent",
+   "values": [
+    34.46,
+    638.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income for the Year (III+IV)",
+   "values": [
+    8344.48,
+    6711.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income/ (Loss) attributable to Non-Controlling Interest",
+   "values": [
+    144.38,
+    34.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income/ (Loss) attributable to Owners of the Parent",
+   "values": [
+    8200.1,
+    6677.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings Per Equity Share (Face Value ₹ 10 each)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (in ₹ )",
+   "values": [
+    277.62,
+    205.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (in ₹ )",
+   "values": [
+    277.45,
+    205.13
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 43,
+  "rows_reader": 43,
+  "rows_aligned": 43,
+  "rows_agreed": 41,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 2,
+  "value_diffs": 0,
+  "values_reader": 74,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 30,
+   "reader_index": 30,
+   "label_parser": "A (i) Items that will not be reclassified to Profit or Loss",
+   "label_reader": "Items that will not be reclassified to Profit or Loss",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -60.27,
+    "2025": 701.86
+   },
+   "values_reader": {
+    "2026": -60.27,
+    "2025": 701.86
+   },
+   "page": 258,
+   "search": [
+    "60.27",
+    "701.86"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 32,
+   "reader_index": 32,
+   "label_parser": "B (i) Items that will be reclassified to Profit or Loss",
+   "label_reader": "Items that will be reclassified to Profit or Loss",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 122.67,
+    "2025": 80.64
+   },
+   "values_reader": {
+    "2026": 122.67,
+    "2025": 80.64
+   },
+   "page": 258,
+   "search": [
+    "122.67",
+    "80.64"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  }
+ ]
+}

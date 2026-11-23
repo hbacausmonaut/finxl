@@ -1,0 +1,396 @@
+{
+ "ticker": "KPRMILL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 178,
+   "name": "179",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    793.7
+   ]
+  },
+  {
+   "page": 179,
+   "name": "180",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    793.7
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "lakh",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    86650.0,
+    81511.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Income tax expenses recognised in the statement of profit and loss",
+   "values": [
+    26750.0,
+    24767.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    21560.0,
+    20787.0
+   ]
+  },
+  {
+   "label": "Net loss / (gain) on sale of property, plant and equipment",
+   "values": [
+    -1373.0,
+    -111.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    5160.0,
+    4977.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -6394.0,
+    -1776.0
+   ]
+  },
+  {
+   "label": "Net (gain)/ loss on sale of current investments",
+   "values": [
+    -2031.0,
+    -2182.0
+   ]
+  },
+  {
+   "label": "Rental income from operating leases",
+   "values": [
+    -47.0,
+    -184.0
+   ]
+  },
+  {
+   "label": "Recovery of Bad debts",
+   "values": [
+    -16.0,
+    -204.0
+   ]
+  },
+  {
+   "label": "Impairment loss on financial assets",
+   "values": [
+    530.0,
+    42.0
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    130789.0,
+    127627.0
+   ]
+  },
+  {
+   "label": "Changes in working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Adjustments for (increase) / decrease in assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    2453.0,
+    3673.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    -5890.0,
+    8475.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    2016.0,
+    6379.0
+   ]
+  },
+  {
+   "label": "Other non-current financial assets",
+   "values": [
+    73.0,
+    -183.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    3667.0,
+    4005.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    140.0,
+    -64.0
+   ]
+  },
+  {
+   "label": "Adjustments for increase / (decrease) in liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    1453.0,
+    10309.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    818.0,
+    3860.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    122.0,
+    -5.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    467.0,
+    -35.0
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    136108.0,
+    164041.0
+   ]
+  },
+  {
+   "label": "Income taxes paid",
+   "values": [
+    -25324.0,
+    -23909.0
+   ]
+  },
+  {
+   "label": "Net cash generated from operating activities (A)",
+   "values": [
+    110784.0,
+    140132.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Capital expenditure on property, plant and equipment, including capital advances",
+   "values": [
+    -31482.0,
+    -16869.0
+   ]
+  },
+  {
+   "label": "Proceeds from / (purchase of) current investments (net)",
+   "values": [
+    22029.0,
+    -20875.0
+   ]
+  },
+  {
+   "label": "(Increase) /decrease in margin deposit accounts",
+   "values": [
+    -110081.0,
+    -9977.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    6260.0,
+    775.0
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    6395.0,
+    1759.0
+   ]
+  },
+  {
+   "label": "Rental income received from operating leases",
+   "values": [
+    47.0,
+    184.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from / (Repayment of) non-current borrowings (net)",
+   "values": [
+    -2816.0,
+    -24184.0
+   ]
+  },
+  {
+   "label": "Proceeds from / (repayment of) current borrowings (net)",
+   "values": [
+    15817.0,
+    -45093.0
+   ]
+  },
+  {
+   "label": "Finance costs paid",
+   "values": [
+    -4931.0,
+    -4821.0
+   ]
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -17090.0,
+    -17090.0
+   ]
+  },
+  {
+   "label": "Nnet cash flow from / (used in) financing activities (C)",
+   "values": [
+    -9020.0,
+    -91188.0
+   ]
+  },
+  {
+   "label": "Net (decrease) / increase in cash and cash equivalents",
+   "values": [
+    -5068.0,
+    3941.0
+   ]
+  },
+  {
+   "label": "Add: Opening cash and cash equivalents",
+   "values": [
+    11454.0,
+    7513.0
+   ]
+  },
+  {
+   "label": "Closing cash and cash equivalents (Refer note 12)",
+   "values": [
+    6386.0,
+    11454.0
+   ]
+  },
+  {
+   "label": "Closing cash and cash equivalents comprises",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash on hand",
+   "values": [
+    64.0,
+    44.0
+   ]
+  },
+  {
+   "label": "Balance with Banks",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "In Current accounts",
+   "values": [
+    4271.0,
+    7613.0
+   ]
+  },
+  {
+   "label": "In EEFC accounts",
+   "values": [
+    2051.0,
+    3797.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    6386.0,
+    11454.0
+   ]
+  }
+ ],
+ "pdf": "KPRMILL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7176212b-4cc0-474d-850c-b514102e2234.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

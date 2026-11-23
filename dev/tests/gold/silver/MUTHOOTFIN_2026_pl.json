@@ -1,0 +1,813 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "MUTHOOTFIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 186,
+   "name": "187R",
+   "clip": [
+    595.4,
+    0.0,
+    1190.9,
+    779.8
+   ]
+  }
+ ],
+ "pdf": "MUTHOOTFIN/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/431b0dcc-54bc-4dbb-85d1-2c144520ecef.pdf",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    303709.17,
+    196628.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    41.14,
+    20.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair value changes",
+   "values": [
+    2779.63,
+    1281.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on derecognition of financial instruments under amortised cost category",
+   "values": [
+    1085.28,
+    1103.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of services",
+   "values": [
+    129.63,
+    72.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Service charges",
+   "values": [
+    4347.47,
+    3034.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Revenue from operations",
+   "values": [
+    312092.32,
+    202141.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    541.78,
+    509.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income (I + II)",
+   "values": [
+    312634.1,
+    202650.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    109996.36,
+    74123.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment on financial instruments",
+   "values": [
+    10261.43,
+    15755.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Loss on derecognition of financial instruments",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expenses",
+   "values": [
+    27911.35,
+    21949.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation, amortisation and impairment",
+   "values": [
+    1373.12,
+    1159.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    20043.41,
+    17002.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Expenses (IV)",
+   "values": [
+    169585.67,
+    129990.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax (III- IV)",
+   "values": [
+    143048.43,
+    72660.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax Expense:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    37452.16,
+    19938.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -768.84,
+    -673.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Taxes relating to prior years",
+   "values": [
+    296.44,
+    -128.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year (V- VI)",
+   "values": [
+    106068.67,
+    53523.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Surplus reserve from property plant and equipment",
+   "values": [
+    null,
+    1.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remeasurement of defined benefit plans",
+   "values": [
+    -139.61,
+    -44.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax charge on revaluation surplus",
+   "values": [
+    0.7,
+    -1.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value changes on equity instruments through other comprehensive income",
+   "values": [
+    75.26,
+    -419.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax reversal / (charge) on auctuarial gain / (losses)",
+   "values": [
+    -2.33,
+    0.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in value of forward element of forward contract",
+   "values": [
+    248.48,
+    -527.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values": [
+    -46.26,
+    249.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Subtotal (A)",
+   "values": [
+    136.24,
+    -741.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain/ (loss) from translating financial statements of foreign operations",
+   "values": [
+    54,
+    41.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value gain/ (loss) on debt instruments through other comprehensive income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effective portion of gain/ (loss) on hedging instruments in cash flow hedges",
+   "values": [
+    2665.74,
+    -217.36
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax relating to items that will be reclassified to profit or loss",
+   "values": [
+    -670.91,
+    54.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Subtotal (B)",
+   "values": [
+    2048.83,
+    -120.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income (A + B) (VIII)",
+   "values": [
+    2185.07,
+    -862.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year (VII+VIII)",
+   "values": [
+    108253.74,
+    52661.36
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Owners of the parent",
+   "values": [
+    105903.37,
+    53329
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    165.3,
+    194.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income attributable to",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Owners of the parent",
+   "values": [
+    2173.19,
+    -873.89
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    11.88,
+    11.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Owners of the parent",
+   "values": [
+    108076.56,
+    52455.11
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    177.18,
+    206.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Face value of ₹ 10/- each)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    263.79,
+    132.84
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    263.79,
+    132.83
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 52,
+  "rows_reader": 55,
+  "rows_aligned": 52,
+  "rows_agreed": 46,
+  "missing_in_parser": 3,
+  "extra_in_parser": 0,
+  "label_diffs": 6,
+  "value_diffs": 4,
+  "values_reader": 83,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "million",
+  "unit_reader": "million"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 42,
+   "label_parser": null,
+   "label_reader": "Profit for the year attributable to",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 186,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 42,
+   "reader_index": 43,
+   "label_parser": "Profit for the year attributable to Owners of the parent",
+   "label_reader": "Owners of the parent",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 105903.37,
+    "2025": 53329
+   },
+   "values_reader": {
+    "2026": 105903.37,
+    "2025": 53329
+   },
+   "page": 186,
+   "search": [
+    "1,05,903.37",
+    "53,329"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 44,
+   "reader_index": 45,
+   "label_parser": "Other comprehensive income attributable to Owners of the parent",
+   "label_reader": "Other comprehensive income attributable to",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2173.19,
+    "2025": -873.89
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 186,
+   "search": [
+    "2,173.19",
+    "873.89"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d004",
+   "kind": "value",
+   "year": 2026,
+   "parser_index": 44,
+   "reader_index": 45,
+   "label_parser": "Other comprehensive income attributable to Owners of the parent",
+   "label_reader": "Other comprehensive income attributable to",
+   "value_parser": 2173.19,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2173.19,
+    "2025": -873.89
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 186,
+   "search": [
+    "2,173.19"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d005",
+   "kind": "value",
+   "year": 2025,
+   "parser_index": 44,
+   "reader_index": 45,
+   "label_parser": "Other comprehensive income attributable to Owners of the parent",
+   "label_reader": "Other comprehensive income attributable to",
+   "value_parser": -873.89,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2173.19,
+    "2025": -873.89
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 186,
+   "search": [
+    "873.89"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d006",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 46,
+   "label_parser": null,
+   "label_reader": "Owners of the parent",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 2173.19,
+    "2025": -873.89
+   },
+   "page": 186,
+   "search": [
+    "2,173.19",
+    "873.89"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d007",
+   "kind": "label",
+   "year": null,
+   "parser_index": 46,
+   "reader_index": 48,
+   "label_parser": "Total comprehensive income for the year attributable to Owners of the parent",
+   "label_reader": "Total comprehensive income for the year attributable to",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 108076.56,
+    "2025": 52455.11
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 186,
+   "search": [
+    "1,08,076.56",
+    "52,455.11"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d008",
+   "kind": "value",
+   "year": 2026,
+   "parser_index": 46,
+   "reader_index": 48,
+   "label_parser": "Total comprehensive income for the year attributable to Owners of the parent",
+   "label_reader": "Total comprehensive income for the year attributable to",
+   "value_parser": 108076.56,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 108076.56,
+    "2025": 52455.11
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 186,
+   "search": [
+    "1,08,076.56"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d009",
+   "kind": "value",
+   "year": 2025,
+   "parser_index": 46,
+   "reader_index": 48,
+   "label_parser": "Total comprehensive income for the year attributable to Owners of the parent",
+   "label_reader": "Total comprehensive income for the year attributable to",
+   "value_parser": 52455.11,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 108076.56,
+    "2025": 52455.11
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 186,
+   "search": [
+    "52,455.11"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d010",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 49,
+   "label_parser": null,
+   "label_reader": "Owners of the parent",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 108076.56,
+    "2025": 52455.11
+   },
+   "page": 186,
+   "search": [
+    "1,08,076.56",
+    "52,455.11"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d011",
+   "kind": "label",
+   "year": null,
+   "parser_index": 49,
+   "reader_index": 52,
+   "label_parser": "(Face value of H 10/- each)",
+   "label_reader": "(Face value of ₹ 10/- each)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 186,
+   "search": [],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d012",
+   "kind": "label",
+   "year": null,
+   "parser_index": 50,
+   "reader_index": 53,
+   "label_parser": "Basic (H)",
+   "label_reader": "Basic (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 263.79,
+    "2025": 132.84
+   },
+   "values_reader": {
+    "2026": 263.79,
+    "2025": 132.84
+   },
+   "page": 186,
+   "search": [
+    "263.79",
+    "132.84"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d013",
+   "kind": "label",
+   "year": null,
+   "parser_index": 51,
+   "reader_index": 54,
+   "label_parser": "Diluted (H)",
+   "label_reader": "Diluted (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 263.79,
+    "2025": 132.83
+   },
+   "values_reader": {
+    "2026": 263.79,
+    "2025": 132.83
+   },
+   "page": 186,
+   "search": [
+    "263.79",
+    "132.83"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  }
+ ]
+}

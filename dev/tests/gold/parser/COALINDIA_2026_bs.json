@@ -1,0 +1,462 @@
+{
+ "ticker": "COALINDIA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 230,
+   "name": "231L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025,
+  2024
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non-current assets",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, Plant and Equipment",
+   "values": [
+    81503.25,
+    75946.25,
+    67181.17
+   ]
+  },
+  {
+   "label": "Capital work in progress",
+   "values": [
+    15833.99,
+    15888.64,
+    14738.66
+   ]
+  },
+  {
+   "label": "Exploration and Evaluation assets",
+   "values": [
+    2984.59,
+    3621.38,
+    5025.66
+   ]
+  },
+  {
+   "label": "Intangible assets",
+   "values": [
+    2764.23,
+    2579.89,
+    2718.21
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    7578.61,
+    6496.27,
+    4221.64
+   ]
+  },
+  {
+   "label": "Financial assets (i) Investments",
+   "values": [
+    6038.41,
+    4416.07,
+    3859.31
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    888.92,
+    389.86,
+    358.71
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    22704.06,
+    19668.15,
+    18010.69
+   ]
+  },
+  {
+   "label": "Deferred tax assets (Net)",
+   "values": [
+    2239.55,
+    1837.37,
+    2320.21
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    17597.05,
+    32360.51,
+    14491.63
+   ]
+  },
+  {
+   "label": "TOTAL NON-CURRENT ASSETS",
+   "values": [
+    160132.66,
+    163204.39,
+    132925.89
+   ]
+  },
+  {
+   "label": "(2) Current assets",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    15654.3,
+    12611.74,
+    10175.18
+   ]
+  },
+  {
+   "label": "Financial assets (i) Investments",
+   "values": [
+    4187.47,
+    3175.26,
+    3251.1
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    14120.59,
+    12727.72,
+    13255.75
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    8619.66,
+    11160.68,
+    6008.71
+   ]
+  },
+  {
+   "label": "Other bank balances",
+   "values": [
+    43954.71,
+    23054.63,
+    24226.46
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    12.66,
+    18.9,
+    21.59
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    3387.1,
+    2475.77,
+    2698.51
+   ]
+  },
+  {
+   "label": "Current tax assets (Net)",
+   "values": [
+    5343.27,
+    9822.62,
+    9135.27
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    30247.85,
+    21144.14,
+    35179.88
+   ]
+  },
+  {
+   "label": "TOTAL CURRENT ASSETS",
+   "values": [
+    125527.61,
+    96191.46,
+    103952.45
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    285660.27,
+    259395.85,
+    236878.34
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    6162.73,
+    6162.73,
+    6162.73
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    112938.83,
+    95557.59,
+    79034.83
+   ]
+  },
+  {
+   "label": "Equity attributable to equityholders of the company",
+   "values": [
+    119101.56,
+    101720.32,
+    85197.56
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    1903.01,
+    761.19,
+    767.54
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY",
+   "values": [
+    121004.57,
+    102481.51,
+    85965.1
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non-current liabilities",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities (i) Borrowings",
+   "values": [
+    9232.36,
+    7385.75,
+    5617.2
+   ]
+  },
+  {
+   "label": "(ia) Lease liabilities",
+   "values": [
+    175.77,
+    146.46,
+    156.29
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    3474.26,
+    3427.31,
+    3469.26
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    72955.17,
+    74531.52,
+    74311.01
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (Net)",
+   "values": [
+    2434.19,
+    2094.63,
+    2071.52
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    8732.84,
+    8031.02,
+    7266.84
+   ]
+  },
+  {
+   "label": "TOTAL NON-CURRENT LIABILITIES",
+   "values": [
+    97004.59,
+    95616.69,
+    92892.12
+   ]
+  },
+  {
+   "label": "(2) Current liabilities",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities (i) Borrowings",
+   "values": [
+    4589.1,
+    1522.65,
+    671.82
+   ]
+  },
+  {
+   "label": "(ia) Lease liabilities",
+   "values": [
+    74.95,
+    90.87,
+    77.72
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of Micro, Small and Medium",
+   "values": [
+    241.34,
+    164.77,
+    157.38
+   ]
+  },
+  {
+   "label": "Enterprises; and (B) Total outstanding dues of Creditors other than Micro, Small and Medium",
+   "values": [
+    12313.05,
+    10037.39,
+    8228.1
+   ]
+  },
+  {
+   "label": "Enterprises",
+   "values": [
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    18422.44,
+    17203.05,
+    16148.38
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    27201.96,
+    26053.45,
+    25858.81
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    4808.27,
+    6222.35,
+    6680.58
+   ]
+  },
+  {
+   "label": "Current tax liabilities (Net)",
+   "values": [
+    null,
+    3.12,
+    198.33
+   ]
+  },
+  {
+   "label": "TOTAL CURRENT LIABILITIES",
+   "values": [
+    67651.11,
+    61297.65,
+    58021.12
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    285660.27,
+    259395.85,
+    236878.34
+   ]
+  }
+ ],
+ "pdf": "COALINDIA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a545232-5986-454c-b936-70e14712b84e.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

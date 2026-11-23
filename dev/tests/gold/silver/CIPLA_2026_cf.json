@@ -1,0 +1,647 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "CIPLA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 355,
+   "name": "356",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  },
+  {
+   "page": 356,
+   "name": "357",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "CIPLA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    5223.63,
+    6820.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation, impairment and amortisation expense",
+   "values": [
+    1210.98,
+    1106.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment of investment in associates (refer note 38(b))",
+   "values": [
+    42.02,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    54.39,
+    62.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unrealised foreign exchange gain (net)",
+   "values": [
+    -103.3,
+    -13.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share based payment expense",
+   "values": [
+    59.05,
+    47.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Allowances for credit loss (net)",
+   "values": [
+    8.36,
+    8.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income on income tax refund",
+   "values": [
+    -0.66,
+    -9.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income on bank deposits and others",
+   "values": [
+    -227.91,
+    -254.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sundry balances written back (net)",
+   "values": [
+    -3.45,
+    -10.94
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on sale of current investment carried at fair value through profit or loss",
+   "values": [
+    -344.81,
+    -174.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net fair value gain on financial instruments at fair value through profit or loss",
+   "values": [
+    -128.14,
+    -234.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net loss/(gain) on sale/disposal of property, plant and equipment and intangible asset",
+   "values": [
+    -31.81,
+    5.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Rent income",
+   "values": [
+    -6.91,
+    -14.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    5751.44,
+    7338.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for working capital:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in inventories",
+   "values": [
+    -642.39,
+    -322.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Decrease/(Increase) in trade receivables",
+   "values": [
+    465.29,
+    -593.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in other receivables",
+   "values": [
+    -701.18,
+    -149.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in trade payables",
+   "values": [
+    252.58,
+    342.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in other payables and provisions",
+   "values": [
+    400.48,
+    57.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    5526.22,
+    6673.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax paid (net of refunds)",
+   "values": [
+    -1586.2,
+    -1668.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows generated from operating activities (a)",
+   "values": [
+    3940.02,
+    5004.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow from investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of property, plant and equipment {refer note (ii) below}",
+   "values": [
+    -1599.33,
+    -1162.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of intangible assets (including intangible asset under development)",
+   "values": [
+    -1479.98,
+    -386.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment {refer note (ii) below}",
+   "values": [
+    23.56,
+    24.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of intangible assets",
+   "values": [
+    44.05,
+    8.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase consideration for acquisition of business",
+   "values": [
+    null,
+    -130
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase/Deferred consideration for acquisition of subsidiary (net of cash acquired) (refer note 54)",
+   "values": [
+    -110.65,
+    -75.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in associates (refer note 6)",
+   "values": [
+    -15.63,
+    -30.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -17.37,
+    -17.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale/(purchase) of current investments (net)",
+   "values": [
+    86.76,
+    -2077.4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceed/Advance received against sale of assets classified as held for sale",
+   "values": [
+    26.15,
+    11.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in bank balances and cash not available for immediate use",
+   "values": [
+    486.48,
+    -104.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    222.92,
+    260.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loan given to associate and others",
+   "values": [
+    null,
+    -26.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Rent received",
+   "values": [
+    6.91,
+    14.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in investing activities (b)",
+   "values": [
+    -2326.13,
+    -3691.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of equity shares (ESOS & ESAR)",
+   "values": [
+    0.04,
+    0.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transaction with non-controlling interest (net)",
+   "values": [
+    15.78,
+    2.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consideration paid for settlement of option liability",
+   "values": [
+    null,
+    -43.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds/(Repayment) from current borrowings (net)",
+   "values": [
+    94.62,
+    -98.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from non-current borrowings",
+   "values": [
+    93.16,
+    11.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Principal payment of lease liabilities",
+   "values": [
+    -107.82,
+    -80.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid (including interest on lease liability of ₹ 28.31 Crores (31st March, 2025: ₹ 23.02 Crores))",
+   "values": [
+    -37.03,
+    -36.38
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -1292.4,
+    -1049.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in financing activities (c)",
+   "values": [
+    -1233.65,
+    -1292.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase in cash and cash equivalents (a+b+c)",
+   "values": [
+    380.24,
+    21.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    542.65,
+    512.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange difference on translation of foreign currency cash and cash equivalents",
+   "values": [
+    92.5,
+    9.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year (refer note 15)",
+   "values": [
+    1015.39,
+    542.65
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 61,
+  "rows_reader": 56,
+  "rows_aligned": 56,
+  "rows_agreed": 55,
+  "missing_in_parser": 0,
+  "extra_in_parser": 5,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 98,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 33,
+   "reader_index": null,
+   "label_parser": "(refer note 54)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 355,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 50,
+   "reader_index": 49,
+   "label_parser": "Interest paid (including interest on lease liability of H 28.31 Crores (31st March, 2025: H 23.02 Crores))",
+   "label_reader": "Interest paid (including interest on lease liability of ₹ 28.31 Crores (31st March, 2025: ₹ 23.02 Crores))",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -37.03,
+    "2025": -36.38
+   },
+   "values_reader": {
+    "2026": -37.03,
+    "2025": -36.38
+   },
+   "page": 356,
+   "search": [
+    "37.03",
+    "36.38"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d003",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 57,
+   "reader_index": null,
+   "label_parser": "Components of cash and cash equivalents",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 355,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 58,
+   "reader_index": null,
+   "label_parser": "Cash and cash equivalents as per Consolidated Balance Sheet (refer note 15)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1018.22,
+    "2025": 588.69
+   },
+   "values_reader": {},
+   "page": 355,
+   "search": [
+    "1,018.22",
+    "588.69"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d005",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 59,
+   "reader_index": null,
+   "label_parser": "Less: Bank overdraft (refer note 23)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -2.83,
+    "2025": -46.04
+   },
+   "values_reader": {},
+   "page": 355,
+   "search": [
+    "2.83",
+    "46.04"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 60,
+   "reader_index": null,
+   "label_parser": "Cash and cash equivalents for Consolidated Statement of Cash Flows",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1015.39,
+    "2025": 542.65
+   },
+   "values_reader": {},
+   "page": 355,
+   "search": [
+    "1,015.39",
+    "542.65"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ]
+}

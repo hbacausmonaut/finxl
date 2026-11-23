@@ -1,0 +1,466 @@
+{
+ "ticker": "DMART",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 198,
+   "name": "199",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    737.0
+   ]
+  },
+  {
+   "page": 199,
+   "name": "200",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    737.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    4081.62,
+    3672.67
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    1037.02,
+    869.52
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    142.05,
+    69.45
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -53.98,
+    -87.83
+   ]
+  },
+  {
+   "label": "Gain on sale of investments",
+   "values": [
+    -4.07,
+    -21.76
+   ]
+  },
+  {
+   "label": "Expense on employee stock option scheme",
+   "values": [
+    33.87,
+    30.72
+   ]
+  },
+  {
+   "label": "Rent income",
+   "values": [
+    -5.34,
+    -5.04
+   ]
+  },
+  {
+   "label": "Loss on disposal of property, plant and equipment (net)",
+   "values": [
+    2.2,
+    7.18
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    5233.37,
+    4534.91
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Increase in trade payables",
+   "values": [
+    267.42,
+    86.0
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in provisions",
+   "values": [
+    55.12,
+    -23.23
+   ]
+  },
+  {
+   "label": "Increase in other current financial liabilities",
+   "values": [
+    35.63,
+    43.17
+   ]
+  },
+  {
+   "label": "Increase in other current liabilities",
+   "values": [
+    2.82,
+    42.88
+   ]
+  },
+  {
+   "label": "Increase in non-current provisions",
+   "values": [
+    2.03,
+    3.49
+   ]
+  },
+  {
+   "label": "Increase in other non-current financial liabilities",
+   "values": [
+    0.05,
+    0.12
+   ]
+  },
+  {
+   "label": "Decrease in trade receivables",
+   "values": [
+    4.45,
+    12.58
+   ]
+  },
+  {
+   "label": "Increase in inventories",
+   "values": [
+    -856.27,
+    -1117.06
+   ]
+  },
+  {
+   "label": "Increase in other non-current assets",
+   "values": [
+    -9.44,
+    -24.97
+   ]
+  },
+  {
+   "label": "Increase in other non-current financial assets",
+   "values": [
+    -43.92,
+    -50.92
+   ]
+  },
+  {
+   "label": "Increase in bank balances other than cash and cash equivalents",
+   "values": [
+    -18.98,
+    -0.15
+   ]
+  },
+  {
+   "label": "Increase in other current assets",
+   "values": [
+    -89.19,
+    -71.21
+   ]
+  },
+  {
+   "label": "Increase in other current financial assets",
+   "values": [
+    -48.23,
+    -13.41
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -698.51,
+    -1112.71
+   ]
+  },
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    4534.86,
+    3422.2
+   ]
+  },
+  {
+   "label": "Direct taxes paid (net of refunds)",
+   "values": [
+    -1068.12,
+    -959.23
+   ]
+  },
+  {
+   "label": "Net cash flow from operating activities",
+   "values": [
+    3466.74,
+    2462.97
+   ]
+  },
+  {
+   "label": "Cash flow from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from disposal of property, plant and equipment",
+   "values": [
+    0.44,
+    5.83
+   ]
+  },
+  {
+   "label": "Realisation from Bank Deposits/(Purchase of Bank Deposits)",
+   "values": [
+    -146.46,
+    998.44
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    43.73,
+    103.1
+   ]
+  },
+  {
+   "label": "Rent income received",
+   "values": [
+    5.36,
+    5.2
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment, intangible assets, capital work in progress, capital advances and capital creditors (net)",
+   "values": [
+    -4113.35,
+    -3423.04
+   ]
+  },
+  {
+   "label": "Purchase of non current investment",
+   "values": [
+    null,
+    -2.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of current Investments",
+   "values": [
+    3122.66,
+    5073.51
+   ]
+  },
+  {
+   "label": "Purchase of current Investments",
+   "values": [
+    -3119.34,
+    -4946.35
+   ]
+  },
+  {
+   "label": "Net cash flow used in investing activities",
+   "values": [
+    -4206.96,
+    -2185.31
+   ]
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from exercise of share options",
+   "values": [
+    36.65,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from share application money pending allotment",
+   "values": [
+    0.72,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from short term borrowings",
+   "values": [
+    987.61,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from commercial papers",
+   "values": [
+    600.0,
+    null
+   ]
+  },
+  {
+   "label": "Consolidated Statement of Cash Flows",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "for the year ended 31st March, 2026",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(C in Crores)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "31st March, 2026 31st March,",
+   "values": [
+    null,
+    2025.0
+   ]
+  },
+  {
+   "label": "Repayment of short term borrowings",
+   "values": [
+    -402.61,
+    null
+   ]
+  },
+  {
+   "label": "Repayment of commercial papers",
+   "values": [
+    -600.0,
+    null
+   ]
+  },
+  {
+   "label": "Payment of lease liabilities",
+   "values": [
+    -193.51,
+    -189.85
+   ]
+  },
+  {
+   "label": "Interest paid on lease liabilities",
+   "values": [
+    -120.76,
+    -67.29
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -19.92,
+    -2.16
+   ]
+  },
+  {
+   "label": "Cash flow from/(used in) financing activities",
+   "values": [
+    288.18,
+    -259.3
+   ]
+  },
+  {
+   "label": "Net Increase/(decrease) in cash and cash equivalent",
+   "values": [
+    452.04,
+    18.36
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at beginning of the year",
+   "values": [
+    355.48,
+    337.12
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at end of the year (net of bank overdrawn balances)",
+   "values": [
+    -96.56,
+    355.48
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents as per above comprises of the following",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents (Refer note:13)",
+   "values": [
+    283.71,
+    355.48
+   ]
+  },
+  {
+   "label": "Bank overdrawn (Refer note:22)",
+   "values": [
+    -380.27,
+    null
+   ]
+  },
+  {
+   "label": "Balance as per statement of cash flows",
+   "values": [
+    -96.56,
+    355.48
+   ]
+  }
+ ],
+ "pdf": "DMART/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

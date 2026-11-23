@@ -1,0 +1,28 @@
+{
+ "format": "docfetcher-gold-resolutions/1",
+ "ticker": "SBIN",
+ "fy": 2026,
+ "statement": "cf",
+ "resolved_by": "Harsh and Claude in Chrome (see decided_by)",
+ "answers": {
+  "d002": {
+   "choice": "parser",
+   "at": "2026-11-08 00:04"
+  },
+  "d003": {
+   "choice": "parser",
+   "at": "2026-11-08 00:05"
+  },
+  "d004": {
+   "choice": "parser",
+   "at": "2026-11-08 00:05"
+  },
+  "d001": {
+   "choice": "parser",
+   "at": "2026-11-08 00:10",
+   "decided_by": "Claude in Chrome, at Harsh's request",
+   "note": "Matches Harsh's d002-d004. Label should read 'Components of Cash & Cash Equivalents as at:' without the dates."
+  }
+ },
+ "resolved_at": "2026-11-08 00:10"
+}

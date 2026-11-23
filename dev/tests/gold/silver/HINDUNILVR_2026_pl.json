@@ -1,0 +1,816 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "HINDUNILVR",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 185,
+   "name": "186L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 185,
+   "name": "186R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CONTINUING OPERATIONS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    64468,
+    61328
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    751,
+    1017
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL INCOME",
+   "values": [
+    65219,
+    62345
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    20981,
+    19034
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    11113,
+    10861
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "values": [
+    -429,
+    -125
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    3175,
+    2952
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    410,
+    381
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    1333,
+    1253
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    14574,
+    13900
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL EXPENSES",
+   "values": [
+    51157,
+    48256
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items, tax and share of equity-accounted investee from continuing operations",
+   "values": [
+    14062,
+    14089
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of loss of equity-accounted investee (net of tax)",
+   "values": [
+    -15,
+    -8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX FROM CONTINUING OPERATIONS",
+   "values": [
+    14047,
+    14081
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Exceptional items [net (charge) / credit]",
+   "values": [
+    -235,
+    347
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax from continuing operations",
+   "values": [
+    13812,
+    14428
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    -3163,
+    -3618
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax credit / (charge)",
+   "values": [
+    3,
+    -130
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT FOR THE YEAR FROM CONTINUING OPERATIONS (A)",
+   "values": [
+    10652,
+    10680
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "DISCONTINUED OPERATIONS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit / (loss) before exceptional items and tax from discontinued operations",
+   "values": [
+    -135,
+    29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional items of discontinued operations [net credit / (charge)]",
+   "values": [
+    4471,
+    -42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax credit of discontinued operations",
+   "values": [
+    71,
+    4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT / (LOSS) FOR THE YEAR FROM DISCONTINUED OPERATIONS (B)",
+   "values": [
+    4407,
+    -9
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT FOR THE YEAR (C=A+B)",
+   "values": [
+    15059,
+    10671
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "OTHER COMPREHENSIVE INCOME",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remeasurements of the net defined benefit plans",
+   "values": [
+    8,
+    -22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax on above",
+   "values": [
+    -2,
+    5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value of debt instruments through other comprehensive income",
+   "values": [
+    null,
+    0
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax on above",
+   "values": [
+    null,
+    0
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value of cash flow hedges through other comprehensive income",
+   "values": [
+    268,
+    -2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax on above",
+   "values": [
+    -73,
+    0
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange differences on translation of financial statements of foreign operations",
+   "values": [
+    1,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax on above",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "OTHER COMPREHENSIVE INCOME FOR THE YEAR (D)",
+   "values": [
+    202,
+    -19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL COMPREHENSIVE INCOME FOR THE YEAR (C+D)",
+   "values": [
+    15261,
+    10652
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net profit attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Holding Company",
+   "values": [
+    15040,
+    10649
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    19,
+    22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive income / (loss) attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Holding Company",
+   "values": [
+    202,
+    -19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    0,
+    0
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive income attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Holding Company",
+   "values": [
+    15242,
+    10630
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    19,
+    22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share (Face value of ₹ 1 each)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "For Continuing operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    45.25,
+    45.36
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    45.25,
+    45.36
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "For Discontinued operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    18.76,
+    -0.04
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    18.75,
+    -0.04
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "For Continuing and Discontinued operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    64.01,
+    45.32
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    64,
+    45.32
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 52,
+  "rows_reader": 61,
+  "rows_aligned": 51,
+  "rows_agreed": 50,
+  "missing_in_parser": 10,
+  "extra_in_parser": 1,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 87,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 16,
+   "reader_index": 16,
+   "label_parser": "PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX FROM CONTINUING",
+   "label_reader": "PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX FROM CONTINUING OPERATIONS",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 14047,
+    "2025": 14081
+   },
+   "values_reader": {
+    "2026": 14047,
+    "2025": 14081
+   },
+   "page": 185,
+   "search": [
+    "14,047",
+    "14,081"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 17,
+   "reader_index": null,
+   "label_parser": "OPERATIONS",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 185,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 51,
+   "label_parser": null,
+   "label_reader": "Earnings per equity share (Face value of ₹ 1 each)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 185,
+   "search": [],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d004",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 52,
+   "label_parser": null,
+   "label_reader": "For Continuing operations",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 185,
+   "search": [],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d005",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 53,
+   "label_parser": null,
+   "label_reader": "Basic (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 45.25,
+    "2025": 45.36
+   },
+   "page": 185,
+   "search": [
+    "45.25",
+    "45.36"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d006",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 54,
+   "label_parser": null,
+   "label_reader": "Diluted (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 45.25,
+    "2025": 45.36
+   },
+   "page": 185,
+   "search": [
+    "45.25",
+    "45.36"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d007",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 55,
+   "label_parser": null,
+   "label_reader": "For Discontinued operations",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 185,
+   "search": [],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d008",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 56,
+   "label_parser": null,
+   "label_reader": "Basic (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 18.76,
+    "2025": -0.04
+   },
+   "page": 185,
+   "search": [
+    "18.76",
+    "0.04"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d009",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 57,
+   "label_parser": null,
+   "label_reader": "Diluted (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 18.75,
+    "2025": -0.04
+   },
+   "page": 185,
+   "search": [
+    "18.75",
+    "0.04"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d010",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 58,
+   "label_parser": null,
+   "label_reader": "For Continuing and Discontinued operations",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 185,
+   "search": [],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d011",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 59,
+   "label_parser": null,
+   "label_reader": "Basic (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 64.01,
+    "2025": 45.32
+   },
+   "page": 185,
+   "search": [
+    "64.01",
+    "45.32"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d012",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 60,
+   "label_parser": null,
+   "label_reader": "Diluted (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 64,
+    "2025": 45.32
+   },
+   "page": 185,
+   "search": [
+    "64",
+    "45.32"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  }
+ ]
+}

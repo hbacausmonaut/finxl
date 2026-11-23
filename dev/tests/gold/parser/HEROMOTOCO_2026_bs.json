@@ -1,0 +1,421 @@
+{
+ "ticker": "HEROMOTOCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 212,
+   "name": "213L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    5325.25,
+    5219.13
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    244.7,
+    105.37
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    502.64,
+    483.39
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    545.68,
+    580.46
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    520.26,
+    381.81
+   ]
+  },
+  {
+   "label": "Equity accounted investments in associates",
+   "values": [
+    3901.2,
+    2980.94
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    3180.33,
+    4767.33
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    28.54,
+    24.87
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    54.04,
+    47.09
+   ]
+  },
+  {
+   "label": "Income tax assets (net)",
+   "values": [
+    126.92,
+    254.49
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    118.5,
+    111.55
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    14548.06,
+    14956.43
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    2650.09,
+    2013.34
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    12204.83,
+    6635.99
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    2339.85,
+    3381.29
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    686.71,
+    383.55
+   ]
+  },
+  {
+   "label": "Bank balances other than (iii) above",
+   "values": [
+    79.99,
+    190.53
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    27.92,
+    27.07
+   ]
+  },
+  {
+   "label": "Others",
+   "values": [
+    115.4,
+    141.59
+   ]
+  },
+  {
+   "label": "Income tax assets (net)",
+   "values": [
+    null,
+    198.12
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    799.74,
+    462.41
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    18904.53,
+    13433.89
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    33452.59,
+    28390.32
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    40.02,
+    40.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    21571.17,
+    19232.04
+   ]
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    21611.19,
+    19272.04
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    199.83,
+    132.05
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    21811.02,
+    19404.09
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    219.06,
+    196.21
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    108.69,
+    143.83
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    698.01,
+    495.29
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    711.48,
+    674.92
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    1737.24,
+    1510.25
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    498.55,
+    456.76
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    61.0,
+    46.96
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro and small enterprises",
+   "values": [
+    54.28,
+    21.5
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro and small enterprises",
+   "values": [
+    7621.99,
+    5678.16
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    411.71,
+    282.94
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    814.38,
+    768.17
+   ]
+  },
+  {
+   "label": "Income tax liabilities (net)",
+   "values": [
+    139.35,
+    null
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    303.07,
+    221.49
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    9904.33,
+    7475.98
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    33452.59,
+    28390.32
+   ]
+  }
+ ],
+ "pdf": "HEROMOTOCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b80c703d-600d-472b-a18c-9565f6f780a7.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

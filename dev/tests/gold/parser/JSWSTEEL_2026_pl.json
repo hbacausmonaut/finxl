@@ -1,0 +1,393 @@
+{
+ "ticker": "JSWSTEEL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 287,
+   "name": "288R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    185470.0,
+    168824.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1248.0,
+    694.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    186718.0,
+    169518.0
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    88836.0,
+    88324.0
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    3036.0,
+    845.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods and semi-finished goods, work-in-progress and stock-in-trade",
+   "values": [
+    4719.0,
+    829.0
+   ]
+  },
+  {
+   "label": "Mining premium and royalties",
+   "values": [
+    6954.0,
+    9144.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    5285.0,
+    4798.0
+   ]
+  },
+  {
+   "label": "Finance cost",
+   "values": [
+    9102.0,
+    8412.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    9601.0,
+    9309.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    46819.0,
+    41980.0
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    174352.0,
+    163641.0
+   ]
+  },
+  {
+   "label": "Profit before share of profit / (loss) from joint ventures and associates, exceptional items and tax",
+   "values": [
+    12366.0,
+    5877.0
+   ]
+  },
+  {
+   "label": "(net) (III-IV)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Share of profit/(loss) from joint ventures and associates (net)",
+   "values": [
+    -475.0,
+    -311.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    11891.0,
+    5566.0
+   ]
+  },
+  {
+   "label": "Exceptional items",
+   "values": [
+    -17359.0,
+    489.0
+   ]
+  },
+  {
+   "label": "Profit before tax (VII-VIII)",
+   "values": [
+    29250.0,
+    5077.0
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    3799.0,
+    1986.0
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -57.0,
+    -182.0
+   ]
+  },
+  {
+   "label": "Tax impact of earlier years",
+   "values": [
+    null,
+    -218.0
+   ]
+  },
+  {
+   "label": "Total tax expenses",
+   "values": [
+    3742.0,
+    1586.0
+   ]
+  },
+  {
+   "label": "Profit for the year (IX-X)",
+   "values": [
+    25508.0,
+    3491.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income/(loss)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "A i) Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement gain/(loss) of the defined benefit plans @",
+   "values": [
+    -31.0,
+    null
+   ]
+  },
+  {
+   "label": "Net Gain/(Loss) on equity instruments through other comprehensive income",
+   "values": [
+    -625.0,
+    88.0
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values": [
+    115.0,
+    -145.0
+   ]
+  },
+  {
+   "label": "Total (A)",
+   "values": [
+    -541.0,
+    -57.0
+   ]
+  },
+  {
+   "label": "B i) Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "The effective portion of gain/(loss) on hedging instruments",
+   "values": [
+    913.0,
+    551.0
+   ]
+  },
+  {
+   "label": "Exchange differences on translating the financial statements of a foreign operation",
+   "values": [
+    -992.0,
+    -303.0
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will be reclassified to profit or loss",
+   "values": [
+    -228.0,
+    -141.0
+   ]
+  },
+  {
+   "label": "Total (B)",
+   "values": [
+    -307.0,
+    107.0
+   ]
+  },
+  {
+   "label": "Total Other comprehensive income",
+   "values": [
+    -848.0,
+    50.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income",
+   "values": [
+    24660.0,
+    3541.0
+   ]
+  },
+  {
+   "label": "Total Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    22316.0,
+    3504.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    3192.0,
+    -13.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    25508.0,
+    3491.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    -848.0,
+    51.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    -1.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -848.0,
+    50.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    21468.0,
+    3555.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    3192.0,
+    -14.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    24660.0,
+    3541.0
+   ]
+  },
+  {
+   "label": "Basic (in H)",
+   "values": [
+    91.43,
+    14.36
+   ]
+  },
+  {
+   "label": "Diluted (in H)",
+   "values": [
+    91.25,
+    14.32
+   ]
+  }
+ ],
+ "pdf": "JSWSTEEL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

@@ -1,0 +1,27 @@
+{
+  "ticker": "SBIN", "fy": 2026, "statement": "bs", "scope": "consolidated",
+  "reader": "claude", "read_at": "2026-11-04 11:02 UTC",
+  "unit": "thousand",
+  "years": [2026, 2025],
+  "rows": [
+    {"label": "CAPITAL AND LIABILITIES", "values": [null, null], "page": 304},
+    {"label": "Capital", "values": [9230618, 8924620], "page": 304},
+    {"label": "Reserves & Surplus", "values": [5952078076, 4861442967], "page": 304},
+    {"label": "Minority Interest", "values": [187682823, 180258388], "page": 304},
+    {"label": "Deposits", "values": [60430971228, 54398980191], "page": 304},
+    {"label": "Borrowings", "values": [7773021450, 6108572450], "page": 304},
+    {"label": "Other Liabilities and Provisions", "values": [8862701547, 7583674792], "page": 304},
+    {"label": "TOTAL", "values": [83215685742, 73141853408], "page": 304},
+    {"label": "ASSETS", "values": [null, null], "page": 304},
+    {"label": "Cash and Balances with Reserve Bank of India", "values": [2686817368, 2274851569], "page": 304},
+    {"label": "Balances with Banks and Money at Call & Short Notice", "values": [1331614726, 1304477859], "page": 304},
+    {"label": "Investments", "values": [23595021713, 22056011083], "page": 304},
+    {"label": "Advances", "values": [49780132068, 42508307364], "page": 304},
+    {"label": "Fixed Assets", "values": [571521013, 463376954], "page": 304},
+    {"label": "Other Assets", "values": [5250578854, 4534828579], "page": 304},
+    {"label": "TOTAL", "values": [83215685742, 73141853408], "page": 304},
+    {"label": "Contingent Liabilities", "values": [42411266054, 26781115407], "page": 304},
+    {"label": "Bills for Collection", "values": [1117030157, 644725617], "page": 304}
+  ],
+  "notes": "Statement complete on page index 304 (p305); p306-next is Schedule 1/2, not a continuation. Omitted the in-table reference lines 'Significant Accounting Policies' (Sch 17) and 'Notes to Accounts' (Sch 18), which carry no amounts. Contingent Liabilities and Bills for Collection are memo lines below the assets total."
+}

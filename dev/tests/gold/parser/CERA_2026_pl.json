@@ -1,0 +1,232 @@
+{
+ "ticker": "CERA",
+ "fy": 2026,
+ "scope": "standalone",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 148,
+   "name": "149",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "lakh",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    205011.98,
+    191525.12
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    5285.91,
+    6249.84
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    210297.89,
+    197774.96
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of Materials Consumed",
+   "values": [
+    26625.14,
+    25172.73
+   ]
+  },
+  {
+   "label": "Purchases of Stock-in-Trade",
+   "values": [
+    75941.12,
+    69457.79
+   ]
+  },
+  {
+   "label": "Changes in Inventories of Finished Goods, Stock-in-Trade and Work-in-Progress",
+   "values": [
+    1264.12,
+    -3669.16
+   ]
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    25943.24,
+    24154.29
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    646.78,
+    711.57
+   ]
+  },
+  {
+   "label": "Depreciation and Amortization Expense",
+   "values": [
+    3865.75,
+    3851.49
+   ]
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    48319.81,
+    47336.58
+   ]
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    182605.96,
+    167015.29
+   ]
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    27691.93,
+    30759.67
+   ]
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    -780.68,
+    -150.43
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    26911.25,
+    30609.24
+   ]
+  },
+  {
+   "label": "Tax Expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Current Tax",
+   "values": [
+    6054.27,
+    6721.97
+   ]
+  },
+  {
+   "label": "(2) Deferred Tax",
+   "values": [
+    438.42,
+    -761.16
+   ]
+  },
+  {
+   "label": "Total Tax Expense",
+   "values": [
+    6492.69,
+    5960.81
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    20418.56,
+    24648.43
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss remeasurements of the defined benefit plans",
+   "values": [
+    42.64,
+    -119.06
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values": [
+    -10.73,
+    29.97
+   ]
+  },
+  {
+   "label": "Total Other Comprehensive Income for the year (Net of Tax)",
+   "values": [
+    31.91,
+    -89.09
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the year",
+   "values": [
+    20450.47,
+    24559.34
+   ]
+  },
+  {
+   "label": "Earnings per equity share of face value of Rs. 5/- each",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Basic (in Rs.)",
+   "values": [
+    158.31,
+    190.4
+   ]
+  },
+  {
+   "label": "(2) Diluted (in Rs.)",
+   "values": [
+    158.31,
+    190.4
+   ]
+  }
+ ],
+ "pdf": "CERA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/903e8d5c-0373-4a07-9b1d-13920a29c910.pdf",
+ "parsed_at": "2026-11-04 11:24 UTC"
+}

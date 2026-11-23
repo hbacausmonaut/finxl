@@ -1,0 +1,529 @@
+{
+ "ticker": "PIDILITIND",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 266,
+   "name": "267",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    779.5
+   ]
+  },
+  {
+   "page": 267,
+   "name": "268",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    779.5
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "A Cash Flows from Operating Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax for the year",
+   "values": [
+    3320.17,
+    2822.7
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Share of loss in Associates and Joint Venture (net of tax)",
+   "values": [
+    2.37,
+    3.28
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    54.22,
+    50.35
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -18.11,
+    -15.45
+   ]
+  },
+  {
+   "label": "Loss on disposal of Property, Plant and Equipment (net)",
+   "values": [
+    4.67,
+    1.35
+   ]
+  },
+  {
+   "label": "Net gain arising on financial assets designated at FVTPL",
+   "values": [
+    -233.14,
+    -219.85
+   ]
+  },
+  {
+   "label": "Allowance for Doubtful Debts and Advances (net)",
+   "values": [
+    20.56,
+    21.42
+   ]
+  },
+  {
+   "label": "Liabilities no longer required written back",
+   "values": [
+    -5.12,
+    null
+   ]
+  },
+  {
+   "label": "Provision in respect of write down of inventories",
+   "values": [
+    24.79,
+    8.28
+   ]
+  },
+  {
+   "label": "Depreciation, Amortisation and Impairment Expense",
+   "values": [
+    394.71,
+    358.48
+   ]
+  },
+  {
+   "label": "Unrealised Foreign Exchange Loss/(Gain) (net)",
+   "values": [
+    1.99,
+    -0.3
+   ]
+  },
+  {
+   "label": "(Write Back)/ Provision for Employee Benefits",
+   "values": [
+    -8.17,
+    12.83
+   ]
+  },
+  {
+   "label": "Provision of Warranties and Others",
+   "values": [
+    0.21,
+    0.39
+   ]
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    13.71,
+    24.92
+   ]
+  },
+  {
+   "label": "Other Provisions",
+   "values": [
+    37.99,
+    62.82
+   ]
+  },
+  {
+   "label": "Equity-Settled Share-Based Payments",
+   "values": [
+    130.69,
+    88.91
+   ]
+  },
+  {
+   "label": "Operating Cash Flows before Working Capital changes",
+   "values": [
+    3741.54,
+    3220.13
+   ]
+  },
+  {
+   "label": "Movement in Working Capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    -367.54,
+    -156.33
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -60.61,
+    -277.91
+   ]
+  },
+  {
+   "label": "Non-Current Loans",
+   "values": [
+    -0.45,
+    -0.24
+   ]
+  },
+  {
+   "label": "Current Loans",
+   "values": [
+    0.4,
+    -8.82
+   ]
+  },
+  {
+   "label": "Other Non-Current Financial Assets",
+   "values": [
+    16.34,
+    7.81
+   ]
+  },
+  {
+   "label": "Other Current Financial Assets",
+   "values": [
+    -3.21,
+    -9.74
+   ]
+  },
+  {
+   "label": "Other Non-Current Non Financial Assets",
+   "values": [
+    -25.87,
+    -6.4
+   ]
+  },
+  {
+   "label": "Other Current Non Financial Assets",
+   "values": [
+    76.56,
+    -114.35
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    130.63,
+    238.94
+   ]
+  },
+  {
+   "label": "Other Current Financial Liabilities",
+   "values": [
+    187.85,
+    149.46
+   ]
+  },
+  {
+   "label": "Other Current Non Financial Liabilities",
+   "values": [
+    -5.06,
+    -23.2
+   ]
+  },
+  {
+   "label": "Cash generated from Operating activities",
+   "values": [
+    3690.58,
+    3019.35
+   ]
+  },
+  {
+   "label": "Income taxes paid (net of refunds & interest on refund)",
+   "values": [
+    -862.13,
+    -732.72
+   ]
+  },
+  {
+   "label": "Net cash flows generated from Operating Activities [A]",
+   "values": [
+    2828.45,
+    2286.63
+   ]
+  },
+  {
+   "label": "B Cash Flows from Investing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Payments for purchase of Property, Plant and Equipment, Right of Use Assets, Other Intangible Assets & Capital Work-In-Progress",
+   "values": [
+    -592.77,
+    -452.34
+   ]
+  },
+  {
+   "label": "Proceeds from disposal of Property, Plant and Equipment &",
+   "values": [
+    3.59,
+    4.27
+   ]
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash outflow on investment in Associates and Joint ventures",
+   "values": [
+    -45.19,
+    -13.0
+   ]
+  },
+  {
+   "label": "Consideration paid for Business Combination",
+   "values": [
+    null,
+    -9.9
+   ]
+  },
+  {
+   "label": "Payments for acquisition of Investments",
+   "values": [
+    -6386.3,
+    -4498.92
+   ]
+  },
+  {
+   "label": "Proceeds from sale of Investments",
+   "values": [
+    5831.38,
+    3418.55
+   ]
+  },
+  {
+   "label": "(Investment in)/ Redemption of Bank Deposits",
+   "values": [
+    -53.5,
+    3.35
+   ]
+  },
+  {
+   "label": "Decrease/ (Increase) in Other Bank Balances",
+   "values": [
+    0.97,
+    -1.39
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    18.11,
+    15.45
+   ]
+  },
+  {
+   "label": "Loans given to Associate",
+   "values": [
+    -5.6,
+    -7.66
+   ]
+  },
+  {
+   "label": "Dividend received from associates",
+   "values": [
+    5.21,
+    null
+   ]
+  },
+  {
+   "label": "Net cash flows used in Investing Activities [B]",
+   "values": [
+    -1224.1,
+    -1541.59
+   ]
+  },
+  {
+   "label": "C Cash Flows from Financing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds From Exercise Of Share Options",
+   "values": [
+    0.71,
+    1.59
+   ]
+  },
+  {
+   "label": "Expenses on Bonus issue of equity shares",
+   "values": [
+    -0.62,
+    null
+   ]
+  },
+  {
+   "label": "Principal payment of Lease Liabilities",
+   "values": [
+    -65.19,
+    -79.94
+   ]
+  },
+  {
+   "label": "Interest payment of Lease Liabilities",
+   "values": [
+    -25.54,
+    -21.02
+   ]
+  },
+  {
+   "label": "Net (Decrease)/ Increase of Current Borrowings",
+   "values": [
+    -18.24,
+    34.96
+   ]
+  },
+  {
+   "label": "Transactions with Non-controlling Stakeholders in Subsidiary (net)",
+   "values": [
+    -9.2,
+    -27.04
+   ]
+  },
+  {
+   "label": "Dividends paid on Equity Shares (Final Dividend)",
+   "values": [
+    -1017.64,
+    -813.38
+   ]
+  },
+  {
+   "label": "Dividends paid on Equity Shares (Interim Dividend)",
+   "values": [
+    -508.37,
+    null
+   ]
+  },
+  {
+   "label": "Interest paid other than lease liabilities",
+   "values": [
+    -28.68,
+    -13.11
+   ]
+  },
+  {
+   "label": "Net cash flows used in Financing Activities [C]",
+   "values": [
+    -1672.77,
+    -917.94
+   ]
+  },
+  {
+   "label": "Net Decrease in Cash and Cash Equivalents [A+B+C]",
+   "values": [
+    -68.42,
+    -172.9
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the beginning of the year (refer Note 15)",
+   "values": [
+    286.62,
+    458.91
+   ]
+  },
+  {
+   "label": "Unrealised (gain) / loss on foreign currency cash and cash equivalents",
+   "values": [
+    -0.01,
+    0.02
+   ]
+  },
+  {
+   "label": "Acquisition under Business Combination",
+   "values": [
+    null,
+    0.58
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the beginning of the year",
+   "values": [
+    286.61,
+    459.51
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the end of the year (refer Note 15)",
+   "values": [
+    218.2,
+    286.62
+   ]
+  },
+  {
+   "label": "Unrealised (gain) / loss on foreign currency cash and cash equivalents",
+   "values": [
+    -0.01,
+    -0.01
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the end of the year",
+   "values": [
+    218.19,
+    286.61
+   ]
+  },
+  {
+   "label": "Net Decrease in Cash and Cash Equivalents",
+   "values": [
+    -68.42,
+    -172.9
+   ]
+  }
+ ],
+ "pdf": "PIDILITIND/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/84c374a7-10a3-4a3b-8693-cc7e75a0a6b8.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

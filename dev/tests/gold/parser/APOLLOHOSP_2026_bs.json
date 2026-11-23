@@ -1,0 +1,463 @@
+{
+ "ticker": "APOLLOHOSP",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 181,
+   "name": "182L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    82586.0,
+    73504.0
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    27800.0,
+    24653.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    9915.0,
+    7710.0
+   ]
+  },
+  {
+   "label": "Investment property",
+   "values": [
+    22.0,
+    28.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    10323.0,
+    10305.0
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    1985.0,
+    1392.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    409.0,
+    1500.0
+   ]
+  },
+  {
+   "label": "Investments accounted for using the equity method",
+   "values": [
+    2564.0,
+    2241.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    9058.0,
+    8304.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    156.0,
+    272.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    3530.0,
+    2126.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets",
+   "values": [
+    141.0,
+    131.0
+   ]
+  },
+  {
+   "label": "Income tax asset (net)",
+   "values": [
+    1961.0,
+    2085.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    2521.0,
+    2034.0
+   ]
+  },
+  {
+   "label": "Total non - current assets",
+   "values": [
+    152971.0,
+    136285.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    5424.0,
+    4808.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    10165.0,
+    14323.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    34849.0,
+    30161.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    8113.0,
+    5781.0
+   ]
+  },
+  {
+   "label": "Bank balances other than (iii) above",
+   "values": [
+    3055.0,
+    7821.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    24.0,
+    51.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    2086.0,
+    1822.0
+   ]
+  },
+  {
+   "label": "Contract assets",
+   "values": [
+    1862.0,
+    1722.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    3420.0,
+    3800.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    68998.0,
+    70289.0
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    221969.0,
+    206574.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    719.0,
+    719.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    94082.0,
+    81404.0
+   ]
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    94801.0,
+    82123.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    4944.0,
+    4406.0
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    99745.0,
+    86529.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    24301.0,
+    44170.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    26703.0,
+    24139.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    300.0,
+    313.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    995.0,
+    886.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    4982.0,
+    4580.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    130.0,
+    168.0
+   ]
+  },
+  {
+   "label": "Total non - current liabilities",
+   "values": [
+    57411.0,
+    74256.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    32284.0,
+    8582.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    1641.0,
+    1752.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "total outstanding dues to micro enterprises and small enterprises",
+   "values": [
+    1226.0,
+    808.0
+   ]
+  },
+  {
+   "label": "total outstanding dues to creditors other than micro enterprises and small enterprises",
+   "values": [
+    21292.0,
+    21597.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    3310.0,
+    8598.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    3081.0,
+    2643.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1953.0,
+    1793.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    26.0,
+    16.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    64813.0,
+    45789.0
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    122224.0,
+    120045.0
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    221969.0,
+    206574.0
+   ]
+  }
+ ],
+ "pdf": "APOLLOHOSP/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f9b40997-8116-48ba-949a-ca2e7775e3c2.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

@@ -1,0 +1,578 @@
+{
+ "ticker": "TITAN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 377,
+   "name": "378",
+   "clip": [
+    0.0,
+    0.0,
+    594.1,
+    742.4
+   ]
+  },
+  {
+   "page": 378,
+   "name": "379",
+   "clip": [
+    0.0,
+    0.0,
+    594.1,
+    742.4
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net profit before tax",
+   "values": [
+    6801.0,
+    4535.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    826.0,
+    693.0
+   ]
+  },
+  {
+   "label": "Net unrealised exchange loss",
+   "values": [
+    -9.0,
+    9.0
+   ]
+  },
+  {
+   "label": "Share of profit of the associate",
+   "values": [
+    -1.0,
+    -1.0
+   ]
+  },
+  {
+   "label": "Employee stock compensation expense",
+   "values": [
+    78.0,
+    13.0
+   ]
+  },
+  {
+   "label": "Loss/(Gain) on disposal of property, plant and equipment (net)",
+   "values": [
+    2.0,
+    -1.0
+   ]
+  },
+  {
+   "label": "Provision for doubtful trade receivables (net) and bad trade receivables written off",
+   "values": [
+    11.0,
+    27.0
+   ]
+  },
+  {
+   "label": "Government grant",
+   "values": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -279.0,
+    -288.0
+   ]
+  },
+  {
+   "label": "Gain on investments carried at fair value through profit and loss",
+   "values": [
+    -140.0,
+    -157.0
+   ]
+  },
+  {
+   "label": "Gain on pre-closure of lease contracts",
+   "values": [
+    -21.0,
+    -11.0
+   ]
+  },
+  {
+   "label": "Rent waiver",
+   "values": [
+    -2.0,
+    1.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    1180.0,
+    953.0
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    8447.0,
+    5774.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(increase)/decrease in trade receivables",
+   "values": [
+    210.0,
+    -95.0
+   ]
+  },
+  {
+   "label": "(increase)/decrease in inventories",
+   "values": [
+    -11592.0,
+    -9072.0
+   ]
+  },
+  {
+   "label": "decrease/(increase) in financial assets-loans",
+   "values": [
+    -8.0,
+    4.0
+   ]
+  },
+  {
+   "label": "decrease/(increase) in other financial assets",
+   "values": [
+    -244.0,
+    75.0
+   ]
+  },
+  {
+   "label": "(increase)/decrease in other assets",
+   "values": [
+    -217.0,
+    -235.0
+   ]
+  },
+  {
+   "label": "increase in gold on loan",
+   "values": [
+    7304.0,
+    2468.0
+   ]
+  },
+  {
+   "label": "increase in trade payables",
+   "values": [
+    472.0,
+    564.0
+   ]
+  },
+  {
+   "label": "increase/(decrease) in other financial liabilities",
+   "values": [
+    1138.0,
+    663.0
+   ]
+  },
+  {
+   "label": "increase/(decrease) in other liabilities",
+   "values": [
+    1773.0,
+    350.0
+   ]
+  },
+  {
+   "label": "increase/(decrease) in provisions",
+   "values": [
+    44.0,
+    52.0
+   ]
+  },
+  {
+   "label": "Cash generated from operating activities before taxes",
+   "values": [
+    7327.0,
+    548.0
+   ]
+  },
+  {
+   "label": "Direct taxes paid, net",
+   "values": [
+    -1737.0,
+    -1089.0
+   ]
+  },
+  {
+   "label": "Net cash generated from/(used in) operating activities A",
+   "values": [
+    5590.0,
+    -541.0
+   ]
+  },
+  {
+   "label": "Cash flow from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment, intangible assets and investment property",
+   "values": [
+    -902.0,
+    -494.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    25.0,
+    24.0
+   ]
+  },
+  {
+   "label": "Investment in non convertible debentures, certificate of deposits and government securities",
+   "values": [
+    -1120.0,
+    -663.0
+   ]
+  },
+  {
+   "label": "Proceeds from redemption of non convertible debentures, government securities and certificate of deposit",
+   "values": [
+    300.0,
+    325.0
+   ]
+  },
+  {
+   "label": "Purchase of commercial papers",
+   "values": [
+    -99.0,
+    null
+   ]
+  },
+  {
+   "label": "Inter-corporate deposits placed",
+   "values": [
+    100.0,
+    -332.0
+   ]
+  },
+  {
+   "label": "Proceeds from inter-corporate deposits",
+   "values": [
+    -100.0,
+    575.0
+   ]
+  },
+  {
+   "label": "Bank deposits placed",
+   "values": [
+    -5823.0,
+    -2384.0
+   ]
+  },
+  {
+   "label": "Bank deposits matured",
+   "values": [
+    5738.0,
+    2332.0
+   ]
+  },
+  {
+   "label": "Purchase of mutual funds",
+   "values": [
+    -20816.0,
+    -14679.0
+   ]
+  },
+  {
+   "label": "Sale of mutual funds",
+   "values": [
+    20497.0,
+    15422.0
+   ]
+  },
+  {
+   "label": "Lease payments received from sub-lease (excluding interest received)",
+   "values": [
+    210.0,
+    132.0
+   ]
+  },
+  {
+   "label": "Consideration paid for business acquisition (net of cash acquired) (refer note 40)",
+   "values": [
+    -1171.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    227.0,
+    288.0
+   ]
+  },
+  {
+   "label": "Net cash (used in)/generated from investing activities B",
+   "values": [
+    -2934.0,
+    546.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    null,
+    375.0
+   ]
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from long term borrowings",
+   "values": [
+    null,
+    70.0
+   ]
+  },
+  {
+   "label": "Repayment of long term borrowings",
+   "values": [
+    -2632.0,
+    -378.0
+   ]
+  },
+  {
+   "label": "Proceeds from short term borrowings, net",
+   "values": [
+    3314.0,
+    2529.0
+   ]
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -976.0,
+    -976.0
+   ]
+  },
+  {
+   "label": "Payment of lease liabilities",
+   "values": [
+    -865.0,
+    -700.0
+   ]
+  },
+  {
+   "label": "Acquisition of treasury shares",
+   "values": [
+    null,
+    -6.0
+   ]
+  },
+  {
+   "label": "Acquisition of non controlling interest",
+   "values": [
+    null,
+    -1.0
+   ]
+  },
+  {
+   "label": "Share based payments",
+   "values": [
+    null,
+    -7.0
+   ]
+  },
+  {
+   "label": "Finance costs paid",
+   "values": [
+    -1000.0,
+    -538.0
+   ]
+  },
+  {
+   "label": "Net cash used in financing activities C",
+   "values": [
+    -2159.0,
+    -7.0
+   ]
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents during the year",
+   "values": [
+    497.0,
+    -2.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents (opening balance)",
+   "values": [
+    407.0,
+    409.0
+   ]
+  },
+  {
+   "label": "Add: Foreign currency translation adjustments",
+   "values": [
+    -31.0,
+    null
+   ]
+  },
+  {
+   "label": "Add: Unrealised exchange gain/(loss)*",
+   "values": [
+    0.0,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents (closing balance)",
+   "values": [
+    873.0,
+    407.0
+   ]
+  },
+  {
+   "label": "` in crore",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "31st March 2026 31st March",
+   "values": [
+    null,
+    2025.0
+   ]
+  },
+  {
+   "label": "Borrowings &",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Opening balance",
+   "values": [
+    10286.0,
+    7838.0
+   ]
+  },
+  {
+   "label": "Proceeds from long term borrowing",
+   "values": [
+    null,
+    70.0
+   ]
+  },
+  {
+   "label": "Repayment of long term borrowing",
+   "values": [
+    -2632.0,
+    -378.0
+   ]
+  },
+  {
+   "label": "Proceeds from short term borrowings, net",
+   "values": [
+    3314.0,
+    2529.0
+   ]
+  },
+  {
+   "label": "Non cash changes",
+   "values": [
+    410.0,
+    227.0
+   ]
+  },
+  {
+   "label": "Closing balance",
+   "values": [
+    11378.0,
+    10286.0
+   ]
+  },
+  {
+   "label": "Reconciliation of Lease liability &",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Opening balance",
+   "values": [
+    2681.0,
+    2349.0
+   ]
+  },
+  {
+   "label": "Payments made during the year",
+   "values": [
+    -865.0,
+    -700.0
+   ]
+  },
+  {
+   "label": "Non-cash changes",
+   "values": [
+    1357.0,
+    1032.0
+   ]
+  },
+  {
+   "label": "Closing balance",
+   "values": [
+    3173.0,
+    2681.0
+   ]
+  }
+ ],
+ "pdf": "TITAN/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

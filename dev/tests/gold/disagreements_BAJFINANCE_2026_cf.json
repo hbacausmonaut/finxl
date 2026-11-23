@@ -1,0 +1,1008 @@
+{
+ "format": "docfetcher-gold-disagreements/1",
+ "ticker": "BAJFINANCE",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "statement_name": "Cash Flow",
+ "pdf": "BAJFINANCE\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf",
+ "pages": [
+  {
+   "page": 416,
+   "name": "417",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 417,
+   "name": "418",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "reader": "claude",
+ "stats": {
+  "rows_parser": 63,
+  "rows_reader": 63,
+  "rows_aligned": 63,
+  "rows_agreed": 63,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 114,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "disagreements": [],
+ "rows": [
+  {
+   "parser_index": 0,
+   "reader_index": 0,
+   "label_parser": "Operating activities",
+   "label_reader": "Operating activities",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 1,
+   "reader_index": 1,
+   "label_parser": "Profit before tax",
+   "label_reader": "Profit before tax",
+   "values_parser": {
+    "2026": 25816.65,
+    "2025": 22079.63
+   },
+   "values_reader": {
+    "2026": 25816.65,
+    "2025": 22079.63
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 2,
+   "reader_index": 2,
+   "label_parser": "Adjustments for",
+   "label_reader": "Adjustments for:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 3,
+   "reader_index": 3,
+   "label_parser": "Interest income",
+   "label_reader": "Interest income",
+   "values_parser": {
+    "2026": -72776.01,
+    "2025": -61163.55
+   },
+   "values_reader": {
+    "2026": -72776.01,
+    "2025": -61163.55
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 4,
+   "reader_index": 4,
+   "label_parser": "Depreciation and amortisation expenses",
+   "label_reader": "Depreciation and amortisation expenses",
+   "values_parser": {
+    "2026": 1008.98,
+    "2025": 880.99
+   },
+   "values_reader": {
+    "2026": 1008.98,
+    "2025": 880.99
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 5,
+   "reader_index": 5,
+   "label_parser": "Impairment on financial instruments (Gross of recoveries)",
+   "label_reader": "Impairment on financial instruments (Gross of recoveries)",
+   "values_parser": {
+    "2026": 10281.5,
+    "2025": 7966.03
+   },
+   "values_reader": {
+    "2026": 10281.5,
+    "2025": 7966.03
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 6,
+   "reader_index": 6,
+   "label_parser": "Net loss on disposal of property, plant and equipment and other intangible assets",
+   "label_reader": "Net loss on disposal of property, plant and equipment and other intangible assets",
+   "values_parser": {
+    "2026": 18.34,
+    "2025": 35.5
+   },
+   "values_reader": {
+    "2026": 18.34,
+    "2025": 35.5
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Finance costs",
+   "label_reader": "Finance costs",
+   "values_parser": {
+    "2026": 28665.95,
+    "2025": 24769.75
+   },
+   "values_reader": {
+    "2026": 28665.95,
+    "2025": 24769.75
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 8,
+   "reader_index": 8,
+   "label_parser": "Share based payment expenses",
+   "label_reader": "Share based payment expenses",
+   "values_parser": {
+    "2026": 439.6,
+    "2025": 393.98
+   },
+   "values_reader": {
+    "2026": 439.6,
+    "2025": 393.98
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 9,
+   "reader_index": 9,
+   "label_parser": "Net gain on fair value changes",
+   "label_reader": "Net gain on fair value changes",
+   "values_parser": {
+    "2026": -471.24,
+    "2025": -539.03
+   },
+   "values_reader": {
+    "2026": -471.24,
+    "2025": -539.03
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 10,
+   "reader_index": 10,
+   "label_parser": "Service fees for management of assigned portfolio of loans",
+   "label_reader": "Service fees for management of assigned portfolio of loans",
+   "values_parser": {
+    "2026": -15.71,
+    "2025": -27.13
+   },
+   "values_reader": {
+    "2026": -15.71,
+    "2025": -27.13
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 11,
+   "reader_index": 11,
+   "label_parser": "Income on derecognised (assigned) loans",
+   "label_reader": "Income on derecognised (assigned) loans",
+   "values_parser": {
+    "2026": -465.46,
+    "2025": -552.04
+   },
+   "values_reader": {
+    "2026": -465.46,
+    "2025": -552.04
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 12,
+   "reader_index": 12,
+   "label_parser": "Dividend income",
+   "label_reader": "Dividend income",
+   "values_parser": {
+    "2026": -1.14,
+    "2025": -1.28
+   },
+   "values_reader": {
+    "2026": -1.14,
+    "2025": -1.28
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 13,
+   "reader_index": 13,
+   "label_parser": "Share of (profit)/loss from associate",
+   "label_reader": "Share of (profit)/loss from associate",
+   "values_parser": {
+    "2026": -16.46,
+    "2025": -17.81
+   },
+   "values_reader": {
+    "2026": -16.46,
+    "2025": -17.81
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 14,
+   "reader_index": 14,
+   "label_parser": "Subtotal",
+   "label_reader": "",
+   "values_parser": {
+    "2026": -7515,
+    "2025": -6174.96
+   },
+   "values_reader": {
+    "2026": -7515,
+    "2025": -6174.96
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 15,
+   "reader_index": 15,
+   "label_parser": "Cash inflow from interest on loans",
+   "label_reader": "Cash inflow from interest on loans",
+   "values_parser": {
+    "2026": 70393.75,
+    "2025": 58185.94
+   },
+   "values_reader": {
+    "2026": 70393.75,
+    "2025": 58185.94
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 16,
+   "reader_index": 16,
+   "label_parser": "Cash inflow from interest on investments",
+   "label_reader": "Cash inflow from interest on investments",
+   "values_parser": {
+    "2026": 2947.54,
+    "2025": 2313.47
+   },
+   "values_reader": {
+    "2026": 2947.54,
+    "2025": 2313.47
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 17,
+   "reader_index": 17,
+   "label_parser": "Cash inflow from servicing of assigned loans",
+   "label_reader": "Cash inflow from servicing of assigned loans",
+   "values_parser": {
+    "2026": 51.39,
+    "2025": 59.31
+   },
+   "values_reader": {
+    "2026": 51.39,
+    "2025": 59.31
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 18,
+   "reader_index": 18,
+   "label_parser": "Cash outflow towards finance cost",
+   "label_reader": "Cash outflow towards finance cost",
+   "values_parser": {
+    "2026": -25946.79,
+    "2025": -22420.31
+   },
+   "values_reader": {
+    "2026": -25946.79,
+    "2025": -22420.31
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 19,
+   "reader_index": 19,
+   "label_parser": "Cash generated from operation before working capital changes",
+   "label_reader": "Cash generated from operation before working capital changes",
+   "values_parser": {
+    "2026": 39930.89,
+    "2025": 31963.45
+   },
+   "values_reader": {
+    "2026": 39930.89,
+    "2025": 31963.45
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 20,
+   "reader_index": 20,
+   "label_parser": "Working capital changes",
+   "label_reader": "Working capital changes:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 21,
+   "reader_index": 21,
+   "label_parser": "(Increase)/decrease in bank balances other than cash and cash equivalents",
+   "label_reader": "(Increase)/decrease in bank balances other than cash and cash equivalents",
+   "values_parser": {
+    "2026": -4124.26,
+    "2025": -3095.95
+   },
+   "values_reader": {
+    "2026": -4124.26,
+    "2025": -3095.95
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 22,
+   "reader_index": 22,
+   "label_parser": "(Increase)/decrease in trade receivables",
+   "label_reader": "(Increase)/decrease in trade receivables",
+   "values_parser": {
+    "2026": -52.03,
+    "2025": -206.31
+   },
+   "values_reader": {
+    "2026": -52.03,
+    "2025": -206.31
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 23,
+   "reader_index": 23,
+   "label_parser": "(Increase)/decrease in loans",
+   "label_reader": "(Increase)/decrease in loans",
+   "values_parser": {
+    "2026": -103794.27,
+    "2025": -89988.25
+   },
+   "values_reader": {
+    "2026": -103794.27,
+    "2025": -89988.25
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 24,
+   "reader_index": 24,
+   "label_parser": "(Increase)/decrease in investments classified as FVTPL",
+   "label_reader": "(Increase)/decrease in investments classified as FVTPL",
+   "values_parser": {
+    "2026": 6212.53,
+    "2025": -1429.16
+   },
+   "values_reader": {
+    "2026": 6212.53,
+    "2025": -1429.16
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 25,
+   "reader_index": 25,
+   "label_parser": "(Increase)/decrease in other financial assets",
+   "label_reader": "(Increase)/decrease in other financial assets",
+   "values_parser": {
+    "2026": 736.52,
+    "2025": 531.57
+   },
+   "values_reader": {
+    "2026": 736.52,
+    "2025": 531.57
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 26,
+   "reader_index": 26,
+   "label_parser": "(Increase)/decrease in other non-financial assets",
+   "label_reader": "(Increase)/decrease in other non-financial assets",
+   "values_parser": {
+    "2026": 33.81,
+    "2025": -116.7
+   },
+   "values_reader": {
+    "2026": 33.81,
+    "2025": -116.7
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 27,
+   "reader_index": 27,
+   "label_parser": "(Increase)/decrease in derivative financial instruments (net)",
+   "label_reader": "(Increase)/decrease in derivative financial instruments (net)",
+   "values_parser": {
+    "2026": 105.12,
+    "2025": 56.54
+   },
+   "values_reader": {
+    "2026": 105.12,
+    "2025": 56.54
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 28,
+   "reader_index": 28,
+   "label_parser": "Increase/(decrease) in trade payables",
+   "label_reader": "Increase/(decrease) in trade payables",
+   "values_parser": {
+    "2026": 226.49,
+    "2025": -186
+   },
+   "values_reader": {
+    "2026": 226.49,
+    "2025": -186
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 29,
+   "reader_index": 29,
+   "label_parser": "Increase/(decrease) in other payables",
+   "label_reader": "Increase/(decrease) in other payables",
+   "values_parser": {
+    "2026": 242.89,
+    "2025": 166.33
+   },
+   "values_reader": {
+    "2026": 242.89,
+    "2025": 166.33
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 30,
+   "reader_index": 30,
+   "label_parser": "Increase/(decrease) in other financial liabilities",
+   "label_reader": "Increase/(decrease) in other financial liabilities",
+   "values_parser": {
+    "2026": 724.18,
+    "2025": -7.48
+   },
+   "values_reader": {
+    "2026": 724.18,
+    "2025": -7.48
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 31,
+   "reader_index": 31,
+   "label_parser": "Increase/(decrease) in provisions",
+   "label_reader": "Increase/(decrease) in provisions",
+   "values_parser": {
+    "2026": 250.99,
+    "2025": 67.31
+   },
+   "values_reader": {
+    "2026": 250.99,
+    "2025": 67.31
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 32,
+   "reader_index": 32,
+   "label_parser": "Increase/(decrease) in other non-financial liabilities",
+   "label_reader": "Increase/(decrease) in other non-financial liabilities",
+   "values_parser": {
+    "2026": 178.19,
+    "2025": 38.08
+   },
+   "values_reader": {
+    "2026": 178.19,
+    "2025": 38.08
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 33,
+   "reader_index": 33,
+   "label_parser": "Subtotal",
+   "label_reader": "",
+   "values_parser": {
+    "2026": -99259.84,
+    "2025": -94170.02
+   },
+   "values_reader": {
+    "2026": -99259.84,
+    "2025": -94170.02
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 34,
+   "reader_index": 34,
+   "label_parser": "Income tax paid (net of refunds)",
+   "label_reader": "Income tax paid (net of refunds)",
+   "values_parser": {
+    "2026": -6460.85,
+    "2025": -5585.07
+   },
+   "values_reader": {
+    "2026": -6460.85,
+    "2025": -5585.07
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 35,
+   "reader_index": 35,
+   "label_parser": "Net cash used in operating activities (I)",
+   "label_reader": "Net cash used in operating activities (I)",
+   "values_parser": {
+    "2026": -65789.8,
+    "2025": -67791.64
+   },
+   "values_reader": {
+    "2026": -65789.8,
+    "2025": -67791.64
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 36,
+   "reader_index": 36,
+   "label_parser": "Investing activities",
+   "label_reader": "Investing activities",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 37,
+   "reader_index": 37,
+   "label_parser": "Purchase of property, plant and equipment and capital work-in-progress",
+   "label_reader": "Purchase of property, plant and equipment and capital work-in-progress",
+   "values_parser": {
+    "2026": -560.03,
+    "2025": -584.06
+   },
+   "values_reader": {
+    "2026": -560.03,
+    "2025": -584.06
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 38,
+   "reader_index": 38,
+   "label_parser": "Purchase of other intangible assets and intangible assets under development",
+   "label_reader": "Purchase of other intangible assets and intangible assets under development",
+   "values_parser": {
+    "2026": -401.07,
+    "2025": -497.76
+   },
+   "values_reader": {
+    "2026": -401.07,
+    "2025": -497.76
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 39,
+   "reader_index": 39,
+   "label_parser": "Sale of property, plant and equipment and other intangible assets",
+   "label_reader": "Sale of property, plant and equipment and other intangible assets",
+   "values_parser": {
+    "2026": 65.25,
+    "2025": 36.39
+   },
+   "values_reader": {
+    "2026": 65.25,
+    "2025": 36.39
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 40,
+   "reader_index": 40,
+   "label_parser": "Purchase of investments measured at amortised cost",
+   "label_reader": "Purchase of investments measured at amortised cost",
+   "values_parser": {
+    "2026": -59340.07,
+    "2025": -27461.88
+   },
+   "values_reader": {
+    "2026": -59340.07,
+    "2025": -27461.88
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 41,
+   "reader_index": 41,
+   "label_parser": "Proceeds from liquidation of investments measured at amortised cost",
+   "label_reader": "Proceeds from liquidation of investments measured at amortised cost",
+   "values_parser": {
+    "2026": 59446.67,
+    "2025": 27624.23
+   },
+   "values_reader": {
+    "2026": 59446.67,
+    "2025": 27624.23
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 42,
+   "reader_index": 42,
+   "label_parser": "Purchase of investments classified as FVOCI",
+   "label_reader": "Purchase of investments classified as FVOCI",
+   "values_parser": {
+    "2026": -44831.64,
+    "2025": -31594.18
+   },
+   "values_reader": {
+    "2026": -44831.64,
+    "2025": -31594.18
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 43,
+   "reader_index": 43,
+   "label_parser": "Proceeds from liquidation of investments classified as FVOCI",
+   "label_reader": "Proceeds from liquidation of investments classified as FVOCI",
+   "values_parser": {
+    "2026": 42440.11,
+    "2025": 29745.96
+   },
+   "values_reader": {
+    "2026": 42440.11,
+    "2025": 29745.96
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 44,
+   "reader_index": 44,
+   "label_parser": "Purchase of equity investments designated under FVOCI",
+   "label_reader": "Purchase of equity investments designated under FVOCI",
+   "values_parser": {
+    "2026": -308.14,
+    "2025": -35
+   },
+   "values_reader": {
+    "2026": -308.14,
+    "2025": -35
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 45,
+   "reader_index": 45,
+   "label_parser": "Proceeds from sale of equity investments designated under FVOCI",
+   "label_reader": "Proceeds from sale of equity investments designated under FVOCI",
+   "values_parser": {
+    "2026": 99.15,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": 99.15,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 46,
+   "reader_index": 46,
+   "label_parser": "Dividend income",
+   "label_reader": "Dividend income",
+   "values_parser": {
+    "2026": 1.14,
+    "2025": 1.28
+   },
+   "values_reader": {
+    "2026": 1.14,
+    "2025": 1.28
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 47,
+   "reader_index": 47,
+   "label_parser": "Net cash used in investing activities (II)",
+   "label_reader": "Net cash used in investing activities (II)",
+   "values_parser": {
+    "2026": -3388.63,
+    "2025": -2765.02
+   },
+   "values_reader": {
+    "2026": -3388.63,
+    "2025": -2765.02
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 48,
+   "reader_index": 48,
+   "label_parser": "Financing activities",
+   "label_reader": "Financing activities",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 49,
+   "reader_index": 49,
+   "label_parser": "Issue of equity share capital (including securities premium)",
+   "label_reader": "Issue of equity share capital (including securities premium)",
+   "values_parser": {
+    "2026": 435.92,
+    "2025": 1251.44
+   },
+   "values_reader": {
+    "2026": 435.92,
+    "2025": 1251.44
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 50,
+   "reader_index": 50,
+   "label_parser": "Issue of equity share capital of subsidiary (including securities premium)",
+   "label_reader": "Issue of equity share capital of subsidiary (including securities premium)",
+   "values_parser": {
+    "2026": 2.81,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": 2.81,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 51,
+   "reader_index": 51,
+   "label_parser": "Proceeds from dilution of stake in subsidiary (net of expenses and tax)",
+   "label_reader": "Proceeds from dilution of stake in subsidiary (net of expenses and tax)",
+   "values_parser": {
+    "2026": 1380.22,
+    "2025": 6097.67
+   },
+   "values_reader": {
+    "2026": 1380.22,
+    "2025": 6097.67
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 52,
+   "reader_index": 52,
+   "label_parser": "Share issue expenses",
+   "label_reader": "Share issue expenses",
+   "values_parser": {
+    "2026": -3.47,
+    "2025": -0.12
+   },
+   "values_reader": {
+    "2026": -3.47,
+    "2025": -0.12
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 53,
+   "reader_index": 53,
+   "label_parser": "Dividends paid",
+   "label_reader": "Dividends paid",
+   "values_parser": {
+    "2026": -3476.61,
+    "2025": -2225.24
+   },
+   "values_reader": {
+    "2026": -3476.61,
+    "2025": -2225.24
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 54,
+   "reader_index": 54,
+   "label_parser": "Payment of lease liability",
+   "label_reader": "Payment of lease liability",
+   "values_parser": {
+    "2026": -242.53,
+    "2025": -214.57
+   },
+   "values_reader": {
+    "2026": -242.53,
+    "2025": -214.57
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 55,
+   "reader_index": 55,
+   "label_parser": "Deposits received (net)",
+   "label_reader": "Deposits received (net)",
+   "values_parser": {
+    "2026": -3761.08,
+    "2025": 10527.22
+   },
+   "values_reader": {
+    "2026": -3761.08,
+    "2025": 10527.22
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 56,
+   "reader_index": 56,
+   "label_parser": "Short-term borrowing availed (net)",
+   "label_reader": "Short-term borrowing availed (net)",
+   "values_parser": {
+    "2026": 11884.78,
+    "2025": 8787.63
+   },
+   "values_reader": {
+    "2026": 11884.78,
+    "2025": 8787.63
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 57,
+   "reader_index": 57,
+   "label_parser": "Long-term borrowing availed",
+   "label_reader": "Long-term borrowing availed",
+   "values_parser": {
+    "2026": 113336.67,
+    "2025": 84967.14
+   },
+   "values_reader": {
+    "2026": 113336.67,
+    "2025": 84967.14
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 58,
+   "reader_index": 58,
+   "label_parser": "Long-term borrowing repaid",
+   "label_reader": "Long-term borrowing repaid",
+   "values_parser": {
+    "2026": -52123.84,
+    "2025": -39026.56
+   },
+   "values_reader": {
+    "2026": -52123.84,
+    "2025": -39026.56
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 59,
+   "reader_index": 59,
+   "label_parser": "Net cash generated from financing activities (III)",
+   "label_reader": "Net cash generated from financing activities (III)",
+   "values_parser": {
+    "2026": 67432.87,
+    "2025": 70164.61
+   },
+   "values_reader": {
+    "2026": 67432.87,
+    "2025": 70164.61
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 60,
+   "reader_index": 60,
+   "label_parser": "Net increase/(decrease) in cash and cash equivalents",
+   "label_reader": "Net increase/(decrease) in cash and cash equivalents (I+II+III)",
+   "values_parser": {
+    "2026": -1745.56,
+    "2025": -392.05
+   },
+   "values_reader": {
+    "2026": -1745.56,
+    "2025": -392.05
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 61,
+   "reader_index": 61,
+   "label_parser": "Cash and cash equivalents at the beginning of the year",
+   "label_reader": "Cash and cash equivalents at the beginning of the year",
+   "values_parser": {
+    "2026": 3642.46,
+    "2025": 4034.51
+   },
+   "values_reader": {
+    "2026": 3642.46,
+    "2025": 4034.51
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 62,
+   "reader_index": 62,
+   "label_parser": "Cash and cash equivalents at the end of the year",
+   "label_reader": "Cash and cash equivalents at the end of the year",
+   "values_parser": {
+    "2026": 1896.9,
+    "2025": 3642.46
+   },
+   "values_reader": {
+    "2026": 1896.9,
+    "2025": 3642.46
+   },
+   "issues": []
+  }
+ ],
+ "created_at": "2026-11-05 11:53 UTC"
+}

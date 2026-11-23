@@ -1,0 +1,382 @@
+{
+ "ticker": "RELIANCE",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 141,
+   "name": "142L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 141,
+   "name": "142R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash Flow from Operating Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax as per",
+   "values": [
+    123162.0,
+    106017.0
+   ]
+  },
+  {
+   "label": "Statement of Profit and Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Adjusted for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Loss on Sale / Discard of Property, Plant and Equipment and Other Intangible Assets (Net)",
+   "values": [
+    143.0,
+    135.0
+   ]
+  },
+  {
+   "label": "Depreciation / Amortisation and Depletion Expense",
+   "values": [
+    57688.0,
+    53136.0
+   ]
+  },
+  {
+   "label": "Effect of Exchange Rate Change",
+   "values": [
+    6518.0,
+    -2182.0
+   ]
+  },
+  {
+   "label": "Net Gain on Financial Assets",
+   "values": [
+    -2946.0,
+    -1557.0
+   ]
+  },
+  {
+   "label": "Dividend Income",
+   "values": [
+    -9100.0,
+    -504.0
+   ]
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    -13302.0,
+    -12410.0
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    27061.0,
+    24269.0
+   ]
+  },
+  {
+   "label": "Sub-Total",
+   "values": [
+    66062.0,
+    60887.0
+   ]
+  },
+  {
+   "label": "Operating Profit before Working Capital Changes",
+   "values": [
+    189224.0,
+    166904.0
+   ]
+  },
+  {
+   "label": "Adjusted for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade and Other Receivables",
+   "values": [
+    -53322.0,
+    -17837.0
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -20790.0,
+    3134.0
+   ]
+  },
+  {
+   "label": "Trade and Other Payables",
+   "values": [
+    86609.0,
+    38427.0
+   ]
+  },
+  {
+   "label": "Sub-Total",
+   "values": [
+    12497.0,
+    23724.0
+   ]
+  },
+  {
+   "label": "Cash Generated from Operations",
+   "values": [
+    201721.0,
+    190628.0
+   ]
+  },
+  {
+   "label": "Taxes Paid (Net)",
+   "values": [
+    -9608.0,
+    -11925.0
+   ]
+  },
+  {
+   "label": "Net Cash Flow from Operating Activities *",
+   "values": [
+    192113.0,
+    178703.0
+   ]
+  },
+  {
+   "label": "Cash Flow from Investing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Expenditure for Property, Plant and Equipment, Spectrum and Other Intangible Assets",
+   "values": [
+    -122916.0,
+    -139967.0
+   ]
+  },
+  {
+   "label": "Proceeds from disposal of Property, Plant and Equipment and Other Intangible Assets",
+   "values": [
+    826.0,
+    2343.0
+   ]
+  },
+  {
+   "label": "Purchase of Investments",
+   "values": [
+    -988777.0,
+    -684340.0
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of Financial Assets",
+   "values": [
+    991876.0,
+    672558.0
+   ]
+  },
+  {
+   "label": "Payment of Deferred Payment Liabilities",
+   "values": [
+    -4736.0,
+    -4574.0
+   ]
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    13538.0,
+    15833.0
+   ]
+  },
+  {
+   "label": "Dividend Income from Associates",
+   "values": [
+    49.0,
+    49.0
+   ]
+  },
+  {
+   "label": "Dividend Income from Others",
+   "values": [
+    9051.0,
+    563.0
+   ]
+  },
+  {
+   "label": "Net Cash Used in Investing Activities",
+   "values": [
+    -101089.0,
+    -137535.0
+   ]
+  },
+  {
+   "label": "Cash Flow From Financing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from Issue of Equity Share Capital @",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Proceeds from Rights Issue",
+   "values": [
+    null,
+    22.0
+   ]
+  },
+  {
+   "label": "Payment of Lease Liabilities",
+   "values": [
+    -6508.0,
+    -2956.0
+   ]
+  },
+  {
+   "label": "Proceeds from Borrowings - Non-current (including Current Maturities)",
+   "values": [
+    38871.0,
+    26378.0
+   ]
+  },
+  {
+   "label": "Repayment of Borrowings - Non-current (including Current Maturities)",
+   "values": [
+    -30881.0,
+    -31755.0
+   ]
+  },
+  {
+   "label": "Borrowings - Current (Net)",
+   "values": [
+    -5171.0,
+    24624.0
+   ]
+  },
+  {
+   "label": "Payment of Dividend to Equity Holders of the Company",
+   "values": [
+    -7443.0,
+    -6766.0
+   ]
+  },
+  {
+   "label": "Payment of Dividend to Non-Controlling Interest",
+   "values": [
+    -436.0,
+    -414.0
+   ]
+  },
+  {
+   "label": "Interest Paid",
+   "values": [
+    -39981.0,
+    -41024.0
+   ]
+  },
+  {
+   "label": "Net Cash Flow from / (used in) Financing Activities",
+   "values": [
+    -51549.0,
+    -31891.0
+   ]
+  },
+  {
+   "label": "Net Increase in Cash and Cash Equivalents",
+   "values": [
+    39475.0,
+    9277.0
+   ]
+  },
+  {
+   "label": "Opening Balance of Cash and Cash Equivalents",
+   "values": [
+    106502.0,
+    97225.0
+   ]
+  },
+  {
+   "label": "Closing Balance of Cash and Cash Equivalents (Refer Note 10)",
+   "values": [
+    145977.0,
+    106502.0
+   ]
+  },
+  {
+   "label": "Borrowings - Non-current (including Current Maturities)",
+   "values": [
+    22504.0,
+    266222.0
+   ]
+  },
+  {
+   "label": "(Refer Note 16)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings - Current (Refer Note 20)",
+   "values": [
+    1568.0,
+    81308.0
+   ]
+  },
+  {
+   "label": "Total",
+   "values": [
+    24072.0,
+    347530.0
+   ]
+  }
+ ],
+ "pdf": "RELIANCE/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

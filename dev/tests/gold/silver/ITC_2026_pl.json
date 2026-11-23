@@ -1,0 +1,817 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "ITC",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 254,
+   "name": "255",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "ITC/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Continuing Operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue From Operations",
+   "values": [
+    89913.33,
+    81612.78
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    2425.8,
+    2529.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income (I+II)",
+   "values": [
+    92339.13,
+    84142.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    26272.33,
+    23757.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of Stock-in-Trade and Biological Assets",
+   "values": [
+    8826.01,
+    8947.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in inventories of finished goods, Stock-in-Trade, work-in-progress, intermediates and Biological Assets",
+   "values": [
+    -2550.46,
+    -725.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Excise duty",
+   "values": [
+    11044.93,
+    6289.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    6781.5,
+    6169.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    85.17,
+    45.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortization expense",
+   "values": [
+    1710.53,
+    1646.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    12221.11,
+    11196.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses (IV)",
+   "values": [
+    64391.12,
+    57325.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit/(loss) of Associates and Joint Ventures",
+   "values": [
+    377.08,
+    110.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items and tax (III-IV+V)",
+   "values": [
+    28325.09,
+    26926.94
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    -291.7,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax (VI+VII)",
+   "values": [
+    28033.39,
+    26926.94
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    6412.97,
+    6509.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    602.27,
+    380.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year from continuing operations (VIII-IX)",
+   "values": [
+    21018.15,
+    20036.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items and tax from discontinued operations",
+   "values": [
+    null,
+    525.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional Items of discontinued operations",
+   "values": [
+    null,
+    15128.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense of discontinued operations",
+   "values": [
+    null,
+    638.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year from discontinued operations (XI+XII-XIII)",
+   "values": [
+    null,
+    15016.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year (X+XIV)",
+   "values": [
+    21018.15,
+    35052.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Remeasurements of the defined benefit plans",
+   "values": [
+    -22.05,
+    -26.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity instruments through other comprehensive income",
+   "values": [
+    -839.64,
+    -1043.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effective portion of gains/(losses) on designated portion of hedging instruments in a cash flow hedge",
+   "values": [
+    33.54,
+    0.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of other comprehensive income in Associates and Joint Ventures",
+   "values": [
+    -7.12,
+    -3.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values": [
+    111.65,
+    59.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Exchange differences on translating the financial statements of foreign operations",
+   "values": [
+    131.48,
+    352.94
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Debt instruments through other comprehensive income",
+   "values": [
+    -61.73,
+    72.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effective portion of gains/(losses) on designated portion of hedging instruments in a cash flow hedge",
+   "values": [
+    -78.57,
+    -12.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of other comprehensive income in Associates and Joint Ventures",
+   "values": [
+    53.74,
+    -14.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax relating to items that will be reclassified to profit or loss",
+   "values": [
+    35.41,
+    -10.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income [A(i+ii)+B(i+ii)]",
+   "values": [
+    -643.29,
+    -624.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income for the year (XV+XVI)",
+   "values": [
+    20374.86,
+    34427.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the parent",
+   "values": [
+    20689.47,
+    34746.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    328.68,
+    305.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the parent",
+   "values": [
+    -642.2,
+    -624.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    -1.09,
+    0.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income for the year",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the parent",
+   "values": [
+    20047.27,
+    34121.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    327.59,
+    305.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share (Face Value ₹ 1.00 each):",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "For Continuing Operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    16.52,
+    15.78
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    16.51,
+    15.76
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "For Discontinued Operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    null,
+    12.01
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    null,
+    11.99
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "For Continuing and Discontinued Operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    16.52,
+    27.79
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    16.51,
+    27.75
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 64,
+  "rows_reader": 64,
+  "rows_aligned": 64,
+  "rows_agreed": 54,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 10,
+  "value_diffs": 0,
+  "values_reader": 89,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 1,
+   "reader_index": 1,
+   "label_parser": "Revenue From Operations 23A,23B",
+   "label_reader": "Revenue From Operations",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 89913.33,
+    "2025": 81612.78
+   },
+   "values_reader": {
+    "2026": 89913.33,
+    "2025": 81612.78
+   },
+   "page": 254,
+   "search": [
+    "89,913.33",
+    "81,612.78"
+   ],
+   "pattern": "note_ref_in_label",
+   "pattern_text": "Note number left in the label"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 28,
+   "reader_index": 28,
+   "label_parser": "A (i) Items that will not be reclassified to profit or loss",
+   "label_reader": "Items that will not be reclassified to profit or loss:",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 254,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 34,
+   "reader_index": 34,
+   "label_parser": "B (i) Items that will be reclassified to profit or loss",
+   "label_reader": "Items that will be reclassified to profit or loss:",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 254,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 54,
+   "reader_index": 54,
+   "label_parser": "XVIII Earnings per equity share (Face Value ` 1.00 each)",
+   "label_reader": "Earnings per equity share (Face Value ₹ 1.00 each):",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 254,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 56,
+   "reader_index": 56,
+   "label_parser": "Basic (in `)",
+   "label_reader": "Basic (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 16.52,
+    "2025": 15.78
+   },
+   "values_reader": {
+    "2026": 16.52,
+    "2025": 15.78
+   },
+   "page": 254,
+   "search": [
+    "16.52",
+    "15.78"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d006",
+   "kind": "label",
+   "year": null,
+   "parser_index": 57,
+   "reader_index": 57,
+   "label_parser": "Diluted (in `)",
+   "label_reader": "Diluted (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 16.51,
+    "2025": 15.76
+   },
+   "values_reader": {
+    "2026": 16.51,
+    "2025": 15.76
+   },
+   "page": 254,
+   "search": [
+    "16.51",
+    "15.76"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d007",
+   "kind": "label",
+   "year": null,
+   "parser_index": 59,
+   "reader_index": 59,
+   "label_parser": "Basic (in `)",
+   "label_reader": "Basic (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 12.01
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": 12.01
+   },
+   "page": 254,
+   "search": [
+    "12.01",
+    "12.01"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d008",
+   "kind": "label",
+   "year": null,
+   "parser_index": 60,
+   "reader_index": 60,
+   "label_parser": "Diluted (in `)",
+   "label_reader": "Diluted (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 11.99
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": 11.99
+   },
+   "page": 254,
+   "search": [
+    "11.99",
+    "11.99"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d009",
+   "kind": "label",
+   "year": null,
+   "parser_index": 62,
+   "reader_index": 62,
+   "label_parser": "Basic (in `)",
+   "label_reader": "Basic (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 16.52,
+    "2025": 27.79
+   },
+   "values_reader": {
+    "2026": 16.52,
+    "2025": 27.79
+   },
+   "page": 254,
+   "search": [
+    "16.52",
+    "27.79"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d010",
+   "kind": "label",
+   "year": null,
+   "parser_index": 63,
+   "reader_index": 63,
+   "label_parser": "Diluted (in `)",
+   "label_reader": "Diluted (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 16.51,
+    "2025": 27.75
+   },
+   "values_reader": {
+    "2026": 16.51,
+    "2025": 27.75
+   },
+   "page": 254,
+   "search": [
+    "16.51",
+    "27.75"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  }
+ ]
+}

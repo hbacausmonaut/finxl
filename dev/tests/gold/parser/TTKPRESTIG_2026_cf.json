@@ -1,0 +1,407 @@
+{
+ "ticker": "TTKPRESTIG",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 190,
+   "name": "191",
+   "clip": [
+    0.0,
+    0.0,
+    623.6,
+    822.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash Flows from Operating Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Profit Before Tax",
+   "values": [
+    219.78,
+    174.58
+   ]
+  },
+  {
+   "label": "Adjustments",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    -44.58,
+    -55.28
+   ]
+  },
+  {
+   "label": "(Profit)/Loss on Sale of Property, Plant and Equipment",
+   "values": [
+    -0.01,
+    -0.17
+   ]
+  },
+  {
+   "label": "Foreign Exchange Fluctuation on Translation",
+   "values": [
+    21.01,
+    11.6
+   ]
+  },
+  {
+   "label": "OCI effects",
+   "values": [
+    -1.45,
+    -2.0
+   ]
+  },
+  {
+   "label": "Dividend Income/Unrealised Gains on Investments",
+   "values": [
+    5.05,
+    -7.49
+   ]
+  },
+  {
+   "label": "Provision for Impairment of Goodwill",
+   "values": [
+    null,
+    71.42
+   ]
+  },
+  {
+   "label": "Interest Expense",
+   "values": [
+    14.97,
+    15.68
+   ]
+  },
+  {
+   "label": "Share Based Payment Expense",
+   "values": [
+    2.9,
+    0.92
+   ]
+  },
+  {
+   "label": "Bad Debts Written off",
+   "values": [
+    null,
+    0.5
+   ]
+  },
+  {
+   "label": "Provision for Doubtful Debts",
+   "values": [
+    5.77,
+    2.5
+   ]
+  },
+  {
+   "label": "Provision for Warranty",
+   "values": [
+    18.66,
+    27.08
+   ]
+  },
+  {
+   "label": "Inventory Write off / (Write back)",
+   "values": [
+    -8.38,
+    19.32
+   ]
+  },
+  {
+   "label": "Depreciation and Amortization",
+   "values": [
+    80.95,
+    70.71
+   ]
+  },
+  {
+   "label": "Operating Cash Flow Before Working Capital Changes",
+   "values": [
+    314.67,
+    329.37
+   ]
+  },
+  {
+   "label": "Changes in - Trade Receivables",
+   "values": [
+    -3.82,
+    4.07
+   ]
+  },
+  {
+   "label": "Financial Assets and Other Current and Non-Current Assets",
+   "values": [
+    -69.92,
+    -17.62
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -55.79,
+    -76.29
+   ]
+  },
+  {
+   "label": "Liabilities and Provisions (Current and Non-Current)",
+   "values": [
+    34.48,
+    -17.92
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    46.81,
+    -1.37
+   ]
+  },
+  {
+   "label": "Cash Generated from Operations",
+   "values": [
+    266.43,
+    220.24
+   ]
+  },
+  {
+   "label": "Income Taxes paid (Net of Refunds)",
+   "values": [
+    -56.7,
+    -63.0
+   ]
+  },
+  {
+   "label": "Cash Generated from / (used in) Operations",
+   "values": [
+    209.73,
+    157.24
+   ]
+  },
+  {
+   "label": "Cash Flows from Investing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Property, Plant and Equipment",
+   "values": [
+    -88.03,
+    -42.0
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of Property, Plant and Equipment",
+   "values": [
+    0.25,
+    0.32
+   ]
+  },
+  {
+   "label": "(Investment) / Redemption in Mutual Funds",
+   "values": [
+    -21.4,
+    89.08
+   ]
+  },
+  {
+   "label": "(Investment) / Redemption in Term Deposits with Banks",
+   "values": [
+    -28.22,
+    80.3
+   ]
+  },
+  {
+   "label": "Interest Received",
+   "values": [
+    44.38,
+    55.28
+   ]
+  },
+  {
+   "label": "Dividends Income/Realised Gains or (loss) on Investments",
+   "values": [
+    4.32,
+    20.69
+   ]
+  },
+  {
+   "label": "Net Cash Generated from/(used in) Investing Activities [B]",
+   "values": [
+    -88.7,
+    203.67
+   ]
+  },
+  {
+   "label": "Cash Flows from Financing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Dividend Paid",
+   "values": [
+    -82.17,
+    -83.17
+   ]
+  },
+  {
+   "label": "Interest Paid",
+   "values": [
+    -6.29,
+    -6.24
+   ]
+  },
+  {
+   "label": "Buyback of equity shares",
+   "values": [
+    null,
+    -200.0
+   ]
+  },
+  {
+   "label": "Tax on buyback of equity shares",
+   "values": [
+    null,
+    -46.59
+   ]
+  },
+  {
+   "label": "Expenses for buyback of equity shares (net of tax)",
+   "values": [
+    null,
+    -2.27
+   ]
+  },
+  {
+   "label": "Employee's Stock Options",
+   "values": [
+    0.08,
+    0.25
+   ]
+  },
+  {
+   "label": "Principal Repayment of Lease Liabilities",
+   "values": [
+    -22.39,
+    -19.66
+   ]
+  },
+  {
+   "label": "Interest on Lease Liabilities",
+   "values": [
+    -8.68,
+    -9.44
+   ]
+  },
+  {
+   "label": "Proceeds from Long Term Loans",
+   "values": [
+    3.4,
+    4.88
+   ]
+  },
+  {
+   "label": "Net Cash used in Financing Activities",
+   "values": [
+    -116.05,
+    -362.24
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in Cash and Cash Equivalents",
+   "values": [
+    4.98,
+    -1.33
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the Beginning of the Year",
+   "values": [
+    30.61,
+    31.83
+   ]
+  },
+  {
+   "label": "Effects of exchange differences on translation of foreign currency Cash and Cash Equivalents",
+   "values": [
+    0.2,
+    0.11
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the end of the Year",
+   "values": [
+    35.79,
+    30.61
+   ]
+  },
+  {
+   "label": "Components of Cash and Cash Equivalents (refer note 12 )",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash on Hand",
+   "values": [
+    0.03,
+    0.02
+   ]
+  },
+  {
+   "label": "Balances with banks",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "in Current Accounts",
+   "values": [
+    35.4,
+    30.13
+   ]
+  },
+  {
+   "label": "Cheques on Hand",
+   "values": [
+    0.36,
+    0.46
+   ]
+  },
+  {
+   "label": "Total Cash and Cash Equivalents",
+   "values": [
+    35.79,
+    30.61
+   ]
+  }
+ ],
+ "pdf": "TTKPRESTIG/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9048dae8-85f9-431f-8a67-37817161b4dd.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

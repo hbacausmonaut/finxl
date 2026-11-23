@@ -1,0 +1,29 @@
+{
+  "ticker": "KOTAKBANK", "fy": 2026, "statement": "bs", "scope": "consolidated",
+  "reader": "claude", "read_at": "2026-11-04 12:00 UTC",
+  "unit": "thousand",
+  "years": [2026, 2025],
+  "rows": [
+    {"label": "CAPITAL AND LIABILITIES", "values": [null, null], "page": 61},
+    {"label": "Capital", "values": [9946465, 9941115], "page": 61},
+    {"label": "Employees' Stock Options/Units (Grants) Outstanding", "values": [1131215, 942677], "page": 61},
+    {"label": "Reserves and Surplus", "values": [1801181029, 1564009706], "page": 61},
+    {"label": "Deposits", "values": [5669403265, 4947074752], "page": 61},
+    {"label": "Borrowings", "values": [953935315, 976220344], "page": 61},
+    {"label": "Policyholders' Funds", "values": [961683428, 851210618], "page": 61},
+    {"label": "Other Liabilities and Provisions", "values": [636247193, 448344158], "page": 61},
+    {"label": "Total", "values": [10033527910, 8797743370], "page": 61},
+    {"label": "ASSETS", "values": [null, null], "page": 61},
+    {"label": "Cash and Balances with Reserve Bank of India", "values": [512817365, 417483508], "page": 61},
+    {"label": "Balances with Banks and Money at Call and Short Notice", "values": [508093671, 373134027], "page": 61},
+    {"label": "Investments", "values": [2906328066, 2842549990], "page": 61},
+    {"label": "Advances", "values": [5657678786, 4861655200], "page": 61},
+    {"label": "Fixed Assets", "values": [28528046, 28108003], "page": 61},
+    {"label": "Other Assets", "values": [410604409, 265335075], "page": 61},
+    {"label": "Goodwill on Consolidation", "values": [9477567, 9477567], "page": 61},
+    {"label": "Total", "values": [10033527910, 8797743370], "page": 61},
+    {"label": "Contingent Liabilities", "values": [9897914181, 11271592571], "page": 61},
+    {"label": "Bills for Collection", "values": [684737496, 526908188], "page": 61}
+  ],
+  "notes": "Statement fully on page index 61 (p62_s1/s2), ends with signature block; -next page (p63) is the P&L, not a continuation. Excluded 'Significant Accounting Policies...' (Schedule 17) and 'The schedules referred to above...' lines."
+}

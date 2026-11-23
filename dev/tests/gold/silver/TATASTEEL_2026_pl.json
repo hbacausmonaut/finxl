@@ -1,0 +1,818 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "TATASTEEL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 423,
+   "name": "424",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 424,
+   "name": "425",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "pdf": "TATASTEEL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb836c3a-cf5f-427d-bc71-e368d5861e02.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    232139.94,
+    218542.51
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1401.78,
+    1540.53
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total income",
+   "values": [
+    233541.72,
+    220083.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    74468.93,
+    77079.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    18159.14,
+    18017.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in inventories of finished and semi-finished goods, stock-in-trade and work-in-progress",
+   "values": [
+    989.62,
+    -96.65
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    25998.98,
+    24888.99
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    7167.06,
+    7340.95
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    11954.51,
+    10421.33
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    79139.21,
+    74699.99
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "",
+   "values": [
+    217877.45,
+    212351.91
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Less: Expenditure (other than finance cost) transferred to capital account",
+   "values": [
+    968.38,
+    1345.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    216909.07,
+    211006.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit/(loss) of joint ventures and associates",
+   "values": [
+    368.5,
+    190.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/(loss) before exceptional items and tax (III-IV+V)",
+   "values": [
+    17001.15,
+    9267.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional items:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Profit/(loss) on sale of subsidiaries/non-current investments/business undertakings/non-current assets",
+   "values": [
+    308.35,
+    54.84
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Provision for impairment of non-current assets",
+   "values": [
+    -323.77,
+    -119.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Statutory impact of new labour codes",
+   "values": [
+    -85.37,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Restructuring, redundancy and other provisions (net)",
+   "values": [
+    -1858.47,
+    -633.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Contribution to electoral trusts",
+   "values": [
+    null,
+    -173.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value gain/(loss) on non-current investments (net)",
+   "values": [
+    926.8,
+    16.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total exceptional items",
+   "values": [
+    -1032.46,
+    -854.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/(loss) before tax (VI+VII)",
+   "values": [
+    15968.69,
+    8412.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    5334.63,
+    3563.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax in relation to earlier years",
+   "values": [
+    -73.26,
+    -7.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -178.5,
+    1683.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    5082.87,
+    5239.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/(loss) for the year (VIII-IX)",
+   "values": [
+    10885.82,
+    3173.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit and loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remeasurement gain/(loss) on post-employment defined benefit plans",
+   "values": [
+    442.76,
+    -74.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value changes of investments in equity shares",
+   "values": [
+    18.44,
+    -104.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of equity accounted investees",
+   "values": [
+    0.88,
+    -0.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax on items that will not be reclassified to profit and loss",
+   "values": [
+    -107.5,
+    -6.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit and loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Foreign currency translation differences",
+   "values": [
+    4785.85,
+    438.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value changes of cash flow hedges",
+   "values": [
+    384.79,
+    -15.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of equity accounted investees",
+   "values": [
+    19.67,
+    10.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax on items that will be reclassified to profit and loss",
+   "values": [
+    -52.78,
+    26.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total other comprehensive income for the year",
+   "values": [
+    5492.11,
+    273.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year (X+XI)",
+   "values": [
+    16377.93,
+    3447.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/(loss) for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    10793.87,
+    3420.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    91.95,
+    -246.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    10885.82,
+    3173.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    16150.18,
+    3632.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    227.75,
+    -185.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    16377.93,
+    3447.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per share",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    8.65,
+    2.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    8.65,
+    2.74
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 56,
+  "rows_reader": 55,
+  "rows_aligned": 55,
+  "rows_agreed": 44,
+  "missing_in_parser": 0,
+  "extra_in_parser": 1,
+  "label_diffs": 11,
+  "value_diffs": 0,
+  "values_reader": 90,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": null,
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "unit",
+   "year": null,
+   "parser_index": null,
+   "reader_index": null,
+   "label_parser": null,
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": "crore",
+   "values_parser": {},
+   "values_reader": {},
+   "page": 423,
+   "search": [],
+   "pattern": "unit_wrong",
+   "pattern_text": "Statement unit (crore / lakh / million / thousand) differs"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 0,
+   "reader_index": 0,
+   "label_parser": "Revenue from operations F216",
+   "label_reader": "Revenue from operations",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 232139.94,
+    "2025": 218542.51
+   },
+   "values_reader": {
+    "2026": 232139.94,
+    "2025": 218542.51
+   },
+   "page": 423,
+   "search": [
+    "2,32,139.94",
+    "2,18,542.51"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 1,
+   "reader_index": 1,
+   "label_parser": "Other income F217",
+   "label_reader": "Other income",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1401.78,
+    "2025": 1540.53
+   },
+   "values_reader": {
+    "2026": 1401.78,
+    "2025": 1540.53
+   },
+   "page": 423,
+   "search": [
+    "1,401.78",
+    "1,540.53"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 6,
+   "reader_index": 6,
+   "label_parser": "Changes in inventories of finished and semi-finished goods, (c) stock-in-trade and work-in-progress",
+   "label_reader": "Changes in inventories of finished and semi-finished goods, stock-in-trade and work-in-progress",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 989.62,
+    "2025": -96.65
+   },
+   "values_reader": {
+    "2026": 989.62,
+    "2025": -96.65
+   },
+   "page": 423,
+   "search": [
+    "989.62",
+    "96.65"
+   ],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Employee benefits expense F217",
+   "label_reader": "Employee benefits expense",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 25998.98,
+    "2025": 24888.99
+   },
+   "values_reader": {
+    "2026": 25998.98,
+    "2025": 24888.99
+   },
+   "page": 423,
+   "search": [
+    "25,998.98",
+    "24,888.99"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d006",
+   "kind": "label",
+   "year": null,
+   "parser_index": 8,
+   "reader_index": 8,
+   "label_parser": "Finance costs F218",
+   "label_reader": "Finance costs",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 7167.06,
+    "2025": 7340.95
+   },
+   "values_reader": {
+    "2026": 7167.06,
+    "2025": 7340.95
+   },
+   "page": 423,
+   "search": [
+    "7,167.06",
+    "7,340.95"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d007",
+   "kind": "label",
+   "year": null,
+   "parser_index": 9,
+   "reader_index": 9,
+   "label_parser": "Depreciation and amortisation expense F218",
+   "label_reader": "Depreciation and amortisation expense",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 11954.51,
+    "2025": 10421.33
+   },
+   "values_reader": {
+    "2026": 11954.51,
+    "2025": 10421.33
+   },
+   "page": 423,
+   "search": [
+    "11,954.51",
+    "10,421.33"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d008",
+   "kind": "label",
+   "year": null,
+   "parser_index": 10,
+   "reader_index": 10,
+   "label_parser": "Other expenses F218",
+   "label_reader": "Other expenses",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 79139.21,
+    "2025": 74699.99
+   },
+   "values_reader": {
+    "2026": 79139.21,
+    "2025": 74699.99
+   },
+   "page": 423,
+   "search": [
+    "79,139.21",
+    "74,699.99"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d009",
+   "kind": "label",
+   "year": null,
+   "parser_index": 16,
+   "reader_index": 16,
+   "label_parser": "Exceptional items: F219",
+   "label_reader": "Exceptional items:",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 423,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d010",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 17,
+   "reader_index": null,
+   "label_parser": "Profit/(loss) on sale of subsidiaries/non-current investments/business",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 423,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d011",
+   "kind": "label",
+   "year": null,
+   "parser_index": 18,
+   "reader_index": 17,
+   "label_parser": "undertakings/non-current assets",
+   "label_reader": "Profit/(loss) on sale of subsidiaries/non-current investments/business undertakings/non-current assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 308.35,
+    "2025": 54.84
+   },
+   "values_reader": {
+    "2026": 308.35,
+    "2025": 54.84
+   },
+   "page": 423,
+   "search": [
+    "308.35",
+    "54.84"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d012",
+   "kind": "label",
+   "year": null,
+   "parser_index": 26,
+   "reader_index": 25,
+   "label_parser": "Tax expense: F186",
+   "label_reader": "Tax expense:",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 423,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d013",
+   "kind": "label",
+   "year": null,
+   "parser_index": 53,
+   "reader_index": 52,
+   "label_parser": "Earnings per share 35 F220",
+   "label_reader": "Earnings per share",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 424,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

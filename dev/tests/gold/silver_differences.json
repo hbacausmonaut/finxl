@@ -1,0 +1,7642 @@
+[
+{
+"stmt": "ASIANPAINT_2026_bs",
+"kind": "label",
+"label_parser": "Total Outstanding dues of Creditors other than Micro Enterprises and Small",
+"label_reader": "Total Outstanding dues of Creditors other than Micro Enterprises and Small Enterprises",
+"vp": {
+"2026": 3604.48,
+"2025": 3639.42
+},
+"vr": {
+"2026": 3604.48,
+"2025": 3639.42
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ASIANPAINT_2026_bs",
+"kind": "extra_in_parser",
+"label_parser": "Enterprises",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ASIANPAINT_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "subsidiary and cash movement changes",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ASIANPAINT_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "equivalents exchange",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ASIANPAINT_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "rates",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ASIANPAINT_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowings (Refer note 16)",
+"label_reader": null,
+"vp": {
+"2026": -1.27,
+"2025": 1246.42
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ASIANPAINT_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Lease Liabilities (Refer note 17)",
+"label_reader": null,
+"vp": {
+"2026": 526.83,
+"2025": -339.78
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ASIANPAINT_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Other liabilities (Refer note 21)",
+"label_reader": null,
+"vp": {
+"2026": 1.27
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "ASIANPAINT_2026_pl",
+"kind": "label",
+"label_parser": "EARNING BEFORE INTEREST, TAX, DEPRECIATION AND AMORTISATION",
+"label_reader": "EARNING BEFORE INTEREST, TAX, DEPRECIATION AND AMORTISATION (EBITDA) (I-II)",
+"vp": {
+"2026": 7419.72,
+"2025": 6578.82
+},
+"vr": {
+"2026": 7419.72,
+"2025": 6578.82
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ASIANPAINT_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "(EBITDA) (I-II)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ASIANPAINT_2026_pl",
+"kind": "label",
+"label_parser": "PROFIT BEFORE SHARE OF PROFIT IN ASSOCIATES, EXCEPTIONAL ITEMS AND",
+"label_reader": "PROFIT BEFORE SHARE OF PROFIT IN ASSOCIATES, EXCEPTIONAL ITEMS AND TAX",
+"vp": {
+"2026": 5995.46,
+"2025": 5325.46
+},
+"vr": {
+"2026": 5995.46,
+"2025": 5325.46
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ASIANPAINT_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "TAX",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "AXISBANK_2026_cf",
+"kind": "label",
+"label_parser": "Net cash from/(used in) investing activities (B)",
+"label_reader": "Net cash from/(used in) investing activities",
+"vp": {
+"2026": -45917.3,
+"2025": -51215.13
+},
+"vr": {
+"2026": -45917.3,
+"2025": -51215.13
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "AXISBANK_2026_cf",
+"kind": "label",
+"label_parser": "Net cash generated from/(used in) financing activities (C)",
+"label_reader": "Net cash generated from/(used in) financing activities",
+"vp": {
+"2026": 60357.67,
+"2025": -7000.36
+},
+"vr": {
+"2026": 60357.67,
+"2025": -7000.36
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "AXISBANK_2026_cf",
+"kind": "label",
+"label_parser": "Effect of exchange fluctuation translation reserve (D)",
+"label_reader": "Effect of exchange fluctuation translation reserve",
+"vp": {
+"2026": 849.21,
+"2025": 37.33
+},
+"vr": {
+"2026": 849.21,
+"2025": 37.33
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "AXISBANK_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Notes to the Cash Flow Statement",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "AXISBANK_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents includes the following",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "AXISBANK_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and Balances with Reserve Bank of India (Refer Schedule 6)",
+"label_reader": null,
+"vp": {
+"2026": 78627.37,
+"2025": 73638.44
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "AXISBANK_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Balances with Banks and Money at Call and Short Notice (Refer Schedule 7)",
+"label_reader": null,
+"vp": {
+"2026": 30724.2,
+"2025": 29060.26
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "AXISBANK_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents at the end of the year",
+"label_reader": null,
+"vp": {
+"2026": 109351.57,
+"2025": 102698.7
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "AXISBANK_2026_pl",
+"kind": "label",
+"label_parser": "Provisions and contingencies (1.1)",
+"label_reader": "Provisions and contingencies",
+"vp": {
+"2026": 19416.73,
+"2025": 16776.77
+},
+"vr": {
+"2026": 19416.73,
+"2025": 16776.77
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "AXISBANK_2026_pl",
+"kind": "label",
+"label_parser": "Dividend paid during the year (1.6)",
+"label_reader": "Dividend paid during the year",
+"vp": {
+"2026": 310.14,
+"2025": 309.09
+},
+"vr": {
+"2026": 310.14,
+"2025": 309.09
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "AXISBANK_2026_pl",
+"kind": "label",
+"label_parser": "Earnings Per Equity Share (Face Value ₹ 2/- Per Share) (1.4)",
+"label_reader": "Earnings Per Equity Share (Face Value ₹2/- Per Share)",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "BAJAJFINSV_2026_bs",
+"kind": "label",
+"label_parser": "Capital work-in-progress 46(18)",
+"label_reader": "Capital work-in-progress",
+"vp": {
+"2026": 250.31,
+"2025": 122.95
+},
+"vr": {
+"2026": 250.31,
+"2025": 122.95
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "BAJAJFINSV_2026_bs",
+"kind": "label",
+"label_parser": "Intangible assets under development 46(19)",
+"label_reader": "Intangible assets under development",
+"vp": {
+"2026": 71,
+"2025": 191.08
+},
+"vr": {
+"2026": 71,
+"2025": 191.08
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "BAJAJFINSV_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Adjustments for",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "BAJAJFINSV_2026_cf",
+"kind": "label",
+"label_parser": "Adjustments for Interest income",
+"label_reader": "Interest income",
+"vp": {
+"2026": -79955.95,
+"2025": -67449.06
+},
+"vr": {
+"2026": -79955.95,
+"2025": -67449.06
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "BAJAJFINSV_2026_pl",
+"kind": "label",
+"label_parser": "Claims incurred pertaining to insurance business 46(18)",
+"label_reader": "Claims incurred pertaining to insurance business",
+"vp": {
+"2026": 26731.23,
+"2025": 24671.38
+},
+"vr": {
+"2026": 26731.23,
+"2025": 24671.38
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "BAJAJFINSV_2026_pl",
+"kind": "label",
+"label_parser": "Reinsurance ceded 46(19)",
+"label_reader": "Reinsurance ceded",
+"vp": {
+"2026": 13126.59,
+"2025": 11874.58
+},
+"vr": {
+"2026": 13126.59,
+"2025": 11874.58
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "BAJAJFINSV_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "(Nominal value per share ₹ 1)",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CERA_2026_bs",
+"kind": "label",
+"label_parser": "Other Intangible Assets (f) Financial Assets",
+"label_reader": "Other Intangible Assets",
+"vp": {
+"2026": 48.04,
+"2025": 61.12
+},
+"vr": {
+"2026": 48.04,
+"2025": 61.12
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CERA_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial Assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CERA_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial Assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 39576.56,
+"2025": 40581.93
+},
+"vr": {
+"2026": 39576.56,
+"2025": 40581.93
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CERA_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial Assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "label",
+"label_parser": "Allowance for / (Reversal of) Expected Credit Loss",
+"label_reader": "Allowance for / (Reversal of) Expected Credit Loss - Trade Receivables",
+"vp": {
+"2026": 179.17,
+"2025": -15.9
+},
+"vr": {
+"2026": 179.17,
+"2025": -15.9
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Trade Receivables",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "label",
+"label_parser": "Net Gain on Fair Valuation of Investments in Mutual",
+"label_reader": "Net Gain on Fair Valuation of Investments in Mutual Funds",
+"vp": {
+"2026": -4009.48,
+"2025": -5202.81
+},
+"vr": {
+"2026": -4009.48,
+"2025": -5202.81
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Funds",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "label",
+"label_parser": "Compensation Expenses under Employees Stock",
+"label_reader": "Compensation Expenses under Employees Stock Options Scheme",
+"vp": {
+"2026": 249.55,
+"2025": 308.84
+},
+"vr": {
+"2026": 249.55,
+"2025": 308.84
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Options Scheme",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "label",
+"label_parser": "Payments for Property, Plant and Equipments, Capital Work-in-progress, Investment Property &",
+"label_reader": "Payments for Property, Plant and Equipments, Capital Work-in-progress, Investment Property & Capital Advances",
+"vp": {
+"2026": -2090.13,
+"2025": -2739.3
+},
+"vr": {
+"2026": -2090.13,
+"2025": -2739.3
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Capital Advances",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "label",
+"label_parser": "Proceed / Repayment of Short Term Borrowings",
+"label_reader": "Proceed / Repayment of Short Term Borrowings (Working Capital)",
+"vp": {
+"2026": -1466.3,
+"2025": -75.81
+},
+"vr": {
+"2026": -1466.3,
+"2025": -75.81
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "(Working Capital)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Notes to Cash Flow Statement Year ended Year ended",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "31st March, 2026 31st March, Components of Cash & cash equivalents",
+"label_reader": null,
+"vp": {
+"2025": 2025
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Balances with banks",
+"label_reader": null,
+"vp": {
+"2026": 1012.41,
+"2025": 410.87
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash on Hand",
+"label_reader": null,
+"vp": {
+"2026": 2.67,
+"2025": 0.97
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Bank FDs with original maturity of less than 3 months",
+"label_reader": null,
+"vp": {
+"2026": 42.67
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Margin Money Deposits with Bank held as security with maturity of less than 3 months",
+"label_reader": null,
+"vp": {
+"2026": 226.97
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "CERA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash & cash equivalents considered in Cash Flow Statement",
+"label_reader": null,
+"vp": {
+"2026": 1284.72,
+"2025": 411.84
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CHOLAFIN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non-cash financing and investing activities",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CHOLAFIN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Acquistion of right -of-use of assets",
+"label_reader": null,
+"vp": {
+"2026": 165.87,
+"2025": 314.59
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CHOLAFIN_2026_pl",
+"kind": "label",
+"label_parser": "Depreciation and amortisation expense 15, &",
+"label_reader": "Depreciation and amortisation expense",
+"vp": {
+"2026": 283.89,
+"2025": 244.83
+},
+"vr": {
+"2026": 283.89,
+"2025": 244.83
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CIPLA_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 6596.72,
+"2025": 5642.11
+},
+"vr": {
+"2026": 6596.72,
+"2025": 5642.11
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CIPLA_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CIPLA_2026_cf",
+"kind": "label",
+"label_parser": "Interest paid (including interest on lease liability of H 28.31 Crores (31st March, 2025: H 23.02 Crores))",
+"label_reader": "Interest paid (including interest on lease liability of ₹ 28.31 Crores (31st March, 2025: ₹ 23.02 Crores))",
+"vp": {
+"2026": -37.03,
+"2025": -36.38
+},
+"vr": {
+"2026": -37.03,
+"2025": -36.38
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CIPLA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Components of cash and cash equivalents",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "CIPLA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents as per Consolidated Balance Sheet (refer note 15)",
+"label_reader": null,
+"vp": {
+"2026": 1018.22,
+"2025": 588.69
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CIPLA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Less: Bank overdraft (refer note 23)",
+"label_reader": null,
+"vp": {
+"2026": -2.83,
+"2025": -46.04
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "CIPLA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents for Consolidated Statement of Cash Flows",
+"label_reader": null,
+"vp": {
+"2026": 1015.39,
+"2025": 542.65
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_bs",
+"kind": "label",
+"label_parser": "Total outstanding dues of Micro, Small and Medium",
+"label_reader": "Total outstanding dues of Micro, Small and Medium Enterprises; and",
+"vp": {
+"2026": 241.34,
+"2025": 164.77,
+"2024": 157.38
+},
+"vr": {
+"2026": 241.34,
+"2025": 164.77,
+"2024": 157.38
+},
+"on_page": [
+true,
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_bs",
+"kind": "label",
+"label_parser": "Enterprises; and (B) Total outstanding dues of Creditors other than Micro, Small and Medium",
+"label_reader": "Total outstanding dues of Creditors other than Micro, Small and Medium Enterprises",
+"vp": {
+"2026": 12313.05,
+"2025": 10037.39,
+"2024": 8228.1
+},
+"vr": {
+"2026": 12313.05,
+"2025": 10037.39,
+"2024": 8228.1
+},
+"on_page": [
+true,
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_bs",
+"kind": "extra_in_parser",
+"label_parser": "Enterprises",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Reconciliation of Cash and Cash equivalents (Refer Note 4.4)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and Cash equivalents (Net of bank Overdraft)",
+"label_reader": null,
+"vp": {
+"2026": 8619.62,
+"2025": 11160.26
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Components of Cash and Cash Equivalents",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Balances with Banks",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "in Deposit Accounts",
+"label_reader": null,
+"vp": {
+"2026": 5000.23,
+"2025": 7554.39
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "in Current Accounts",
+"label_reader": null,
+"vp": {
+"2026": 2953.58,
+"2025": 2192.09
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Bank Balances outside India",
+"label_reader": null,
+"vp": {
+"2026": 0.12,
+"2025": 0.16
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "ICDs with Primary Dealers",
+"label_reader": null,
+"vp": {
+"2026": 665.5,
+"2025": 1170.8
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cheques, Drafts and Stamps in hand",
+"label_reader": null,
+"vp": {
+"2025": 0.01
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash in hand",
+"label_reader": null,
+"vp": {
+"2025": 0.01
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Bank Overdraft (Refer note 8.1)",
+"label_reader": null,
+"vp": {
+"2026": -0.04,
+"2025": -0.42
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Others e-procurement account/GeM account/Imprest balances",
+"label_reader": null,
+"vp": {
+"2026": 0.23,
+"2025": 243.22
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Total (Refer note 4.4 and note 8.1 for components of Cash and Cash Equivalents)",
+"label_reader": null,
+"vp": {
+"2026": 8619.62,
+"2025": 11160.26
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowings* Liabilities borrowings",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Opening balance as at 01-04-2025",
+"label_reader": null,
+"vp": {
+"2026": 7394.56,
+"2025": 237.33
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash flows during the year",
+"label_reader": null,
+"vp": {
+"2026": 1938.21,
+"2025": -79.74
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non-cash changes due to",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Acquisitions and unwinding finance cost under finance lease",
+"label_reader": null,
+"vp": {
+"2025": 93.13
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Accrued Interest on borrowings",
+"label_reader": null,
+"vp": {
+"2026": 23.77,
+"2025": -139.14
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "COALINDIA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Closing balance as at 31-03-2026",
+"label_reader": null,
+"vp": {
+"2026": 9356.54,
+"2025": 250.72
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DLF_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "March 31 March",
+"label_reader": null,
+"vp": {
+"2026": 2026,
+"2025": 2025
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DLF_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Components of cash and cash equivalents",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "DLF_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents (refer note 18)",
+"label_reader": null,
+"vp": {
+"2026": 227322.43,
+"2025": 75252.97
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DLF_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Less: Book overdraft (refer note 24)",
+"label_reader": null,
+"vp": {
+"2025": -102.09
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "DLF_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Subtotal",
+"label_reader": null,
+"vp": {
+"2026": 227322.43,
+"2025": 75150.88
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DLF_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Earnings per equity share [face value of ₹ 2/- (31 March 2025: ₹ 2/-) per share]",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "DMART_2026_bs",
+"kind": "label",
+"label_parser": "Intangible assets (g) Financial assets",
+"label_reader": "Intangible assets",
+"vp": {
+"2026": 36.42,
+"2025": 28.98
+},
+"vr": {
+"2026": 36.42,
+"2025": 28.98
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DMART_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "DMART_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 5900.64,
+"2025": 5044.37
+},
+"vr": {
+"2026": 5900.64,
+"2025": 5044.37
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DMART_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "DMART_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Trade payables due to",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "DMART_2026_bs",
+"kind": "label",
+"label_parser": "Trade payables due to Micro and small enterprises",
+"label_reader": "Micro and small enterprises",
+"vp": {
+"2026": 393.47,
+"2025": 289.53
+},
+"vr": {
+"2026": 393.47,
+"2025": 289.53
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DMART_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents as per above comprises of the following",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "DMART_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents (Refer note:13)",
+"label_reader": null,
+"vp": {
+"2026": 283.71,
+"2025": 355.48
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DMART_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Bank overdrawn (Refer note:22)",
+"label_reader": null,
+"vp": {
+"2026": -380.27
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "DMART_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Balance as per statement of cash flows",
+"label_reader": null,
+"vp": {
+"2026": -96.56,
+"2025": 355.48
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Other financial assets C",
+"label_reader": "Other financial assets",
+"vp": {
+"2026": 2917,
+"2025": 8875
+},
+"vr": {
+"2026": 2917,
+"2025": 8875
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Trade receivables B",
+"label_reader": "Trade receivables",
+"vp": {
+"2026": 101234,
+"2025": 90420
+},
+"vr": {
+"2026": 101234,
+"2025": 90420
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Cash and cash equivalents D",
+"label_reader": "Cash and cash equivalents",
+"vp": {
+"2026": 15368,
+"2025": 14654
+},
+"vr": {
+"2026": 15368,
+"2025": 14654
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Other bank balances E",
+"label_reader": "Other bank balances",
+"vp": {
+"2026": 18119,
+"2025": 9948
+},
+"vr": {
+"2026": 18119,
+"2025": 9948
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Other financial assets C",
+"label_reader": "Other financial assets",
+"vp": {
+"2026": 22255,
+"2025": 3142
+},
+"vr": {
+"2026": 22255,
+"2025": 3142
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Other current assets B",
+"label_reader": "Other current assets",
+"vp": {
+"2026": 29895,
+"2025": 27068
+},
+"vr": {
+"2026": 29895,
+"2025": 27068
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Lease liabilities C",
+"label_reader": "Lease liabilities",
+"vp": {
+"2026": 12203,
+"2025": 4064
+},
+"vr": {
+"2026": 12203,
+"2025": 4064
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Other financial liabilities D",
+"label_reader": "Other financial liabilities",
+"vp": {
+"2026": 432,
+"2025": 198
+},
+"vr": {
+"2026": 432,
+"2025": 198
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Borrowings B",
+"label_reader": "Borrowings",
+"vp": {
+"2026": 62935,
+"2025": 38045
+},
+"vr": {
+"2026": 62935,
+"2025": 38045
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Lease liabilities C",
+"label_reader": "Lease liabilities",
+"vp": {
+"2026": 2203,
+"2025": 857
+},
+"vr": {
+"2026": 2203,
+"2025": 857
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Trade payables E",
+"label_reader": "Trade payables",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Other financial liabilities D",
+"label_reader": "Other financial liabilities",
+"vp": {
+"2026": 40085,
+"2025": 39698
+},
+"vr": {
+"2026": 40085,
+"2025": 39698
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Other current liabilities B",
+"label_reader": "Other current liabilities",
+"vp": {
+"2026": 11921,
+"2025": 13190
+},
+"vr": {
+"2026": 11921,
+"2025": 13190
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_bs",
+"kind": "label",
+"label_parser": "Provisions B",
+"label_reader": "Provisions",
+"vp": {
+"2026": 8700,
+"2025": 7756
+},
+"vr": {
+"2026": 8700,
+"2025": 7756
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_cf",
+"kind": "label",
+"label_parser": "Repayment of long-term loans and borrowings (Refer note A & 2.11 B)",
+"label_reader": "Repayment of long-term loans and borrowings (Refer note 2.11 A & 2.11 B)",
+"vp": {
+"2026": -1
+},
+"vr": {
+"2026": -1
+},
+"on_page": [
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_cf",
+"kind": "label",
+"label_parser": "Payment of principal portion of lease liabilities (Refer note C)",
+"label_reader": "Payment of principal portion of lease liabilities (Refer note 2.11 C)",
+"vp": {
+"2026": -1263,
+"2025": -1294
+},
+"vr": {
+"2026": -1263,
+"2025": -1294
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_cf",
+"kind": "label",
+"label_parser": "Cash and cash equivalents at the beginning of the year (Refer note D)",
+"label_reader": "Cash and cash equivalents at the beginning of the year (Refer note 2.7 D)",
+"vp": {
+"2026": 14593,
+"2025": 7107
+},
+"vr": {
+"2026": 14593,
+"2025": 7107
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "DRREDDY_2026_cf",
+"kind": "label",
+"label_parser": "Cash and cash equivalents at the end of the year (1)(Refer note D)",
+"label_reader": "Cash and cash equivalents at the end of the year (1)(Refer note 2.7 D)",
+"vp": {
+"2026": 15368,
+"2025": 14593
+},
+"vr": {
+"2026": 15368,
+"2025": 14593
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "EICHERMOT_2026_bs",
+"kind": "label",
+"label_parser": "Investments in joint ventures (g) Financial assets",
+"label_reader": "Investments in joint ventures",
+"vp": {
+"2026": 3723.49,
+"2025": 3140.85
+},
+"vr": {
+"2026": 3723.49,
+"2025": 3140.85
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "EICHERMOT_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "EICHERMOT_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 1967.82,
+"2025": 1563.75
+},
+"vr": {
+"2026": 1967.82,
+"2025": 1563.75
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "EICHERMOT_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "EICHERMOT_2026_cf",
+"kind": "label",
+"label_parser": "Grant income on soft loan from State Industries Promotion Corporation of Tamil Nadu",
+"label_reader": "Grant income on soft loan from State Industries Promotion Corporation of Tamil Nadu Ltd. (SIPCOT)",
+"vp": {
+"2026": -7.16,
+"2025": -10.13
+},
+"vr": {
+"2026": -7.16,
+"2025": -10.13
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "EICHERMOT_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Ltd. (SIPCOT)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "EICHERMOT_2026_pl",
+"kind": "label",
+"label_parser": "Other operating income (B)",
+"label_reader": "Other operating income",
+"vp": {
+"2026": 429.99,
+"2025": 332.14
+},
+"vr": {
+"2026": 429.99,
+"2025": 332.14
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "EICHERMOT_2026_pl",
+"kind": "label",
+"label_parser": "Other comprehensive income/(expense) (including share of other",
+"label_reader": "Other comprehensive income/(expense) (including share of other comprehensive income/(expense) of joint venture)",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "EICHERMOT_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Items that will not be reclassified to profit or loss:-",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "EICHERMOT_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "comprehensive income/(expense) of joint venture)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "EICHERMOT_2026_pl",
+"kind": "label",
+"label_parser": "Items that will not be reclassified to profit or loss:- Re-measurement gains/(losses) on defined benefit plans",
+"label_reader": "Re-measurement gains/(losses) on defined benefit plans",
+"vp": {
+"2026": 5.93,
+"2025": -9.72
+},
+"vr": {
+"2026": 5.93,
+"2025": -9.72
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "EICHERMOT_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Items that will be reclassified to profit or loss:-",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "EICHERMOT_2026_pl",
+"kind": "label",
+"label_parser": "Items that will be reclassified to profit or loss:- Exchange differences in translating the financial statements of foreign operations",
+"label_reader": "Exchange differences in translating the financial statements of foreign operations",
+"vp": {
+"2026": 130.44,
+"2025": 22.66
+},
+"vr": {
+"2026": 130.44,
+"2025": 22.66
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "EICHERMOT_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Earnings per equity share of ₹ 1 each (March 31, 2025: ₹1) (in ₹)",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "label",
+"label_parser": "Profit Before Tax after Exceptional Items and before Share in Profit/(Loss) of Equity",
+"label_reader": "Profit Before Tax after Exceptional Items and before Share in Profit/(Loss) of Equity Accounted Investees",
+"vp": {
+"2026": 14283.31,
+"2025": 10528.27
+},
+"vr": {
+"2026": 14283.31,
+"2025": 10528.27
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Accounted Investees",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "label",
+"label_parser": "(Purchase)/Proceeds from Sale of Investments and Shareholders' Investments of Life",
+"label_reader": "(Purchase)/Proceeds from Sale of Investments and Shareholders' Investments of Life Insurance Business (Current) {Net}",
+"vp": {
+"2026": -683.85,
+"2025": -274.34
+},
+"vr": {
+"2026": -683.85,
+"2025": -274.34
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Insurance Business (Current) {Net}",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "label",
+"label_parser": "\"Proceeds from Shares issued by Subsidiary Company (Including Securities Premium)",
+"label_reader": "”Proceeds from Shares issued by Subsidiary Company (Including Securities Premium) (Net of Share Issue Expenses)”",
+"vp": {
+"2026": -3.09
+},
+"vr": {
+"2026": -3.09
+},
+"on_page": [
+true
+]
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "(Net of Share Issue Expenses)\"",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "label",
+"label_parser": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement &",
+"label_reader": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement & Construction Materials P.S.C. (RAKWCT) (Refer Note 4.3.c)",
+"vp": {
+"2025": 1.89
+},
+"vr": {
+"2025": 1.89
+},
+"on_page": [
+true
+]
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Construction Materials P.S.C. (RAKWCT) (Refer Note 4.3.c)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "(Refer Note 4.3.a)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "GRASIM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "(Refer Note 4.3.b)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "GRASIM_2026_pl",
+"kind": "label",
+"label_parser": "Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in",
+"label_reader": "Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in-Trade",
+"vp": {
+"2026": 103.15,
+"2025": -814.24
+},
+"vr": {
+"2026": 103.15,
+"2025": -814.24
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "GRASIM_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "Trade",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "GRASIM_2026_pl",
+"kind": "label",
+"label_parser": "A (i) Items that will not be reclassified to Profit or Loss",
+"label_reader": "Items that will not be reclassified to Profit or Loss",
+"vp": {
+"2026": 1467.01,
+"2025": 280.51
+},
+"vr": {
+"2026": 1467.01,
+"2025": 280.51
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "GRASIM_2026_pl",
+"kind": "label",
+"label_parser": "B (i) Items that will be reclassified to Profit or Loss",
+"label_reader": "Items that will be reclassified to Profit or Loss",
+"vp": {
+"2026": 191.59,
+"2025": 125.26
+},
+"vr": {
+"2026": 191.59,
+"2025": 125.26
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_bs",
+"kind": "label",
+"label_parser": "Intangible assets under development (g) Financial assets",
+"label_reader": "Intangible assets under development",
+"vp": {
+"2026": 82
+},
+"vr": {
+"2026": 82
+},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HCLTECH_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 239,
+"2025": 133
+},
+"vr": {
+"2026": 239,
+"2025": 133
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Net change in",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "label",
+"label_parser": "Net change in Trade receivables",
+"label_reader": "Trade receivables",
+"vp": {
+"2026": -2248,
+"2025": -119
+},
+"vr": {
+"2026": -2248,
+"2025": -119
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "label",
+"label_parser": "B Cash flows from investing activities",
+"label_reader": "Cash flows from investing activities",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "label",
+"label_parser": "C Cash flows from financing activities",
+"label_reader": "Cash flows from financing activities",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cashflows (net)",
+"label_reader": null,
+"vp": {
+"2026": -81
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non cash changes",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Translation exchange differences",
+"label_reader": null,
+"vp": {
+"2026": 56
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Recognized in profit and loss",
+"label_reader": null,
+"vp": {
+"2026": 4
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Balance as at 31 March 2025",
+"label_reader": null,
+"vp": {
+"2026": 2291
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Balance as at 1 April 2025",
+"label_reader": null,
+"vp": {
+"2026": 2291
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cashflows (net)",
+"label_reader": null,
+"vp": {
+"2026": -2308
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non cash changes",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Business combination",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Translation exchange differences",
+"label_reader": null,
+"vp": {
+"2026": 102
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Recognized in profit and loss",
+"label_reader": null,
+"vp": {
+"2026": 4
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Balance as at 31 March 2026",
+"label_reader": null,
+"vp": {
+"2026": 89
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HCLTECH_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents includes earmarked balances with banks of ₹ 53 crores (31 March ₹ 19 crores) which is of restricted use.",
+"label_reader": null,
+"vp": {
+"2026": 2025
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HDFCBANK_2026_pl",
+"kind": "label",
+"label_parser": "EARNINGS PER EQUITY SHARE (Face value L 1/ - per share) C C",
+"label_reader": "EARNINGS PER EQUITY SHARE (Face value ₹ 1/ - per share)",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_bs",
+"kind": "label",
+"label_parser": "Equity accounted investments in associates (g) Financial assets",
+"label_reader": "Equity accounted investments in associates",
+"vp": {
+"2026": 3901.2,
+"2025": 2980.94
+},
+"vr": {
+"2026": 3901.2,
+"2025": 2980.94
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HEROMOTOCO_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 2650.09,
+"2025": 2013.34
+},
+"vr": {
+"2026": 2650.09,
+"2025": 2013.34
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HEROMOTOCO_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Interest expense",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non-Current Borrowings",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Movement of Borrowings on financial Total",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowings (including current",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "liabilities",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "maturities)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "As on March 31, 2025",
+"label_reader": null,
+"vp": {
+"2026": 456.76,
+"2025": 460.55
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash Flows (net)",
+"label_reader": null,
+"vp": {
+"2026": 41.79,
+"2025": -5.87
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non Cash",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Interest expenses",
+"label_reader": null,
+"vp": {
+"2025": 48.99
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HEROMOTOCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "As on March 31, 2026",
+"label_reader": null,
+"vp": {
+"2026": 498.55,
+"2025": 503.67
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDALCO_2026_bs",
+"kind": "label",
+"label_parser": "Deferred tax liabilities (Net) (b)",
+"label_reader": "Deferred tax liabilities (Net)",
+"vp": {
+"2026": 7679,
+"2025": 10471
+},
+"vr": {
+"2026": 7679,
+"2025": 10471
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDALCO_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Trade payables",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDALCO_2026_bs",
+"kind": "label",
+"label_parser": "Trade payables and (I) Outstanding dues of micro and small enterprises",
+"label_reader": "Outstanding dues of micro and small enterprises",
+"vp": {
+"2026": 425,
+"2025": 286
+},
+"vr": {
+"2026": 425,
+"2025": 286
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDALCO_2026_bs",
+"kind": "label",
+"label_parser": "Total equity and liabilities and Notes forming part of consolidated financial statements",
+"label_reader": "Total equity and liabilities",
+"vp": {
+"2026": 347795,
+"2025": 265991
+},
+"vr": {
+"2026": 347795,
+"2025": 265991
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDALCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "*net of bank overdraft balances ₹ 13 Crore (31/03/2024: ₹ 6 Crore)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDALCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Reconciliation of closing cash and cash equivalents with Balance",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDALCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Sheet",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDALCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents as per balance sheet",
+"label_reader": null,
+"vp": {
+"2026": 14350,
+"2025": 9808
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDALCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Less: Fair Value adjustments in Liquid Investments",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDALCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Less: Temporary overdraft balance in current accounts",
+"label_reader": null,
+"vp": {
+"2026": -1,
+"2025": -13
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDALCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents as per statement of cash flows and Supplemental information",
+"label_reader": null,
+"vp": {
+"2026": 14349,
+"2025": 9795
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDALCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non cash transaction from investing and financing activities",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDALCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Acquisition of right of use assets",
+"label_reader": null,
+"vp": {
+"2026": 902,
+"2025": 598
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDALCO_2026_pl",
+"kind": "label",
+"label_parser": "Other comprehensive income/ (loss) attributable to: and Owners of the Company",
+"label_reader": "Other comprehensive income/ (loss) attributable to:",
+"vp": {
+"2026": 728,
+"2025": 2366
+},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDALCO_2026_pl",
+"kind": "value",
+"label_parser": "Other comprehensive income/ (loss) attributable to: and Owners of the Company",
+"label_reader": "Other comprehensive income/ (loss) attributable to:",
+"vp": {
+"2026": 728,
+"2025": 2366
+},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDALCO_2026_pl",
+"kind": "value",
+"label_parser": "Other comprehensive income/ (loss) attributable to: and Owners of the Company",
+"label_reader": "Other comprehensive income/ (loss) attributable to:",
+"vp": {
+"2026": 728,
+"2025": 2366
+},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDALCO_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Owners of the Company",
+"vp": {},
+"vr": {
+"2026": 728,
+"2025": 2366
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDALCO_2026_pl",
+"kind": "label",
+"label_parser": "Diluted (₹) and Notes forming part of consolidated financial statements",
+"label_reader": "Diluted (₹)",
+"vp": {
+"2026": 60.2,
+"2025": 71.91
+},
+"vr": {
+"2026": 60.2,
+"2025": 71.91
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Components of cash and cash equivalents",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents as per consolidated balance sheet (refer note 13)",
+"label_reader": null,
+"vp": {
+"2026": 2583,
+"2025": 6071
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Less: Bank overdraft (refer note 23)",
+"label_reader": null,
+"vp": {
+"2025": -1
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents for consolidated statement of cash flows",
+"label_reader": null,
+"vp": {
+"2026": 2583,
+"2025": 6070
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Movement in current borrowings and lease liabilities",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Additions",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Transferred pursuant Closing",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Reconciliation Opening through",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Taken/ Non- cash to scheme of demerger balance",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "between opening balance business",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "(Payments) movement of Ice Cream Business 31st March,",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "and closing balance 1st April, 2025 combination (refer note 44) (refer note 43)",
+"label_reader": null,
+"vp": {
+"2025": 2026
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Lease Liabilities",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "1,647 (636) 732 (refer Note 20)",
+"label_reader": null,
+"vp": {
+"2025": 1478
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Current borrowings - (46)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Opening",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Reconciliation between opening and closing Taken/ Non- cash Closing balance",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "balance balance (Payments) movement 31st March, 1st April, 2024",
+"label_reader": null,
+"vp": {
+"2025": 2025
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "HINDUNILVR_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Lease Liabilities (Refer note 20)",
+"label_reader": null,
+"vp": {
+"2026": 801,
+"2025": 1647
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDUNILVR_2026_pl",
+"kind": "label",
+"label_parser": "PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX FROM CONTINUING",
+"label_reader": "PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX FROM CONTINUING OPERATIONS",
+"vp": {
+"2026": 14047,
+"2025": 14081
+},
+"vr": {
+"2026": 14047,
+"2025": 14081
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "HINDUNILVR_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "OPERATIONS",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ICICIBANK_2026_cf",
+"kind": "label",
+"label_parser": "Increase/(decrease) in other liabilities and provisions1",
+"label_reader": "Increase/(decrease) in other liabilities and provisions",
+"vp": {
+"2026": 492533925,
+"2025": 229962676
+},
+"vr": {
+"2026": 492533925,
+"2025": 229962676
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_cf",
+"kind": "label",
+"label_parser": "Net cash flow from/(used in) investing activities (B)",
+"label_reader": "Net cash flow from/(used in) investing activities",
+"vp": {
+"2026": -130135879,
+"2025": -772883605
+},
+"vr": {
+"2026": -130135879,
+"2025": -772883605
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_cf",
+"kind": "label",
+"label_parser": "Net cash flow from/(used in) financing activities (C)",
+"label_reader": "Net cash flow from/(used in) financing activities",
+"vp": {
+"2026": -46605466,
+"2025": 55892342
+},
+"vr": {
+"2026": -46605466,
+"2025": 55892342
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Effect of exchange fluctuation on translation reserve",
+"vp": {},
+"vr": {
+"2026": 13059752,
+"2025": 1484292
+},
+"on_page": [
+false,
+false
+]
+},
+{
+"stmt": "ICICIBANK_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Net increase/(decrease) in cash and cash equivalents (A)+(B)+(C)+(D)",
+"vp": {},
+"vr": {
+"2026": 509572596,
+"2025": 512545611
+},
+"on_page": [
+false,
+false
+]
+},
+{
+"stmt": "ICICIBANK_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Cash and cash equivalents at beginning of the year",
+"vp": {},
+"vr": {
+"2026": 2140234637,
+"2025": 1627689026
+},
+"on_page": [
+false,
+false
+]
+},
+{
+"stmt": "ICICIBANK_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Cash and cash equivalents at end of the year",
+"vp": {},
+"vr": {
+"2026": 2649807233,
+"2025": 2140234637
+},
+"on_page": [
+false,
+false
+]
+},
+{
+"stmt": "ICICIBANK_2026_pl",
+"kind": "label",
+"label_parser": "Consolidated profit/(loss) for the year attributable to the",
+"label_reader": "Consolidated profit/(loss) for the year attributable to the Group",
+"vp": {},
+"vr": {
+"2026": 542077028,
+"2025": 510291955
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_pl",
+"kind": "value",
+"label_parser": "Consolidated profit/(loss) for the year attributable to the",
+"label_reader": "Consolidated profit/(loss) for the year attributable to the Group",
+"vp": {},
+"vr": {
+"2026": 542077028,
+"2025": 510291955
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_pl",
+"kind": "value",
+"label_parser": "Consolidated profit/(loss) for the year attributable to the",
+"label_reader": "Consolidated profit/(loss) for the year attributable to the Group",
+"vp": {},
+"vr": {
+"2026": 542077028,
+"2025": 510291955
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "Group",
+"label_reader": null,
+"vp": {
+"2026": 542077028,
+"2025": 510291955
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_pl",
+"kind": "label",
+"label_parser": "TOTAL molcfqLEilppF",
+"label_reader": "TOTAL PROFIT/(LOSS)",
+"vp": {
+"2026": 1725927698,
+"2025": 1408549755
+},
+"vr": {
+"2026": 1725927698,
+"2025": 1408549755
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Earnings per share (refer note 18.1)",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ICICIBANK_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Basic (₹)",
+"vp": {},
+"vr": {
+"2026": 75.89,
+"2025": 72.41
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Diluted (₹)",
+"vp": {},
+"vr": {
+"2026": 74.77,
+"2025": 71.14
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ICICIBANK_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Face value per share (₹)",
+"vp": {},
+"vr": {
+"2026": 2,
+"2025": 2
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ITC_2026_bs",
+"kind": "label",
+"label_parser": "Biological assets other than bearer plants (c) Financial Assets",
+"label_reader": "Biological assets other than bearer plants",
+"vp": {
+"2026": 249.69,
+"2025": 198.58
+},
+"vr": {
+"2026": 249.69,
+"2025": 198.58
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ITC_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial Assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ITC_2026_bs",
+"kind": "label",
+"label_parser": "total outstanding dues of micro and small enterprises; and (B) total outstanding dues of creditors",
+"label_reader": "total outstanding dues of micro and small enterprises; and",
+"vp": {
+"2026": 350.13,
+"2025": 180.64
+},
+"vr": {
+"2026": 350.13,
+"2025": 180.64
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ITC_2026_bs",
+"kind": "label",
+"label_parser": "other than micro and small enterprises",
+"label_reader": "total outstanding dues of creditors other than micro and small enterprises",
+"vp": {
+"2026": 5289.42,
+"2025": 4626.66
+},
+"vr": {
+"2026": 5289.42,
+"2025": 4626.66
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ITC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Net gain arising on financial instruments measured at amortised",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ITC_2026_cf",
+"kind": "label",
+"label_parser": "cost / fair value through profit or loss / fair value through other comprehensive income",
+"label_reader": "Net gain arising on financial instruments measured at amortised cost/fair value through profit or loss/fair value through other comprehensive income",
+"vp": {
+"2026": -860.01,
+"2025": -896.84
+},
+"vr": {
+"2026": -860.01,
+"2025": -896.84
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ITC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Redemption / maturity of bank deposits",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ITC_2026_cf",
+"kind": "label",
+"label_parser": "(original maturity more than 3 months)",
+"label_reader": "Redemption/maturity of bank deposits (original maturity more than 3 months)",
+"vp": {
+"2026": 3762.04,
+"2025": 6931.16
+},
+"vr": {
+"2026": 3762.04,
+"2025": 6931.16
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ITC_2026_pl",
+"kind": "label",
+"label_parser": "Revenue From Operations 23A,23B",
+"label_reader": "Revenue From Operations",
+"vp": {
+"2026": 89913.33,
+"2025": 81612.78
+},
+"vr": {
+"2026": 89913.33,
+"2025": 81612.78
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ITC_2026_pl",
+"kind": "label",
+"label_parser": "A (i) Items that will not be reclassified to profit or loss",
+"label_reader": "Items that will not be reclassified to profit or loss:",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ITC_2026_pl",
+"kind": "label",
+"label_parser": "B (i) Items that will be reclassified to profit or loss",
+"label_reader": "Items that will be reclassified to profit or loss:",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ITC_2026_pl",
+"kind": "label",
+"label_parser": "XVIII Earnings per equity share (Face Value ₹ 1.00 each)",
+"label_reader": "Earnings per equity share (Face Value ₹ 1.00 each):",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "JSWSTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 32765,
+"2025": 34956
+},
+"vr": {
+"2026": 32765,
+"2025": 34956
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "JSWSTEEL_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "JSWSTEEL_2026_pl",
+"kind": "label",
+"label_parser": "A i) Items that will not be reclassified to profit or loss",
+"label_reader": "Items that will not be reclassified to profit or loss",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "JSWSTEEL_2026_pl",
+"kind": "label",
+"label_parser": "B i) Items that will be reclassified to profit or loss",
+"label_reader": "Items that will be reclassified to profit or loss",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "JSWSTEEL_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Earnings per equity share of Re 1 each attributable to the owners of the Company",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "KOTAKBANK_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Adjustments for :-",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "KOTAKBANK_2026_cf",
+"kind": "label",
+"label_parser": "Adjustments for :- Employee Stock Options/units Expense",
+"label_reader": "Employee Stock Options/units Expense",
+"vp": {
+"2026": 668166,
+"2025": 366850
+},
+"vr": {
+"2026": 668166,
+"2025": 366850
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KOTAKBANK_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Adjustments for :-",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "KOTAKBANK_2026_cf",
+"kind": "label",
+"label_parser": "Adjustments for :- Decrease/(Increase) in Investments-Available for Sale, Held for Trading and Stock-in-Trade",
+"label_reader": "Decrease/(Increase) in Investments-Available for Sale, Held for Trading and Stock-in-Trade",
+"vp": {
+"2026": 152204159,
+"2025": -6855669
+},
+"vr": {
+"2026": 152204159,
+"2025": -6855669
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KOTAKBANK_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Note:",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "KOTAKBANK_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Money at call and short notice in India with Banks (As per Schedule 7 I (ii) (a))",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "KOTAKBANK_2026_pl",
+"kind": "label",
+"label_parser": "Add : Balance in Profit and Loss Account brought forward from previous year",
+"label_reader": "Add : Balance in Profit and Loss Account brought forward from previous year (Refer Schedule 2 (XVI))",
+"vp": {
+"2026": 900374562,
+"2025": 750043044
+},
+"vr": {
+"2026": 900374562,
+"2025": 750043044
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KOTAKBANK_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "(Refer Schedule 2 (XVI))",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "KPRMILL_2026_bs",
+"kind": "label",
+"label_parser": "Intangible assets (f) Financial assets",
+"label_reader": "Intangible assets",
+"vp": {
+"2026": 97,
+"2025": 91
+},
+"vr": {
+"2026": 97,
+"2025": 91
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KPRMILL_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "KPRMILL_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 184399,
+"2025": 186852
+},
+"vr": {
+"2026": 184399,
+"2025": 186852
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KPRMILL_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "KPRMILL_2026_bs",
+"kind": "label",
+"label_parser": "(B)Total outstanding dues of creditors other than micro enterprises and small enterprises (B)",
+"label_reader": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+"vp": {
+"2026": 21650,
+"2025": 20548
+},
+"vr": {
+"2026": 21650,
+"2025": 20548
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KPRMILL_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Net cash flow from / (used in) investing activities",
+"vp": {},
+"vr": {
+"2026": -106832,
+"2025": -45003
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KPRMILL_2026_cf",
+"kind": "label",
+"label_parser": "Nnet cash flow from / (used in) financing activities (C)",
+"label_reader": "Nnet cash flow from / (used in) financing activities",
+"vp": {
+"2026": -9020,
+"2025": -91188
+},
+"vr": {
+"2026": -9020,
+"2025": -91188
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KPRMILL_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Closing cash and cash equivalents comprises",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "KPRMILL_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash on hand (b) Balance with Banks",
+"label_reader": null,
+"vp": {
+"2026": 64,
+"2025": 44
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KPRMILL_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "In Current accounts",
+"label_reader": null,
+"vp": {
+"2026": 4271,
+"2025": 7613
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KPRMILL_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "In EEFC accounts",
+"label_reader": null,
+"vp": {
+"2026": 2051,
+"2025": 3797
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "KPRMILL_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Subtotal",
+"label_reader": null,
+"vp": {
+"2026": 6386,
+"2025": 11454
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "LT_2026_bs",
+"kind": "label",
+"label_parser": "Right-of-use assets 61(b)(ii)",
+"label_reader": "Right-of-use assets",
+"vp": {
+"2026": 3773.8,
+"2025": 2869.02
+},
+"vr": {
+"2026": 3773.8,
+"2025": 2869.02
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "LT_2026_pl",
+"kind": "label",
+"label_parser": "B Items that will be reclassified to profit or loss",
+"label_reader": "Items that will be reclassified to profit or loss:",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Disclosure of non-cash transactions as per Ind AS",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Changes in Liabilities arising from As at Cash flow Non- cash As at",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Financing activities is as under : 31st March changes changes 31 March",
+"label_reader": null,
+"vp": {
+"2026": 2025,
+"2025": 2026
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Deferred VAT liabilities",
+"label_reader": null,
+"vp": {
+"2026": 276.4,
+"2025": 244.4
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Lease liabilities",
+"label_reader": null,
+"vp": {
+"2026": 4135.1,
+"2025": 4197.2
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Short term borrowings",
+"label_reader": null,
+"vp": {
+"2026": 7257
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Total",
+"label_reader": null,
+"vp": {
+"2026": 11668.5,
+"2025": 4441.6
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Changes in Liabilities arising from As at Cash flow Non- cash As at",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Financing activities is as under : 31st March changes changes 31 March",
+"label_reader": null,
+"vp": {
+"2026": 2024,
+"2025": 2025
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Deferred VAT liabilities",
+"label_reader": null,
+"vp": {
+"2026": 311.4,
+"2025": 276.4
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Lease liabilities",
+"label_reader": null,
+"vp": {
+"2026": 3133.9,
+"2025": 4135.1
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Short term borrowings",
+"label_reader": null,
+"vp": {
+"2026": 7257,
+"2025": 7257
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Total",
+"label_reader": null,
+"vp": {
+"2026": 3445.3,
+"2025": 11668.5
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "EXPENSES",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "label",
+"label_parser": "B EXPENSES i Cost of materials consumed",
+"label_reader": "Cost of materials consumed",
+"vp": {
+"2026": 98140.4,
+"2025": 83901.5
+},
+"vr": {
+"2026": 98140.4,
+"2025": 83901.5
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "label",
+"label_parser": "C PROFIT BEFORE SHARE OF (PROFIT) / LOSS OF AN ASSOCIATE, EXCEPTIONAL ITEMS AND TAX (A-B)",
+"label_reader": "PROFIT BEFORE SHARE OF (PROFIT) / LOSS OF AN ASSOCIATE, EXCEPTIONAL ITEMS AND TAX (A-B)",
+"vp": {
+"2026": 44888.7,
+"2025": 41566.5
+},
+"vr": {
+"2026": 44888.7,
+"2025": 41566.5
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "label",
+"label_parser": "D Share of (profit) / loss of associate accounted for using the equity method (net of tax)",
+"label_reader": "Share of (profit) / loss of associate accounted for using the equity method (net of tax)",
+"vp": {
+"2026": 455.2,
+"2025": 239.5
+},
+"vr": {
+"2026": 455.2,
+"2025": 239.5
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "label",
+"label_parser": "F Exceptional items [charge / (credit)]",
+"label_reader": "Exceptional items [charge / (credit)]",
+"vp": {
+"2026": -1207.8,
+"2025": -1834.2
+},
+"vr": {
+"2026": -1207.8,
+"2025": -1834.2
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "label",
+"label_parser": "H Tax expense",
+"label_reader": "Tax expense",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "",
+"vp": {},
+"vr": {
+"2026": -358.9,
+"2025": -806
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "value",
+"label_parser": "Items that will be reclassified to profit or loss",
+"label_reader": "Items that will be reclassified to profit or loss:",
+"vp": {
+"2026": -358.9,
+"2025": -806
+},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "value",
+"label_parser": "Items that will be reclassified to profit or loss",
+"label_reader": "Items that will be reclassified to profit or loss:",
+"vp": {
+"2026": -358.9,
+"2025": -806
+},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "label",
+"label_parser": "K TOTAL COMPREHENSIVE INCOME",
+"label_reader": "TOTAL COMPREHENSIVE INCOME (I+J)",
+"vp": {
+"2026": 34607.5,
+"2025": 31279.2
+},
+"vr": {
+"2026": 34607.5,
+"2025": 31279.2
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NESTLEIND_2026_pl",
+"kind": "label",
+"label_parser": "Basic and diluted earnings per share (Face value ₹ 1 - refer Note 16) H",
+"label_reader": "Basic and diluted earnings per share (Face value ₹ 1 - refer Note 16)",
+"vp": {
+"2026": 18.15,
+"2025": 16.63
+},
+"vr": {
+"2026": 18.15,
+"2025": 16.63
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "three months.",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Reconciliation of cash and cash equivalents",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash and cash equivalents as per Note -16",
+"label_reader": null,
+"vp": {
+"2026": 3421.63,
+"2025": 1426.56
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash flows during the year",
+"label_reader": null,
+"vp": {
+"2026": -10987.63,
+"2025": -209.72
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non-cash changes due to",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Acquisitions under Right of use asset",
+"label_reader": null,
+"vp": {
+"2025": 1435.07
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Equity shares issued",
+"label_reader": null,
+"vp": {
+"2026": -216.23
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Interest on borrowings",
+"label_reader": null,
+"vp": {
+"2026": 17933.56
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Variation in exchange rates",
+"label_reader": null,
+"vp": {
+"2026": 4787.16
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Transaction costs on borrowings",
+"label_reader": null,
+"vp": {
+"2026": -55.15
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "NTPC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Closing balance as at 31 March 2026",
+"label_reader": null,
+"vp": {
+"2026": 236696.64,
+"2025": 3746.38
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "NTPC_2026_pl",
+"kind": "label",
+"label_parser": "Earnings per equity share attributable to owners of the parent company",
+"label_reader": "Earnings per equity share attributable to owners of the parent company (Par value ₹ 10/- each)",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "NTPC_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "(Par value ₹ 10/- each)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_bs",
+"kind": "label",
+"label_parser": "Right of Use Assets (b) Capital work-in-progress",
+"label_reader": "Right of Use Assets",
+"vp": {
+"2026": 302446.49,
+"2025": 341814.72
+},
+"vr": {
+"2026": 302446.49,
+"2025": 341814.72
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Capital work-in-progress",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_bs",
+"kind": "label",
+"label_parser": "Other intangible assets (f) Intangible assets under development",
+"label_reader": "Other intangible assets",
+"vp": {
+"2026": 15384.94,
+"2025": 14209.55
+},
+"vr": {
+"2026": 15384.94,
+"2025": 14209.55
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Intangible assets under development",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_bs",
+"kind": "label",
+"label_parser": "Investments in Joint Ventures and Associates (h) Financial assets",
+"label_reader": "Investments in Joint Ventures and Associates",
+"vp": {
+"2026": 637532.11,
+"2025": 586474.59
+},
+"vr": {
+"2026": 637532.11,
+"2025": 586474.59
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 649182.66,
+"2025": 589563.3
+},
+"vr": {
+"2026": 649182.66,
+"2025": 589563.3
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "label",
+"label_parser": "Receivables to",
+"label_reader": "Receivables",
+"vp": {
+"2026": -4621.44,
+"2025": -9213.28
+},
+"vr": {
+"2026": -4621.44,
+"2025": -9213.28
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowing - Non Current*",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Loan from Oil Industry Development Board (OIDB)",
+"label_reader": null,
+"vp": {
+"2026": 1611.88,
+"2025": 1888.12
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non Convertible Debentures",
+"label_reader": null,
+"vp": {
+"2026": -22831.5,
+"2025": 249600.97
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Deferred payment liabilities - VAT Loan",
+"label_reader": null,
+"vp": {
+"2026": -1177.96,
+"2025": 4340.35
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Working capital loan from banks",
+"label_reader": null,
+"vp": {
+"2026": 4757.53,
+"2025": 42404.43
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Foreign Currency Bonds",
+"label_reader": null,
+"vp": {
+"2026": 11951.24,
+"2025": 119472.81
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Foreign Currency Term Loan (FCTL)",
+"label_reader": null,
+"vp": {
+"2026": -56312.18,
+"2025": 473374.85
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Rupee Term Loan",
+"label_reader": null,
+"vp": {
+"2026": -25399.56,
+"2025": 263440.75
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Interest Free Loan from Government of Karnataka",
+"label_reader": null,
+"vp": {
+"2026": 82.41,
+"2025": 1307.4
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Compulsorily Convertible Debentures",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Other financial liabilities (Non current) - Net",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Derivative Contracts",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Total (I)",
+"label_reader": null,
+"vp": {
+"2026": -104026.91,
+"2025": 1155829.68
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowing - Current",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Working capital loan from banks",
+"label_reader": null,
+"vp": {
+"2026": -9143.68,
+"2025": 59998.56
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Commercial Papers",
+"label_reader": null,
+"vp": {
+"2026": -8000,
+"2025": 12000
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Loan repayable on demand",
+"label_reader": null,
+"vp": {
+"2026": -4161.64,
+"2025": 92023.25
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Triparty Repo Dealing System Loan",
+"label_reader": null,
+"vp": {
+"2026": 21026.33,
+"2025": 4049.31
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Other Loans",
+"label_reader": null,
+"vp": {
+"2026": -8.8,
+"2025": 322.28
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Clearcorp Repo Order Matching System",
+"label_reader": null,
+"vp": {
+"2026": -22969.75,
+"2025": 27604.53
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Foreign Currency Term Loan (FCTL)",
+"label_reader": null,
+"vp": {
+"2026": 32275.95,
+"2025": 12852
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Rupee Term Loans",
+"label_reader": null,
+"vp": {
+"2026": -64663.03,
+"2025": 102360.24
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Total (II)",
+"label_reader": null,
+"vp": {
+"2026": -55644.62,
+"2025": 311210.17
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Lease Liabilities the",
+"label_reader": null,
+"vp": {
+"2026": -134131.51,
+"2025": 342613.98
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Other Financial Liabilities - Interest Accrued to * includes current maturities of long term debt",
+"label_reader": null,
+"vp": {
+"2026": -85447.85,
+"2025": 12935.96
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_pl",
+"kind": "label",
+"label_parser": "Deferred tax (c) Share of other comprehensive income in associates and joint ventures, to",
+"label_reader": "Deferred tax",
+"vp": {
+"2026": -640,
+"2025": 1827.62
+},
+"vr": {
+"2026": -640,
+"2025": 1827.62
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ONGC_2026_pl",
+"kind": "label",
+"label_parser": "the extent not to be reclassified to profit or loss",
+"label_reader": "Share of other comprehensive income in associates and joint ventures, to the extent not to be reclassified to profit or loss",
+"vp": {
+"2026": 79.01,
+"2025": 4.26
+},
+"vr": {
+"2026": 79.01,
+"2025": 4.26
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "PIDILITIND_2026_bs",
+"kind": "label",
+"label_parser": "Investments accounted for using the equity method (g) Financial Assets",
+"label_reader": "Investments accounted for using the equity method",
+"vp": {
+"2026": 166.22,
+"2025": 100.07
+},
+"vr": {
+"2026": 166.22,
+"2025": 100.07
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "PIDILITIND_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial Assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "PIDILITIND_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial Assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 1737.6,
+"2025": 1685.09
+},
+"vr": {
+"2026": 1737.6,
+"2025": 1685.09
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "PIDILITIND_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial Assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "PIDILITIND_2026_cf",
+"kind": "label",
+"label_parser": "B Cash Flows from Investing Activities",
+"label_reader": "Cash Flows from Investing Activities",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "PIDILITIND_2026_cf",
+"kind": "label",
+"label_parser": "Proceeds from disposal of Property, Plant and Equipment &",
+"label_reader": "Proceeds from disposal of Property, Plant and Equipment & Other Intangible Assets",
+"vp": {
+"2026": 3.59,
+"2025": 4.27
+},
+"vr": {
+"2026": 3.59,
+"2025": 4.27
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "PIDILITIND_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Other Intangible Assets",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "PIDILITIND_2026_cf",
+"kind": "label",
+"label_parser": "C Cash Flows from Financing Activities",
+"label_reader": "Cash Flows from Financing Activities",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "label",
+"label_parser": "Add: Tax on Net movement in Regulatory Deferral Account",
+"label_reader": "Add: Tax on Net movement in Regulatory Deferral Account Balances",
+"vp": {
+"2026": -587.38,
+"2025": 58.48
+},
+"vr": {
+"2026": -587.38,
+"2025": 58.48
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Balances",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "label",
+"label_parser": "Gain on sale/Change in Fair Value of Current Investment",
+"label_reader": "Gain on sale/Change in Fair Value of Current Investment Measured at FVPL",
+"vp": {
+"2026": -2.77,
+"2025": -17.97
+},
+"vr": {
+"2026": -2.77,
+"2025": -17.97
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Measured at FVPL",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "label",
+"label_parser": "Proceeds on sale of Property, Plant & Equipment and Intangible",
+"label_reader": "Proceeds on sale of Property, Plant & Equipment and Intangible Assets etc.",
+"vp": {
+"2026": 31,
+"2025": 22.77
+},
+"vr": {
+"2026": 31,
+"2025": 22.77
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Assets etc.",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "label",
+"label_parser": "Finance Income Received - Service Concession Arrangements",
+"label_reader": "Finance Income Received - Service Concession Arrangements (SCA)",
+"vp": {
+"2026": 22.74,
+"2025": 1.47
+},
+"vr": {
+"2026": 22.74,
+"2025": 1.47
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "(SCA)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Net Cash Flows during the year (19.81)",
+"label_reader": null,
+"vp": {
+"2026": 3657.3,
+"2025": 1290.64
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non-cash changes due to",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Adjustments/Acquisitions under finance lease",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Interest on borrowings",
+"label_reader": null,
+"vp": {
+"2026": 9205.9
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Variation in exchange rates",
+"label_reader": null,
+"vp": {
+"2026": 3124.68
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Fair value adjustments",
+"label_reader": null,
+"vp": {
+"2026": 0.24
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "As at 31 March 2026",
+"label_reader": null,
+"vp": {
+"2026": 144282.82,
+"2025": 7000
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "label",
+"label_parser": "Share of net profit/(loss) of investments in Joint",
+"label_reader": "Share of net profit/(loss) of investments in Joint Ventures accounted for using Equity Method",
+"vp": {
+"2026": -132.34,
+"2025": -110.26
+},
+"vr": {
+"2026": -132.34,
+"2025": -110.26
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "Ventures accounted for using Equity Method",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "label",
+"label_parser": "Profit before Tax and Regulatory Deferral Account",
+"label_reader": "Profit before Tax and Regulatory Deferral Account Balances",
+"vp": {
+"2026": 17321.03,
+"2025": 19017.89
+},
+"vr": {
+"2026": 17321.03,
+"2025": 19017.89
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "Balances",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "label",
+"label_parser": "Profit for the period before Regulatory Deferral",
+"label_reader": "Profit for the period before Regulatory Deferral Account Balances",
+"vp": {
+"2026": 18702.34,
+"2025": 15245.13
+},
+"vr": {
+"2026": 18702.34,
+"2025": 15245.13
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "Account Balances",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "label",
+"label_parser": "Net movement in Regulatory Deferral Account",
+"label_reader": "Net movement in Regulatory Deferral Account Balances - Income/ (Expenses) (net of tax)",
+"vp": {
+"2026": -2774.39,
+"2025": 276.31
+},
+"vr": {
+"2026": -2774.39,
+"2025": 276.31
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "Balances - Income/ (Expenses) (net of tax)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "label",
+"label_parser": "Share of Other comprehensive income of Joint",
+"label_reader": "Share of Other comprehensive income of Joint Ventures accounted for using Equity Method",
+"vp": {
+"2026": -1.23,
+"2025": 3.06
+},
+"vr": {
+"2026": -1.23,
+"2025": 3.06
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "Ventures accounted for using Equity Method",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Earnings per equity share including movement in Regulatory Deferral Account Balances (Face value ₹ 10/- each):",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Basic & Diluted (₹)",
+"vp": {},
+"vr": {
+"2026": 17.13,
+"2025": 16.69
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Earnings per equity share excluding movement in Regulatory Deferral Account Balances (Face value ₹ 10/- each):",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "POWERGRID_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Basic & Diluted (₹)",
+"vp": {},
+"vr": {
+"2026": 20.11,
+"2025": 16.39
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "RELIANCE_2026_cf",
+"kind": "label",
+"label_parser": "Net Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax as per",
+"label_reader": "Net Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax as per Statement of Profit and Loss",
+"vp": {
+"2026": 123162,
+"2025": 106017
+},
+"vr": {
+"2026": 123162,
+"2025": 106017
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "RELIANCE_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Statement of Profit and Loss",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "RELIANCE_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowings - Non-current (including Current Maturities)",
+"label_reader": null,
+"vp": {
+"2026": 22504,
+"2025": 266222
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "RELIANCE_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowings - Current (Refer Note 20)",
+"label_reader": null,
+"vp": {
+"2026": 1568,
+"2025": 81308
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "RELIANCE_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Total",
+"label_reader": null,
+"vp": {
+"2026": 24072,
+"2025": 347530
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "RELIANCE_2026_pl",
+"kind": "label",
+"label_parser": "Basic (in I)",
+"label_reader": "Basic (in ₹)",
+"vp": {
+"2026": 59.69,
+"2025": 51.47
+},
+"vr": {
+"2026": 59.69,
+"2025": 51.47
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "RELIANCE_2026_pl",
+"kind": "label",
+"label_parser": "Diluted (in I)",
+"label_reader": "Diluted (in ₹)",
+"vp": {
+"2026": 59.69,
+"2025": 51.47
+},
+"vr": {
+"2026": 59.69,
+"2025": 51.47
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_bs",
+"kind": "label",
+"label_parser": "Property, plant and equipment 3A (I) & (II)",
+"label_reader": "Property, plant and equipment",
+"vp": {
+"2026": 111141.1,
+"2025": 100359.4
+},
+"vr": {
+"2026": 111141.1,
+"2025": 100359.4
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_bs",
+"kind": "label",
+"label_parser": "Intangible assets under development (f) Financial assets",
+"label_reader": "Intangible assets under development",
+"vp": {
+"2026": 16710.8,
+"2025": 54096.2
+},
+"vr": {
+"2026": 16710.8,
+"2025": 54096.2
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "SUNPHARMA_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 114929.3,
+"2025": 102433.3
+},
+"vr": {
+"2026": 114929.3,
+"2025": 102433.3
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Derivatives, net",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowings",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "[(liabilties)/ asset]",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Opening balance",
+"label_reader": null,
+"vp": {
+"2026": 18696.3
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Changes from financing cash flows",
+"label_reader": null,
+"vp": {
+"2026": 19118.8
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "The effect of changes in foreign exchange rates",
+"label_reader": null,
+"vp": {
+"2026": 3001
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Closing balance",
+"label_reader": null,
+"vp": {
+"2026": 40816.1
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Derivatives, net",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowings",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "[(liabilties)/ asset]",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Opening balance",
+"label_reader": null,
+"vp": {
+"2026": 28456.9
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Changes from financing cash flows",
+"label_reader": null,
+"vp": {
+"2026": -10303.4
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "The effect of changes in foreign exchange rates",
+"label_reader": null,
+"vp": {
+"2026": 542.8
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Closing balance",
+"label_reader": null,
+"vp": {
+"2026": 18696.3
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "SUNPHARMA_2026_pl",
+"kind": "label",
+"label_parser": "Depreciation and amortisation expense (A & B)",
+"label_reader": "Depreciation and amortisation expense",
+"vp": {
+"2026": 29378.5,
+"2025": 25753.9
+},
+"vr": {
+"2026": 29378.5,
+"2025": 25753.9
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Property, plant and equipment F164",
+"label_reader": "Property, plant and equipment",
+"vp": {
+"2026": 149878.21,
+"2025": 125215.17
+},
+"vr": {
+"2026": 149878.21,
+"2025": 125215.17
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Capital work-in-progress F164",
+"label_reader": "Capital work-in-progress",
+"vp": {
+"2026": 27510.29,
+"2025": 40601.88
+},
+"vr": {
+"2026": 27510.29,
+"2025": 40601.88
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Right-of-use assets F170",
+"label_reader": "Right-of-use assets",
+"vp": {
+"2026": 10072.66,
+"2025": 8087.95
+},
+"vr": {
+"2026": 10072.66,
+"2025": 8087.95
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Goodwill F173",
+"label_reader": "Goodwill",
+"vp": {
+"2026": 7533.8,
+"2025": 5958.53
+},
+"vr": {
+"2026": 7533.8,
+"2025": 5958.53
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other intangible assets F174",
+"label_reader": "Other intangible assets",
+"vp": {
+"2026": 12423.46,
+"2025": 11652.41
+},
+"vr": {
+"2026": 12423.46,
+"2025": 11652.41
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Intangible assets under development F174",
+"label_reader": "Intangible assets under development",
+"vp": {
+"2026": 986.42,
+"2025": 1020.47
+},
+"vr": {
+"2026": 986.42,
+"2025": 1020.47
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Equity accounted investments F177 (h) Financial assets",
+"label_reader": "Equity accounted investments",
+"vp": {
+"2026": 2943.47,
+"2025": 2970.86
+},
+"vr": {
+"2026": 2943.47,
+"2025": 2970.86
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Investments F179",
+"label_reader": "Investments",
+"vp": {
+"2026": 3141.84,
+"2025": 2780.6
+},
+"vr": {
+"2026": 3141.84,
+"2025": 2780.6
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Loans F181",
+"label_reader": "Loans",
+"vp": {
+"2026": 126.2,
+"2025": 114.66
+},
+"vr": {
+"2026": 126.2,
+"2025": 114.66
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other financial assets F183",
+"label_reader": "Other financial assets",
+"vp": {
+"2026": 828.59,
+"2025": 1662.34
+},
+"vr": {
+"2026": 828.59,
+"2025": 1662.34
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Retirement benefit assets F185",
+"label_reader": "Retirement benefit assets",
+"vp": {
+"2026": 86.38,
+"2025": 12.67
+},
+"vr": {
+"2026": 86.38,
+"2025": 12.67
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Deferred tax assets F186",
+"label_reader": "Deferred tax assets",
+"vp": {
+"2026": 4739.49,
+"2025": 3936.22
+},
+"vr": {
+"2026": 4739.49,
+"2025": 3936.22
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other assets F189",
+"label_reader": "Other assets",
+"vp": {
+"2026": 3907.28,
+"2025": 3164.93
+},
+"vr": {
+"2026": 3907.28,
+"2025": 3164.93
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Inventories F190 (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 47249.22,
+"2025": 44589.94
+},
+"vr": {
+"2026": 47249.22,
+"2025": 44589.94
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Investments F179",
+"label_reader": "Investments",
+"vp": {
+"2026": 1003.54,
+"2025": 442.65
+},
+"vr": {
+"2026": 1003.54,
+"2025": 442.65
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Trade receivables F191",
+"label_reader": "Trade receivables",
+"vp": {
+"2026": 4916.89,
+"2025": 5260.06
+},
+"vr": {
+"2026": 4916.89,
+"2025": 5260.06
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Cash and cash equivalents F192",
+"label_reader": "Cash and cash equivalents",
+"vp": {
+"2026": 8884.95,
+"2025": 9604.96
+},
+"vr": {
+"2026": 8884.95,
+"2025": 9604.96
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other balances with banks F193",
+"label_reader": "Other balances with banks",
+"vp": {
+"2026": 1172.58,
+"2025": 2042.02
+},
+"vr": {
+"2026": 1172.58,
+"2025": 2042.02
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Loans F181",
+"label_reader": "Loans",
+"vp": {
+"2026": 3.35,
+"2025": 4.98
+},
+"vr": {
+"2026": 3.35,
+"2025": 4.98
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other financial assets F183",
+"label_reader": "Other financial assets",
+"vp": {
+"2026": 2396.5,
+"2025": 1456.14
+},
+"vr": {
+"2026": 2396.5,
+"2025": 1456.14
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Retirement benefit assets F185",
+"label_reader": "Retirement benefit assets",
+"vp": {
+"2025": 2.33
+},
+"vr": {
+"2025": 2.33
+},
+"on_page": [
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other assets F189",
+"label_reader": "Other assets",
+"vp": {
+"2026": 5600.33,
+"2025": 4538.44
+},
+"vr": {
+"2026": 5600.33,
+"2025": 4538.44
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Assets held for sale F193",
+"label_reader": "Assets held for sale",
+"vp": {
+"2026": 255.06
+},
+"vr": {
+"2026": 255.06
+},
+"on_page": [
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Equity share capital F194",
+"label_reader": "Equity share capital",
+"vp": {
+"2026": 1247.44,
+"2025": 1247.44
+},
+"vr": {
+"2026": 1247.44,
+"2025": 1247.44
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other equity F197",
+"label_reader": "Other equity",
+"vp": {
+"2026": 100920.21,
+"2025": 89922.19
+},
+"vr": {
+"2026": 100920.21,
+"2025": 89922.19
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Non-controlling interests F202",
+"label_reader": "Non-controlling interests",
+"vp": {
+"2026": 1612.8,
+"2025": 183.15
+},
+"vr": {
+"2026": 1612.8,
+"2025": 183.15
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Borrowings F204",
+"label_reader": "Borrowings",
+"vp": {
+"2026": 63753.67,
+"2025": 68551.81
+},
+"vr": {
+"2026": 63753.67,
+"2025": 68551.81
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other financial liabilities F211",
+"label_reader": "Other financial liabilities",
+"vp": {
+"2026": 1262.62,
+"2025": 1294.17
+},
+"vr": {
+"2026": 1262.62,
+"2025": 1294.17
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Provisions F211",
+"label_reader": "Provisions",
+"vp": {
+"2026": 5989.63,
+"2025": 5806.5
+},
+"vr": {
+"2026": 5989.63,
+"2025": 5806.5
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Retirement benefit obligations F185",
+"label_reader": "Retirement benefit obligations",
+"vp": {
+"2026": 3289.63,
+"2025": 3272.01
+},
+"vr": {
+"2026": 3289.63,
+"2025": 3272.01
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Deferred income F213",
+"label_reader": "Deferred income",
+"vp": {
+"2026": 1598.57,
+"2025": 764.91
+},
+"vr": {
+"2026": 1598.57,
+"2025": 764.91
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Deferred tax liabilities F186",
+"label_reader": "Deferred tax liabilities",
+"vp": {
+"2026": 15332.24,
+"2025": 14430.15
+},
+"vr": {
+"2026": 15332.24,
+"2025": 14430.15
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other liabilities F214",
+"label_reader": "Other liabilities",
+"vp": {
+"2026": 3096.67,
+"2025": 2789.83
+},
+"vr": {
+"2026": 3096.67,
+"2025": 2789.83
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Borrowings F204",
+"label_reader": "Borrowings",
+"vp": {
+"2026": 21202.72,
+"2025": 20412
+},
+"vr": {
+"2026": 21202.72,
+"2025": 20412
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Trade payables F214",
+"label_reader": "Trade payables",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Total outstanding dues of micro and small enterprises (b) Total outstanding dues of creditors other than micro and small",
+"label_reader": "Total outstanding dues of micro and small enterprises",
+"vp": {
+"2026": 1898.89,
+"2025": 1510.71
+},
+"vr": {
+"2026": 1898.89,
+"2025": 1510.71
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "enterprises",
+"label_reader": "Total outstanding dues of creditors other than micro and small enterprises",
+"vp": {
+"2026": 32613.49,
+"2025": 27465.15
+},
+"vr": {
+"2026": 32613.49,
+"2025": 27465.15
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other financial liabilities F211",
+"label_reader": "Other financial liabilities",
+"vp": {
+"2026": 17509.83,
+"2025": 15820.51
+},
+"vr": {
+"2026": 17509.83,
+"2025": 15820.51
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Provisions F211",
+"label_reader": "Provisions",
+"vp": {
+"2026": 6048.2,
+"2025": 3888.29
+},
+"vr": {
+"2026": 6048.2,
+"2025": 3888.29
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Retirement benefit obligations F185",
+"label_reader": "Retirement benefit obligations",
+"vp": {
+"2026": 148.63,
+"2025": 154.62
+},
+"vr": {
+"2026": 148.63,
+"2025": 154.62
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Deferred income F213",
+"label_reader": "Deferred income",
+"vp": {
+"2026": 88.09,
+"2025": 30.71
+},
+"vr": {
+"2026": 88.09,
+"2025": 30.71
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_bs",
+"kind": "label",
+"label_parser": "Other liabilities F214",
+"label_reader": "Other liabilities",
+"vp": {
+"2026": 13186.3,
+"2025": 13301.81
+},
+"vr": {
+"2026": 13186.3,
+"2025": 13301.81
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_cf",
+"kind": "label",
+"label_parser": "Acquisition of subsidiaries/undertakings(i)",
+"label_reader": "Acquisition of subsidiaries/undertakings",
+"vp": {
+"2026": -2845.91,
+"2025": -6
+},
+"vr": {
+"2026": -2845.91,
+"2025": -6
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Revenue from operations F216",
+"label_reader": "Revenue from operations",
+"vp": {
+"2026": 232139.94,
+"2025": 218542.51
+},
+"vr": {
+"2026": 232139.94,
+"2025": 218542.51
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Other income F217",
+"label_reader": "Other income",
+"vp": {
+"2026": 1401.78,
+"2025": 1540.53
+},
+"vr": {
+"2026": 1401.78,
+"2025": 1540.53
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Changes in inventories of finished and semi-finished goods, (c) stock-in-trade and work-in-progress",
+"label_reader": "Changes in inventories of finished and semi-finished goods, stock-in-trade and work-in-progress",
+"vp": {
+"2026": 989.62,
+"2025": -96.65
+},
+"vr": {
+"2026": 989.62,
+"2025": -96.65
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Employee benefits expense F217",
+"label_reader": "Employee benefits expense",
+"vp": {
+"2026": 25998.98,
+"2025": 24888.99
+},
+"vr": {
+"2026": 25998.98,
+"2025": 24888.99
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Finance costs F218",
+"label_reader": "Finance costs",
+"vp": {
+"2026": 7167.06,
+"2025": 7340.95
+},
+"vr": {
+"2026": 7167.06,
+"2025": 7340.95
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Depreciation and amortisation expense F218",
+"label_reader": "Depreciation and amortisation expense",
+"vp": {
+"2026": 11954.51,
+"2025": 10421.33
+},
+"vr": {
+"2026": 11954.51,
+"2025": 10421.33
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Other expenses F218",
+"label_reader": "Other expenses",
+"vp": {
+"2026": 79139.21,
+"2025": 74699.99
+},
+"vr": {
+"2026": 79139.21,
+"2025": 74699.99
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Exceptional items: F219",
+"label_reader": "Exceptional items:",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "Profit/(loss) on sale of subsidiaries/non-current investments/business",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "undertakings/non-current assets",
+"label_reader": "Profit/(loss) on sale of subsidiaries/non-current investments/business undertakings/non-current assets",
+"vp": {
+"2026": 308.35,
+"2025": 54.84
+},
+"vr": {
+"2026": 308.35,
+"2025": 54.84
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Tax expense: F186",
+"label_reader": "Tax expense:",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TATASTEEL_2026_pl",
+"kind": "label",
+"label_parser": "Earnings per share 35 F220",
+"label_reader": "Earnings per share",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TCS_2026_bs",
+"kind": "value",
+"label_parser": "Lease liabilities",
+"label_reader": "Lease liabilities",
+"vp": {
+"2026": 9,
+"2025": 7838
+},
+"vr": {
+"2026": 9453,
+"2025": 7838
+},
+"on_page": [
+false,
+true
+]
+},
+{
+"stmt": "TCS_2026_cf",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Net change in",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TCS_2026_cf",
+"kind": "label",
+"label_parser": "Net change in Inventories",
+"label_reader": "Inventories",
+"vp": {
+"2026": -8,
+"2025": 7
+},
+"vr": {
+"2026": -8,
+"2025": 7
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TCS_2026_cf",
+"kind": "label",
+"label_parser": "Acquisition of subsidiaries (net of cash of H130 crore) (Refer note 7)",
+"label_reader": "Acquisition of subsidiaries (net of cash of ₹130 crore) (Refer note 7)",
+"vp": {
+"2026": -6750
+},
+"vr": {
+"2026": -6750
+},
+"on_page": [
+true
+]
+},
+{
+"stmt": "TCS_2026_cf",
+"kind": "label",
+"label_parser": "Repayment of lease liabilities1",
+"label_reader": "Repayment of lease liabilities",
+"vp": {
+"2026": -1861,
+"2025": -1664
+},
+"vr": {
+"2026": -1861,
+"2025": -1664
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TECHM_2026_bs",
+"kind": "label",
+"label_parser": "Investment accounted for using the Equity method (h) Financial Assets",
+"label_reader": "Investment accounted for using the Equity method",
+"vp": {
+"2026": 550,
+"2025": 539
+},
+"vr": {
+"2026": 550,
+"2025": 539
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TECHM_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial Assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TECHM_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial Assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 1042,
+"2025": 394
+},
+"vr": {
+"2026": 1042,
+"2025": 394
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TECHM_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial Assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "label",
+"label_parser": "B Cash Flow from Investing Activities",
+"label_reader": "Cash Flow from Investing Activities",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "label",
+"label_parser": "Purchase of Property, Plant and Equipment and Intangible",
+"label_reader": "Purchase of Property, Plant and Equipment and Intangible Assets",
+"vp": {
+"2026": -6957,
+"2025": -5935
+},
+"vr": {
+"2026": -6957,
+"2025": -5935
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Assets",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "label",
+"label_parser": "C Cash Flow from Financing Activities",
+"label_reader": "Cash Flow from Financing Activities",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "label",
+"label_parser": "Effect of exchange rate changes on cash and cash equivalents",
+"label_reader": "Effect of exchange rate changes on cash and cash equivalents (E)",
+"vp": {
+"2026": 953,
+"2025": 81
+},
+"vr": {
+"2026": 953,
+"2025": 81
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "(E)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Components of Cash and Cash equivalents For the year ended",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "March 31, 2026 March",
+"label_reader": null,
+"vp": {
+"2025": 2025
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Cash in hand",
+"label_reader": null,
+"vp": {
+"2026": 2,
+"2025": 246
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Balances with banks",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "In Current Account",
+"label_reader": null,
+"vp": {
+"2026": 39291,
+"2025": 32974
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "In Deposit Account (original maturities less than three months)",
+"label_reader": null,
+"vp": {
+"2026": 11168,
+"2025": 9965
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TECHM_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Subtotal",
+"label_reader": null,
+"vp": {
+"2026": 50461,
+"2025": 43185
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TECHM_2026_pl",
+"kind": "label",
+"label_parser": "A I. Items that will not be reclassified to Profit or Loss",
+"label_reader": "Items that will not be reclassified to Profit or Loss",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TECHM_2026_pl",
+"kind": "label",
+"label_parser": "B I. Items that will be subsequently reclassified to Profit or Loss",
+"label_reader": "Items that will be subsequently reclassified to Profit or Loss",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TITAN_2026_bs",
+"kind": "label",
+"label_parser": "Inventories (b) Financial assets",
+"label_reader": "Inventories",
+"vp": {
+"2026": 42743,
+"2025": 28184
+},
+"vr": {
+"2026": 42743,
+"2025": 28184
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "label",
+"label_parser": "Net cash (used in)/generated from investing activities B",
+"label_reader": "Net cash (used in)/generated from investing activities",
+"vp": {
+"2026": -2934,
+"2025": 546
+},
+"vr": {
+"2026": -2934,
+"2025": 546
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "label",
+"label_parser": "Net cash used in financing activities C",
+"label_reader": "Net cash used in financing activities",
+"vp": {
+"2026": -2159,
+"2025": -7
+},
+"vr": {
+"2026": -2159,
+"2025": -7
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "31st March 2026 31st March",
+"label_reader": null,
+"vp": {
+"2025": 2025
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Borrowings &",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Opening balance",
+"label_reader": null,
+"vp": {
+"2026": 10286,
+"2025": 7838
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Proceeds from long term borrowing",
+"label_reader": null,
+"vp": {
+"2025": 70
+},
+"vr": {},
+"on_page": [
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Repayment of long term borrowing",
+"label_reader": null,
+"vp": {
+"2026": -2632,
+"2025": -378
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Proceeds from short term borrowings, net",
+"label_reader": null,
+"vp": {
+"2026": 3314,
+"2025": 2529
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non cash changes",
+"label_reader": null,
+"vp": {
+"2026": 410,
+"2025": 227
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Closing balance",
+"label_reader": null,
+"vp": {
+"2026": 11378,
+"2025": 10286
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Reconciliation of Lease liability &",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Opening balance",
+"label_reader": null,
+"vp": {
+"2026": 2681,
+"2025": 2349
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Payments made during the year",
+"label_reader": null,
+"vp": {
+"2026": -865,
+"2025": -700
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non-cash changes",
+"label_reader": null,
+"vp": {
+"2026": 1357,
+"2025": 1032
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Closing balance",
+"label_reader": null,
+"vp": {
+"2026": 3173,
+"2025": 2681
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "TITAN_2026_pl",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Earnings per equity share of ₹ 1 {based on profit for the year (XI)}",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ULTRACEMCO_2026_bs",
+"kind": "label",
+"label_parser": "Other Equity (b)",
+"label_reader": "Other Equity",
+"vp": {
+"2026": 76328.86,
+"2025": 70411.53
+},
+"vr": {
+"2026": 76328.86,
+"2025": 70411.53
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ULTRACEMCO_2026_cf",
+"kind": "label",
+"label_parser": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement &",
+"label_reader": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement & Construction Materials P.S.C. (RAKWCT) (Refer Note 43)",
+"vp": {
+"2025": 1.89
+},
+"vr": {
+"2025": 1.89
+},
+"on_page": [
+true
+]
+},
+{
+"stmt": "ULTRACEMCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Construction Materials P.S.C. (RAKWCT) (Refer Note 43)",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "ULTRACEMCO_2026_cf",
+"kind": "label",
+"label_parser": "Cash and Cash Equivalents at the End of the Year (Refer Note 13)",
+"label_reader": "Cash and Cash Equivalents at the End of the Year (Refer Note 13) (D+E+F+G+H+I+J)",
+"vp": {
+"2026": 354.48,
+"2025": 467.21
+},
+"vr": {
+"2026": 354.48,
+"2025": 467.21
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ULTRACEMCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Non-Current Borrowing (including current maturities of Non-Current Borrowing)",
+"label_reader": null,
+"vp": {
+"2026": 166.12,
+"2025": 16374.2
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ULTRACEMCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Current Borrowing",
+"label_reader": null,
+"vp": {
+"2026": 15.58,
+"2025": 6656.79
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ULTRACEMCO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Subtotal",
+"label_reader": null,
+"vp": {
+"2026": 181.7,
+"2025": 23030.99
+},
+"vr": {},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ULTRACEMCO_2026_pl",
+"kind": "label",
+"label_parser": "A (i) Items that will not be reclassified to Profit or Loss",
+"label_reader": "Items that will not be reclassified to Profit or Loss",
+"vp": {
+"2026": -60.27,
+"2025": 701.86
+},
+"vr": {
+"2026": -60.27,
+"2025": 701.86
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "ULTRACEMCO_2026_pl",
+"kind": "label",
+"label_parser": "B (i) Items that will be reclassified to Profit or Loss",
+"label_reader": "Items that will be reclassified to Profit or Loss",
+"vp": {
+"2026": 122.67,
+"2025": 80.64
+},
+"vr": {
+"2026": 122.67,
+"2025": 80.64
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "VINATIORGA_2026_bs",
+"kind": "label",
+"label_parser": "Capital work-in-progress (b)",
+"label_reader": "Capital work-in-progress",
+"vp": {
+"2026": 214.09,
+"2025": 438.15
+},
+"vr": {
+"2026": 214.09,
+"2025": 438.15
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "VINATIORGA_2026_bs",
+"kind": "label",
+"label_parser": "Intangible assets (c)",
+"label_reader": "Intangible assets",
+"vp": {
+"2026": 0.21,
+"2025": 0.44
+},
+"vr": {
+"2026": 0.21,
+"2025": 0.44
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "VINATIORGA_2026_bs",
+"kind": "label",
+"label_parser": "Equity share capital SOCE",
+"label_reader": "Equity share capital",
+"vp": {
+"2026": 10.37,
+"2025": 10.37
+},
+"vr": {
+"2026": 10.37,
+"2025": 10.37
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "VINATIORGA_2026_bs",
+"kind": "label",
+"label_parser": "Other equity SOCE",
+"label_reader": "Other equity",
+"vp": {
+"2026": 3151.31,
+"2025": 2782.91
+},
+"vr": {
+"2026": 3151.31,
+"2025": 2782.91
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_bs",
+"kind": "label",
+"label_parser": "Investments accounted for using the equity method per",
+"label_reader": "Investments accounted for using the equity method",
+"vp": {
+"2026": 2126,
+"2025": 1327
+},
+"vr": {
+"2026": 2126,
+"2025": 1327
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_bs",
+"kind": "missing_in_parser",
+"label_parser": null,
+"label_reader": "Financial assets",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_bs",
+"kind": "label",
+"label_parser": "Financial assets and Investments",
+"label_reader": "Investments",
+"vp": {
+"2026": 28053,
+"2025": 26458
+},
+"vr": {
+"2026": 28053,
+"2025": 26458
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_bs",
+"kind": "label",
+"label_parser": "in Other non-current assets",
+"label_reader": "Other non-current assets",
+"vp": {
+"2026": 9451,
+"2025": 7707
+},
+"vr": {
+"2026": 9451,
+"2025": 7707
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_bs",
+"kind": "extra_in_parser",
+"label_parser": "(I",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Adjustments to reconcile profit for the",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "label",
+"label_parser": "year to net cash generated from operating",
+"label_reader": "Adjustments to reconcile profit for the year to net cash generated from operating activities",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "activities",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "label",
+"label_parser": "Share of net (profit)/loss of associate and joint venture accounted for using per equity method",
+"label_reader": "Share of net (profit)/loss of associate and joint venture accounted for using equity method",
+"vp": {
+"2026": -257,
+"2025": -254
+},
+"vr": {
+"2026": -257,
+"2025": -254
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "label",
+"label_parser": "Income tax expense and Finance and other income, net of",
+"label_reader": "Income tax expense",
+"vp": {
+"2026": 40767,
+"2025": 42777
+},
+"vr": {
+"2026": 40767,
+"2025": 42777
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "label",
+"label_parser": "finance costs",
+"label_reader": "Finance and other income, net of finance costs",
+"vp": {
+"2026": -21914,
+"2025": -23432
+},
+"vr": {
+"2026": -21914,
+"2025": -23432
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "extra_in_parser",
+"label_parser": "Changes in operating assets and",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "label",
+"label_parser": "liabilities, net of effects from acquisitions",
+"label_reader": "Changes in operating assets and liabilities, net of effects from acquisitions",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "label",
+"label_parser": "(Increase)/Decrease in unbilled in receivables and contract assets of",
+"label_reader": "(Increase)/Decrease in unbilled receivables and contract assets",
+"vp": {
+"2026": -14498,
+"2025": -1331
+},
+"vr": {
+"2026": -14498,
+"2025": -1331
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "label",
+"label_parser": "(I (Increase)/Decrease in inventories (Increase)/Decrease in other financial",
+"label_reader": "(Increase)/Decrease in inventories",
+"vp": {
+"2026": 184,
+"2025": 213
+},
+"vr": {
+"2026": 184,
+"2025": 213
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_cf",
+"kind": "label",
+"label_parser": "assets and other assets",
+"label_reader": "(Increase)/Decrease in other financial assets and other assets",
+"vp": {
+"2026": -205,
+"2025": 6609
+},
+"vr": {
+"2026": -205,
+"2025": 6609
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_pl",
+"kind": "label",
+"label_parser": "Finance costs per Depreciation, amortisation and",
+"label_reader": "Finance costs",
+"vp": {
+"2026": 14577,
+"2025": 14770
+},
+"vr": {
+"2026": 14577,
+"2025": 14770
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_pl",
+"kind": "label",
+"label_parser": "and impairment expense and Sub-contracting and technical",
+"label_reader": "Depreciation, amortisation and impairment expense",
+"vp": {
+"2026": 29107,
+"2025": 29579
+},
+"vr": {
+"2026": 29107,
+"2025": 29579
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_pl",
+"kind": "label",
+"label_parser": "fees",
+"label_reader": "Sub-contracting and technical fees",
+"vp": {
+"2026": 107668,
+"2025": 100148
+},
+"vr": {
+"2026": 107668,
+"2025": 100148
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_pl",
+"kind": "label",
+"label_parser": "Marketing and brand building of in",
+"label_reader": "Marketing and brand building",
+"vp": {
+"2026": 3480,
+"2025": 3591
+},
+"vr": {
+"2026": 3480,
+"2025": 3591
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_pl",
+"kind": "label",
+"label_parser": "(I Lifetime expected credit loss",
+"label_reader": "Lifetime expected credit loss",
+"vp": {
+"2026": 2838,
+"2025": 324
+},
+"vr": {
+"2026": 2838,
+"2025": 324
+},
+"on_page": [
+true,
+true
+]
+},
+{
+"stmt": "WIPRO_2026_pl",
+"kind": "label",
+"label_parser": "Items that will not be reclassified to",
+"label_reader": "Items that will not be reclassified to profit or loss:",
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "profit or loss",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_pl",
+"kind": "extra_in_parser",
+"label_parser": "Net change in fair value of",
+"label_reader": null,
+"vp": {},
+"vr": {},
+"on_page": []
+},
+{
+"stmt": "WIPRO_2026_pl",
+"kind": "label",
+"label_parser": "investment in equity instruments measured at fair value through OCI",
+"label_reader": "Net change in fair value of investment in equity instruments measured at fair value through OCI",
+"vp": {
+"2026": -1452,
+"2025": -3619
+},
+"vr": {
+"2026": -1452,
+"2025": -3619
+},
+"on_page": [
+true,
+true
+]
+}
+]

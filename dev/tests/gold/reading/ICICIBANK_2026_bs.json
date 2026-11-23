@@ -1,0 +1,30 @@
+{
+  "ticker": "ICICIBANK", "fy": 2026, "statement": "bs", "scope": "consolidated",
+  "reader": "claude", "read_at": "2026-11-04 17:30 UTC",
+  "unit": "thousand",
+  "years": [2026, 2025],
+  "rows": [
+    {"label": "CAPITAL AND LIABILITIES", "values": [null, null], "page": 372},
+    {"label": "Capital", "values": [14322344, 14245974], "page": 372},
+    {"label": "Employees stock options/units outstanding", "values": [26820675, 20698433], "page": 372},
+    {"label": "Reserves and surplus", "values": [3589461138, 3104114654], "page": 372},
+    {"label": "Minority interest", "values": [165109619, 148367361], "page": 372},
+    {"label": "Deposits", "values": [18300201210, 16416374040], "page": 372},
+    {"label": "Borrowings", "values": [2202642771, 2188834453], "page": 372},
+    {"label": "Policyholders' funds", "values": [2964990702, 2943055571], "page": 372},
+    {"label": "Other liabilities and provisions", "values": [1881431261, 1586723648], "page": 372},
+    {"label": "TOTAL CAPITAL AND LIABILITIES", "values": [29144979720, 26422414134], "page": 372},
+    {"label": "ASSETS", "values": [null, null], "page": 372},
+    {"label": "Cash and balances with Reserve Bank of India", "values": [1212371937, 1202409132], "page": 372},
+    {"label": "Balances with banks and money at call and short notice", "values": [1437435296, 937825505], "page": 372},
+    {"label": "Investments", "values": [8707198823, 8863768108], "page": 372},
+    {"label": "Advances", "values": [16446579678, 14206637124], "page": 372},
+    {"label": "Fixed assets", "values": [174203410, 158124234], "page": 372},
+    {"label": "Other assets", "values": [1061690036, 969055719], "page": 372},
+    {"label": "Goodwill on consolidation", "values": [105500540, 84594312], "page": 372},
+    {"label": "TOTAL ASSETS", "values": [29144979720, 26422414134], "page": 372},
+    {"label": "Contingent liabilities", "values": [63867022339, 78850007864], "page": 372},
+    {"label": "Bills for collection", "values": [1594079092, 1313614604], "page": 372}
+  ],
+  "notes": "Statement complete on page index 372. Contingent liabilities and Bills for collection kept as memo lines inside the statement. Omitted 'Significant accounting policies and notes to accounts' (schedules 17 & 18) line. -next page is the P&L, not a continuation."
+}

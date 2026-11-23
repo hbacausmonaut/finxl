@@ -1,0 +1,169 @@
+{
+ "ticker": "HDFCBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 495,
+   "name": "496",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CAPITAL AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Capital",
+   "values": [
+    1539.34,
+    765.22
+   ]
+  },
+  {
+   "label": "Employees stock options / units outstanding",
+   "values": [
+    4545.11,
+    3805.19
+   ]
+  },
+  {
+   "label": "Reserves and surplus",
+   "values": [
+    579975.02,
+    517218.98
+   ]
+  },
+  {
+   "label": "Minority interest",
+   "values": [
+    22384.96,
+    16359.04
+   ]
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    3099638.29,
+    2710898.23
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    588484.55,
+    634605.57
+   ]
+  },
+  {
+   "label": "Other liabilities and provisions",
+   "values": [
+    252977.53,
+    188163.66
+   ]
+  },
+  {
+   "label": "Policyholders' funds",
+   "values": [
+    358496.04,
+    320601.53
+   ]
+  },
+  {
+   "label": "Total capital and liabilities",
+   "values": [
+    4908040.84,
+    4392417.42
+   ]
+  },
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and balances with Reserve Bank of India",
+   "values": [
+    200707.11,
+    144390.25
+   ]
+  },
+  {
+   "label": "Balances with banks and money at call and short notice",
+   "values": [
+    111218.94,
+    105557.65
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    1280216.29,
+    1186472.89
+   ]
+  },
+  {
+   "label": "Advances",
+   "values": [
+    3050783.23,
+    2724938.16
+   ]
+  },
+  {
+   "label": "Fixed assets",
+   "values": [
+    16491.59,
+    15257.94
+   ]
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    248623.68,
+    215800.53
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    4908040.84,
+    4392417.42
+   ]
+  },
+  {
+   "label": "Contingent liabilities",
+   "values": [
+    3479487.31,
+    2709921.85
+   ]
+  },
+  {
+   "label": "Bills for collection",
+   "values": [
+    82470.05,
+    70679.55
+   ]
+  }
+ ],
+ "pdf": "HDFCBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

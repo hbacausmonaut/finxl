@@ -1,0 +1,803 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "TCS",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 172,
+   "name": "173",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    756.0
+   ]
+  },
+  {
+   "page": 173,
+   "name": "174",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    756.0
+   ]
+  }
+ ],
+ "pdf": "TCS/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    49454,
+    48797
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    5560,
+    5242
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bad debts and advances written off, allowance for expected credit losses and doubtful advances (net)",
+   "values": [
+    184,
+    128
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision towards legal claim (Refer note 20)",
+   "values": [
+    1010,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision towards Re-structuring expenses (Refer note 25)",
+   "values": [
+    120,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    16033,
+    16534
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on lease modification",
+   "values": [
+    -110,
+    -15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on sub-lease",
+   "values": [
+    -8,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unrealised foreign exchange gain",
+   "values": [
+    -176,
+    -1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on disposal of property, plant and equipment",
+   "values": [
+    -17,
+    -20
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on disposal / fair valuation of investments",
+   "values": [
+    -701,
+    -269
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair valuation of call option",
+   "values": [
+    -17,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transaction cost on incorporation of subsidiary",
+   "values": [
+    18,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -3854,
+    -3296
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -35,
+    -43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    1227,
+    796
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    68688,
+    67853
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net change in",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -8,
+    7
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Billed",
+   "values": [
+    -4778,
+    -5519
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unbilled",
+   "values": [
+    -470,
+    291
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans and other financial assets",
+   "values": [
+    197,
+    -738
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    837,
+    -2552
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    -1105,
+    3718
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unearned and deferred revenue",
+   "values": [
+    320,
+    395
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    2814,
+    -119
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other liabilities and provisions",
+   "values": [
+    -17,
+    1158
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows generated from operations",
+   "values": [
+    66478,
+    64494
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Taxes paid (net of refunds)",
+   "values": [
+    -14384,
+    -15586
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows generated from operating activities",
+   "values": [
+    52094,
+    48908
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOWS FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bank deposits placed",
+   "values": [
+    -8506,
+    -10496
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inter-corporate deposits placed",
+   "values": [
+    -1500,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of investments (including reverse repo(net))",
+   "values": [
+    -151864,
+    -145962
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for purchase of property, plant and equipment",
+   "values": [
+    -3670,
+    -2917
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment including advances for acquiring right-of-use assets",
+   "values": [
+    -109,
+    -76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for purchase of intangible assets",
+   "values": [
+    -367,
+    -944
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earmarked deposits placed with banks",
+   "values": [
+    -530,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acquisition of assets (Refer note 21)",
+   "values": [
+    -554,
+    -1063
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acquisition of subsidiaries (net of cash of ₹130 crore) (Refer note 7)",
+   "values": [
+    -6750,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Advance towards acquisition of investment",
+   "values": [
+    -250,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from bank deposits",
+   "values": [
+    9259,
+    8177
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from inter-corporate deposits",
+   "values": [
+    null,
+    170
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from disposal / redemption of investments",
+   "values": [
+    148023,
+    147695
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sub-lease receivable",
+   "values": [
+    9,
+    5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from disposal of property, plant and equipment",
+   "values": [
+    65,
+    23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Earmarked deposits",
+   "values": [
+    825,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    3008,
+    3056
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    84,
+    40
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loan given",
+   "values": [
+    null,
+    -29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loan recovered",
+   "values": [
+    null,
+    3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transaction cost on incorporation of subsidiary",
+   "values": [
+    -18,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows used in investing activities",
+   "values": [
+    -12845,
+    -2318
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOWS FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of lease liabilities",
+   "values": [
+    -1861,
+    -1664
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -901,
+    -840
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -39437,
+    -44864
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid to non-controlling interests",
+   "values": [
+    -134,
+    -98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of shares to non-controlling interests",
+   "values": [
+    null,
+    28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Issue of equity shares to non-controlling interests",
+   "values": [
+    3,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Issue of Class A compulsorily convertible preference shares to non-controlling interests",
+   "values": [
+    71,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Issue of Class B compulsorily convertible preference shares",
+   "values": [
+    126,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows used in financing activities",
+   "values": [
+    -42133,
+    -47438
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net change in cash and cash equivalents",
+   "values": [
+    -2884,
+    -848
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    8342,
+    9016
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange difference on translation of foreign currency cash and cash equivalents",
+   "values": [
+    959,
+    174
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    6417,
+    8342
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Components of cash and cash equivalents",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balances with banks",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "In current accounts",
+   "values": [
+    3193,
+    3421
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "In deposit accounts",
+   "values": [
+    3217,
+    4907
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cheques on hand",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash on hand",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remittances in transit",
+   "values": [
+    7,
+    14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    6417,
+    8342
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 77,
+  "rows_reader": 78,
+  "rows_aligned": 77,
+  "rows_agreed": 74,
+  "missing_in_parser": 1,
+  "extra_in_parser": 0,
+  "label_diffs": 3,
+  "value_diffs": 0,
+  "values_reader": 118,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": null,
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "unit",
+   "year": null,
+   "parser_index": null,
+   "reader_index": null,
+   "label_parser": null,
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": "crore",
+   "values_parser": {},
+   "values_reader": {},
+   "page": 172,
+   "search": [],
+   "pattern": "unit_wrong",
+   "pattern_text": "Statement unit (crore / lakh / million / thousand) differs"
+  },
+  {
+   "id": "d002",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 19,
+   "label_parser": null,
+   "label_reader": "Net change in",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 172,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 19,
+   "reader_index": 20,
+   "label_parser": "Net change in Inventories",
+   "label_reader": "Inventories",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -8,
+    "2025": 7
+   },
+   "values_reader": {
+    "2026": -8,
+    "2025": 7
+   },
+   "page": 172,
+   "search": [
+    "8",
+    "7"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 41,
+   "reader_index": 42,
+   "label_parser": "Acquisition of subsidiaries (net of cash of H130 crore) (Refer note 7)",
+   "label_reader": "Acquisition of subsidiaries (net of cash of ₹130 crore) (Refer note 7)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -6750,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": -6750,
+    "2025": null
+   },
+   "page": 172,
+   "search": [
+    "6,750",
+    "6,750"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 56,
+   "reader_index": 57,
+   "label_parser": "Repayment of lease liabilities1",
+   "label_reader": "Repayment of lease liabilities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -1861,
+    "2025": -1664
+   },
+   "values_reader": {
+    "2026": -1861,
+    "2025": -1664
+   },
+   "page": 173,
+   "search": [
+    "1,861",
+    "1,664"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  }
+ ]
+}

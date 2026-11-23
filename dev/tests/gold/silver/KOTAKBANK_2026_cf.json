@@ -1,0 +1,620 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "KOTAKBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 63,
+   "name": "64",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  },
+  {
+   "page": 64,
+   "name": "65",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "KOTAKBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1b719fb-23e9-4cb8-b303-720eb0e31cc4.pdf",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit before share in profit/(loss) of Associates",
+   "values": [
+    191806256,
+    219457376
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Provision for tax",
+   "values": [
+    68120998,
+    70432918
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit before taxes",
+   "values": [
+    259927254,
+    289890294
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for :-",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Employee Stock Options/units Expense",
+   "values": [
+    668166,
+    366850
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Depreciation on Group's property",
+   "values": [
+    10319164,
+    9409087
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision for Diminution/(Write back) in the value of Investments",
+   "values": [
+    -680544,
+    936479
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Profit)/Loss on revaluation of Investments (net)",
+   "values": [
+    32206742,
+    1927938
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on sale of investment in associate/subsidiary",
+   "values": [
+    -3677887,
+    -38034000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on sale of Investments (net)",
+   "values": [
+    -37598197,
+    -47302723
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Amortisation of Premium/Discount on Investments",
+   "values": [
+    996245,
+    151698
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision for Non Performing Assets, Standard Assets and Other Provisions",
+   "values": [
+    39684417,
+    37655876
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on sale of Fixed assets",
+   "values": [
+    17876,
+    -458046
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    301863236,
+    254543453
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for :-",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Decrease/(Increase) in Investments-Available for Sale, Held for Trading and Stock-in-Trade",
+   "values": [
+    152204159,
+    -6855669
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Increase in Advances",
+   "values": [
+    -831478661,
+    -593964822
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in Other Assets",
+   "values": [
+    -145988069,
+    -51509361
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in Deposits",
+   "values": [
+    722328513,
+    494387139
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in Policyholders' Funds",
+   "values": [
+    110472810,
+    117454649
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in Other Liabilities and Provisions",
+   "values": [
+    172196456,
+    18489034
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sub-total",
+   "values": [
+    179735208,
+    -21999030
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Direct Taxes Paid",
+   "values": [
+    -64333320,
+    -63387093
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET CASH FLOW FROM/(USED IN) OPERATING ACTIVITIES (A)",
+   "values": [
+    417265124,
+    169157330
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Fixed assets",
+   "values": [
+    -10579681,
+    -12128454
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of Fixed assets",
+   "values": [
+    219458,
+    647585
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Sale of Shares in Associates/Subsidiary (net of expenses)",
+   "values": [
+    12778117,
+    40730802
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in Other Investments (including investments in HTM securities)",
+   "values": [
+    -167609250,
+    -281970757
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET CASH FLOW FROM/(USED IN) INVESTING ACTIVITIES (B)",
+   "values": [
+    -165191356,
+    -252720824
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -4970975,
+    -3976240
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Money received on issue of Equity Shares/exercise of stock options",
+   "values": [
+    1871725,
+    464007
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in borrowings",
+   "values": [
+    -22285029,
+    225164282
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET CASH FLOW FROM/(USED IN) FINANCING ACTIVITIES (C)",
+   "values": [
+    -25384279,
+    221652049
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in Foreign Currency Translation Reserve (D)",
+   "values": [
+    3604012,
+    697552
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS (A + B + C + D)",
+   "values": [
+    230293501,
+    138786107
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AT THE BEGINNING OF THE YEAR (Refer Note below)",
+   "values": [
+    790617535,
+    652063874
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Less: Reduction due to deconsolidation of subsidiary during the year",
+   "values": [
+    null,
+    -232446
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AT THE END OF THE YEAR (Refer Note below)",
+   "values": [
+    1020911036,
+    790617535
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Note:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash in hand (As per Schedule 6 I)",
+   "values": [
+    16917683,
+    17424803
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance with RBI in Current Account (As per Schedule 6 II (i))",
+   "values": [
+    170499682,
+    197788705
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance with RBI in Other Account (As per Schedule 6 II (ii))",
+   "values": [
+    325400000,
+    202270000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance with banks in India in Current Account (As per Schedule 7 I (i) (a))",
+   "values": [
+    6103822,
+    4930913
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance with banks in India in Other Deposit Accounts (As per Schedule 7 I (i) (b))",
+   "values": [
+    149397564,
+    108884165
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Money at call and short notice in India with Banks (As per Schedule 7 I (ii) (a))",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Money at call and short notice in India with Other Agencies (As per Schedule 7 I (ii) (b))",
+   "values": [
+    204133123,
+    78832798
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance with banks Outside India:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "In Current Account (As per Schedule 7 II (i))",
+   "values": [
+    64490549,
+    61863125
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "In Other Deposit Accounts (As per Schedule 7 II (ii))",
+   "values": [
+    83968613,
+    118623026
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AT THE END OF THE YEAR",
+   "values": [
+    1020911036,
+    790617535
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 49,
+  "rows_reader": 53,
+  "rows_aligned": 49,
+  "rows_agreed": 47,
+  "missing_in_parser": 4,
+  "extra_in_parser": 0,
+  "label_diffs": 2,
+  "value_diffs": 0,
+  "values_reader": 89,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "thousand",
+  "unit_reader": "thousand"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 4,
+   "label_parser": null,
+   "label_reader": "Adjustments for :-",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 63,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 4,
+   "reader_index": 5,
+   "label_parser": "Adjustments for :- Employee Stock Options/units Expense",
+   "label_reader": "Employee Stock Options/units Expense",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 668166,
+    "2025": 366850
+   },
+   "values_reader": {
+    "2026": 668166,
+    "2025": 366850
+   },
+   "page": 63,
+   "search": [
+    "6,68,166",
+    "3,66,850"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d003",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 15,
+   "label_parser": null,
+   "label_reader": "Adjustments for :-",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 63,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 14,
+   "reader_index": 16,
+   "label_parser": "Adjustments for :- Decrease/(Increase) in Investments-Available for Sale, Held for Trading and Stock-in-Trade",
+   "label_reader": "Decrease/(Increase) in Investments-Available for Sale, Held for Trading and Stock-in-Trade",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 152204159,
+    "2025": -6855669
+   },
+   "values_reader": {
+    "2026": 152204159,
+    "2025": -6855669
+   },
+   "page": 63,
+   "search": [
+    "15,22,04,159",
+    "68,55,669"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d005",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 41,
+   "label_parser": null,
+   "label_reader": "Note:",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 64,
+   "search": [],
+   "pattern": "row_missing",
+   "pattern_text": "Line item missing from the parser output"
+  },
+  {
+   "id": "d006",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 47,
+   "label_parser": null,
+   "label_reader": "Money at call and short notice in India with Banks (As per Schedule 7 I (ii) (a))",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 64,
+   "search": [],
+   "pattern": "row_missing",
+   "pattern_text": "Line item missing from the parser output"
+  }
+ ]
+}

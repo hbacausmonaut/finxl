@@ -1,0 +1,605 @@
+{
+ "answers": {
+  "a001": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a002": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a003": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Same figure on both totals of the sheet. Insurer, out of scope.",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a004": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a005": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a006": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a007": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a008": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a009": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a010": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a011": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a012": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a013": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a014": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a015": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a016": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a017": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a018": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a019": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a020": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a021": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a022": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a023": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a024": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Label comes from another year's report; the report checked prints 'Unwinding of discount on provisions'.",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a025": {
+   "verdict": "wrong",
+   "reason": "wrong number",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Junk row: the column heading '31, 2019' was read as a figure, not a real line item.",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a026": {
+   "verdict": "wrong",
+   "reason": "wrong number",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Junk row: the year 2022 in a table heading was read as a figure.",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a027": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a028": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:14"
+  },
+  "a029": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a030": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a031": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a032": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a033": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a034": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a035": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a036": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a037": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a038": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a039": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a040": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a041": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a042": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a043": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a044": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a045": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a046": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a047": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a048": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a049": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. A share count, not crore, as intended since fix #80.",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a050": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a051": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a052": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a053": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a054": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a055": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a056": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a057": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a058": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a059": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a060": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a061": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a062": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a063": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a064": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a065": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a066": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a067": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a068": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a069": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Label comes from another year's report.",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a070": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a071": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a072": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a073": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a074": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a075": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a076": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a077": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a078": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Row sits in the discontinued-operations section.",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a079": {
+   "verdict": "wrong",
+   "reason": "wrong unit",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Report prints 32 in Rs lakh, so 0.32 crore. The Excel shows 32. All DIXON FY2025-26 columns are unconverted.",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a080": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a081": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:15"
+  },
+  "a082": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a083": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a084": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a085": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a086": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a087": {
+   "verdict": "wrong",
+   "reason": "garbled label",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Figure is right. Label 'Basic - I': the letter I is a rupee sign not mapped back.",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a088": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a089": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a090": {
+   "verdict": "wrong",
+   "reason": "garbled label",
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Figure is right. Label says 'Face value H 2': H is a rupee sign not mapped back.",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a091": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a092": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a093": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a094": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Fire segment column only, and the label doesn't say so. Insurer, out of scope.",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a095": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a096": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a097": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. Label comes from another year's report.",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a098": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a099": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  },
+  "a100": {
+   "verdict": "correct",
+   "reason": null,
+   "note": "Checked by Claude from the PDF page, at Harsh's request. ",
+   "at": "2026-11-08T00:19:16"
+  }
+ },
+ "updated": "2026-11-08T00:19:16"
+}

@@ -1,0 +1,588 @@
+{
+ "ticker": "BAJAJFINSV",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 238,
+   "name": "239",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 239,
+   "name": "240",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 240,
+   "name": "241",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    26883.15,
+    23748.21
+   ]
+  },
+  {
+   "label": "Adjustments for Interest income",
+   "values": [
+    -79955.95,
+    -67449.06
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -218.63,
+    -174.5
+   ]
+  },
+  {
+   "label": "Rental income",
+   "values": [
+    -2.07,
+    -3.95
+   ]
+  },
+  {
+   "label": "Unwinding of discount on security deposit",
+   "values": [
+    -2.07,
+    -1.05
+   ]
+  },
+  {
+   "label": "Realised gain on sale of investment",
+   "values": [
+    -450.04,
+    -242.34
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation",
+   "values": [
+    1291.36,
+    1170.32
+   ]
+  },
+  {
+   "label": "Share of (profit)/loss of joint venture/associates",
+   "values": [
+    -16.46,
+    -17.99
+   ]
+  },
+  {
+   "label": "Impairment on financial instruments",
+   "values": [
+    9479.99,
+    7069.78
+   ]
+  },
+  {
+   "label": "Net (gain)/loss on disposal of property, plant and equipment",
+   "values": [
+    16.49,
+    29.4
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    28231.78,
+    24309.7
+   ]
+  },
+  {
+   "label": "Share based payment to employees",
+   "values": [
+    631.79,
+    545.61
+   ]
+  },
+  {
+   "label": "Net gain/(loss) on financial instruments at fair value through profit or loss",
+   "values": [
+    1824.08,
+    -2160.35
+   ]
+  },
+  {
+   "label": "Interest from loans (other than financing activity)",
+   "values": [
+    -95.32,
+    -72.04
+   ]
+  },
+  {
+   "label": "Remeasurement gain/(loss) on defined benefit plans",
+   "values": [
+    0.66,
+    -0.87
+   ]
+  },
+  {
+   "label": "Service fees for management of assigned portfolio of loans",
+   "values": [
+    -15.71,
+    -27.13
+   ]
+  },
+  {
+   "label": "Provision for doubtful debts",
+   "values": [
+    3.65,
+    3.88
+   ]
+  },
+  {
+   "label": "Income on derecognised (assigned) loans",
+   "values": [
+    -465.46,
+    -552.04
+   ]
+  },
+  {
+   "label": "Interest received on income tax refund",
+   "values": [
+    -25.66,
+    null
+   ]
+  },
+  {
+   "label": "Cash inflow from servicing and interest spread on assigned loans",
+   "values": [
+    51.39,
+    59.31
+   ]
+  },
+  {
+   "label": "Cash inflow from interest on investments",
+   "values": [
+    2947.54,
+    2313.47
+   ]
+  },
+  {
+   "label": "Cash inflow from interest on loans under financing activity",
+   "values": [
+    70393.75,
+    58185.94
+   ]
+  },
+  {
+   "label": "Cash outflow towards finance cost",
+   "values": [
+    -25946.79,
+    -22420.31
+   ]
+  },
+  {
+   "label": "Cash from operation before working capital changes",
+   "values": [
+    34561.47,
+    24313.99
+   ]
+  },
+  {
+   "label": "Working capital changes",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in bank balances other than cash and cash equivalents",
+   "values": [
+    -4124.26,
+    -3095.95
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in trade receivables",
+   "values": [
+    -1298.52,
+    -2378.28
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in loans",
+   "values": [
+    -102868.1,
+    -89191.4
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in investments classified as FVTPL",
+   "values": [
+    6212.53,
+    -1429.16
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in other financial assets",
+   "values": [
+    1010.93,
+    981.8
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in other non-financial assets",
+   "values": [
+    16.05,
+    -321.8
+   ]
+  },
+  {
+   "label": "(Increase)/decrease re-insurance assets",
+   "values": [
+    -2031.2,
+    -3034.96
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in derivative financial instrument (net)",
+   "values": [
+    105.12,
+    56.54
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in trade payables",
+   "values": [
+    1174.11,
+    116.65
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in other payables",
+   "values": [
+    885.39,
+    1713.54
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in other financial liabilities",
+   "values": [
+    1564.63,
+    846.1
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in provisions",
+   "values": [
+    338.76,
+    91.68
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in other non-financial liabilities",
+   "values": [
+    1995.1,
+    1007.39
+   ]
+  },
+  {
+   "label": "Increase/(decrease) insurance contract liabilities",
+   "values": [
+    14548.71,
+    15215.07
+   ]
+  },
+  {
+   "label": "Income tax paid (net of refunds)",
+   "values": [
+    -7392.13,
+    -6641.63
+   ]
+  },
+  {
+   "label": "Net cash flows from/(used in) operating activities",
+   "values": [
+    -55301.41,
+    -61750.42
+   ]
+  },
+  {
+   "label": "Investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment",
+   "values": [
+    -1014.29,
+    -1323.22
+   ]
+  },
+  {
+   "label": "Sale proceeds of property, plant and equipment",
+   "values": [
+    130.61,
+    148.26
+   ]
+  },
+  {
+   "label": "Purchase of intangible assets",
+   "values": [
+    -433.89,
+    -540.35
+   ]
+  },
+  {
+   "label": "Purchase of investments measured at amortised cost",
+   "values": [
+    -177937.84,
+    -177450.35
+   ]
+  },
+  {
+   "label": "Proceeds from investments measured at amortised cost",
+   "values": [
+    164219.95,
+    167170.38
+   ]
+  },
+  {
+   "label": "Expenses related to investments",
+   "values": [
+    -5.94,
+    -5.58
+   ]
+  },
+  {
+   "label": "Purchase of investments measured at FVTOCI",
+   "values": [
+    -45186.17,
+    -32173.92
+   ]
+  },
+  {
+   "label": "Proceeds from sale of investments measured at FVTOCI",
+   "values": [
+    42979.26,
+    30320.83
+   ]
+  },
+  {
+   "label": "Purchase of investments measured at FVTPL",
+   "values": [
+    -2067.07,
+    -1308.55
+   ]
+  },
+  {
+   "label": "Proceeds from sale of investments measured at FVTPL",
+   "values": [
+    838.42,
+    1044.53
+   ]
+  },
+  {
+   "label": "Purchase of equity investments designated at FVTOCI",
+   "values": [
+    -308.14,
+    -35.0
+   ]
+  },
+  {
+   "label": "Loan against policies",
+   "values": [
+    -574.98,
+    -339.16
+   ]
+  },
+  {
+   "label": "Repayment of loan received",
+   "values": [
+    203.02,
+    183.75
+   ]
+  },
+  {
+   "label": "Rent/interest/dividend received",
+   "values": [
+    7582.67,
+    6560.13
+   ]
+  },
+  {
+   "label": "Fixed deposits placed during the year",
+   "values": [
+    -2443.93,
+    -1811.06
+   ]
+  },
+  {
+   "label": "Fixed deposits matured during the year",
+   "values": [
+    2283.42,
+    1767.19
+   ]
+  },
+  {
+   "label": "Payment for acquisition of business net of cash",
+   "values": [
+    -951.94,
+    -234.82
+   ]
+  },
+  {
+   "label": "(Investment in)/realisation from treasury shares by ESOP trust",
+   "values": [
+    51.97,
+    40.4
+   ]
+  },
+  {
+   "label": "Net cash flows from/(used in) investing activities",
+   "values": [
+    -12634.87,
+    -7986.54
+   ]
+  },
+  {
+   "label": "Financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Issue of equity share capital (including securities premium)",
+   "values": [
+    698.19,
+    515.1
+   ]
+  },
+  {
+   "label": "Proceeds from dilution of stake in subsidiary (net of IPO expenses)",
+   "values": [
+    1380.22,
+    6097.67
+   ]
+  },
+  {
+   "label": "Share issue expenses",
+   "values": [
+    -3.47,
+    -0.12
+   ]
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -1847.69,
+    -1541.71
+   ]
+  },
+  {
+   "label": "Deposits received, net",
+   "values": [
+    -3761.08,
+    10527.22
+   ]
+  },
+  {
+   "label": "Short term borrowing availed (net)",
+   "values": [
+    11884.04,
+    8786.81
+   ]
+  },
+  {
+   "label": "Long term borrowing availed",
+   "values": [
+    113336.67,
+    84967.14
+   ]
+  },
+  {
+   "label": "Long term borrowing repaid",
+   "values": [
+    -52123.84,
+    -39124.45
+   ]
+  },
+  {
+   "label": "Payment for buyback of equity shares",
+   "values": [
+    -2510.92,
+    null
+   ]
+  },
+  {
+   "label": "Payment of lease liability",
+   "values": [
+    -441.8,
+    -399.18
+   ]
+  },
+  {
+   "label": "Net cash flow from financing activities",
+   "values": [
+    66610.32,
+    69828.48
+   ]
+  },
+  {
+   "label": "Net change in cash and cash equivalents",
+   "values": [
+    -1325.96,
+    91.52
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    8616.2,
+    8524.68
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at year end*",
+   "values": [
+    7290.24,
+    8616.2
+   ]
+  }
+ ],
+ "pdf": "BAJAJFINSV/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10f5cbe1-4794-4934-9219-da6586f3fe74.pdf",
+ "parsed_at": "2026-11-04 11:18 UTC"
+}

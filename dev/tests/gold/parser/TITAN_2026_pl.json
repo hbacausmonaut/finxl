@@ -1,0 +1,372 @@
+{
+ "ticker": "TITAN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 375,
+   "name": "376",
+   "clip": [
+    0.0,
+    0.0,
+    594.1,
+    742.4
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    87584.0,
+    60456.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    552.0,
+    486.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    88136.0,
+    60942.0
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials and components consumed",
+   "values": [
+    69212.0,
+    47708.0
+   ]
+  },
+  {
+   "label": "Purchase of stock-in-trade",
+   "values": [
+    11031.0,
+    7563.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, stock-in-trade and work-in-progress",
+   "values": [
+    -9936.0,
+    -7815.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    2681.0,
+    2156.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    1180.0,
+    953.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    826.0,
+    693.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    6241.0,
+    5150.0
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    81235.0,
+    56408.0
+   ]
+  },
+  {
+   "label": "Profit before share of profit of an associate and joint venture, exceptional item and tax (III - IV)",
+   "values": [
+    6901.0,
+    4534.0
+   ]
+  },
+  {
+   "label": "Share of profit of",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Associate and joint venture, net of tax",
+   "values": [
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional item and tax",
+   "values": [
+    6902.0,
+    4535.0
+   ]
+  },
+  {
+   "label": "Exceptional item",
+   "values": [
+    101.0,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax (VII - VIII)",
+   "values": [
+    6801.0,
+    4535.0
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    1740.0,
+    1183.0
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -12.0,
+    15.0
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    1728.0,
+    1198.0
+   ]
+  },
+  {
+   "label": "Profit for the year (IX - X)",
+   "values": [
+    5073.0,
+    3337.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income (OCI)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to the statement of profit and loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement of employee defined benefit plans",
+   "values": [
+    -79.0,
+    -27.0
+   ]
+  },
+  {
+   "label": "Income-tax on (i) above",
+   "values": [
+    20.0,
+    6.0
+   ]
+  },
+  {
+   "label": "Fair value changes on equity investments through OCI",
+   "values": [
+    null,
+    -111.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit and loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange differences on translating the financial statements of foreign operations",
+   "values": [
+    -35.0,
+    -5.0
+   ]
+  },
+  {
+   "label": "Income-tax on (a) above",
+   "values": [
+    0.0,
+    1.0
+   ]
+  },
+  {
+   "label": "Net movement on Effective portion of Cash Flow Hedges",
+   "values": [
+    -3.0,
+    null
+   ]
+  },
+  {
+   "label": "Income-tax on (b) above",
+   "values": [
+    1.0,
+    null
+   ]
+  },
+  {
+   "label": "Total other comprehensive loss",
+   "values": [
+    -96.0,
+    -136.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income",
+   "values": [
+    4977.0,
+    3201.0
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    5073.0,
+    3337.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    0.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    5073.0,
+    3337.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    -96.0,
+    -136.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    -0.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -96.0,
+    -136.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    4977.0,
+    3201.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    4977.0,
+    3201.0
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    57.19,
+    37.62
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    57.16,
+    37.61
+   ]
+  }
+ ],
+ "pdf": "TITAN/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

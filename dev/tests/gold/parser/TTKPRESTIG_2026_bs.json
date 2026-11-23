@@ -1,0 +1,379 @@
+{
+ "ticker": "TTKPRESTIG",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 188,
+   "name": "189",
+   "clip": [
+    0.0,
+    0.0,
+    623.6,
+    822.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, Plant and Equipment",
+   "values": [
+    456.39,
+    459.72
+   ]
+  },
+  {
+   "label": "Right-of-Use-Assets",
+   "values": [
+    106.36,
+    118.54
+   ]
+  },
+  {
+   "label": "Capital Work-in-Progress",
+   "values": [
+    25.76,
+    1.41
+   ]
+  },
+  {
+   "label": "Goodwill on Consolidation",
+   "values": [
+    105.63,
+    96.07
+   ]
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    6.23,
+    5.3
+   ]
+  },
+  {
+   "label": "Intangibe Assets Under Development",
+   "values": [
+    0.05,
+    null
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    5.15,
+    5.21
+   ]
+  },
+  {
+   "label": "Other Non-Current Financial Assets",
+   "values": [
+    16.39,
+    12.3
+   ]
+  },
+  {
+   "label": "Non Current Tax Assets",
+   "values": [
+    2.39,
+    6.58
+   ]
+  },
+  {
+   "label": "Deferred Tax Assets (Net)",
+   "values": [
+    11.07,
+    8.49
+   ]
+  },
+  {
+   "label": "Other Non-Current Assets",
+   "values": [
+    25.6,
+    14.78
+   ]
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    675.28,
+    611.1
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    247.84,
+    235.75
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    284.85,
+    286.8
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents",
+   "values": [
+    35.79,
+    30.61
+   ]
+  },
+  {
+   "label": "Bank Balances other than above",
+   "values": [
+    580.74,
+    552.52
+   ]
+  },
+  {
+   "label": "Other Current Financial Assets",
+   "values": [
+    17.1,
+    16.04
+   ]
+  },
+  {
+   "label": "Current Tax Assets",
+   "values": [
+    0.05,
+    null
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    122.29,
+    75.07
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    2724.96,
+    2536.29
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity Share Capital",
+   "values": [
+    13.7,
+    13.69
+   ]
+  },
+  {
+   "label": "Other Equity",
+   "values": [
+    1966.19,
+    1865.11
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    -8.17,
+    -4.26
+   ]
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    50.25,
+    44.3
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    95.58,
+    107.79
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    0.45,
+    0.45
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    19.73,
+    1.54
+   ]
+  },
+  {
+   "label": "Deferred Tax Liabilities (Net)",
+   "values": [
+    26.84,
+    29.05
+   ]
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    4.88,
+    7.44
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    22.82,
+    20.24
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total Outstanding dues to Micro and Small Enterprises",
+   "values": [
+    43.31,
+    23.85
+   ]
+  },
+  {
+   "label": "Total Outstanding dues to other than Micro and Small Enterprises",
+   "values": [
+    242.25,
+    214.89
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    173.07,
+    150.41
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    53.6,
+    41.44
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    20.46,
+    20.35
+   ]
+  },
+  {
+   "label": "Current Tax Liabilities (Net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    2724.96,
+    2536.29
+   ]
+  }
+ ],
+ "pdf": "TTKPRESTIG/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/9048dae8-85f9-431f-8a67-37817161b4dd.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

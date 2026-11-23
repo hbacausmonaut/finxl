@@ -1,0 +1,559 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "BHARTIARTL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 217,
+   "name": "218L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 217,
+   "name": "218R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "BHARTIARTL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f8f6a174-8601-4747-9d0d-bd6b85fe53fc.pdf",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flows from operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    451727,
+    383985
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    527108,
+    455703
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    214485,
+    216258
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -272,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair value through profit or loss ('FVTPL') instruments",
+   "values": [
+    -3369,
+    -2048
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -11158,
+    -5306
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net (gain) / loss on derivative financial instruments",
+   "values": [
+    -2017,
+    420
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of associates and joint ventures (net)",
+   "values": [
+    -3645,
+    -37030
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional items (net)",
+   "values": [
+    34175,
+    -72868
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee share based payment expense",
+   "values": [
+    3157,
+    1669
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on sale of property, plant and equipment",
+   "values": [
+    -2985,
+    -1031
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision for doubtful debts / bad debts written off",
+   "values": [
+    3586,
+    3741
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-cash items",
+   "values": [
+    2301,
+    396
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating cash flows before changes in assets and liabilities",
+   "values": [
+    1213093,
+    943889
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in assets and liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    -5654,
+    29658
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    24977,
+    8586
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -1982,
+    -1416
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    18276,
+    22699
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial and non-financial liabilities",
+   "values": [
+    33760,
+    48154
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial and non-financial assets",
+   "values": [
+    2665,
+    -23868
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from operations before tax",
+   "values": [
+    1285135,
+    1027702
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax paid (net)",
+   "values": [
+    -62839,
+    -44380
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from operating activities (a)",
+   "values": [
+    1222296,
+    983322
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows from investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of property, plant and equipment and capital work-in-progress",
+   "values": [
+    -451756,
+    -379077
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    11680,
+    3382
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of intangible assets and intangible assets under development",
+   "values": [
+    -15386,
+    -17722
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment towards spectrum (including deferred payment liability)*",
+   "values": [
+    -8546,
+    -213487
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Purchase of) / proceeds from sale of current investments (net)",
+   "values": [
+    -126994,
+    7100
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -1241,
+    -734
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of non-current investments",
+   "values": [
+    90,
+    300
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash disposed off on sale of subsidiary (Refer note 4(m))",
+   "values": [
+    null,
+    -69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash acquired on acquisition of subsidiary (Refer note 4(g))",
+   "values": [
+    null,
+    1023
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in joint venture and associate",
+   "values": [
+    null,
+    -8788
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of investment in joint venture",
+   "values": [
+    null,
+    45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    1813,
+    1090
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    4088,
+    4239
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of loan given",
+   "values": [
+    907,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in investing activities (b)",
+   "values": [
+    -585345,
+    -602698
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows from financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of shares (net of transaction costs) (Refer note 4(d))",
+   "values": [
+    156949,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from borrowings",
+   "values": [
+    140131,
+    235597
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of borrowings",
+   "values": [
+    -420773,
+    -178594
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of lease liabilities",
+   "values": [
+    -67197,
+    -71538
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Repayment of) / proceeds from short-term borrowings (net)",
+   "values": [
+    -44087,
+    36927
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of treasury shares",
+   "values": [
+    -1467,
+    -3675
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest and other finance charges paid^",
+   "values": [
+    -148876,
+    -175476
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from exercise of share options",
+   "values": [
+    20,
+    14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -113277,
+    -69349
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net proceeds from issuance of equity shares to NCI",
+   "values": [
+    75,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment on maturity of derivatives (net)",
+   "values": [
+    -5368,
+    -16427
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Redemption of perpetual bonds (refer note 4(r))",
+   "values": [
+    null,
+    -86292
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of shares from NCI (refer note 4(a) and 4(g))",
+   "values": [
+    -19056,
+    -37348
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of shares of subsidiary to NCI",
+   "values": [
+    null,
+    829
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in financing activities (c)",
+   "values": [
+    -522926,
+    -365332
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase in the cash and cash equivalents during the year (a+b+c)",
+   "values": [
+    114025,
+    15292
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effect of exchange rate on the cash and cash equivalents",
+   "values": [
+    23291,
+    718
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents as at beginning of the year",
+   "values": [
+    106531,
+    90521
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents as at end of the year (refer note 15)",
+   "values": [
+    243847,
+    106531
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 62,
+  "rows_reader": 62,
+  "rows_aligned": 62,
+  "rows_agreed": 62,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 104,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "million",
+  "unit_reader": "million"
+ },
+ "mismatches": []
+}

@@ -1,0 +1,369 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "AXISBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 529,
+   "name": "530",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "AXISBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/854bc96b-9951-492e-ad95-d44fcc856195.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest earned",
+   "values": [
+    132538.24,
+    127374.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    29673.71,
+    28542.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    162211.95,
+    155916.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenditure",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest expended",
+   "values": [
+    74074.99,
+    71036.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating expenses",
+   "values": [
+    42226.41,
+    39992.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions and contingencies",
+   "values": [
+    19416.73,
+    16776.77
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total Expenditure",
+   "values": [
+    135718.13,
+    127805.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit For The Year",
+   "values": [
+    26493.82,
+    28111.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of earnings/(loss) in Associate",
+   "values": [
+    54.09,
+    79.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consolidated net profit for the year before deducting minority interest",
+   "values": [
+    26547.91,
+    28190.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Minority interest",
+   "values": [
+    -163.06,
+    -135.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consolidated Net Profit For The Year Attributable to Group",
+   "values": [
+    26384.85,
+    28055.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Brought forward consolidated profit/(loss) attributable to the Group",
+   "values": [
+    84814.08,
+    65281.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Amount Available For Appropriation/Transfers",
+   "values": [
+    111198.93,
+    93336.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Appropriations/Transfers:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Statutory Reserve",
+   "values": [
+    6114.16,
+    6593.37
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Special Reserve",
+   "values": [
+    976.81,
+    1024.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to General Reserve",
+   "values": [
+    4.07,
+    2.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Capital Reserve",
+   "values": [
+    506.52,
+    214.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Reserve Fund u/s 45 IC of RBI Act, 1934",
+   "values": [
+    162.4,
+    130.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Reserve for Net Worth requirement",
+   "values": [
+    23.65,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Investment Fluctuation Reserve",
+   "values": [
+    136,
+    248
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid during the year",
+   "values": [
+    310.14,
+    309.09
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Balance carried over to Consolidated Balance sheet",
+   "values": [
+    102965.18,
+    84814.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    111198.93,
+    93336.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings Per Equity Share (Face Value ₹2/- Per Share)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (In ₹)",
+   "values": [
+    85.04,
+    90.72
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (In ₹)",
+   "values": [
+    84.48,
+    90.18
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 30,
+  "rows_reader": 30,
+  "rows_aligned": 30,
+  "rows_agreed": 27,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 3,
+  "value_diffs": 0,
+  "values_reader": 51,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Provisions and contingencies (1.1)",
+   "label_reader": "Provisions and contingencies",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 19416.73,
+    "2025": 16776.77
+   },
+   "values_reader": {
+    "2026": 19416.73,
+    "2025": 16776.77
+   },
+   "page": 529,
+   "search": [
+    "19,416.73",
+    "16,776.77"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 24,
+   "reader_index": 24,
+   "label_parser": "Dividend paid during the year (1.6)",
+   "label_reader": "Dividend paid during the year",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 310.14,
+    "2025": 309.09
+   },
+   "values_reader": {
+    "2026": 310.14,
+    "2025": 309.09
+   },
+   "page": 529,
+   "search": [
+    "310.14",
+    "309.09"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 27,
+   "reader_index": 27,
+   "label_parser": "Earnings Per Equity Share (Face Value `2/- Per Share) (1.4)",
+   "label_reader": "Earnings Per Equity Share (Face Value ₹2/- Per Share)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 529,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

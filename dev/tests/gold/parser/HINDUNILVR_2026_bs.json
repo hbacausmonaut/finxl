@@ -1,0 +1,445 @@
+{
+ "ticker": "HINDUNILVR",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 184,
+   "name": "185L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 184,
+   "name": "185R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    8182.0,
+    8625.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    880.0,
+    1009.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    18062.0,
+    17466.0
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    31184.0,
+    28244.0
+   ]
+  },
+  {
+   "label": "Investments accounted for using the equity method",
+   "values": [
+    null,
+    57.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    112.0,
+    2.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    85.0,
+    87.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    709.0,
+    763.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets",
+   "values": [
+    14.0,
+    17.0
+   ]
+  },
+  {
+   "label": "Non-current tax assets (net)",
+   "values": [
+    1146.0,
+    1199.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    357.0,
+    360.0
+   ]
+  },
+  {
+   "label": "Total Non-current assets (A)",
+   "values": [
+    60731.0,
+    57829.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    4789.0,
+    4415.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    4247.0,
+    3751.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    3379.0,
+    3819.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    2583.0,
+    6071.0
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents mentioned above",
+   "values": [
+    665.0,
+    1483.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    50.0,
+    46.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    1979.0,
+    1488.0
+   ]
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    156.0,
+    null
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    1159.0,
+    955.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    19007.0,
+    22028.0
+   ]
+  },
+  {
+   "label": "Assets held for sale",
+   "values": [
+    14.0,
+    23.0
+   ]
+  },
+  {
+   "label": "Total Current assets (B)",
+   "values": [
+    19021.0,
+    22051.0
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    79752.0,
+    79880.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    235.0,
+    235.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    48504.0,
+    49167.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    269.0,
+    207.0
+   ]
+  },
+  {
+   "label": "Total Equity (A)",
+   "values": [
+    49008.0,
+    49609.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    1104.0,
+    1243.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    1241.0,
+    680.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1684.0,
+    1528.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities",
+   "values": [
+    7474.0,
+    6685.0
+   ]
+  },
+  {
+   "label": "Non-current tax liabilities (net)",
+   "values": [
+    3692.0,
+    3598.0
+   ]
+  },
+  {
+   "label": "Total Non-current liabilities (B)",
+   "values": [
+    15195.0,
+    13734.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    null,
+    1.0
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    374.0,
+    404.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    458.0,
+    263.0
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    12867.0,
+    11052.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    845.0,
+    1280.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    736.0,
+    959.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    265.0,
+    675.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    4.0,
+    1903.0
+   ]
+  },
+  {
+   "label": "Total Current liabilities (C)",
+   "values": [
+    15549.0,
+    16537.0
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    79752.0,
+    79880.0
+   ]
+  }
+ ],
+ "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+ "parsed_at": "2026-11-04 11:17 UTC"
+}

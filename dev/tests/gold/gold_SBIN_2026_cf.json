@@ -1,0 +1,425 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "SBIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 359,
+   "name": "360",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  },
+  {
+   "page": 360,
+   "name": "361",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "pdf": "SBIN\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit/(Loss) before taxes (including share in profit from associates and net of minority interest)",
+   "values": [
+    1121582973,
+    1049094768
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation on Fixed Assets",
+   "values": [
+    48297185,
+    39914767
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Profit)/Loss on sale of Fixed Assets (Net)",
+   "values": [
+    73171,
+    162293
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Profit)/Loss on revaluation of Investments (Net)",
+   "values": [
+    38201532,
+    -51793794
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Profit)/ Loss on sale of Investments in Subsidiaries/Joint Ventures/ Associates",
+   "values": [
+    -23844050,
+    75190
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision on Non-Performing Assets",
+   "values": [
+    193500770,
+    185055154
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision on Standard Assets",
+   "values": [
+    16829618,
+    3380915
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision on non-performing Investments",
+   "values": [
+    -143260,
+    4828852
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Provisions including provision for contingencies",
+   "values": [
+    5325392,
+    1346773
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share in Profit of Associates",
+   "values": [
+    -14971990,
+    -15054709
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income from Investment in Associates",
+   "values": [
+    -7031,
+    -88146
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest charged on Capital Instruments",
+   "values": [
+    73972721,
+    75688977
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    1458817031,
+    1292611040
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (Decrease) in Deposits",
+   "values": [
+    6031991037,
+    4733605319
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (Decrease) in Borrowings other than Capital Instruments",
+   "values": [
+    1723784000,
+    -351483579
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / Decrease in Investments other than Investment in Subsidiaries / Joint Ventures / Associates",
+   "values": [
+    -1620606216,
+    -818909668
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / Decrease in Advances",
+   "values": [
+    -7465325474,
+    -4850635813
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (Decrease) in Other Liabilities",
+   "values": [
+    1242699889,
+    581846191
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / Decrease in Other Assets",
+   "values": [
+    -627156704,
+    205421047
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    744203563,
+    792454537
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax refund / (Taxes paid)",
+   "values": [
+    -363229663,
+    -337614451
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET CASH GENERATED FROM / (USED IN) OPERATING ACTIVITIES (A)",
+   "values": [
+    380973900,
+    454840086
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Investments in Subsidiaries/Joint Ventures/Associates",
+   "values": [
+    -1082683,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Sale of Investments in Subsidiaries/Joint Ventures/Associates",
+   "values": [
+    77794109,
+    -65190
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income received from Investment in Associates",
+   "values": [
+    9299,
+    90009
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in Fixed Assets",
+   "values": [
+    -83629582,
+    -56372241
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET CASH GENERATED FROM / (USED IN) INVESTING ACTIVITIES (B)",
+   "values": [
+    -6908857,
+    -56347422
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of equity shares including share premium (Net of share issue expenses)",
+   "values": [
+    249945335,
+    1288
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Issue of Capital Instruments",
+   "values": [
+    137385000,
+    215000000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Redemption of Capital Instruments",
+   "values": [
+    -196720000,
+    -151039000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid on Capital Instruments",
+   "values": [
+    -77217098,
+    -72686140
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -141901459,
+    -122267183
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend tax paid by Subsidiaries/Joint Ventures",
+   "values": [
+    -410069,
+    -318493
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in Minority Interest",
+   "values": [
+    -5353083,
+    23941588
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET CASH GENERATED FROM / (USED IN) FINANCING ACTIVITIES (C)",
+   "values": [
+    -34271374,
+    -107367940
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EFFECT OF EXCHANGE FLUCTUATION ON TRANSLATION RESERVE (D)",
+   "values": [
+    99308997,
+    22481669
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET INCREASE / (DECREASE) IN CASH AND CASH EQUIVALENTS (A+B+C+D)",
+   "values": [
+    439102666,
+    313606393
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AS AT 1ST APRIL",
+   "values": [
+    3579329428,
+    3265723035
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AS AT 31ST MARCH",
+   "values": [
+    4018432094,
+    3579329428
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Components of Cash & Cash Equivalents as at: 31.03.2026 31.03.2025",
+   "values": [
+    null,
+    null
+   ],
+   "source": "harsh"
+  },
+  {
+   "label": "Cash & Balances with Reserve Bank of India",
+   "values": [
+    2686817368,
+    2274851569
+   ],
+   "source": "harsh"
+  },
+  {
+   "label": "Balances with Banks and money at call & short notice",
+   "values": [
+    1331614726,
+    1304477859
+   ],
+   "source": "harsh"
+  },
+  {
+   "label": "Total",
+   "values": [
+    4018432094,
+    3579329428
+   ],
+   "source": "harsh"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

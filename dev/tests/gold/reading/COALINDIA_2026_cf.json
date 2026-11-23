@@ -1,0 +1,376 @@
+{
+ "ticker": "COALINDIA",
+ "fy": 2026,
+ "statement": "cf",
+ "scope": "consolidated",
+ "reader": "claude",
+ "read_at": "2026-11-04 12:00 UTC",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "page": 232
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    41923.09,
+    47163.44
+   ],
+   "page": 232
+  },
+  {
+   "label": "Adjustments for :",
+   "values": [
+    null,
+    null
+   ],
+   "page": 232
+  },
+  {
+   "label": "Share of Joint Venture",
+   "values": [
+    -758.35,
+    -462.26
+   ],
+   "page": 232
+  },
+  {
+   "label": "Depreciation, amortisation and impairment expenses",
+   "values": [
+    10136.67,
+    9092.16
+   ],
+   "page": 232
+  },
+  {
+   "label": "Interest and other income from investment",
+   "values": [
+    -4121.77,
+    -3391.27
+   ],
+   "page": 232
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    1212.15,
+    877.97
+   ],
+   "page": 232
+  },
+  {
+   "label": "(Profit)/Loss on sale of Property, Plant and Equipment",
+   "values": [
+    1.06,
+    0.53
+   ],
+   "page": 232
+  },
+  {
+   "label": "Liability and provision written back",
+   "values": [
+    -2931.78,
+    -2495.78
+   ],
+   "page": 232
+  },
+  {
+   "label": "Allowances and Provisions",
+   "values": [
+    248.71,
+    540.69
+   ],
+   "page": 232
+  },
+  {
+   "label": "Write off",
+   "values": [
+    2.66,
+    186.99
+   ],
+   "page": 232
+  },
+  {
+   "label": "Reversal of Stripping Activity Provision",
+   "values": [
+    -1964.9,
+    -2881.75
+   ],
+   "page": 232
+  },
+  {
+   "label": "Stripping Activity Adjustment",
+   "values": [
+    -4070.72,
+    -4103.03
+   ],
+   "page": 232
+  },
+  {
+   "label": "Foreign Exchange rate variance",
+   "values": [
+    9.84,
+    7.03
+   ],
+   "page": 232
+  },
+  {
+   "label": "Cash flows from operating activities before changes in following assets and liabilities",
+   "values": [
+    39686.66,
+    44534.72
+   ],
+   "page": 232
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    -1351.2,
+    1575.5
+   ],
+   "page": 232
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -2796.1,
+    -2683.04
+   ],
+   "page": 232
+  },
+  {
+   "label": "Loans and advances and other financial assets",
+   "values": [
+    -1571.51,
+    -84.04
+   ],
+   "page": 232
+  },
+  {
+   "label": "Other current and non current Assets",
+   "values": [
+    3493.2,
+    -5727.49
+   ],
+   "page": 232
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    2352.23,
+    1816.68
+   ],
+   "page": 232
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    4265.77,
+    1132.37
+   ],
+   "page": 232
+  },
+  {
+   "label": "Other current and non current liabilities",
+   "values": [
+    4240.4,
+    2127.34
+   ],
+   "page": 232
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    -528.84,
+    -854.51
+   ],
+   "page": 232
+  },
+  {
+   "label": "Cash Generated from Operation",
+   "values": [
+    47790.61,
+    41837.53
+   ],
+   "page": 232
+  },
+  {
+   "label": "Income Tax (Paid)",
+   "values": [
+    -4576.01,
+    -11600.63
+   ],
+   "page": 232
+  },
+  {
+   "label": "Net Cash Flow generated from Operating Activities (A)",
+   "values": [
+    43214.6,
+    30236.9
+   ],
+   "page": 232
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "page": 232
+  },
+  {
+   "label": "Payments for Property, Plant and Equipments, Capital work in progress and Intangible assets",
+   "values": [
+    -12092.13,
+    -13842.75
+   ],
+   "page": 232
+  },
+  {
+   "label": "Proceeds from Sale of Property, Plant and Equipments",
+   "values": [
+    68.18,
+    53.56
+   ],
+   "page": 232
+  },
+  {
+   "label": "Payments for Exploration and Evaluation Asset",
+   "values": [
+    -407.51,
+    -489.39
+   ],
+   "page": 232
+  },
+  {
+   "label": "Realisation of deposits/(Deposits) with Banks",
+   "values": [
+    -23627.6,
+    -387.18
+   ],
+   "page": 232
+  },
+  {
+   "label": "Proceeds from/(Investment in) Mutual Fund, Shares etc.",
+   "values": [
+    -762.86,
+    384.64
+   ],
+   "page": 232
+  },
+  {
+   "label": "Payment for Equity investment in Joint Venture",
+   "values": [
+    -863.55,
+    -96.67
+   ],
+   "page": 232
+  },
+  {
+   "label": "Interest received on Investment",
+   "values": [
+    3730.89,
+    3264.19
+   ],
+   "page": 232
+  },
+  {
+   "label": "Net Cash used in Investing Activities (B)",
+   "values": [
+    -33954.58,
+    -11113.6
+   ],
+   "page": 232
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "page": 232
+  },
+  {
+   "label": "Proceeds from /(Repayment of) non current borrowings",
+   "values": [
+    1822.84,
+    1733.43
+   ],
+   "page": 232
+  },
+  {
+   "label": "Proceeds from /(Repayment of) current borrowings",
+   "values": [
+    3090.6,
+    1511.03
+   ],
+   "page": 232
+  },
+  {
+   "label": "Repayment of lease liabilities (including interest)",
+   "values": [
+    -79.74,
+    -89.26
+   ],
+   "page": 232
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -437.24,
+    -225.18
+   ],
+   "page": 232
+  },
+  {
+   "label": "Dividend paid on Equity shares/deposited in Investor Education and Protection Fund",
+   "values": [
+    -16197.13,
+    -16238.52
+   ],
+   "page": 232
+  },
+  {
+   "label": "Net Cash (used in)/generated from Financing Activities (C)",
+   "values": [
+    -11800.67,
+    -13308.5
+   ],
+   "page": 232
+  },
+  {
+   "label": "Net Increase / (Decrease) in Cash and Cash equivalent (A+B+C)",
+   "values": [
+    -2540.64,
+    5814.8
+   ],
+   "page": 232
+  },
+  {
+   "label": "Cash and Cash equivalent as at the beginning of the year",
+   "values": [
+    11160.26,
+    5345.46
+   ],
+   "page": 232
+  },
+  {
+   "label": "Cash and Cash equivalent as at the end of the year",
+   "values": [
+    8619.62,
+    11160.26
+   ],
+   "page": 232
+  }
+ ],
+ "notes": "Left half of page index 232. Statement ends at 'Cash and Cash equivalent as at the end of the year'; the following 'Reconciliation of Cash and Cash equivalents (Refer Note 4.4)', 'Cash and Cash equivalents (Net of bank Overdraft)' 8,619.62/11,160.26 and Components breakdown (Total 8,619.62/11,160.26) are excluded per rules. Right half (p233R) holds the financing-liabilities reconciliation and notes, excluded. FY2025 printed '(2881.75)' and '1511.03' without thousands separators. FY2025 column headed 'Restated'."
+}

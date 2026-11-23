@@ -1,0 +1,564 @@
+{
+ "ticker": "DIXON",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 419,
+   "name": "420",
+   "clip": [
+    0.0,
+    0.0,
+    612.3,
+    793.7
+   ]
+  },
+  {
+   "page": 420,
+   "name": "421",
+   "clip": [
+    0.0,
+    0.0,
+    612.3,
+    793.7
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": null,
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax (excluding profit/(loss) of Joint Ventures)",
+   "values": [
+    204911.0,
+    155242.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    39298.0,
+    28102.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    13747.0,
+    15435.0
+   ]
+  },
+  {
+   "label": "Unrealised foreign exchange (gain)/loss (net)",
+   "values": [
+    3288.0,
+    877.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -760.0,
+    -811.0
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -108.0,
+    null
+   ]
+  },
+  {
+   "label": "(Gain)/loss on lease modification/closure",
+   "values": [
+    -433.0,
+    -860.0
+   ]
+  },
+  {
+   "label": "(Profit)/loss on sale of investment in mutual funds",
+   "values": [
+    -652.0,
+    -19.0
+   ]
+  },
+  {
+   "label": "(Profit)/loss on sale of property, plant and equipment",
+   "values": [
+    -32.0,
+    -186.0
+   ]
+  },
+  {
+   "label": "(Profit)/loss on disinvestment of shares in joint venture",
+   "values": [
+    null,
+    -45998.0
+   ]
+  },
+  {
+   "label": "(Gain)/loss on sale/fair value of equity investment",
+   "values": [
+    -67075.0,
+    null
+   ]
+  },
+  {
+   "label": "Gain on sale of undertaking under slump sale",
+   "values": [
+    -2188.0,
+    null
+   ]
+  },
+  {
+   "label": "Loss on disposal of investment",
+   "values": [
+    null,
+    10.0
+   ]
+  },
+  {
+   "label": "Excess liabilities, credit balances, provisions etc. written back",
+   "values": [
+    null,
+    -42.0
+   ]
+  },
+  {
+   "label": "Provision for doubtful debts / loans and advances",
+   "values": [
+    975.0,
+    466.0
+   ]
+  },
+  {
+   "label": "(Gain)/loss on remeasurement of liability",
+   "values": [
+    304.0,
+    null
+   ]
+  },
+  {
+   "label": "Share based payment to employees",
+   "values": [
+    6081.0,
+    8512.0
+   ]
+  },
+  {
+   "label": "Bad debts written off",
+   "values": [
+    null,
+    5.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    197356.0,
+    160733.0
+   ]
+  },
+  {
+   "label": "Changes in working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Adjustments for (increase) / decrease in operating assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    19599.0,
+    -189930.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    57587.0,
+    -304948.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "non current",
+   "values": [
+    -8938.0,
+    5589.0
+   ]
+  },
+  {
+   "label": "current",
+   "values": [
+    18273.0,
+    -121311.0
+   ]
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "non current",
+   "values": [
+    -845.0,
+    -447.0
+   ]
+  },
+  {
+   "label": "current",
+   "values": [
+    -16656.0,
+    -9604.0
+   ]
+  },
+  {
+   "label": "Adjustments for increase / (decrease) in operating liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "non current",
+   "values": [
+    null,
+    -546.0
+   ]
+  },
+  {
+   "label": "current",
+   "values": [
+    -71732.0,
+    541321.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "non current",
+   "values": [
+    20.0,
+    -6589.0
+   ]
+  },
+  {
+   "label": "current",
+   "values": [
+    330.0,
+    292.0
+   ]
+  },
+  {
+   "label": "Other liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "non current",
+   "values": [
+    6505.0,
+    97.0
+   ]
+  },
+  {
+   "label": "current",
+   "values": [
+    37684.0,
+    4353.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "non current",
+   "values": [
+    42.0,
+    null
+   ]
+  },
+  {
+   "label": "current",
+   "values": [
+    -19536.0,
+    63561.0
+   ]
+  },
+  {
+   "label": "Cash generated from operating activities",
+   "values": [
+    219689.0,
+    142571.0
+   ]
+  },
+  {
+   "label": "Income tax paid (net)",
+   "values": [
+    -41460.0,
+    -27596.0
+   ]
+  },
+  {
+   "label": "Net cash generated from/(used in) operating activities",
+   "values": [
+    178229.0,
+    114975.0
+   ]
+  },
+  {
+   "label": "Cash flow from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Capital expenditure on property, plant and equipment and intangible assets including capital work in progress",
+   "values": [
+    -106751.0,
+    -93935.0
+   ]
+  },
+  {
+   "label": "Sale proceeds of property, plant and equipment",
+   "values": [
+    964.0,
+    4376.0
+   ]
+  },
+  {
+   "label": "Sale of investment in equity share",
+   "values": [
+    65826.0,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of investments in subsidiaries",
+   "values": [
+    -43051.0,
+    -32098.0
+   ]
+  },
+  {
+   "label": "Investment in equity shares of other Company",
+   "values": [
+    null,
+    -24863.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale/disinvestment of investment in joint venture company",
+   "values": [
+    null,
+    24863.0
+   ]
+  },
+  {
+   "label": "Repayment of loan given",
+   "values": [
+    400.0,
+    200.0
+   ]
+  },
+  {
+   "label": "Purchase of investment in mutual fund",
+   "values": [
+    -1055500.0,
+    -82200.0
+   ]
+  },
+  {
+   "label": "Sale of investment in mutual fund",
+   "values": [
+    1026121.0,
+    82219.0
+   ]
+  },
+  {
+   "label": "(Increase) / decrease in other bank balance not considered as cash and cash equivalent (net)",
+   "values": [
+    -13931.0,
+    -2263.0
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    108.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    760.0,
+    811.0
+   ]
+  },
+  {
+   "label": "Net cash generated from/(used in) investing activities",
+   "values": [
+    -125054.0,
+    -122890.0
+   ]
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -10295.0,
+    -12192.0
+   ]
+  },
+  {
+   "label": "Repayment of lease liabilities",
+   "values": [
+    -8598.0,
+    -6995.0
+   ]
+  },
+  {
+   "label": "Proceeds from issue of equity to non-controlling interest",
+   "values": [
+    1628.0,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issue of share",
+   "values": [
+    24690.0,
+    13993.0
+   ]
+  },
+  {
+   "label": "Proceeds from long-term borrowings",
+   "values": [
+    35969.0,
+    24624.0
+   ]
+  },
+  {
+   "label": "Repayment of long-term borrowings",
+   "values": [
+    -53207.0,
+    -19373.0
+   ]
+  },
+  {
+   "label": "Proceeds/(repayment) of short-term borrowings (net)",
+   "values": [
+    10781.0,
+    577.0
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -11783.0,
+    -3291.0
+   ]
+  },
+  {
+   "label": "Net cash generated from/(used in) financing activities",
+   "values": [
+    -10815.0,
+    -2657.0
+   ]
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents",
+   "values": [
+    42360.0,
+    -10572.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    23085.0,
+    20048.0
+   ]
+  },
+  {
+   "label": "Adjustment in cash on sale of business undertaking, sale and acquisition of shares of subsidiaries",
+   "values": [
+    11298.0,
+    13609.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of year (see note 22)",
+   "values": [
+    76743.0,
+    23085.0
+   ]
+  }
+ ],
+ "pdf": "DIXON/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf",
+ "parsed_at": "2026-11-04 11:27 UTC"
+}

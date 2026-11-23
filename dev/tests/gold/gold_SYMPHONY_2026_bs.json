@@ -1,0 +1,447 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "SYMPHONY",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 99,
+   "name": "100L",
+   "clip": [
+    0.0,
+    0.0,
+    496.1,
+    666.1
+   ]
+  }
+ ],
+ "pdf": "SYMPHONY\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b2e32774-7ba0-4f22-a5de-ef9014d07f8b.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    109.09,
+    105
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Right-of-use asset",
+   "values": [
+    27.16,
+    11.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment Property",
+   "values": [
+    5.85,
+    0.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    null,
+    155.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    29.02,
+    49.95
+   ],
+   "source": "harsh"
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "harsh"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    154.78,
+    284.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    0.1,
+    1.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred Tax Assets (Net)",
+   "values": [
+    7.19,
+    47.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    5.27,
+    3.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Non-current assets",
+   "values": [
+    338.46,
+    658.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    312.42,
+    284.01
+   ],
+   "source": "harsh"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "harsh"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    113.51,
+    154.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    151.04,
+    141.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    49.56,
+    35.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bank balances other than (iii) above",
+   "values": [
+    2.58,
+    2.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    2.47,
+    3.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax assets (Net)",
+   "values": [
+    1.38,
+    1.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    58.08,
+    46.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    691.04,
+    669.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Assets classified as held for sale",
+   "values": [
+    null,
+    5.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Current assets",
+   "values": [
+    691.04,
+    675.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    1029.5,
+    1334.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    13.73,
+    13.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    531.49,
+    746.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    545.22,
+    760.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    16.85,
+    5.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    13.46,
+    11.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax liabilities (Net)",
+   "values": [
+    null,
+    12.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Non-current liabilities",
+   "values": [
+    30.31,
+    29.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    144.09,
+    127.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    11.57,
+    8.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    6.11,
+    1.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    122.75,
+    177.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    26.67,
+    6.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    114.66,
+    183.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    23.36,
+    33.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax liabilities (Net)",
+   "values": [
+    4.76,
+    6.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Current liabilities",
+   "values": [
+    453.97,
+    544.03
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    484.28,
+    573.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    1029.5,
+    1334.04
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

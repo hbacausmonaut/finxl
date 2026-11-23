@@ -1,0 +1,623 @@
+{
+ "ticker": "POWERGRID",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 284,
+   "name": "285L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 284,
+   "name": "285R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  },
+  {
+   "page": 285,
+   "name": "286L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit Before Tax and Regulatory Deferral Account Balances",
+   "values": [
+    17321.03,
+    19017.89
+   ]
+  },
+  {
+   "label": "Add: Net movement in Regulatory Deferral Account Balances",
+   "values": [
+    -2774.39,
+    276.31
+   ]
+  },
+  {
+   "label": "(net of tax)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Add: Tax on Net movement in Regulatory Deferral Account",
+   "values": [
+    -587.38,
+    58.48
+   ]
+  },
+  {
+   "label": "Balances",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Profit Before Tax (including Net movement in regulatory deferral account balances)",
+   "values": [
+    13959.26,
+    19352.68
+   ]
+  },
+  {
+   "label": "Adjustment for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation & amortisation expenses",
+   "values": [
+    13029.68,
+    12904.15
+   ]
+  },
+  {
+   "label": "Transfer from Grants in Aid",
+   "values": [
+    -332.83,
+    -330.71
+   ]
+  },
+  {
+   "label": "Deferred revenue - Advance against Depreciation",
+   "values": [
+    -89.12,
+    -108.48
+   ]
+  },
+  {
+   "label": "Provisions/impairment/bad debt etc",
+   "values": [
+    48.99,
+    37.55
+   ]
+  },
+  {
+   "label": "Changes in fair value of financial instruments through profit or loss",
+   "values": [
+    -24.03,
+    -26.21
+   ]
+  },
+  {
+   "label": "Share of net profits of joint ventures accounted for using equity method",
+   "values": [
+    132.34,
+    110.26
+   ]
+  },
+  {
+   "label": "Profit on sale of Investment in Subsidiaries/Joint Ventures/ Associates",
+   "values": [
+    null,
+    -245.6
+   ]
+  },
+  {
+   "label": "Net Loss on Disposal / Write off of Property, Plant & Equipment",
+   "values": [
+    -10.8,
+    2.0
+   ]
+  },
+  {
+   "label": "Deferred Foreign Currency Fluctuation Asset",
+   "values": [
+    -569.04,
+    229.87
+   ]
+  },
+  {
+   "label": "Deferred Income from Foreign Currency Fluctuation",
+   "values": [
+    750.03,
+    -120.91
+   ]
+  },
+  {
+   "label": "Regulatory Deferral Account Debit Balances",
+   "values": [
+    3361.77,
+    -334.79
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    8447.58,
+    8700.13
+   ]
+  },
+  {
+   "label": "Provisions/impairment written back",
+   "values": [
+    -55.04,
+    -302.93
+   ]
+  },
+  {
+   "label": "Finance Income- Service Concession Arrangements (SCA)",
+   "values": [
+    -33.42,
+    -1.47
+   ]
+  },
+  {
+   "label": "Derivative- Premium Amortization",
+   "values": [
+    16.73,
+    null
+   ]
+  },
+  {
+   "label": "FERV loss / (gain)",
+   "values": [
+    1205.06,
+    130.01
+   ]
+  },
+  {
+   "label": "Gain on sale/Change in Fair Value of Current Investment",
+   "values": [
+    -2.77,
+    -17.97
+   ]
+  },
+  {
+   "label": "Measured at FVPL",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest income on Deposits, Bonds , loans to JVs, PG InvIT etc",
+   "values": [
+    -357.72,
+    -516.35
+   ]
+  },
+  {
+   "label": "Surcharge income",
+   "values": [
+    -55.63,
+    -129.68
+   ]
+  },
+  {
+   "label": "Income from finance lease",
+   "values": [
+    -1001.08,
+    -571.54
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -52.8,
+    -69.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    24407.9,
+    19338.33
+   ]
+  },
+  {
+   "label": "Operating profit before Changes in Assets and Liabilities",
+   "values": [
+    38367.16,
+    38691.01
+   ]
+  },
+  {
+   "label": "Adjustment for Changes in Assets and Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in Inventories",
+   "values": [
+    -323.83,
+    -396.65
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in Trade Receivables",
+   "values": [
+    -3859.06,
+    3453.08
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in Other Financial Assets",
+   "values": [
+    2428.17,
+    -4685.91
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in Other Non-current Assets",
+   "values": [
+    -58.88,
+    -10.77
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in Other Current Assets",
+   "values": [
+    -158.21,
+    190.95
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in Liabilities & Provisions",
+   "values": [
+    7706.11,
+    2158.76
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    5734.3,
+    709.46
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    44101.46,
+    39400.47
+   ]
+  },
+  {
+   "label": "Direct taxes paid",
+   "values": [
+    -3166.1,
+    -3178.65
+   ]
+  },
+  {
+   "label": "Net Cash from Operating Activities",
+   "values": [
+    40935.36,
+    36221.82
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Property, Plant & Equipment, Intangible Assets, Capital Work in Progress etc. (Including Advances for Capital Expenditure)",
+   "values": [
+    -37279.14,
+    -24134.04
+   ]
+  },
+  {
+   "label": "Proceeds on sale of Property, Plant & Equipment and Intangible",
+   "values": [
+    31.0,
+    22.77
+   ]
+  },
+  {
+   "label": "Assets etc.",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Receipt of Grant",
+   "values": [
+    null,
+    4.65
+   ]
+  },
+  {
+   "label": "Investment in Mutual Funds",
+   "values": [
+    -3385.0,
+    -1704.0
+   ]
+  },
+  {
+   "label": "Sale of Mutual Funds",
+   "values": [
+    3159.65,
+    2337.67
+   ]
+  },
+  {
+   "label": "Investments in joint venture companies & others",
+   "values": [
+    19.01,
+    470.44
+   ]
+  },
+  {
+   "label": "Loans & Advances to Joint Venture/Associate Companies",
+   "values": [
+    35.76,
+    54.21
+   ]
+  },
+  {
+   "label": "(including repayments)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial lease receipts",
+   "values": [
+    1035.49,
+    815.28
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    289.46,
+    -2222.03
+   ]
+  },
+  {
+   "label": "Interest received on Deposits, Bonds & loans to JVs, PG InvIT etc",
+   "values": [
+    360.46,
+    484.52
+   ]
+  },
+  {
+   "label": "Surcharge received",
+   "values": [
+    202.62,
+    155.69
+   ]
+  },
+  {
+   "label": "Finance Income Received - Service Concession Arrangements",
+   "values": [
+    22.74,
+    1.47
+   ]
+  },
+  {
+   "label": "(SCA)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Dividend received from joint venture companies",
+   "values": [
+    144.91,
+    112.57
+   ]
+  },
+  {
+   "label": "Dividend received from other investments",
+   "values": [
+    52.8,
+    69.0
+   ]
+  },
+  {
+   "label": "Net Cash flow used in Investing Activities",
+   "values": [
+    -35310.24,
+    -23531.8
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from non current borrowings",
+   "values": [
+    28166.02,
+    19324.36
+   ]
+  },
+  {
+   "label": "Repayment of non current borrowings",
+   "values": [
+    -15537.29,
+    -15701.7
+   ]
+  },
+  {
+   "label": "Proceeds/repayment of current borrowings (net)",
+   "values": [
+    1290.64,
+    3015.84
+   ]
+  },
+  {
+   "label": "Repayment of Lease Liabilities (Including interest)",
+   "values": [
+    -19.81,
+    -8.93
+   ]
+  },
+  {
+   "label": "Finance Costs paid",
+   "values": [
+    -9535.27,
+    -9221.11
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -8370.55,
+    -9765.64
+   ]
+  },
+  {
+   "label": "Expenses paid towards issue of bonus shares",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Cash used in Financing Activities",
+   "values": [
+    -4006.26,
+    -12357.18
+   ]
+  },
+  {
+   "label": "Net change in Cash and Cash equivalents",
+   "values": [
+    1618.86,
+    332.84
+   ]
+  },
+  {
+   "label": "Cash and Cash equivalents (Opening balance)",
+   "values": [
+    3796.79,
+    3463.95
+   ]
+  },
+  {
+   "label": "Less: Cash and Cash equivalents classified as held for sale",
+   "values": [
+    -135.03,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Cash equivalents (Closing balance) (Refer note no. 15)*",
+   "values": [
+    5280.62,
+    3796.79
+   ]
+  },
+  {
+   "label": "Net Cash Flows during the year (19.81)",
+   "values": [
+    3657.3,
+    1290.64
+   ]
+  },
+  {
+   "label": "Non-cash changes due to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Adjustments/Acquisitions under finance lease",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest on borrowings",
+   "values": [
+    9205.9,
+    null
+   ]
+  },
+  {
+   "label": "Variation in exchange rates",
+   "values": [
+    3124.68,
+    null
+   ]
+  },
+  {
+   "label": "Fair value adjustments",
+   "values": [
+    0.24,
+    null
+   ]
+  },
+  {
+   "label": "As at 31 March 2026",
+   "values": [
+    144282.82,
+    7000.0
+   ]
+  }
+ ],
+ "pdf": "POWERGRID/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5bfc82cf-cf35-4f6d-9d47-c00b6583a3bc.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

@@ -1,0 +1,1079 @@
+{
+ "format": "docfetcher-silver-sample/1",
+ "seed": 20261104,
+ "about": "Check each value against the PDF page: is Claude's reading right? group 'agreed' = Claude and parser agree; 'claude_only' = silver uses Claude's value over the parser.",
+ "population": {
+  "agreed": 10529,
+  "claude_only": 49
+ },
+ "items": [
+  {
+   "stmt": "SUNPHARMA_2026_cf",
+   "pdf": "SUNPHARMA/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb65dea5-416a-4f98-95e2-0b58761b7442.pdf",
+   "pages": [
+    {
+     "page": 245,
+     "name": "246",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 246,
+     "name": "247",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 247,
+     "name": "248",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    }
+   ],
+   "unit": "million",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Associates",
+   "value_reader": -455.0,
+   "reader_index": 33,
+   "page": 245,
+   "search": [
+    "455"
+   ],
+   "id": "s001",
+   "group": "agreed"
+  },
+  {
+   "stmt": "TECHM_2026_bs",
+   "pdf": "TECHM/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/758bed2c-792d-434f-a326-118a8b4e7989.pdf",
+   "pages": [
+    {
+     "page": 580,
+     "name": "581",
+     "clip": [
+      0.0,
+      0.0,
+      540.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "million",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Borrowings",
+   "value_reader": 4714,
+   "reader_index": 50,
+   "page": 580,
+   "search": [
+    "4,714"
+   ],
+   "id": "s002",
+   "group": "agreed"
+  },
+  {
+   "stmt": "HINDUNILVR_2026_pl",
+   "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+   "pages": [
+    {
+     "page": 185,
+     "name": "186L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 185,
+     "name": "186R",
+     "clip": [
+      595.3,
+      0.0,
+      1190.6,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Basic (in ₹)",
+   "value_reader": 45.25,
+   "reader_index": 53,
+   "page": 185,
+   "search": [
+    "45.25"
+   ],
+   "id": "s003",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "ICICIBANK_2026_cf",
+   "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+   "pages": [
+    {
+     "page": 374,
+     "name": "375",
+     "clip": [
+      0.0,
+      0.0,
+      594.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "thousand",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "(Profit)/loss on sale of fixed assets and other assets",
+   "value_reader": -2886200,
+   "reader_index": 8,
+   "page": 374,
+   "search": [
+    "28,86,200"
+   ],
+   "id": "s004",
+   "group": "agreed"
+  },
+  {
+   "stmt": "HINDUNILVR_2026_pl",
+   "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+   "pages": [
+    {
+     "page": 185,
+     "name": "186L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 185,
+     "name": "186R",
+     "clip": [
+      595.3,
+      0.0,
+      1190.6,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Diluted (in ₹)",
+   "value_reader": 45.32,
+   "reader_index": 60,
+   "page": 185,
+   "search": [
+    "45.32"
+   ],
+   "id": "s005",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "SUNPHARMA_2026_pl",
+   "pdf": "SUNPHARMA/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb65dea5-416a-4f98-95e2-0b58761b7442.pdf",
+   "pages": [
+    {
+     "page": 242,
+     "name": "243",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 243,
+     "name": "244",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    }
+   ],
+   "unit": "million",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Gain/ (loss) on remeasurement of the defined benefit plans",
+   "value_reader": 164.9,
+   "reader_index": 29,
+   "page": 242,
+   "search": [
+    "164.90"
+   ],
+   "id": "s006",
+   "group": "agreed"
+  },
+  {
+   "stmt": "HINDUNILVR_2026_pl",
+   "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+   "pages": [
+    {
+     "page": 185,
+     "name": "186L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 185,
+     "name": "186R",
+     "clip": [
+      595.3,
+      0.0,
+      1190.6,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Diluted (in ₹)",
+   "value_reader": -0.04,
+   "reader_index": 57,
+   "page": 185,
+   "search": [
+    "0.04"
+   ],
+   "id": "s007",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "POWERGRID_2026_cf",
+   "pdf": "POWERGRID/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5bfc82cf-cf35-4f6d-9d47-c00b6583a3bc.pdf",
+   "pages": [
+    {
+     "page": 284,
+     "name": "285L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 284,
+     "name": "285R",
+     "clip": [
+      595.3,
+      0.0,
+      1190.6,
+      841.9
+     ]
+    },
+    {
+     "page": 285,
+     "name": "286L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Finance Costs paid",
+   "value_reader": -9221.11,
+   "reader_index": 61,
+   "page": 284,
+   "search": [
+    "9,221.11"
+   ],
+   "id": "s008",
+   "group": "agreed"
+  },
+  {
+   "stmt": "HEROMOTOCO_2026_bs",
+   "pdf": "HEROMOTOCO/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b80c703d-600d-472b-a18c-9565f6f780a7.pdf",
+   "pages": [
+    {
+     "page": 212,
+     "name": "213L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Total equity",
+   "value_reader": 21811.02,
+   "reader_index": 34,
+   "page": 212,
+   "search": [
+    "21,811.02"
+   ],
+   "id": "s009",
+   "group": "agreed"
+  },
+  {
+   "stmt": "COALINDIA_2026_bs",
+   "pdf": "COALINDIA/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a545232-5986-454c-b936-70e14712b84e.pdf",
+   "pages": [
+    {
+     "page": 230,
+     "name": "231L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "TOTAL ASSETS",
+   "value_reader": 259395.85,
+   "reader_index": 24,
+   "page": 230,
+   "search": [
+    "2,59,395.85"
+   ],
+   "id": "s010",
+   "group": "agreed"
+  },
+  {
+   "stmt": "CIPLA_2026_pl",
+   "pdf": "CIPLA/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+   "pages": [
+    {
+     "page": 352,
+     "name": "353",
+     "clip": [
+      0.0,
+      0.0,
+      594.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "crore",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Non-controlling interests",
+   "value_reader": -1.6,
+   "reader_index": 42,
+   "page": 352,
+   "search": [
+    "1.60"
+   ],
+   "id": "s011",
+   "group": "agreed"
+  },
+  {
+   "stmt": "POWERGRID_2026_pl",
+   "pdf": "POWERGRID/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5bfc82cf-cf35-4f6d-9d47-c00b6583a3bc.pdf",
+   "pages": [
+    {
+     "page": 283,
+     "name": "284L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 283,
+     "name": "284R",
+     "clip": [
+      595.3,
+      0.0,
+      1190.6,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Basic & Diluted (₹)",
+   "value_reader": 20.11,
+   "reader_index": 29,
+   "page": 283,
+   "search": [
+    "20.11"
+   ],
+   "id": "s012",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "HINDUNILVR_2026_pl",
+   "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+   "pages": [
+    {
+     "page": 185,
+     "name": "186L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 185,
+     "name": "186R",
+     "clip": [
+      595.3,
+      0.0,
+      1190.6,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Basic (in ₹)",
+   "value_reader": 45.36,
+   "reader_index": 53,
+   "page": 185,
+   "search": [
+    "45.36"
+   ],
+   "id": "s013",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "TECHM_2026_cf",
+   "pdf": "TECHM/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/758bed2c-792d-434f-a326-118a8b4e7989.pdf",
+   "pages": [
+    {
+     "page": 582,
+     "name": "583",
+     "clip": [
+      0.0,
+      0.0,
+      540.0,
+      774.0
+     ]
+    },
+    {
+     "page": 583,
+     "name": "584",
+     "clip": [
+      0.0,
+      0.0,
+      540.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "million",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Trade Payables",
+   "value_reader": 5166,
+   "reader_index": 20,
+   "page": 582,
+   "search": [
+    "5,166"
+   ],
+   "id": "s014",
+   "group": "agreed"
+  },
+  {
+   "stmt": "ICICIBANK_2026_pl",
+   "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+   "pages": [
+    {
+     "page": 373,
+     "name": "374",
+     "clip": [
+      0.0,
+      0.0,
+      594.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "thousand",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Basic (₹)",
+   "value_reader": 72.41,
+   "reader_index": 27,
+   "page": 373,
+   "search": [
+    "72.41"
+   ],
+   "id": "s015",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "HINDUNILVR_2026_pl",
+   "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+   "pages": [
+    {
+     "page": 185,
+     "name": "186L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 185,
+     "name": "186R",
+     "clip": [
+      595.3,
+      0.0,
+      1190.6,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Remeasurements of the net defined benefit plans",
+   "value_reader": 8,
+   "reader_index": 31,
+   "page": 185,
+   "search": [
+    "8"
+   ],
+   "id": "s016",
+   "group": "agreed"
+  },
+  {
+   "stmt": "KPRMILL_2026_cf",
+   "pdf": "KPRMILL/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7176212b-4cc0-474d-850c-b514102e2234.pdf",
+   "pages": [
+    {
+     "page": 178,
+     "name": "179",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      793.7
+     ]
+    },
+    {
+     "page": 179,
+     "name": "180",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      793.7
+     ]
+    }
+   ],
+   "unit": "lakh",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Net cash flow from / (used in) investing activities",
+   "value_reader": -45003,
+   "reader_index": 36,
+   "page": 178,
+   "search": [
+    "45,003"
+   ],
+   "id": "s017",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "ICICIBANK_2026_pl",
+   "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+   "pages": [
+    {
+     "page": 373,
+     "name": "374",
+     "clip": [
+      0.0,
+      0.0,
+      594.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "thousand",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Consolidated profit/(loss) for the year attributable to the Group",
+   "value_reader": 510291955,
+   "reader_index": 14,
+   "page": 373,
+   "search": [
+    "51,02,91,955"
+   ],
+   "id": "s018",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "HINDUNILVR_2026_pl",
+   "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+   "pages": [
+    {
+     "page": 185,
+     "name": "186L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 185,
+     "name": "186R",
+     "clip": [
+      595.3,
+      0.0,
+      1190.6,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Diluted (in ₹)",
+   "value_reader": 64,
+   "reader_index": 60,
+   "page": 185,
+   "search": [
+    "64"
+   ],
+   "id": "s019",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "ICICIBANK_2026_pl",
+   "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+   "pages": [
+    {
+     "page": 373,
+     "name": "374",
+     "clip": [
+      0.0,
+      0.0,
+      594.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "thousand",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Face value per share (₹)",
+   "value_reader": 2,
+   "reader_index": 29,
+   "page": 373,
+   "search": [
+    "2"
+   ],
+   "id": "s020",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "ICICIBANK_2026_cf",
+   "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+   "pages": [
+    {
+     "page": 374,
+     "name": "375",
+     "clip": [
+      0.0,
+      0.0,
+      594.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "thousand",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Cash and cash equivalents at beginning of the year",
+   "value_reader": 2140234637,
+   "reader_index": 34,
+   "page": 375,
+   "search": [
+    "2,14,02,34,637"
+   ],
+   "id": "s021",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "ICICIBANK_2026_cf",
+   "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+   "pages": [
+    {
+     "page": 374,
+     "name": "375",
+     "clip": [
+      0.0,
+      0.0,
+      594.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "thousand",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Cash and cash equivalents at end of the year",
+   "value_reader": 2649807233,
+   "reader_index": 35,
+   "page": 375,
+   "search": [
+    "2,64,98,07,233"
+   ],
+   "id": "s022",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "ICICIBANK_2026_pl",
+   "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+   "pages": [
+    {
+     "page": 373,
+     "name": "374",
+     "clip": [
+      0.0,
+      0.0,
+      594.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "thousand",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Consolidated profit/(loss) for the year attributable to the Group",
+   "value_reader": 542077028,
+   "reader_index": 14,
+   "page": 373,
+   "search": [
+    "54,20,77,028"
+   ],
+   "id": "s023",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "KPRMILL_2026_cf",
+   "pdf": "KPRMILL/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7176212b-4cc0-474d-850c-b514102e2234.pdf",
+   "pages": [
+    {
+     "page": 178,
+     "name": "179",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      793.7
+     ]
+    },
+    {
+     "page": 179,
+     "name": "180",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      793.7
+     ]
+    }
+   ],
+   "unit": "lakh",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Net cash flow from / (used in) investing activities",
+   "value_reader": -106832,
+   "reader_index": 36,
+   "page": 178,
+   "search": [
+    "1,06,832"
+   ],
+   "id": "s024",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "DRREDDY_2026_bs",
+   "pdf": "DRREDDY/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4d586a3-1dea-4aca-9bdc-143fa8564ad1.pdf",
+   "pages": [
+    {
+     "page": 192,
+     "name": "193L",
+     "clip": [
+      0.0,
+      0.0,
+      612.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "million",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Trade receivables",
+   "value_reader": 101234,
+   "reader_index": 19,
+   "page": 192,
+   "search": [
+    "1,01,234"
+   ],
+   "id": "s025",
+   "group": "agreed"
+  },
+  {
+   "stmt": "CIPLA_2026_pl",
+   "pdf": "CIPLA/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+   "pages": [
+    {
+     "page": 352,
+     "name": "353",
+     "clip": [
+      0.0,
+      0.0,
+      594.0,
+      774.0
+     ]
+    }
+   ],
+   "unit": "crore",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Owners of the parent",
+   "value_reader": 216.94,
+   "reader_index": 38,
+   "page": 352,
+   "search": [
+    "216.94"
+   ],
+   "id": "s026",
+   "group": "claude_only"
+  },
+  {
+   "stmt": "BAJAJFINSV_2026_bs",
+   "pdf": "BAJAJFINSV/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10f5cbe1-4794-4934-9219-da6586f3fe74.pdf",
+   "pages": [
+    {
+     "page": 231,
+     "name": "232",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    },
+    {
+     "page": 232,
+     "name": "233",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Other financial assets",
+   "value_reader": 17930.33,
+   "reader_index": 10,
+   "page": 231,
+   "search": [
+    "17,930.33"
+   ],
+   "id": "s027",
+   "group": "agreed"
+  },
+  {
+   "stmt": "HCLTECH_2026_bs",
+   "pdf": "HCLTECH/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf",
+   "pages": [
+    {
+     "page": 395,
+     "name": "396",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      756.0
+     ]
+    },
+    {
+     "page": 396,
+     "name": "397",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      756.0
+     ]
+    }
+   ],
+   "unit": "crore",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Other bank balances",
+   "value_reader": 13044,
+   "reader_index": 24,
+   "page": 395,
+   "search": [
+    "13,044"
+   ],
+   "id": "s028",
+   "group": "agreed"
+  },
+  {
+   "stmt": "PIDILITIND_2026_cf",
+   "pdf": "PIDILITIND/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/84c374a7-10a3-4a3b-8693-cc7e75a0a6b8.pdf",
+   "pages": [
+    {
+     "page": 266,
+     "name": "267",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      779.5
+     ]
+    },
+    {
+     "page": 267,
+     "name": "268",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      779.5
+     ]
+    }
+   ],
+   "unit": "crore",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2025,
+   "label_reader": "Allowance for Doubtful Debts and Advances (net)",
+   "value_reader": 21.42,
+   "reader_index": 8,
+   "page": 266,
+   "search": [
+    "21.42"
+   ],
+   "id": "s029",
+   "group": "agreed"
+  },
+  {
+   "stmt": "JSWSTEEL_2026_bs",
+   "pdf": "JSWSTEEL/AnnualReports/Annual Report 2026.pdf",
+   "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf",
+   "pages": [
+    {
+     "page": 287,
+     "name": "288L",
+     "clip": [
+      0.0,
+      0.0,
+      595.3,
+      841.9
+     ]
+    }
+   ],
+   "unit": "crore",
+   "scope": "consolidated",
+   "kind": "value",
+   "year": 2026,
+   "label_reader": "Borrowings",
+   "value_reader": 19924,
+   "reader_index": 53,
+   "page": 287,
+   "search": [
+    "19,924"
+   ],
+   "id": "s030",
+   "group": "agreed"
+  }
+ ],
+ "created_at": "2026-11-04 11:29 UTC"
+}

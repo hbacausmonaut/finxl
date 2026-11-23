@@ -1,0 +1,534 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "DRREDDY",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 194,
+   "name": "195R",
+   "clip": [
+    612.0,
+    0.0,
+    1224.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "DRREDDY/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4d586a3-1dea-4aca-9bdc-143fa8564ad1.pdf",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flows from / (used in) operating activities :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    53927,
+    76795
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value changes and profit on sale of financial instruments measured at FVTPL*, net",
+   "values": [
+    -2359,
+    -3554
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    20588,
+    17037
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment of non-current assets, net",
+   "values": [
+    3518,
+    1693
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Allowance for credit losses (on trade receivables and other advances)",
+   "values": [
+    690,
+    161
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on sale/disposal of assets, net",
+   "values": [
+    -2547,
+    -1512
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of equity accounted investees",
+   "values": [
+    -134,
+    -217
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unrealized exchange loss/(gain), net",
+   "values": [
+    -529,
+    211
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -3726,
+    -2677
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    3738,
+    2829
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity settled share-based payment expense",
+   "values": [
+    326,
+    424
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories write-down",
+   "values": [
+    7517,
+    5220
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in operating assets and liabilities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    -6722,
+    -10283
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -8601,
+    -12753
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    2790,
+    340
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other assets and other liabilities, net",
+   "values": [
+    1787,
+    -7293
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows generated from operations",
+   "values": [
+    70263,
+    66421
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax paid, net",
+   "values": [
+    -13526,
+    -19993
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows from operating activities",
+   "values": [
+    56737,
+    46428
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows from / (used in) investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of property, plant and equipment",
+   "values": [
+    -23306,
+    -27504
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    309,
+    512
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of other intangible assets",
+   "values": [
+    -15099,
+    -6894
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of other intangible assets",
+   "values": [
+    1401,
+    732
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in associates",
+   "values": [
+    -51,
+    -317
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of investments (including bank deposits)",
+   "values": [
+    -46718,
+    -28492
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of investments (including bank deposits)",
+   "values": [
+    19602,
+    53610
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for acquisition of business(Refer note 2.39 B)",
+   "values": [
+    -3152,
+    -53096
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest and dividend received",
+   "values": [
+    1521,
+    3372
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows used in investing activities",
+   "values": [
+    -65493,
+    -58077
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows from / (used in) financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issuance of equity shares (including treasury shares)",
+   "values": [
+    397,
+    193
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of treasury shares",
+   "values": [
+    null,
+    -1389
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from short-term loans and borrowings, net (Refer note 2.11 A & 2.11 B)",
+   "values": [
+    20257,
+    24490
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of long-term loans and borrowings (Refer note 2.11 A & 2.11 B)",
+   "values": [
+    -1,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Proceeds from issuance of equity shares in subsidiary to non controlling interest (Refer note 2.39 A)",
+   "values": [
+    null,
+    7056
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of principal portion of lease liabilities (Refer note 2.11 C)",
+   "values": [
+    -1263,
+    -1294
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -6659,
+    -6662
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -4441,
+    -3483
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows from financing activities",
+   "values": [
+    8290,
+    18911
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents",
+   "values": [
+    -466,
+    7262
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    1241,
+    224
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year (Refer note 2.7 D)",
+   "values": [
+    14593,
+    7107
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year (1)(Refer note 2.7 D)",
+   "values": [
+    15368,
+    14593
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 47,
+  "rows_reader": 47,
+  "rows_aligned": 47,
+  "rows_agreed": 43,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 4,
+  "value_diffs": 0,
+  "values_reader": 81,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "million",
+  "unit_reader": "million"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 37,
+   "reader_index": 37,
+   "label_parser": "Repayment of long-term loans and borrowings (Refer note A & 2.11 B)",
+   "label_reader": "Repayment of long-term loans and borrowings (Refer note 2.11 A & 2.11 B)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -1,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": -1,
+    "2025": null
+   },
+   "page": 194,
+   "search": [
+    "1",
+    "1"
+   ],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 39,
+   "reader_index": 39,
+   "label_parser": "Payment of principal portion of lease liabilities (Refer note C)",
+   "label_reader": "Payment of principal portion of lease liabilities (Refer note 2.11 C)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -1263,
+    "2025": -1294
+   },
+   "values_reader": {
+    "2026": -1263,
+    "2025": -1294
+   },
+   "page": 194,
+   "search": [
+    "1,263",
+    "1,294"
+   ],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 45,
+   "reader_index": 45,
+   "label_parser": "Cash and cash equivalents at the beginning of the year (Refer note D)",
+   "label_reader": "Cash and cash equivalents at the beginning of the year (Refer note 2.7 D)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 14593,
+    "2025": 7107
+   },
+   "values_reader": {
+    "2026": 14593,
+    "2025": 7107
+   },
+   "page": 194,
+   "search": [
+    "14,593",
+    "7,107"
+   ],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 46,
+   "reader_index": 46,
+   "label_parser": "Cash and cash equivalents at the end of the year (1)(Refer note D)",
+   "label_reader": "Cash and cash equivalents at the end of the year (1)(Refer note 2.7 D)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 15368,
+    "2025": 14593
+   },
+   "values_reader": {
+    "2026": 15368,
+    "2025": 14593
+   },
+   "page": 194,
+   "search": [
+    "15,368",
+    "14,593"
+   ],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  }
+ ]
+}

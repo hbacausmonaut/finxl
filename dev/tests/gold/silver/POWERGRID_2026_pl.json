@@ -1,0 +1,620 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "POWERGRID",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 283,
+   "name": "284L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 283,
+   "name": "284R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "POWERGRID/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5bfc82cf-cf35-4f6d-9d47-c00b6583a3bc.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue From Operations",
+   "values": [
+    46732.87,
+    45792.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    951.56,
+    1667.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    47684.43,
+    47459.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    2668.9,
+    2604.4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    8447.58,
+    8700.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    13029.68,
+    12904.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    6084.9,
+    4122.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    30231.06,
+    28331.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before Share of net profit/(loss) of investments in Joint Ventures accounted for using Equity Method, Tax and Regulatory Deferral Account Balances",
+   "values": [
+    17453.37,
+    19128.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of net profit/(loss) of investments in Joint Ventures accounted for using Equity Method",
+   "values": [
+    -132.34,
+    -110.26
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Profit before Tax and Regulatory Deferral Account Balances",
+   "values": [
+    17321.03,
+    19017.89
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Tax expense:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax - Current Year",
+   "values": [
+    3164.61,
+    3362.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "- Earlier Years",
+   "values": [
+    34.69,
+    0.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -4580.61,
+    410.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -1381.31,
+    3772.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the period before Regulatory Deferral Account Balances",
+   "values": [
+    18702.34,
+    15245.13
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Net movement in Regulatory Deferral Account Balances - Income/ (Expenses) (net of tax)",
+   "values": [
+    -2774.39,
+    276.31
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Profit for the period attributable to owners of the parent",
+   "values": [
+    15927.95,
+    15521.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss (net of tax)",
+   "values": [
+    173.54,
+    -239.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss (net of tax)",
+   "values": [
+    93.52,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of Other comprehensive income of Joint Ventures accounted for using Equity Method",
+   "values": [
+    -1.23,
+    3.06
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total Comprehensive Income for the period attributable to owners of the parent",
+   "values": [
+    16193.78,
+    15285.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share including movement in Regulatory Deferral Account Balances (Face value ₹ 10/- each):",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic & Diluted (₹)",
+   "values": [
+    17.13,
+    16.69
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Earnings per equity share excluding movement in Regulatory Deferral Account Balances (Face value ₹ 10/- each):",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic & Diluted (₹)",
+   "values": [
+    20.11,
+    16.39
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 31,
+  "rows_reader": 30,
+  "rows_aligned": 26,
+  "rows_agreed": 21,
+  "missing_in_parser": 4,
+  "extra_in_parser": 5,
+  "label_diffs": 5,
+  "value_diffs": 0,
+  "values_reader": 47,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 11,
+   "reader_index": 11,
+   "label_parser": "Share of net profit/(loss) of investments in Joint",
+   "label_reader": "Share of net profit/(loss) of investments in Joint Ventures accounted for using Equity Method",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -132.34,
+    "2025": -110.26
+   },
+   "values_reader": {
+    "2026": -132.34,
+    "2025": -110.26
+   },
+   "page": 283,
+   "search": [
+    "132.34",
+    "110.26"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 12,
+   "reader_index": null,
+   "label_parser": "Ventures accounted for using Equity Method",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 283,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 13,
+   "reader_index": 12,
+   "label_parser": "Profit before Tax and Regulatory Deferral Account",
+   "label_reader": "Profit before Tax and Regulatory Deferral Account Balances",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 17321.03,
+    "2025": 19017.89
+   },
+   "values_reader": {
+    "2026": 17321.03,
+    "2025": 19017.89
+   },
+   "page": 283,
+   "search": [
+    "17,321.03",
+    "19,017.89"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 14,
+   "reader_index": null,
+   "label_parser": "Balances",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 283,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 20,
+   "reader_index": 18,
+   "label_parser": "Profit for the period before Regulatory Deferral",
+   "label_reader": "Profit for the period before Regulatory Deferral Account Balances",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 18702.34,
+    "2025": 15245.13
+   },
+   "values_reader": {
+    "2026": 18702.34,
+    "2025": 15245.13
+   },
+   "page": 283,
+   "search": [
+    "18,702.34",
+    "15,245.13"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 21,
+   "reader_index": null,
+   "label_parser": "Account Balances",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 283,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d007",
+   "kind": "label",
+   "year": null,
+   "parser_index": 22,
+   "reader_index": 19,
+   "label_parser": "Net movement in Regulatory Deferral Account",
+   "label_reader": "Net movement in Regulatory Deferral Account Balances - Income/ (Expenses) (net of tax)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -2774.39,
+    "2025": 276.31
+   },
+   "values_reader": {
+    "2026": -2774.39,
+    "2025": 276.31
+   },
+   "page": 283,
+   "search": [
+    "2,774.39",
+    "276.31"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d008",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 23,
+   "reader_index": null,
+   "label_parser": "Balances - Income/ (Expenses) (net of tax)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 283,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d009",
+   "kind": "label",
+   "year": null,
+   "parser_index": 28,
+   "reader_index": 24,
+   "label_parser": "Share of Other comprehensive income of Joint",
+   "label_reader": "Share of Other comprehensive income of Joint Ventures accounted for using Equity Method",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -1.23,
+    "2025": 3.06
+   },
+   "values_reader": {
+    "2026": -1.23,
+    "2025": 3.06
+   },
+   "page": 283,
+   "search": [
+    "1.23",
+    "3.06"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d010",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 29,
+   "reader_index": null,
+   "label_parser": "Ventures accounted for using Equity Method",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 283,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d011",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 26,
+   "label_parser": null,
+   "label_reader": "Earnings per equity share including movement in Regulatory Deferral Account Balances (Face value ₹ 10/- each):",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 283,
+   "search": [],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d012",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 27,
+   "label_parser": null,
+   "label_reader": "Basic & Diluted (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 17.13,
+    "2025": 16.69
+   },
+   "page": 283,
+   "search": [
+    "17.13",
+    "16.69"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d013",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 28,
+   "label_parser": null,
+   "label_reader": "Earnings per equity share excluding movement in Regulatory Deferral Account Balances (Face value ₹ 10/- each):",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 283,
+   "search": [],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  },
+  {
+   "id": "d014",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 29,
+   "label_parser": null,
+   "label_reader": "Basic & Diluted (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 20.11,
+    "2025": 16.39
+   },
+   "page": 283,
+   "search": [
+    "20.11",
+    "16.39"
+   ],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  }
+ ]
+}

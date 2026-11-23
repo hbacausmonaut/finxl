@@ -1,0 +1,858 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "GRASIM",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 420,
+   "name": "421",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    774.0
+   ]
+  },
+  {
+   "page": 421,
+   "name": "422",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    774.0
+   ]
+  },
+  {
+   "page": 422,
+   "name": "423",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "GRASIM/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb984eea-0f01-4339-9cf9-b1946e60f65a.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash Flow from Operating Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit Before Tax after Exceptional Items and before Share in Profit/(Loss) of Equity Accounted Investees",
+   "values": [
+    14283.31,
+    10528.27
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Adjustments For:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional Items (Note 3.11)",
+   "values": [
+    322.92,
+    238.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and Amortisation Expenses",
+   "values": [
+    7725.94,
+    6453.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    3539.92,
+    2802.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    -391.92,
+    -503.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend Income",
+   "values": [
+    -44.72,
+    -31.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses on Employee Stock Options and Stock Appreciation Rights Expenses",
+   "values": [
+    272.12,
+    201.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Allowance for Credit Losses on Advances/Debts (Net)",
+   "values": [
+    17.83,
+    56.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in Valuation of Liabilities in respect of Insurance Policies in force",
+   "values": [
+    6983.45,
+    9119.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment on Financial Instruments",
+   "values": [
+    1696.57,
+    1502.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Excess Provision Written Back (Net)",
+   "values": [
+    -179.86,
+    -64.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Gain)/Loss on Sale/Discard of Property, Plant and Equipment (Net)",
+   "values": [
+    -7.26,
+    -26.37
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on Sale of Investments (Net)",
+   "values": [
+    -172.6,
+    -578.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unrealised Gain and fair value adjustments on Investments measured at Fair Value through Profit and Loss (Net)",
+   "values": [
+    -13.55,
+    -1445.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unrealised Exchange (Gain)/Loss (Net)",
+   "values": [
+    -28.98,
+    65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair Value Adjustments to Borrowings",
+   "values": [
+    -46.91,
+    -51.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating Profit Before Working Capital Changes",
+   "values": [
+    33956.26,
+    28268.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustment for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    -1587.01,
+    -1220.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans of Financing Business",
+   "values": [
+    -43434.64,
+    -31229.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial and Other Assets",
+   "values": [
+    -3222.36,
+    -741.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    249.24,
+    -1153.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade Payables, Other Liabilities and Provision",
+   "values": [
+    4637.44,
+    360.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments of Life Insurance Policyholders",
+   "values": [
+    -5908.04,
+    -8902.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from/(used in) Operations",
+   "values": [
+    -15309.11,
+    -14618.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income Taxes Paid (Net of Refund)",
+   "values": [
+    -2500.5,
+    -2551.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash generated from/(used in) Operating Activities (A)",
+   "values": [
+    -17809.61,
+    -17169.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flow from Investing Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Property, Plant and Equipment and other Intangible Assets",
+   "values": [
+    -15626.26,
+    -17181.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Disposal of Property, Plant and Equipment and Other Intangible Assets",
+   "values": [
+    212.96,
+    199.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Sale and Leaseback of owned Assets",
+   "values": [
+    92.91,
+    463.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acquisition of Equity Shares in Subsidiaries",
+   "values": [
+    -52.73,
+    -10112.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments in Joint Ventures and Associates",
+   "values": [
+    -425.08,
+    -395.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Sale of Non-Current Investments",
+   "values": [
+    4140.48,
+    19431
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Non-Current Investments",
+   "values": [
+    -6573.48,
+    -15486.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Purchase)/Proceeds from Sale of Investments and Shareholders' Investments of Life Insurance Business (Current) {Net}",
+   "values": [
+    -683.85,
+    -274.34
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Proceeds on Disposal of Subsidiaries",
+   "values": [
+    788.51,
+    319.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Other Non-Current Investments",
+   "values": [
+    -62.63,
+    -879.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Redemption/(Investment) in Other Bank Deposits",
+   "values": [
+    -174.2,
+    -641.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for Cost of Assets Transferred",
+   "values": [
+    -94.98,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans and Advances Given to Joint Ventures and Associates",
+   "values": [
+    null,
+    -35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Receipt against Loans and Advances given to Joint Ventures and Associates",
+   "values": [
+    33.5,
+    46.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Received",
+   "values": [
+    265.81,
+    357.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend Received",
+   "values": [
+    355.87,
+    207.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash generated from/(used in) Investing Activities (B)",
+   "values": [
+    -17803.17,
+    -23982.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flow from Financing Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Issue of Share Capital under ESOP Scheme",
+   "values": [
+    124.43,
+    70.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Rights Issue (Net of share issue expenses)",
+   "values": [
+    1.97,
+    2992.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "”Proceeds from Shares issued by Subsidiary Company (Including Securities Premium) (Net of Share Issue Expenses)”",
+   "values": [
+    -3.09,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Treasury Shares Acquired by ESOP Trust",
+   "values": [
+    -313.22,
+    -186.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Issue of Treasury Shares",
+   "values": [
+    97.88,
+    71.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity Infusion by Minority Shareholders in Subsidiary Companies",
+   "values": [
+    999.54,
+    152.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Non-Current Borrowings",
+   "values": [
+    63789.36,
+    65682.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayments of Non-Current Borrowings",
+   "values": [
+    -30468.93,
+    -23759.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds/(Repayments) of Current Borrowings (Net)",
+   "values": [
+    5599.83,
+    3154.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Inter-Corporate Loans",
+   "values": [
+    null,
+    33.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayments of Inter-Corporate Loans",
+   "values": [
+    -68.49,
+    -3.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayments of Lease Liabilities (including Interest)",
+   "values": [
+    -909.82,
+    -630.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest and Finance Charges Paid",
+   "values": [
+    -3655.32,
+    -3016.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend Paid",
+   "values": [
+    -1671.23,
+    -1584.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash generated from/(used in) Financing Activities",
+   "values": [
+    33522.91,
+    42977.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Increase/(Decrease) in Cash and Cash Equivalents (A + B + C)",
+   "values": [
+    -2089.87,
+    1826.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents as at the beginning of the Year (Refer Note 2.20)",
+   "values": [
+    4882.7,
+    2387.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement & Construction Materials P.S.C. (RAKWCT) (Refer Note 4.3.c)",
+   "values": [
+    null,
+    1.89
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash and Cash Equivalents acquired from Kesoram Industries Limited (Refer Note 4.3.a)",
+   "values": [
+    null,
+    76.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents on acquisition of The India Cements Limited (Refer Note 4.3.b)",
+   "values": [
+    null,
+    586.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Effect of Exchange Rate on Consolidation of Foreign Subsidiaries",
+   "values": [
+    5.06,
+    3.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cash Equivalents at the end of the Year (Refer Note 2.20)",
+   "values": [
+    2797.89,
+    4882.7
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 76,
+  "rows_reader": 70,
+  "rows_aligned": 70,
+  "rows_agreed": 66,
+  "missing_in_parser": 0,
+  "extra_in_parser": 6,
+  "label_diffs": 4,
+  "value_diffs": 0,
+  "values_reader": 123,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 1,
+   "reader_index": 1,
+   "label_parser": "Profit Before Tax after Exceptional Items and before Share in Profit/(Loss) of Equity",
+   "label_reader": "Profit Before Tax after Exceptional Items and before Share in Profit/(Loss) of Equity Accounted Investees",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 14283.31,
+    "2025": 10528.27
+   },
+   "values_reader": {
+    "2026": 14283.31,
+    "2025": 10528.27
+   },
+   "page": 420,
+   "search": [
+    "14,283.31",
+    "10,528.27"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 2,
+   "reader_index": null,
+   "label_parser": "Accounted Investees",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 420,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 38,
+   "reader_index": 37,
+   "label_parser": "(Purchase)/Proceeds from Sale of Investments and Shareholders' Investments of Life",
+   "label_reader": "(Purchase)/Proceeds from Sale of Investments and Shareholders' Investments of Life Insurance Business (Current) {Net}",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -683.85,
+    "2025": -274.34
+   },
+   "values_reader": {
+    "2026": -683.85,
+    "2025": -274.34
+   },
+   "page": 420,
+   "search": [
+    "683.85",
+    "274.34"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 39,
+   "reader_index": null,
+   "label_parser": "Insurance Business (Current) {Net}",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 420,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 52,
+   "reader_index": 50,
+   "label_parser": "\"Proceeds from Shares issued by Subsidiary Company (Including Securities Premium)",
+   "label_reader": "”Proceeds from Shares issued by Subsidiary Company (Including Securities Premium) (Net of Share Issue Expenses)”",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -3.09,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": -3.09,
+    "2025": null
+   },
+   "page": 421,
+   "search": [
+    "3.09",
+    "3.09"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 53,
+   "reader_index": null,
+   "label_parser": "(Net of Share Issue Expenses)\"",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 420,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d007",
+   "kind": "label",
+   "year": null,
+   "parser_index": 68,
+   "reader_index": 65,
+   "label_parser": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement &",
+   "label_reader": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement & Construction Materials P.S.C. (RAKWCT) (Refer Note 4.3.c)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 1.89
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": 1.89
+   },
+   "page": 421,
+   "search": [
+    "1.89",
+    "1.89"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d008",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 69,
+   "reader_index": null,
+   "label_parser": "Construction Materials P.S.C. (RAKWCT) (Refer Note 4.3.c)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 420,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d009",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 71,
+   "reader_index": null,
+   "label_parser": "(Refer Note 4.3.a)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 420,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d010",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 73,
+   "reader_index": null,
+   "label_parser": "(Refer Note 4.3.b)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 420,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  }
+ ]
+}

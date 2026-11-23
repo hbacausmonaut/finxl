@@ -1,0 +1,612 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "BAJAJFINSV",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 231,
+   "name": "232",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 232,
+   "name": "233",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "BAJAJFINSV/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10f5cbe1-4794-4934-9219-da6586f3fe74.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    3598.59,
+    5762.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    14019.45,
+    9974.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Derivative financial instruments",
+   "values": [
+    2418.38,
+    1032.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    9332.08,
+    8319.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans",
+   "values": [
+    500015.97,
+    408490.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in joint venture and associates",
+   "values": [
+    416.8,
+    400.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Shareholders' investments",
+   "values": [
+    47883.1,
+    53556.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Policyholders' investments",
+   "values": [
+    146113.64,
+    136173.4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    23093.53,
+    17930.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    746891.54,
+    641639.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    424.2,
+    682.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    2051.08,
+    1201.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment properties",
+   "values": [
+    28.4,
+    29.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    2862.66,
+    2782.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    1500.97,
+    1374.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    250.31,
+    122.95
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    71,
+    191.08
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Goodwill on consolidation",
+   "values": [
+    802.84,
+    802.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    1534.2,
+    1308.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-financial assets",
+   "values": [
+    2080.34,
+    2097.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    11606,
+    10592.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    758497.54,
+    652231.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "LIABILITIES AND EQUITY",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    29.03,
+    31.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    9023.09,
+    7933.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    0.33,
+    0.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    2440.86,
+    2595.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Derivative financial instruments",
+   "values": [
+    1557.94,
+    76.03
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Debt securities",
+   "values": [
+    186264.24,
+    147740.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings (other than debt securities)",
+   "values": [
+    170642.53,
+    132102.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    68535.45,
+    71403.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Subordinated liabilities",
+   "values": [
+    2805.31,
+    3103.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Insurance contracts liabilities",
+   "values": [
+    147817.93,
+    134678.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment contracts liabilities",
+   "values": [
+    13336.99,
+    12943.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    1666.43,
+    1504.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    4200.79,
+    2632.59
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    608320.92,
+    516745.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    628.82,
+    460.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    2.8,
+    712.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1018.3,
+    676.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-financial liabilities",
+   "values": [
+    7561.42,
+    5201.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    9211.34,
+    7051.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    159.87,
+    159.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    77754.66,
+    72235.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    63050.75,
+    56038.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    140965.28,
+    128434.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    758497.54,
+    652231.61
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 59,
+  "rows_reader": 57,
+  "rows_aligned": 57,
+  "rows_agreed": 55,
+  "missing_in_parser": 0,
+  "extra_in_parser": 2,
+  "label_diffs": 2,
+  "value_diffs": 0,
+  "values_reader": 92,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 0,
+   "reader_index": null,
+   "label_parser": "As at 31 March",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 231,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 19,
+   "reader_index": 18,
+   "label_parser": "Capital work-in-progress 46(18)",
+   "label_reader": "Capital work-in-progress",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 250.31,
+    "2025": 122.95
+   },
+   "values_reader": {
+    "2026": 250.31,
+    "2025": 122.95
+   },
+   "page": 231,
+   "search": [
+    "250.31",
+    "122.95"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 20,
+   "reader_index": 19,
+   "label_parser": "Intangible assets under development 46(19)",
+   "label_reader": "Intangible assets under development",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 71,
+    "2025": 191.08
+   },
+   "values_reader": {
+    "2026": 71,
+    "2025": 191.08
+   },
+   "page": 231,
+   "search": [
+    "71",
+    "191.08"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 26,
+   "reader_index": null,
+   "label_parser": "As at 31 March",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 231,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  }
+ ]
+}

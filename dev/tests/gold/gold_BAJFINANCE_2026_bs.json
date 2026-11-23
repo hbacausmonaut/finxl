@@ -1,0 +1,441 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "BAJFINANCE",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 410,
+   "name": "411",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 411,
+   "name": "412",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "BAJFINANCE\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    1896.9,
+    3642.46
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    13858.42,
+    9901.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Derivative financial instruments",
+   "values": [
+    2391.86,
+    250.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    1908.08,
+    1913.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans",
+   "values": [
+    498943.54,
+    407844.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    30577.8,
+    34440.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    4300.41,
+    2444.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    553877.01,
+    460437.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    229.59,
+    480.77
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    1560.07,
+    1141.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    2851.06,
+    2688.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    61.83,
+    26.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    57.58,
+    14.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    3.27,
+    3.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    1092.23,
+    1088.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-financial assets",
+   "values": [
+    219.72,
+    246.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    6075.35,
+    5689.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    559952.36,
+    466126.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "LIABILITIES AND EQUITY",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Derivative financial instruments",
+   "values": [
+    61.58,
+    37.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    0.91,
+    1.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    2103.62,
+    1876.24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    0.33,
+    0.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    1173.47,
+    930.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Debt securities",
+   "values": [
+    193131.9,
+    154639.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings (other than debt securities)",
+   "values": [
+    170642.53,
+    132102.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    68532.75,
+    71403.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Subordinated liabilities",
+   "values": [
+    2805.31,
+    3103.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    2796.16,
+    1948.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    441248.56,
+    366042.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    260.24,
+    100.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    748.94,
+    514.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-financial liabilities",
+   "values": [
+    709.08,
+    532.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    1718.26,
+    1147.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    621.79,
+    124.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    113377.23,
+    96568.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    113999.02,
+    96692.87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    2986.52,
+    2244.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    116985.54,
+    98936.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total liabilities and equity",
+   "values": [
+    559952.36,
+    466126.83
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

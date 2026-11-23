@@ -1,0 +1,551 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "RELIANCE",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 141,
+   "name": "142L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 141,
+   "name": "142R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "RELIANCE/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash Flow from Operating Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax as per Statement of Profit and Loss",
+   "values": [
+    123162,
+    106017
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Adjusted for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss on Sale / Discard of Property, Plant and Equipment and Other Intangible Assets (Net)",
+   "values": [
+    143,
+    135
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation / Amortisation and Depletion Expense",
+   "values": [
+    57688,
+    53136
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effect of Exchange Rate Change",
+   "values": [
+    6518,
+    -2182
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Gain on Financial Assets",
+   "values": [
+    -2946,
+    -1557
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend Income",
+   "values": [
+    -9100,
+    -504
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    -13302,
+    -12410
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    27061,
+    24269
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sub-Total",
+   "values": [
+    66062,
+    60887
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating Profit before Working Capital Changes",
+   "values": [
+    189224,
+    166904
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjusted for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade and Other Receivables",
+   "values": [
+    -53322,
+    -17837
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -20790,
+    3134
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade and Other Payables",
+   "values": [
+    86609,
+    38427
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sub-Total",
+   "values": [
+    12497,
+    23724
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Generated from Operations",
+   "values": [
+    201721,
+    190628
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Taxes Paid (Net)",
+   "values": [
+    -9608,
+    -11925
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash Flow from Operating Activities",
+   "values": [
+    192113,
+    178703
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flow from Investing Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenditure for Property, Plant and Equipment, Spectrum and Other Intangible Assets",
+   "values": [
+    -122916,
+    -139967
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from disposal of Property, Plant and Equipment and Other Intangible Assets",
+   "values": [
+    826,
+    2343
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Investments",
+   "values": [
+    -988777,
+    -684340
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Sale of Financial Assets",
+   "values": [
+    991876,
+    672558
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of Deferred Payment Liabilities",
+   "values": [
+    -4736,
+    -4574
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    13538,
+    15833
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend Income from Associates",
+   "values": [
+    49,
+    49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend Income from Others",
+   "values": [
+    9051,
+    563
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash Used in Investing Activities",
+   "values": [
+    -101089,
+    -137535
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash Flow From Financing Activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Issue of Equity Share Capital",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Proceeds from Rights Issue",
+   "values": [
+    null,
+    22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of Lease Liabilities",
+   "values": [
+    -6508,
+    -2956
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from Borrowings - Non-current (including Current Maturities)",
+   "values": [
+    38871,
+    26378
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of Borrowings - Non-current (including Current Maturities)",
+   "values": [
+    -30881,
+    -31755
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings - Current (Net)",
+   "values": [
+    -5171,
+    24624
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of Dividend to Equity Holders of the Company",
+   "values": [
+    -7443,
+    -6766
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of Dividend to Non-Controlling Interest",
+   "values": [
+    -436,
+    -414
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Paid",
+   "values": [
+    -39981,
+    -41024
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash Flow from / (used in) Financing Activities",
+   "values": [
+    -51549,
+    -31891
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Increase in Cash and Cash Equivalents",
+   "values": [
+    39475,
+    9277
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Opening Balance of Cash and Cash Equivalents",
+   "values": [
+    106502,
+    97225
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Closing Balance of Cash and Cash Equivalents (Refer Note 10)",
+   "values": [
+    145977,
+    106502
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 49,
+  "rows_reader": 44,
+  "rows_aligned": 44,
+  "rows_agreed": 43,
+  "missing_in_parser": 0,
+  "extra_in_parser": 5,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 75,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 1,
+   "reader_index": 1,
+   "label_parser": "Net Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax as per",
+   "label_reader": "Net Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax as per Statement of Profit and Loss",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 123162,
+    "2025": 106017
+   },
+   "values_reader": {
+    "2026": 123162,
+    "2025": 106017
+   },
+   "page": 141,
+   "search": [
+    "1,23,162",
+    "1,06,017"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 2,
+   "reader_index": null,
+   "label_parser": "Statement of Profit and Loss",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 141,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d003",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 45,
+   "reader_index": null,
+   "label_parser": "Borrowings - Non-current (including Current Maturities)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 22504,
+    "2025": 266222
+   },
+   "values_reader": {},
+   "page": 141,
+   "search": [
+    "22,504",
+    "2,66,222"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 46,
+   "reader_index": null,
+   "label_parser": "(Refer Note 16)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 141,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d005",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 47,
+   "reader_index": null,
+   "label_parser": "Borrowings - Current (Refer Note 20)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1568,
+    "2025": 81308
+   },
+   "values_reader": {},
+   "page": 141,
+   "search": [
+    "1,568",
+    "81,308"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 48,
+   "reader_index": null,
+   "label_parser": "Total",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 24072,
+    "2025": 347530
+   },
+   "values_reader": {},
+   "page": 141,
+   "search": [
+    "24,072",
+    "3,47,530"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ]
+}

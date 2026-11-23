@@ -1,0 +1,382 @@
+{
+ "ticker": "KOTAKBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 63,
+   "name": "64",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  },
+  {
+   "page": 64,
+   "name": "65",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Profit before share in profit/(loss) of Associates",
+   "values": [
+    191806256.0,
+    219457376.0
+   ]
+  },
+  {
+   "label": "Add: Provision for tax",
+   "values": [
+    68120998.0,
+    70432918.0
+   ]
+  },
+  {
+   "label": "Net Profit before taxes",
+   "values": [
+    259927254.0,
+    289890294.0
+   ]
+  },
+  {
+   "label": "Adjustments for :- Employee Stock Options/units Expense",
+   "values": [
+    668166.0,
+    366850.0
+   ]
+  },
+  {
+   "label": "Depreciation on Group's property",
+   "values": [
+    10319164.0,
+    9409087.0
+   ]
+  },
+  {
+   "label": "Provision for Diminution/(Write back) in the value of Investments",
+   "values": [
+    -680544.0,
+    936479.0
+   ]
+  },
+  {
+   "label": "(Profit)/Loss on revaluation of Investments (net)",
+   "values": [
+    32206742.0,
+    1927938.0
+   ]
+  },
+  {
+   "label": "Profit on sale of investment in associate/subsidiary",
+   "values": [
+    -3677887.0,
+    -38034000.0
+   ]
+  },
+  {
+   "label": "Profit on sale of Investments (net)",
+   "values": [
+    -37598197.0,
+    -47302723.0
+   ]
+  },
+  {
+   "label": "Amortisation of Premium/Discount on Investments",
+   "values": [
+    996245.0,
+    151698.0
+   ]
+  },
+  {
+   "label": "Provision for Non Performing Assets, Standard Assets and Other Provisions",
+   "values": [
+    39684417.0,
+    37655876.0
+   ]
+  },
+  {
+   "label": "Profit on sale of Fixed assets",
+   "values": [
+    17876.0,
+    -458046.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    301863236.0,
+    254543453.0
+   ]
+  },
+  {
+   "label": "Adjustments for :- Decrease/(Increase) in Investments-Available for Sale, Held for Trading and Stock-in-Trade",
+   "values": [
+    152204159.0,
+    -6855669.0
+   ]
+  },
+  {
+   "label": "Increase in Advances",
+   "values": [
+    -831478661.0,
+    -593964822.0
+   ]
+  },
+  {
+   "label": "Increase in Other Assets",
+   "values": [
+    -145988069.0,
+    -51509361.0
+   ]
+  },
+  {
+   "label": "Increase in Deposits",
+   "values": [
+    722328513.0,
+    494387139.0
+   ]
+  },
+  {
+   "label": "Increase in Policyholders' Funds",
+   "values": [
+    110472810.0,
+    117454649.0
+   ]
+  },
+  {
+   "label": "Increase in Other Liabilities and Provisions",
+   "values": [
+    172196456.0,
+    18489034.0
+   ]
+  },
+  {
+   "label": "Sub-total",
+   "values": [
+    179735208.0,
+    -21999030.0
+   ]
+  },
+  {
+   "label": "Direct Taxes Paid",
+   "values": [
+    -64333320.0,
+    -63387093.0
+   ]
+  },
+  {
+   "label": "NET CASH FLOW FROM/(USED IN) OPERATING ACTIVITIES (A)",
+   "values": [
+    417265124.0,
+    169157330.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Fixed assets",
+   "values": [
+    -10579681.0,
+    -12128454.0
+   ]
+  },
+  {
+   "label": "Sale of Fixed assets",
+   "values": [
+    219458.0,
+    647585.0
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of Shares in Associates/Subsidiary (net of expenses)",
+   "values": [
+    12778117.0,
+    40730802.0
+   ]
+  },
+  {
+   "label": "Increase in Other Investments (including investments in HTM securities)",
+   "values": [
+    -167609250.0,
+    -281970757.0
+   ]
+  },
+  {
+   "label": "NET CASH FLOW FROM/(USED IN) INVESTING ACTIVITIES (B)",
+   "values": [
+    -165191356.0,
+    -252720824.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -4970975.0,
+    -3976240.0
+   ]
+  },
+  {
+   "label": "Money received on issue of Equity Shares/exercise of stock options",
+   "values": [
+    1871725.0,
+    464007.0
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in borrowings",
+   "values": [
+    -22285029.0,
+    225164282.0
+   ]
+  },
+  {
+   "label": "NET CASH FLOW FROM/(USED IN) FINANCING ACTIVITIES (C)",
+   "values": [
+    -25384279.0,
+    221652049.0
+   ]
+  },
+  {
+   "label": "Increase in Foreign Currency Translation Reserve (D)",
+   "values": [
+    3604012.0,
+    697552.0
+   ]
+  },
+  {
+   "label": "NET INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS",
+   "values": [
+    230293501.0,
+    138786107.0
+   ]
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AT THE BEGINNING OF THE YEAR (Refer Note below)",
+   "values": [
+    790617535.0,
+    652063874.0
+   ]
+  },
+  {
+   "label": "Less: Reduction due to deconsolidation of subsidiary during the year",
+   "values": [
+    null,
+    -232446.0
+   ]
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AT THE END OF THE YEAR (Refer Note below)",
+   "values": [
+    1020911036.0,
+    790617535.0
+   ]
+  },
+  {
+   "label": "Cash in hand (As per Schedule 6 I)",
+   "values": [
+    16917683.0,
+    17424803.0
+   ]
+  },
+  {
+   "label": "Balance with RBI in Current Account (As per Schedule 6 II (i))",
+   "values": [
+    170499682.0,
+    197788705.0
+   ]
+  },
+  {
+   "label": "Balance with RBI in Other Account (As per Schedule 6 II (ii))",
+   "values": [
+    325400000.0,
+    202270000.0
+   ]
+  },
+  {
+   "label": "Balance with banks in India in Current Account (As per Schedule 7 I (i) (a))",
+   "values": [
+    6103822.0,
+    4930913.0
+   ]
+  },
+  {
+   "label": "Balance with banks in India in Other Deposit Accounts (As per Schedule 7 I (i) (b))",
+   "values": [
+    149397564.0,
+    108884165.0
+   ]
+  },
+  {
+   "label": "Money at call and short notice in India with Other Agencies (As per Schedule 7 I (ii) (b))",
+   "values": [
+    204133123.0,
+    78832798.0
+   ]
+  },
+  {
+   "label": "Balance with banks Outside India",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "In Current Account (As per Schedule 7 II (i))",
+   "values": [
+    64490549.0,
+    61863125.0
+   ]
+  },
+  {
+   "label": "In Other Deposit Accounts (As per Schedule 7 II (ii))",
+   "values": [
+    83968613.0,
+    118623026.0
+   ]
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AT THE END OF THE YEAR",
+   "values": [
+    1020911036.0,
+    790617535.0
+   ]
+  }
+ ],
+ "pdf": "KOTAKBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1b719fb-23e9-4cb8-b303-720eb0e31cc4.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

@@ -1,0 +1,400 @@
+{
+ "ticker": "DMART",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 196,
+   "name": "197",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    737.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    17586.95,
+    14349.83
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    1299.96,
+    1099.35
+   ]
+  },
+  {
+   "label": "Right -of- use assets",
+   "values": [
+    2381.41,
+    1741.73
+   ]
+  },
+  {
+   "label": "Investment properties",
+   "values": [
+    7.26,
+    7.65
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    78.27,
+    78.27
+   ]
+  },
+  {
+   "label": "Intangible assets",
+   "values": [
+    36.42,
+    28.98
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    2.01,
+    2.01
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    196.71,
+    168.12
+   ]
+  },
+  {
+   "label": "Income tax assets (net)",
+   "values": [
+    16.8,
+    18.19
+   ]
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    6.71,
+    7.51
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    433.98,
+    426.45
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    22046.48,
+    17928.09
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    5900.64,
+    5044.37
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    2.0,
+    1.25
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    149.34,
+    153.79
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    283.71,
+    355.48
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    20.07,
+    2.72
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    726.6,
+    528.36
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    395.42,
+    306.23
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    7477.78,
+    6392.2
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    29524.26,
+    24320.29
+   ]
+  },
+  {
+   "label": "Equity and liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    651.96,
+    650.73
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    23812.08,
+    20777.02
+   ]
+  },
+  {
+   "label": "Equity attributable to equity holders of the Company",
+   "values": [
+    24464.04,
+    21427.75
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    -1.68,
+    -1.05
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    24462.36,
+    21426.7
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(ia) Lease liabilities",
+   "values": [
+    1142.54,
+    555.79
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    0.54,
+    0.49
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    14.7,
+    12.67
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    121.86,
+    112.48
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    1279.64,
+    681.43
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    965.27,
+    null
+   ]
+  },
+  {
+   "label": "(ia) Lease liabilities",
+   "values": [
+    317.18,
+    263.83
+   ]
+  },
+  {
+   "label": "Trade payables due to Micro and small enterprises",
+   "values": [
+    393.47,
+    289.53
+   ]
+  },
+  {
+   "label": "Other than micro and small enterprises",
+   "values": [
+    944.76,
+    781.28
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    637.19,
+    448.64
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    141.44,
+    138.62
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    111.42,
+    49.14
+   ]
+  },
+  {
+   "label": "Current Tax Liabilities (net)",
+   "values": [
+    271.53,
+    241.12
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    3782.26,
+    2212.16
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    29524.26,
+    24320.29
+   ]
+  }
+ ],
+ "pdf": "DMART/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

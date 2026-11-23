@@ -1,0 +1,372 @@
+{
+ "ticker": "KPRMILL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 176,
+   "name": "177",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    793.7
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "lakh",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    239519.0,
+    245947.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    6314.0,
+    4035.0
+   ]
+  },
+  {
+   "label": "Investment Property",
+   "values": [
+    584.0,
+    null
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    70.0,
+    70.0
+   ]
+  },
+  {
+   "label": "Intangible assets",
+   "values": [
+    97.0,
+    91.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    150.0,
+    150.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    4498.0,
+    4571.0
+   ]
+  },
+  {
+   "label": "Other tax assets (net)",
+   "values": [
+    31.0,
+    67.0
+   ]
+  },
+  {
+   "label": "Other non - current assets",
+   "values": [
+    13597.0,
+    8581.0
+   ]
+  },
+  {
+   "label": "Total non - current assets",
+   "values": [
+    264860.0,
+    263512.0
+   ]
+  },
+  {
+   "label": "(2) Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    184399.0,
+    186852.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    6263.0,
+    26261.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    63991.0,
+    58615.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    6386.0,
+    11454.0
+   ]
+  },
+  {
+   "label": "Bank balances other than Cash and cash equivalents",
+   "values": [
+    130445.0,
+    20364.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    872.0,
+    1013.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    26068.0,
+    28081.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    418424.0,
+    332640.0
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    683284.0,
+    596152.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    3418.0,
+    3418.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    566342.0,
+    496782.0
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    569760.0,
+    500200.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(2) Non - current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    2581.0,
+    5383.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    467.0,
+    null
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    14534.0,
+    12899.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    242.0,
+    150.0
+   ]
+  },
+  {
+   "label": "Total non- current liabilities",
+   "values": [
+    17824.0,
+    18432.0
+   ]
+  },
+  {
+   "label": "(3) Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    57033.0,
+    41213.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(A)Total outstanding dues of micro enterprises and small enterprises; and (A)",
+   "values": [
+    1610.0,
+    1259.0
+   ]
+  },
+  {
+   "label": "(B)Total outstanding dues of creditors other than micro enterprises and small enterprises (B)",
+   "values": [
+    21650.0,
+    20548.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    131.0,
+    9.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    14192.0,
+    13374.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    1084.0,
+    1117.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    95700.0,
+    77520.0
+   ]
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    113524.0,
+    95952.0
+   ]
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    683284.0,
+    596152.0
+   ]
+  }
+ ],
+ "pdf": "KPRMILL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7176212b-4cc0-474d-850c-b514102e2234.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

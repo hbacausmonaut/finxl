@@ -1,0 +1,550 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "VINATIORGA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 187,
+   "name": "188",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    777.6
+   ]
+  }
+ ],
+ "pdf": "VINATIORGA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/30a4c42b-d9d5-4ecc-b50b-647f684b7ac8.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Current Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    2121.63,
+    1723.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    214.09,
+    438.15
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Intangible assets",
+   "values": [
+    0.21,
+    0.44
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Deferred tax assets",
+   "values": [
+    10.49,
+    2.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial assets;",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    null,
+    25.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    1.56,
+    2.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    24.99,
+    50.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    2372.97,
+    2243.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    311.13,
+    221.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial assets;",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    190.45,
+    10
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    521.26,
+    592.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    3.77,
+    0.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    2.29,
+    3.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans",
+   "values": [
+    0.12,
+    0.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Others financial assets",
+   "values": [
+    47.48,
+    45.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    18.08,
+    11.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    121.98,
+    153.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    1216.56,
+    1037.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    3589.53,
+    3281.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EQUITY & LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    10.37,
+    10.37
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    3151.31,
+    2782.91
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    3161.68,
+    2793.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Current Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    18.05,
+    20.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    183.81,
+    154.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    0.56,
+    0.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total non current Liabilities",
+   "values": [
+    202.42,
+    174.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    null,
+    62.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "total outstanding dues of micro & small enterprises",
+   "values": [
+    6.89,
+    2.4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "total outstanding dues other than micro & small enterprises",
+   "values": [
+    114.38,
+    146.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    25.75,
+    19.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    68.3,
+    72.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    10.08,
+    9.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    0.03,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    225.43,
+    313.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    427.85,
+    487.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total equity & liabilities",
+   "values": [
+    3589.53,
+    3281.27
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 49,
+  "rows_reader": 49,
+  "rows_aligned": 49,
+  "rows_agreed": 45,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 4,
+  "value_diffs": 0,
+  "values_reader": 69,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 3,
+   "reader_index": 3,
+   "label_parser": "Capital work-in-progress (b)",
+   "label_reader": "Capital work-in-progress",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 214.09,
+    "2025": 438.15
+   },
+   "values_reader": {
+    "2026": 214.09,
+    "2025": 438.15
+   },
+   "page": 187,
+   "search": [
+    "214.09",
+    "438.15"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 4,
+   "reader_index": 4,
+   "label_parser": "Intangible assets (c)",
+   "label_reader": "Intangible assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 0.21,
+    "2025": 0.44
+   },
+   "values_reader": {
+    "2026": 0.21,
+    "2025": 0.44
+   },
+   "page": 187,
+   "search": [
+    "0.21",
+    "0.44"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 26,
+   "reader_index": 26,
+   "label_parser": "Equity share capital SOCE",
+   "label_reader": "Equity share capital",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 10.37,
+    "2025": 10.37
+   },
+   "values_reader": {
+    "2026": 10.37,
+    "2025": 10.37
+   },
+   "page": 187,
+   "search": [
+    "10.37",
+    "10.37"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 27,
+   "reader_index": 27,
+   "label_parser": "Other equity SOCE",
+   "label_reader": "Other equity",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3151.31,
+    "2025": 2782.91
+   },
+   "values_reader": {
+    "2026": 3151.31,
+    "2025": 2782.91
+   },
+   "page": 187,
+   "search": [
+    "3,151.31",
+    "2,782.91"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  }
+ ]
+}

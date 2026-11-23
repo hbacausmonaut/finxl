@@ -1,0 +1,474 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "TITAN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 375,
+   "name": "376",
+   "clip": [
+    0.0,
+    0.0,
+    594.1,
+    742.4
+   ]
+  }
+ ],
+ "pdf": "TITAN/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    87584,
+    60456
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    552,
+    486
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total income (I +II)",
+   "values": [
+    88136,
+    60942
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of materials and components consumed",
+   "values": [
+    69212,
+    47708
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of stock-in-trade",
+   "values": [
+    11031,
+    7563
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in inventories of finished goods, stock-in-trade and work-in-progress",
+   "values": [
+    -9936,
+    -7815
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    2681,
+    2156
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    1180,
+    953
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    826,
+    693
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    6241,
+    5150
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    81235,
+    56408
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before share of profit of an associate and joint venture, exceptional item and tax (III - IV)",
+   "values": [
+    6901,
+    4534
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Associate and joint venture, net of tax",
+   "values": [
+    1,
+    1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional item and tax (V + VI)",
+   "values": [
+    6902,
+    4535
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional item",
+   "values": [
+    101,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax (VII - VIII)",
+   "values": [
+    6801,
+    4535
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    1740,
+    1183
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -12,
+    15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    1728,
+    1198
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year (IX - X)",
+   "values": [
+    5073,
+    3337
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income (OCI)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to the statement of profit and loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remeasurement of employee defined benefit plans",
+   "values": [
+    -79,
+    -27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income-tax on (i) above",
+   "values": [
+    20,
+    6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value changes on equity investments through OCI",
+   "values": [
+    null,
+    -111
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit and loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange differences on translating the financial statements of foreign operations",
+   "values": [
+    -35,
+    -5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income-tax on (a) above",
+   "values": [
+    0,
+    1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net movement on Effective portion of Cash Flow Hedges",
+   "values": [
+    -3,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income-tax on (b) above",
+   "values": [
+    1,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total other comprehensive loss",
+   "values": [
+    -96,
+    -136
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income (XI + XII)",
+   "values": [
+    4977,
+    3201
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    5073,
+    3337
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    0
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    5073,
+    3337
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    -96,
+    -136
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    0
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    -96,
+    -136
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    4977,
+    3201
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    4977,
+    3201
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share of ₹ 1 {based on profit for the year (XI)}",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    57.19,
+    37.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    57.16,
+    37.61
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 49,
+  "rows_reader": 50,
+  "rows_aligned": 49,
+  "rows_agreed": 49,
+  "missing_in_parser": 1,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 72,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 47,
+   "label_parser": null,
+   "label_reader": "Earnings per equity share of ₹ 1 {based on profit for the year (XI)}",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 375,
+   "search": [],
+   "pattern": "row_missing",
+   "pattern_text": "Line item missing from the parser output"
+  }
+ ]
+}

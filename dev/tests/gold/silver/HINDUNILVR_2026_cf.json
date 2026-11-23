@@ -1,0 +1,1059 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "HINDUNILVR",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 187,
+   "name": "188L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 187,
+   "name": "188R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CASH FLOWS FROM OPERATING ACTIVITIES:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax from continuing operations",
+   "values": [
+    13812,
+    14428
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit / (loss) before tax from discontinued operations",
+   "values": [
+    4336,
+    -13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    1436,
+    1363
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss on sale of property, plant and equipment",
+   "values": [
+    40,
+    43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value loss on financial liability on acquisition",
+   "values": [
+    502,
+    120
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -546,
+    -755
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -5,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non operating income - Fair value gain on investments",
+   "values": [
+    -195,
+    -256
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on sale of stake in joint venture",
+   "values": [
+    -256,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest expense",
+   "values": [
+    424,
+    372
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit on sale of water purification business",
+   "values": [
+    null,
+    -595
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment from Retirement Benefit Scheme Reserve",
+   "values": [
+    0,
+    -1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of loss of joint venture",
+   "values": [
+    15,
+    8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventory written off (net)",
+   "values": [
+    233,
+    189
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bad debts/assets written off net of Provision/(write back)",
+   "values": [
+    23,
+    24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Reversal of indemnification asset on expiry of underlying income tax provision",
+   "values": [
+    34,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity settled share based payment expense",
+   "values": [
+    16,
+    11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Gain on demerger of ice cream business",
+   "values": [
+    -4611,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Mark-to-market (gain)/loss on derivative financial instruments",
+   "values": [
+    -105,
+    4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operations before working capital changes",
+   "values": [
+    15153,
+    14942
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in Non-Current Assets",
+   "values": [
+    10,
+    -87
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in Current Assets",
+   "values": [
+    76,
+    -1275
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/decrease in Inventories",
+   "values": [
+    -692,
+    -584
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in Non-Current Liabilities",
+   "values": [
+    -184,
+    -284
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(decrease) in Current Liabilities",
+   "values": [
+    1476,
+    1442
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows generated from operations before tax",
+   "values": [
+    15839,
+    14154
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Taxes paid, net of refunds",
+   "values": [
+    -4840,
+    -2268
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows generated from operating activities - [A]",
+   "values": [
+    10999,
+    11886
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOWS FROM INVESTING ACTIVITIES:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Purchase of property, plant and equipment",
+   "values": [
+    -1258,
+    -1254
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale proceeds of property, plant and equipment",
+   "values": [
+    29,
+    13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -112,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale proceeds of non-current investments",
+   "values": [
+    1,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of intangible assets",
+   "values": [
+    -103,
+    -21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale proceeds of water purification business",
+   "values": [
+    null,
+    595
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase consideration towards business combination",
+   "values": [
+    -2661,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of non-controlling interests",
+   "values": [
+    -824,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of current investments",
+   "values": [
+    -25417,
+    -22957
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale proceeds of current investments",
+   "values": [
+    25116,
+    23987
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans repaid by others",
+   "values": [
+    56,
+    11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans given to others",
+   "values": [
+    -55,
+    -11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in term deposits (having original maturity of more than 3 months)",
+   "values": [
+    -1911,
+    -2499
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Redemption/maturity of term deposits (having original maturity of more than 3 months)",
+   "values": [
+    2759,
+    7774
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments in term deposits (with original maturity of more than twelve months but remaining maturity of less than twelve months)",
+   "values": [
+    -43,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Redemption/maturity of term deposits (with remaining maturity of more than twelve months)",
+   "values": [
+    8,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consideration received on disposal of joint venture (net of transaction costs)",
+   "values": [
+    298,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    428,
+    835
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received from others",
+   "values": [
+    5,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows (used in) / generated from investing activities - [B]",
+   "values": [
+    -3684,
+    6473
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOWS FROM FINANCING ACTIVITIES:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -10124,
+    -12473
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of borrowings",
+   "values": [
+    -46,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid on borrowings",
+   "values": [
+    -4,
+    -3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Principal payment of lease liabilities",
+   "values": [
+    -507,
+    -498
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid on lease liabilities",
+   "values": [
+    -129,
+    -127
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flows used in financing activities - [C]",
+   "values": [
+    -10810,
+    -13101
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net (decrease) / increase in cash and cash equivalents - [A+B+C]",
+   "values": [
+    -3495,
+    5258
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Cash and cash equivalents at the beginning of the year",
+   "values": [
+    6070,
+    812
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Cash acquired under Business Combination",
+   "values": [
+    13,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Less: Impact on account of demerger of Ice Cream Business",
+   "values": [
+    -5,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    2583,
+    6070
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 85,
+  "rows_reader": 64,
+  "rows_aligned": 64,
+  "rows_agreed": 62,
+  "missing_in_parser": 0,
+  "extra_in_parser": 21,
+  "label_diffs": 2,
+  "value_diffs": 0,
+  "values_reader": 101,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 31,
+   "reader_index": 31,
+   "label_parser": "B CASH FLOWS FROM INVESTING ACTIVITIES",
+   "label_reader": "CASH FLOWS FROM INVESTING ACTIVITIES:",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 187,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 52,
+   "reader_index": 52,
+   "label_parser": "C CASH FLOWS FROM FINANCING ACTIVITIES",
+   "label_reader": "CASH FLOWS FROM FINANCING ACTIVITIES:",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 187,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 64,
+   "reader_index": null,
+   "label_parser": "Components of cash and cash equivalents",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 65,
+   "reader_index": null,
+   "label_parser": "Cash and cash equivalents as per consolidated balance sheet (refer note 13)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2583,
+    "2025": 6071
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [
+    "2,583",
+    "6,071"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d005",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 66,
+   "reader_index": null,
+   "label_parser": "Less: Bank overdraft (refer note 23)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": -1
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [
+    "1"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 67,
+   "reader_index": null,
+   "label_parser": "Cash and cash equivalents for consolidated statement of cash flows",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2583,
+    "2025": 6070
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [
+    "2,583",
+    "6,070"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d007",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 68,
+   "reader_index": null,
+   "label_parser": "Movement in current borrowings and lease liabilities",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d008",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 69,
+   "reader_index": null,
+   "label_parser": "Additions",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d009",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 70,
+   "reader_index": null,
+   "label_parser": "Transferred pursuant Closing",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d010",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 71,
+   "reader_index": null,
+   "label_parser": "Reconciliation Opening through",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d011",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 72,
+   "reader_index": null,
+   "label_parser": "Taken/ Non- cash to scheme of demerger balance",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d012",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 73,
+   "reader_index": null,
+   "label_parser": "between opening balance business",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d013",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 74,
+   "reader_index": null,
+   "label_parser": "(Payments) movement of Ice Cream Business 31st March,",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d014",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 75,
+   "reader_index": null,
+   "label_parser": "and closing balance 1st April, 2025 combination (refer note 44)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 2026
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [
+    "2,026"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d015",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 76,
+   "reader_index": null,
+   "label_parser": "(refer note 43)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d016",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 77,
+   "reader_index": null,
+   "label_parser": "Lease Liabilities",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d017",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 78,
+   "reader_index": null,
+   "label_parser": "1,647 (636) 732",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 1478
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [
+    "1,478"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d018",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 79,
+   "reader_index": null,
+   "label_parser": "(refer Note 20)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "column_header_row",
+   "pattern_text": "Statement title / column heading / unit line kept as a row"
+  },
+  {
+   "id": "d019",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 80,
+   "reader_index": null,
+   "label_parser": "Current borrowings - (46)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d020",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 81,
+   "reader_index": null,
+   "label_parser": "Opening",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d021",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 82,
+   "reader_index": null,
+   "label_parser": "Reconciliation between opening and closing Taken/ Non- cash Closing balance",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d022",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 83,
+   "reader_index": null,
+   "label_parser": "balance balance (Payments) movement 31st March, 1st April, 2024",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 2025
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [
+    "2,025"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d023",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 84,
+   "reader_index": null,
+   "label_parser": "Lease Liabilities (Refer note 20) 1,471",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 801,
+    "2025": 1647
+   },
+   "values_reader": {},
+   "page": 187,
+   "search": [
+    "801",
+    "1,647"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ]
+}

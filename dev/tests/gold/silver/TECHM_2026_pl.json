@@ -1,0 +1,436 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "TECHM",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 581,
+   "name": "582",
+   "clip": [
+    0.0,
+    0.0,
+    540.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "TECHM/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/758bed2c-792d-434f-a326-118a8b4e7989.pdf",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    568154,
+    529883
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    319,
+    8554
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income (I +II)",
+   "values": [
+    568473,
+    538437
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee Benefit Expense",
+   "values": [
+    304788,
+    296238
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Subcontracting Expense",
+   "values": [
+    60997,
+    58377
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    3374,
+    3217
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and Amortisation Expense",
+   "values": [
+    18816,
+    18529
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    112028,
+    105357
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment of Goodwill and Non-Current Assets",
+   "values": [
+    null,
+    273
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    500003,
+    481991
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share in Profit / (Loss) of Associates / Joint Ventures",
+   "values": [
+    -15,
+    86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before Exceptional Item and Tax (III-IV+V)",
+   "values": [
+    68455,
+    56532
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional Item",
+   "values": [
+    2724,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before Tax (VI-VII)",
+   "values": [
+    65731,
+    56532
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Less: Tax Expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    20023,
+    18996
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    -2347,
+    -4994
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Tax Expense",
+   "values": [
+    17676,
+    14002
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit after tax (VIII-IX)",
+   "values": [
+    48055,
+    42530
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/ (Loss) for the year attributable to:",
+   "values": [
+    48055,
+    42530
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    48109,
+    42515
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non Controlling Interests",
+   "values": [
+    -54,
+    15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Remeasurements of the Defined Benefit Liabilities - Gain/(Loss)",
+   "values": [
+    342,
+    -23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income Tax relating to items that will not be reclassified to Profit or Loss",
+   "values": [
+    -82,
+    3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be subsequently reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Exchange differences in translating the Financial Statements of Foreign Operations - Gain/ (Loss) (net)",
+   "values": [
+    16402,
+    3399
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effective portion of Gain / (Loss) on Designated Portion of Hedging Instruments in a Cash Flow Hedge (net)",
+   "values": [
+    -3643,
+    -1116
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income Tax relating to items that will be reclassified to Profit or Loss",
+   "values": [
+    917,
+    198
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Other Comprehensive Income/ (Loss) (A+B)",
+   "values": [
+    13936,
+    2461
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income/ (Loss) for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    13659,
+    2411
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non Controlling Interests",
+   "values": [
+    277,
+    50
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income (X+XI)",
+   "values": [
+    61991,
+    44991
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income for the year attributable to:",
+   "values": [
+    61991,
+    44991
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    61768,
+    44926
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non Controlling Interests",
+   "values": [
+    223,
+    65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per Equity Share (Face Value ₹ 5) in ₹",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    54.28,
+    48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    54.19,
+    47.91
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 42,
+  "rows_reader": 42,
+  "rows_aligned": 42,
+  "rows_agreed": 40,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 2,
+  "value_diffs": 0,
+  "values_reader": 68,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "million",
+  "unit_reader": "million"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 24,
+   "reader_index": 24,
+   "label_parser": "A I. Items that will not be reclassified to Profit or Loss",
+   "label_reader": "Items that will not be reclassified to Profit or Loss",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 581,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 27,
+   "reader_index": 27,
+   "label_parser": "B I. Items that will be subsequently reclassified to Profit or Loss",
+   "label_reader": "Items that will be subsequently reclassified to Profit or Loss",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 581,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  }
+ ]
+}

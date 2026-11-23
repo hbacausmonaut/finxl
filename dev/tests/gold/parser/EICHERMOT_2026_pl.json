@@ -1,0 +1,393 @@
+{
+ "ticker": "EICHERMOT",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 302,
+   "name": "303",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from contract with customers (A)",
+   "values": [
+    22977.57,
+    18538.21
+   ]
+  },
+  {
+   "label": "Other operating income (B)",
+   "values": [
+    429.99,
+    332.14
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    23407.56,
+    18870.35
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1486.53,
+    1304.9
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    24894.09,
+    20175.25
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of raw material and components consumed",
+   "values": [
+    12502.05,
+    9953.16
+   ]
+  },
+  {
+   "label": "Purchases of traded goods",
+   "values": [
+    835.26,
+    507.43
+   ]
+  },
+  {
+   "label": "Change in inventories of finished goods, work-in-progress and traded goods",
+   "values": [
+    -269.63,
+    -163.51
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    1637.57,
+    1391.23
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    71.53,
+    54.34
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    840.37,
+    729.33
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    2917.24,
+    2470.01
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    18534.39,
+    14941.99
+   ]
+  },
+  {
+   "label": "Profit before share of profit of joint venture, exceptional items and tax",
+   "values": [
+    6359.7,
+    5233.26
+   ]
+  },
+  {
+   "label": "Share of profit of joint venture (VE Commercial Vehicles Limited)",
+   "values": [
+    797.81,
+    699.81
+   ]
+  },
+  {
+   "label": "Profit before exceptional item and tax",
+   "values": [
+    7157.51,
+    5933.07
+   ]
+  },
+  {
+   "label": "Exceptional item",
+   "values": [
+    -55.45,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    7102.06,
+    5933.07
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    1456.05,
+    1120.54
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    130.78,
+    78.09
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    1586.83,
+    1198.63
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    5515.23,
+    4734.44
+   ]
+  },
+  {
+   "label": "Other comprehensive income/(expense) (including share of other",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "comprehensive income/(expense) of joint venture)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss:- Re-measurement gains/(losses) on defined benefit plans",
+   "values": [
+    5.93,
+    -9.72
+   ]
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -1.49,
+    2.45
+   ]
+  },
+  {
+   "label": "Change in fair value of equity instruments through other comprehensive income (including foreign exchange gains/(losses) on reinstatement)",
+   "values": [
+    31.6,
+    -301.73
+   ]
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -4.52,
+    43.15
+   ]
+  },
+  {
+   "label": "Share of other comprehensive income / (expense) in joint venture (net of tax)",
+   "values": [
+    0.78,
+    -1.59
+   ]
+  },
+  {
+   "label": "Net other comprehensive income / (expense) not to be reclassified to profit or loss in subsequent periods",
+   "values": [
+    32.3,
+    -267.44
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss:- Exchange differences in translating the financial statements of foreign operations",
+   "values": [
+    130.44,
+    22.66
+   ]
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -32.83,
+    -5.7
+   ]
+  },
+  {
+   "label": "Debt instruments through other comprehensive income",
+   "values": [
+    -17.25,
+    26.74
+   ]
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    4.34,
+    -6.73
+   ]
+  },
+  {
+   "label": "Share of other comprehensive income / (expense) in joint venture (net of tax)",
+   "values": [
+    1.65,
+    0.15
+   ]
+  },
+  {
+   "label": "Net other comprehensive income / (expense) to be reclassified to profit or loss in subsequent periods",
+   "values": [
+    86.35,
+    37.12
+   ]
+  },
+  {
+   "label": "Other comprehensive income / (expense) for the year, net of tax",
+   "values": [
+    118.65,
+    -230.32
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year, net of tax",
+   "values": [
+    5633.88,
+    4504.12
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    5515.23,
+    4734.44
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Other comprehensive income / (expense) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    118.65,
+    -230.32
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    5633.88,
+    4504.12
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    201.09,
+    172.76
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    200.73,
+    172.37
+   ]
+  }
+ ],
+ "pdf": "EICHERMOT/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d17e4c7d-5ef6-4135-b0f3-cc7bb1ca7f09.pdf",
+ "parsed_at": "2026-11-04 11:18 UTC"
+}

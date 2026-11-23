@@ -1,0 +1,175 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "SBIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 304,
+   "name": "305",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "pdf": "SBIN\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CAPITAL AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital",
+   "values": [
+    9230618,
+    8924620
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Reserves & Surplus",
+   "values": [
+    5952078076,
+    4861442967
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Minority Interest",
+   "values": [
+    187682823,
+    180258388
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    60430971228,
+    54398980191
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    7773021450,
+    6108572450
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Liabilities and Provisions",
+   "values": [
+    8862701547,
+    7583674792
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL",
+   "values": [
+    83215685742,
+    73141853408
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Balances with Reserve Bank of India",
+   "values": [
+    2686817368,
+    2274851569
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balances with Banks and Money at Call & Short Notice",
+   "values": [
+    1331614726,
+    1304477859
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    23595021713,
+    22056011083
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Advances",
+   "values": [
+    49780132068,
+    42508307364
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fixed Assets",
+   "values": [
+    571521013,
+    463376954
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Assets",
+   "values": [
+    5250578854,
+    4534828579
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL",
+   "values": [
+    83215685742,
+    73141853408
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Contingent Liabilities",
+   "values": [
+    42411266054,
+    26781115407
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bills for Collection",
+   "values": [
+    1117030157,
+    644725617
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

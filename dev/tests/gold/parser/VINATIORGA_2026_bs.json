@@ -1,0 +1,372 @@
+{
+ "ticker": "VINATIORGA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 187,
+   "name": "188",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    777.6
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment (a)",
+   "values": [
+    2121.63,
+    1723.65
+   ]
+  },
+  {
+   "label": "Capital work-in-progress (b)",
+   "values": [
+    214.09,
+    438.15
+   ]
+  },
+  {
+   "label": "Intangible assets (c)",
+   "values": [
+    0.21,
+    0.44
+   ]
+  },
+  {
+   "label": "Deferred tax assets",
+   "values": [
+    10.49,
+    2.17
+   ]
+  },
+  {
+   "label": "Financial assets;",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    null,
+    25.89
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    1.56,
+    2.81
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    24.99,
+    50.38
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    2372.97,
+    2243.49
+   ]
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    311.13,
+    221.2
+   ]
+  },
+  {
+   "label": "Financial assets;",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    190.45,
+    10.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    521.26,
+    592.25
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    3.77,
+    0.49
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    2.29,
+    3.44
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    0.12,
+    0.11
+   ]
+  },
+  {
+   "label": "Others financial assets",
+   "values": [
+    47.48,
+    45.96
+   ]
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    18.08,
+    11.27
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    121.98,
+    153.06
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    1216.56,
+    1037.78
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    3589.53,
+    3281.27
+   ]
+  },
+  {
+   "label": "EQUITY & LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital SOCE",
+   "values": [
+    10.37,
+    10.37
+   ]
+  },
+  {
+   "label": "Other equity SOCE",
+   "values": [
+    3151.31,
+    2782.91
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    3161.68,
+    2793.28
+   ]
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    18.05,
+    20.65
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    183.81,
+    154.04
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    0.56,
+    0.28
+   ]
+  },
+  {
+   "label": "Total non current Liabilities",
+   "values": [
+    202.42,
+    174.97
+   ]
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    null,
+    62.63
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "total outstanding dues of micro & small enterprises",
+   "values": [
+    6.89,
+    2.4
+   ]
+  },
+  {
+   "label": "total outstanding dues other than micro & small enterprises",
+   "values": [
+    114.38,
+    146.05
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    25.75,
+    19.66
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    68.3,
+    72.86
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    10.08,
+    9.42
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    0.03,
+    null
+   ]
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    225.43,
+    313.02
+   ]
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    427.85,
+    487.99
+   ]
+  },
+  {
+   "label": "Total equity & liabilities",
+   "values": [
+    3589.53,
+    3281.27
+   ]
+  }
+ ],
+ "pdf": "VINATIORGA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/30a4c42b-d9d5-4ecc-b50b-647f684b7ac8.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

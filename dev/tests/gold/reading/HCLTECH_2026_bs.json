@@ -1,0 +1,520 @@
+{
+ "ticker": "HCLTECH",
+ "fy": 2026,
+ "statement": "bs",
+ "scope": "consolidated",
+ "reader": "claude",
+ "read_at": "2026-11-04 17:35 UTC",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "page": 395
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 395
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    4657,
+    4501
+   ],
+   "page": 395
+  },
+  {
+   "label": "Capital work in progress",
+   "values": [
+    60,
+    59
+   ],
+   "page": 395
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    3592,
+    3016
+   ],
+   "page": 395
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    23888,
+    21756
+   ],
+   "page": 395
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    5160,
+    6899
+   ],
+   "page": 395
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    82,
+    null
+   ],
+   "page": 395
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 395
+  },
+  {
+   "label": "Investments",
+   "values": [
+    130,
+    91
+   ],
+   "page": 395
+  },
+  {
+   "label": "Trade receivables - unbilled",
+   "values": [
+    601,
+    1022
+   ],
+   "page": 395
+  },
+  {
+   "label": "Loans",
+   "values": [
+    50,
+    586
+   ],
+   "page": 395
+  },
+  {
+   "label": "Others",
+   "values": [
+    3585,
+    2212
+   ],
+   "page": 395
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    1146,
+    1064
+   ],
+   "page": 395
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    2765,
+    2229
+   ],
+   "page": 395
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    45716,
+    43435
+   ],
+   "page": 395
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 395
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    239,
+    133
+   ],
+   "page": 395
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "page": 395
+  },
+  {
+   "label": "Investments",
+   "values": [
+    6960,
+    7473
+   ],
+   "page": 395
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    null,
+    null
+   ],
+   "page": 395
+  },
+  {
+   "label": "Billed",
+   "values": [
+    23585,
+    19523
+   ],
+   "page": 395
+  },
+  {
+   "label": "Unbilled",
+   "values": [
+    7956,
+    6319
+   ],
+   "page": 395
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    8265,
+    8245
+   ],
+   "page": 395
+  },
+  {
+   "label": "Other bank balances",
+   "values": [
+    15160,
+    13044
+   ],
+   "page": 395
+  },
+  {
+   "label": "Loans",
+   "values": [
+    1017,
+    976
+   ],
+   "page": 395
+  },
+  {
+   "label": "Others",
+   "values": [
+    1626,
+    1589
+   ],
+   "page": 395
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    226,
+    148
+   ],
+   "page": 395
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    5508,
+    4659
+   ],
+   "page": 395
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    70542,
+    62109
+   ],
+   "page": 395
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    116258,
+    105544
+   ],
+   "page": 395
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ],
+   "page": 395
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    543,
+    543
+   ],
+   "page": 395
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    74622,
+    69112
+   ],
+   "page": 395
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    75165,
+    69655
+   ],
+   "page": 395
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    32,
+    18
+   ],
+   "page": 395
+  },
+  {
+   "label": "TOTAL EQUITY",
+   "values": [
+    75197,
+    69673
+   ],
+   "page": 395
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "page": 396
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 396
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 396
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    37,
+    70
+   ],
+   "page": 396
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    3180,
+    2638
+   ],
+   "page": 396
+  },
+  {
+   "label": "Others",
+   "values": [
+    1401,
+    464
+   ],
+   "page": 396
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    1162,
+    1059
+   ],
+   "page": 396
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    2001,
+    1920
+   ],
+   "page": 396
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    1381,
+    1615
+   ],
+   "page": 396
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    73,
+    66
+   ],
+   "page": 396
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    9235,
+    7832
+   ],
+   "page": 396
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 396
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 396
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    122,
+    2221
+   ],
+   "page": 396
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    1876,
+    1347
+   ],
+   "page": 396
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ],
+   "page": 396
+  },
+  {
+   "label": "Billed",
+   "values": [
+    3726,
+    3016
+   ],
+   "page": 396
+  },
+  {
+   "label": "Unbilled",
+   "values": [
+    3980,
+    3209
+   ],
+   "page": 396
+  },
+  {
+   "label": "Others",
+   "values": [
+    9228,
+    7009
+   ],
+   "page": 396
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    5053,
+    4657
+   ],
+   "page": 396
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    2315,
+    2278
+   ],
+   "page": 396
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1664,
+    1487
+   ],
+   "page": 396
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    3862,
+    2815
+   ],
+   "page": 396
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    31826,
+    28039
+   ],
+   "page": 396
+  },
+  {
+   "label": "TOTAL LIABILITIES",
+   "values": [
+    41061,
+    35871
+   ],
+   "page": 396
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    116258,
+    105544
+   ],
+   "page": 396
+  }
+ ],
+ "notes": "Statement spans pages 395-396 (0-based); page 396 repeats title and column headings. Serial markers (I, (1), (a), (i)) dropped. Intangible assets under development 2025 printed as '-'. Ends with signature block on 396; next page (397) is the Statement of Profit and Loss, not a continuation."
+}

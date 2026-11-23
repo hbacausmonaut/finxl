@@ -1,0 +1,706 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "ASIANPAINT",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 235,
+   "name": "236L",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    792.0
+   ]
+  },
+  {
+   "page": 235,
+   "name": "236R",
+   "clip": [
+    594.0,
+    0.0,
+    1188.0,
+    792.0
+   ]
+  },
+  {
+   "page": 236,
+   "name": "237L",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    792.0
+   ]
+  }
+ ],
+ "pdf": "ASIANPAINT/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    6003.44,
+    5103.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    1228.85,
+    1026.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -180.93,
+    -179.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -2.13,
+    -20.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    195.41,
+    227.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Allowance for expected credit losses on receivables (trade & others) and advances (net)",
+   "values": [
+    5.7,
+    245.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bad debts written off",
+   "values": [
+    121.95,
+    6.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred income arising from government grant",
+   "values": [
+    -4.08,
+    -4.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net unrealised foreign exchange loss/(gain)",
+   "values": [
+    2.94,
+    -11.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net loss/(gain) on disposal of property, plant and equipment and other intangible assets",
+   "values": [
+    3.81,
+    -3.37
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on modification/termination of leases",
+   "values": [
+    -6.87,
+    -2.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain arising on financial assets measured at fair value through profit or loss (FVTPL)",
+   "values": [
+    -286.5,
+    -182.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share based payment expenses",
+   "values": [
+    29.35,
+    21.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit in Associates",
+   "values": [
+    -165.59,
+    -140.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss on disposal of subsidiaries",
+   "values": [
+    null,
+    83.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair valuation loss/(gain) on gross obligation towards further stake acquisition",
+   "values": [
+    19.96,
+    -18.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment loss on Goodwill and Intangible assets",
+   "values": [
+    93.87,
+    223.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Allowance/(Reversal) for expected credit loss on government grants",
+   "values": [
+    70.17,
+    -1.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effect of exchange rates on translation of operating cashflows",
+   "values": [
+    56.93,
+    18.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating Profit before working capital changes",
+   "values": [
+    7186.28,
+    6389.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in trade receivables",
+   "values": [
+    -274.01,
+    281.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in financial assets",
+   "values": [
+    -65.31,
+    6.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Decrease/(Increase) in inventories",
+   "values": [
+    975.58,
+    -805.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in other assets",
+   "values": [
+    -86.1,
+    1.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in trade payables",
+   "values": [
+    396.07,
+    -160.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in other financial liabilities",
+   "values": [
+    386.79,
+    82.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in other liabilities and provisions",
+   "values": [
+    142.7,
+    22.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from Operating activities",
+   "values": [
+    8662,
+    5819.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income Tax paid (net of refund)",
+   "values": [
+    -1573.82,
+    -1395.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash generated from Operating activities",
+   "values": [
+    7088.18,
+    4423.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of property, plant and equipment and other intangible assets",
+   "values": [
+    -1467.02,
+    -1805.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of property, plant and equipment",
+   "values": [
+    3.2,
+    10.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for acquiring right-of-use assets",
+   "values": [
+    -20.3,
+    -24.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -0.1,
+    -0.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of non-current investments",
+   "values": [
+    923.36,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of current investments (net)",
+   "values": [
+    274.03,
+    420.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Purchase of)/Proceeds from term deposits (net)",
+   "values": [
+    -1316.03,
+    196.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from disposal of subsidiaries (net)",
+   "values": [
+    null,
+    38.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loan given to third party",
+   "values": [
+    -2.03,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    153.19,
+    154.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received from Associate",
+   "values": [
+    115.5,
+    115.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received from others",
+   "values": [
+    2.13,
+    20.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash used in Investing activities",
+   "values": [
+    -1334.07,
+    -874.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from long term borrowings",
+   "values": [
+    993.41,
+    219.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of long term borrowings",
+   "values": [
+    -32.43,
+    -21.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from / (Repayment of) short term borrowings (net)",
+   "values": [
+    285.44,
+    -406.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acceptances (net)",
+   "values": [
+    -419.89,
+    194.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Amount infused by non-controlling shareholders in subsidiary",
+   "values": [
+    9.37,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Stake acquired from non-controlling interest",
+   "values": [
+    -188,
+    -34.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of principal portion of lease liabilities",
+   "values": [
+    -339.78,
+    -324.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs (including interest on lease liabilities) paid",
+   "values": [
+    -228.33,
+    -203.19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Purchase) of treasury shares by ESOP Trust/Proceeds from ESOP Trust (net)",
+   "values": [
+    -30.92,
+    -36.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend paid (including dividend paid to non-controlling shareholders)",
+   "values": [
+    -2425.38,
+    -3140.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Cash used in Financing activities",
+   "values": [
+    -2376.51,
+    -3752.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "NET INCREASE / (DECREASE) IN CASH AND CASH EQUIVALENTS [A+B+C]",
+   "values": [
+    3377.6,
+    -202.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add : Cash and cash equivalents as at 1st April",
+   "values": [
+    3357.42,
+    3626.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net effect of exchange gain/(loss) on cash and cash equivalents",
+   "values": [
+    5.84,
+    -66.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents as at 31st March",
+   "values": [
+    6740.86,
+    3357.42
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 69,
+  "rows_reader": 63,
+  "rows_aligned": 63,
+  "rows_agreed": 63,
+  "missing_in_parser": 0,
+  "extra_in_parser": 6,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 111,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 63,
+   "reader_index": null,
+   "label_parser": "subsidiary and cash movement changes",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 235,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 64,
+   "reader_index": null,
+   "label_parser": "equivalents exchange",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 235,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d003",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 65,
+   "reader_index": null,
+   "label_parser": "rates",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 235,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 66,
+   "reader_index": null,
+   "label_parser": "Borrowings (Refer note 16)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -1.27,
+    "2025": 1246.42
+   },
+   "values_reader": {},
+   "page": 235,
+   "search": [
+    "1.27",
+    "1,246.42"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d005",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 67,
+   "reader_index": null,
+   "label_parser": "Lease Liabilities (Refer note 17)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 526.83,
+    "2025": -339.78
+   },
+   "values_reader": {},
+   "page": 235,
+   "search": [
+    "526.83",
+    "339.78"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 68,
+   "reader_index": null,
+   "label_parser": "Other liabilities (Refer note 21)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1.27,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 235,
+   "search": [
+    "1.27"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ]
+}

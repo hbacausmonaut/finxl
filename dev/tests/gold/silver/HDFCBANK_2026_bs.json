@@ -1,0 +1,213 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "HDFCBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 495,
+   "name": "496",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "pdf": "HDFCBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CAPITAL AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital",
+   "values": [
+    1539.34,
+    765.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employees stock options / units outstanding",
+   "values": [
+    4545.11,
+    3805.19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Reserves and surplus",
+   "values": [
+    579975.02,
+    517218.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Minority interest",
+   "values": [
+    22384.96,
+    16359.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    3099638.29,
+    2710898.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    588484.55,
+    634605.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other liabilities and provisions",
+   "values": [
+    252977.53,
+    188163.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Policyholders' funds",
+   "values": [
+    358496.04,
+    320601.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    4908040.84,
+    4392417.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and balances with Reserve Bank of India",
+   "values": [
+    200707.11,
+    144390.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balances with banks and money at call and short notice",
+   "values": [
+    111218.94,
+    105557.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    1280216.29,
+    1186472.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Advances",
+   "values": [
+    3050783.23,
+    2724938.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fixed assets",
+   "values": [
+    16491.59,
+    15257.94
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    248623.68,
+    215800.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    4908040.84,
+    4392417.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Contingent liabilities",
+   "values": [
+    3479487.31,
+    2709921.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bills for collection",
+   "values": [
+    82470.05,
+    70679.55
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 20,
+  "rows_reader": 20,
+  "rows_aligned": 20,
+  "rows_agreed": 20,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 36,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": []
+}

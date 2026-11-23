@@ -1,0 +1,375 @@
+{
+ "ticker": "SBIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 359,
+   "name": "360",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  },
+  {
+   "page": 360,
+   "name": "361",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Profit/(Loss) before taxes (including share in profit from associates and net of minority interest)",
+   "values": [
+    1121582973.0,
+    1049094768.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation on Fixed Assets",
+   "values": [
+    48297185.0,
+    39914767.0
+   ]
+  },
+  {
+   "label": "(Profit)/Loss on sale of Fixed Assets (Net)",
+   "values": [
+    73171.0,
+    162293.0
+   ]
+  },
+  {
+   "label": "(Profit)/Loss on revaluation of Investments (Net)",
+   "values": [
+    38201532.0,
+    -51793794.0
+   ]
+  },
+  {
+   "label": "(Profit)/ Loss on sale of Investments in Subsidiaries/Joint Ventures/ Associates",
+   "values": [
+    -23844050.0,
+    75190.0
+   ]
+  },
+  {
+   "label": "Provision on Non-Performing Assets",
+   "values": [
+    193500770.0,
+    185055154.0
+   ]
+  },
+  {
+   "label": "Provision on Standard Assets",
+   "values": [
+    16829618.0,
+    3380915.0
+   ]
+  },
+  {
+   "label": "Provision on non-performing Investments",
+   "values": [
+    -143260.0,
+    4828852.0
+   ]
+  },
+  {
+   "label": "Other Provisions including provision for contingencies",
+   "values": [
+    5325392.0,
+    1346773.0
+   ]
+  },
+  {
+   "label": "Share in Profit of Associates",
+   "values": [
+    -14971990.0,
+    -15054709.0
+   ]
+  },
+  {
+   "label": "Income from Investment in Associates",
+   "values": [
+    -7031.0,
+    -88146.0
+   ]
+  },
+  {
+   "label": "Interest charged on Capital Instruments",
+   "values": [
+    73972721.0,
+    75688977.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1458817031.0,
+    1292611040.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in Deposits",
+   "values": [
+    6031991037.0,
+    4733605319.0
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in Borrowings other than Capital Instruments",
+   "values": [
+    1723784000.0,
+    -351483579.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in Investments other than Investment in Subsidiaries / Joint Ventures / Associates",
+   "values": [
+    -1620606216.0,
+    -818909668.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in Advances",
+   "values": [
+    -7465325474.0,
+    -4850635813.0
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in Other Liabilities",
+   "values": [
+    1242699889.0,
+    581846191.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in Other Assets",
+   "values": [
+    -627156704.0,
+    205421047.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    744203563.0,
+    792454537.0
+   ]
+  },
+  {
+   "label": "Tax refund / (Taxes paid)",
+   "values": [
+    -363229663.0,
+    -337614451.0
+   ]
+  },
+  {
+   "label": "NET CASH GENERATED FROM / (USED IN) OPERATING ACTIVITIES (A)",
+   "values": [
+    380973900.0,
+    454840086.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Investments in Subsidiaries/Joint Ventures/Associates",
+   "values": [
+    -1082683.0,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of Investments in Subsidiaries/Joint Ventures/Associates",
+   "values": [
+    77794109.0,
+    -65190.0
+   ]
+  },
+  {
+   "label": "Income received from Investment in Associates",
+   "values": [
+    9299.0,
+    90009.0
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in Fixed Assets",
+   "values": [
+    -83629582.0,
+    -56372241.0
+   ]
+  },
+  {
+   "label": "NET CASH GENERATED FROM / (USED IN) INVESTING ACTIVITIES (B)",
+   "values": [
+    -6908857.0,
+    -56347422.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issue of equity shares including share premium (Net of share issue expenses)",
+   "values": [
+    249945335.0,
+    1288.0
+   ]
+  },
+  {
+   "label": "Issue of Capital Instruments",
+   "values": [
+    137385000.0,
+    215000000.0
+   ]
+  },
+  {
+   "label": "Redemption of Capital Instruments",
+   "values": [
+    -196720000.0,
+    -151039000.0
+   ]
+  },
+  {
+   "label": "Interest paid on Capital Instruments",
+   "values": [
+    -77217098.0,
+    -72686140.0
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -141901459.0,
+    -122267183.0
+   ]
+  },
+  {
+   "label": "Dividend tax paid by Subsidiaries/Joint Ventures",
+   "values": [
+    -410069.0,
+    -318493.0
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in Minority Interest",
+   "values": [
+    -5353083.0,
+    23941588.0
+   ]
+  },
+  {
+   "label": "NET CASH GENERATED FROM / (USED IN) FINANCING ACTIVITIES (C)",
+   "values": [
+    -34271374.0,
+    -107367940.0
+   ]
+  },
+  {
+   "label": "EFFECT OF EXCHANGE FLUCTUATION ON TRANSLATION RESERVE (D)",
+   "values": [
+    99308997.0,
+    22481669.0
+   ]
+  },
+  {
+   "label": "NET INCREASE / (DECREASE) IN CASH AND CASH EQUIVALENTS",
+   "values": [
+    439102666.0,
+    313606393.0
+   ]
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AS AT 1ST APRIL",
+   "values": [
+    3579329428.0,
+    3265723035.0
+   ]
+  },
+  {
+   "label": "CASH AND CASH EQUIVALENTS AS AT 31ST MARCH",
+   "values": [
+    4018432094.0,
+    3579329428.0
+   ]
+  },
+  {
+   "label": "Components of Cash & Cash Equivalents as at: 31.03.2026 31.03.2025",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash & Balances with Reserve Bank of India",
+   "values": [
+    2686817368.0,
+    2274851569.0
+   ]
+  },
+  {
+   "label": "Balances with Banks and money at call & short notice",
+   "values": [
+    1331614726.0,
+    1304477859.0
+   ]
+  },
+  {
+   "label": "Total",
+   "values": [
+    4018432094.0,
+    3579329428.0
+   ]
+  }
+ ],
+ "pdf": "SBIN\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf",
+ "parsed_at": "2026-11-05 11:52 UTC"
+}

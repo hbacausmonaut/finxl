@@ -1,0 +1,513 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "BAJFINANCE",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 412,
+   "name": "413",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 413,
+   "name": "414",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "BAJFINANCE\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    72776.01,
+    61163.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fees and commission income",
+   "values": [
+    7754.39,
+    5982.84
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair value changes",
+   "values": [
+    471.24,
+    539.03
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of services",
+   "values": [
+    15.71,
+    27.13
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income on derecognised (assigned) loans",
+   "values": [
+    465.46,
+    552.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other operating income",
+   "values": [
+    499.57,
+    541.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total revenue from operations",
+   "values": [
+    81982.38,
+    68805.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    7.12,
+    41.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total income",
+   "values": [
+    81989.5,
+    68846.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    28665.95,
+    24769.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fees and commission expense",
+   "values": [
+    3658.1,
+    2597.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment on financial instruments",
+   "values": [
+    9481.85,
+    7088.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    8978.53,
+    7508.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    1008.98,
+    880.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    4130.68,
+    3940.19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    55924.09,
+    46785.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit/(loss) from associates",
+   "values": [
+    16.46,
+    17.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    26081.87,
+    22079.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional items",
+   "values": [
+    -265.22,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    25816.65,
+    22079.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current year",
+   "values": [
+    6874.08,
+    5664.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earlier years",
+   "values": [
+    0.08,
+    -275.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax (credit)/charge",
+   "values": [
+    -389.87,
+    -89.59
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    6484.29,
+    5300.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit after tax",
+   "values": [
+    19332.36,
+    16779.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income (OCI)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remeasurement gains/(losses) on defined benefit plans",
+   "values": [
+    35.38,
+    -24.85
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impact on above",
+   "values": [
+    -8.91,
+    6.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net remeasurement gains/(losses) on defined benefit plans - Share of associates",
+   "values": [
+    -0.15,
+    -0.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in fair value of fair value through OCI (FVOCI) equity instruments",
+   "values": [
+    -20.71,
+    -95.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impact on above",
+   "values": [
+    2.95,
+    25.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in fair value of FVOCI debt securities",
+   "values": [
+    -408.74,
+    140.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impact on above",
+   "values": [
+    102.88,
+    -35.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Other adjustments - Share of associate",
+   "values": [
+    -0.02,
+    -0.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow hedge reserve",
+   "values": [
+    286.3,
+    -117.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impact on above",
+   "values": [
+    -72.06,
+    29.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of hedging reserve",
+   "values": [
+    14.84,
+    5.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impact on above",
+   "values": [
+    7.72,
+    -1.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total other comprehensive income for the year (net of tax)",
+   "values": [
+    -60.52,
+    -67.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income",
+   "values": [
+    19271.84,
+    16712.42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit after tax attributable to",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owner's of the Company",
+   "values": [
+    19017.39,
+    16637.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    314.97,
+    141.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income attributable to",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owner's of the Company",
+   "values": [
+    -58.2,
+    -67.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    -2.32,
+    0.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income attributable to",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owner's of the Company",
+   "values": [
+    18959.19,
+    16570.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    312.65,
+    142.4
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Nominal value per share ₹ 1)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    30.6,
+    26.89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    30.51,
+    26.82
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

@@ -1,0 +1,309 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "HDFCBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 496,
+   "name": "497",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "pdf": "HDFCBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest earned",
+   "values": [
+    348615.15,
+    336367.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    146847.66,
+    134548.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    495462.81,
+    470915.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENDITURE",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest expended",
+   "values": [
+    185491.23,
+    183894.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating expenses",
+   "values": [
+    181173.91,
+    176605.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions and contingencies",
+   "values": [
+    49578.21,
+    36976.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    416243.35,
+    397475.76
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consolidated Net Profit for the year before Minority Interest",
+   "values": [
+    79219.46,
+    73440.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Less : Minority Interest",
+   "values": [
+    3193.49,
+    2647.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consolidated Net Profit for the year attributable to the group",
+   "values": [
+    76025.97,
+    70792.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Brought forward consolidated profit attributable to the group",
+   "values": [
+    178692.55,
+    150045.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    254718.52,
+    220837.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "APPROPRIATIONS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Statutory Reserve",
+   "values": [
+    19159.57,
+    17260.3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interim Dividend paid",
+   "values": [
+    3836.57,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to General Reserve",
+   "values": [
+    7467.13,
+    6734.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Special Reserve",
+   "values": [
+    3000,
+    3200
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Capital Reserve",
+   "values": [
+    8320.4,
+    507
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend pertaining to previous year paid during the year",
+   "values": [
+    16869.41,
+    14826.19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to / (from) Minority Interest",
+   "values": [
+    476.12,
+    -382.96
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Other Reserves",
+   "values": [
+    1.85,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance carried over to consolidated balance sheet",
+   "values": [
+    195587.47,
+    178692.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    254718.52,
+    220837.82
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EARNINGS PER EQUITY SHARE (Face value ₹ 1/ - per share)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic",
+   "values": [
+    49.5,
+    46.41
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    49.28,
+    46.2
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 29,
+  "rows_reader": 29,
+  "rows_aligned": 29,
+  "rows_agreed": 28,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 46,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 26,
+   "reader_index": 26,
+   "label_parser": "EARNINGS PER EQUITY SHARE (Face value L 1/ - per share) C C",
+   "label_reader": "EARNINGS PER EQUITY SHARE (Face value ₹ 1/ - per share)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 496,
+   "search": [],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  }
+ ]
+}

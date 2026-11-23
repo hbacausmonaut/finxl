@@ -1,0 +1,463 @@
+{
+ "ticker": "BHARTIARTL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 215,
+   "name": "216L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    1570659.0,
+    1432724.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    126131.0,
+    105962.0
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    673244.0,
+    602415.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    566859.0,
+    516974.0
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    1252604.0,
+    1332569.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    3250.0,
+    4027.0
+   ]
+  },
+  {
+   "label": "Investment in joint ventures and associates",
+   "values": [
+    40622.0,
+    36416.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    11385.0,
+    5435.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    2544.0,
+    2131.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    null,
+    865.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    35700.0,
+    37471.0
+   ]
+  },
+  {
+   "label": "Income tax assets (net)",
+   "values": [
+    20181.0,
+    24978.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    191413.0,
+    249111.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    124770.0,
+    116638.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    4619362.0,
+    4467716.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    6009.0,
+    4517.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    137006.0,
+    16532.0
+   ]
+  },
+  {
+   "label": "Derivative instruments",
+   "values": [
+    5040.0,
+    813.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    79776.0,
+    74557.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    137222.0,
+    61056.0
+   ]
+  },
+  {
+   "label": "Other bank balances",
+   "values": [
+    166546.0,
+    106143.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    244264.0,
+    267662.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    125718.0,
+    144608.0
+   ]
+  },
+  {
+   "label": "Assets held for sale",
+   "values": [
+    573.0,
+    null
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    902154.0,
+    675888.0
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    5521516.0,
+    5143604.0
+   ]
+  },
+  {
+   "label": "Equity and liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Share capital",
+   "values": [
+    30468.0,
+    29001.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    1460098.0,
+    1107718.0
+   ]
+  },
+  {
+   "label": "Equity attributable to owners of the Parent",
+   "values": [
+    1490566.0,
+    1136719.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests ('NCI')",
+   "values": [
+    469068.0,
+    397958.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1959634.0,
+    1534677.0
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    1000849.0,
+    1048638.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    644996.0,
+    556701.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    26320.0,
+    38642.0
+   ]
+  },
+  {
+   "label": "Deferred revenue",
+   "values": [
+    40185.0,
+    35185.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    35189.0,
+    30396.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    67789.0,
+    93549.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    1497.0,
+    1414.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1816825.0,
+    1804525.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    215865.0,
+    434485.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    92407.0,
+    96597.0
+   ]
+  },
+  {
+   "label": "Derivative instruments",
+   "values": [
+    1918.0,
+    1921.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    450152.0,
+    381537.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    408659.0,
+    333024.0
+   ]
+  },
+  {
+   "label": "Deferred revenue",
+   "values": [
+    109487.0,
+    97729.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    357828.0,
+    361552.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    31400.0,
+    20035.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    77341.0,
+    77522.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1745057.0,
+    1804402.0
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    3561882.0,
+    3608927.0
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    5521516.0,
+    5143604.0
+   ]
+  }
+ ],
+ "pdf": "BHARTIARTL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f8f6a174-8601-4747-9d0d-bd6b85fe53fc.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

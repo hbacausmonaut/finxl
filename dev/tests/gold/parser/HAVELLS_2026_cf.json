@@ -1,0 +1,403 @@
+{
+ "ticker": "HAVELLS",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 350,
+   "name": "351",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 351,
+   "name": "352",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    2209.57,
+    1990.49
+   ]
+  },
+  {
+   "label": "Adjustments for Depreciation and amortisation expense",
+   "values": [
+    431.92,
+    400.4
+   ]
+  },
+  {
+   "label": "Loss/(gain) on disposal of property, plant and equipment (net)",
+   "values": [
+    -44.05,
+    15.1
+   ]
+  },
+  {
+   "label": "Exchange difference on translation of financial statement of foreign operations",
+   "values": [
+    -1.22,
+    null
+   ]
+  },
+  {
+   "label": "Unrealized foreign exchange loss/(gain) (net)",
+   "values": [
+    -5.17,
+    -5.22
+   ]
+  },
+  {
+   "label": "Fair value impact on investment",
+   "values": [
+    10.98,
+    9.03
+   ]
+  },
+  {
+   "label": "Net impairment losses on financial and contract assets",
+   "values": [
+    1.88,
+    43.68
+   ]
+  },
+  {
+   "label": "Employee stock purchase plan expense",
+   "values": [
+    21.93,
+    18.17
+   ]
+  },
+  {
+   "label": "Insurance claim received",
+   "values": [
+    null,
+    -17.05
+   ]
+  },
+  {
+   "label": "Interest income on bank deposits and investment",
+   "values": [
+    -140.09,
+    -225.57
+   ]
+  },
+  {
+   "label": "Fair value gain on financial asset (unrealised)",
+   "values": [
+    -282.74,
+    null
+   ]
+  },
+  {
+   "label": "Finance cost",
+   "values": [
+    37.11,
+    43.24
+   ]
+  },
+  {
+   "label": "Operating Profit",
+   "values": [
+    2240.12,
+    2272.27
+   ]
+  },
+  {
+   "label": "Changes in operating assets and liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in trade receivables",
+   "values": [
+    482.97,
+    -136.12
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in contract assets",
+   "values": [
+    11.33,
+    26.75
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in other financial assets",
+   "values": [
+    -24.93,
+    -0.43
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in non current assets",
+   "values": [
+    -5.99,
+    0.47
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in other current assets",
+   "values": [
+    -51.19,
+    70.35
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in inventories",
+   "values": [
+    -394.01,
+    -637.73
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in trade payables",
+   "values": [
+    -152.18,
+    363.52
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in financial liabilities",
+   "values": [
+    -0.94,
+    80.91
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in other current liabilities",
+   "values": [
+    9.18,
+    -4.17
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in contract liabilities",
+   "values": [
+    42.56,
+    5.84
+   ]
+  },
+  {
+   "label": "Increase/(Decrease) in provisions",
+   "values": [
+    -74.7,
+    -13.17
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    2082.22,
+    2028.49
+   ]
+  },
+  {
+   "label": "Income tax paid (net of refunds)",
+   "values": [
+    -510.23,
+    -505.48
+   ]
+  },
+  {
+   "label": "Net cash inflow from operating activities (A)",
+   "values": [
+    1571.99,
+    1523.01
+   ]
+  },
+  {
+   "label": "CASH FLOWS FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Payment for property, plant and equipment and intangible assets",
+   "values": [
+    -1484.45,
+    -765.95
+   ]
+  },
+  {
+   "label": "Payment for purchase of investments in subsidiary and associate",
+   "values": [
+    -5.63,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    68.31,
+    12.19
+   ]
+  },
+  {
+   "label": "Investment in fixed deposits with bank and financial institution",
+   "values": [
+    970.75,
+    180.23
+   ]
+  },
+  {
+   "label": "Receipt of insurance claim related to assets",
+   "values": [
+    null,
+    32.85
+   ]
+  },
+  {
+   "label": "Payment for purchase of investment",
+   "values": [
+    -600.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest on fixed deposit and investment received",
+   "values": [
+    158.1,
+    239.1
+   ]
+  },
+  {
+   "label": "Net cash outflow from investing activities (B)",
+   "values": [
+    -892.92,
+    -301.58
+   ]
+  },
+  {
+   "label": "CASH FLOWS FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Transactions with non-controlling interest",
+   "values": [
+    -3.37,
+    19.02
+   ]
+  },
+  {
+   "label": "Proceeds from exercise of employee stock purchase plan - share capital and securities premium",
+   "values": [
+    36.39,
+    34.82
+   ]
+  },
+  {
+   "label": "Payment of principal portion of lease liabilities",
+   "values": [
+    -73.56,
+    -67.89
+   ]
+  },
+  {
+   "label": "Payment of interest portion of lease liabilities",
+   "values": [
+    -24.86,
+    -28.27
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -0.98,
+    -7.45
+   ]
+  },
+  {
+   "label": "Dividends paid to Group's shareholders",
+   "values": [
+    -627.1,
+    -626.81
+   ]
+  },
+  {
+   "label": "Net cash outflow from financing activities (C)",
+   "values": [
+    -693.48,
+    -676.58
+   ]
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents",
+   "values": [
+    -14.41,
+    544.85
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    807.25,
+    266.1
+   ]
+  },
+  {
+   "label": "Effect of foreign exchange rate changes on cash and cash equivalents held in foreign currency",
+   "values": [
+    -2.22,
+    -3.7
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    790.62,
+    807.25
+   ]
+  },
+  {
+   "label": "Non Cash investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Acquisition of right-of-use assets",
+   "values": [
+    30.34,
+    108.61
+   ]
+  }
+ ],
+ "pdf": "HAVELLS/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/91649597-75d8-410c-b359-b79e40e6bd6b.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

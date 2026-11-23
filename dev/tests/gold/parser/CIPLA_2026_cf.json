@@ -1,0 +1,466 @@
+{
+ "ticker": "CIPLA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 355,
+   "name": "356",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  },
+  {
+   "page": 356,
+   "name": "357",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    5223.63,
+    6820.81
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation, impairment and amortisation expense",
+   "values": [
+    1210.98,
+    1106.95
+   ]
+  },
+  {
+   "label": "Impairment of investment in associates (refer note 38(b))",
+   "values": [
+    42.02,
+    null
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    54.39,
+    62.01
+   ]
+  },
+  {
+   "label": "Unrealised foreign exchange gain (net)",
+   "values": [
+    -103.3,
+    -13.85
+   ]
+  },
+  {
+   "label": "Share based payment expense",
+   "values": [
+    59.05,
+    47.34
+   ]
+  },
+  {
+   "label": "Allowances for credit loss (net)",
+   "values": [
+    8.36,
+    8.93
+   ]
+  },
+  {
+   "label": "Interest income on income tax refund",
+   "values": [
+    -0.66,
+    -9.98
+   ]
+  },
+  {
+   "label": "Interest income on bank deposits and others",
+   "values": [
+    -227.91,
+    -254.42
+   ]
+  },
+  {
+   "label": "Sundry balances written back (net)",
+   "values": [
+    -3.45,
+    -10.94
+   ]
+  },
+  {
+   "label": "Net gain on sale of current investment carried at fair value through profit or loss",
+   "values": [
+    -344.81,
+    -174.27
+   ]
+  },
+  {
+   "label": "Net fair value gain on financial instruments at fair value through profit or loss",
+   "values": [
+    -128.14,
+    -234.55
+   ]
+  },
+  {
+   "label": "Net loss/(gain) on sale/disposal of property, plant and equipment and intangible asset",
+   "values": [
+    -31.81,
+    5.06
+   ]
+  },
+  {
+   "label": "Rent income",
+   "values": [
+    -6.91,
+    -14.54
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    5751.44,
+    7338.55
+   ]
+  },
+  {
+   "label": "Adjustments for working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Increase in inventories",
+   "values": [
+    -642.39,
+    -322.54
+   ]
+  },
+  {
+   "label": "Decrease/(Increase) in trade receivables",
+   "values": [
+    465.29,
+    -593.76
+   ]
+  },
+  {
+   "label": "Increase in other receivables",
+   "values": [
+    -701.18,
+    -149.18
+   ]
+  },
+  {
+   "label": "Increase in trade payables",
+   "values": [
+    252.58,
+    342.17
+   ]
+  },
+  {
+   "label": "Increase in other payables and provisions",
+   "values": [
+    400.48,
+    57.84
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    5526.22,
+    6673.08
+   ]
+  },
+  {
+   "label": "Income tax paid (net of refunds)",
+   "values": [
+    -1586.2,
+    -1668.1
+   ]
+  },
+  {
+   "label": "Net cash flows generated from operating activities (a)",
+   "values": [
+    3940.02,
+    5004.98
+   ]
+  },
+  {
+   "label": "Cash flow from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment {refer note (ii) below}",
+   "values": [
+    -1599.33,
+    -1162.16
+   ]
+  },
+  {
+   "label": "Purchase of intangible assets (including intangible asset under development)",
+   "values": [
+    -1479.98,
+    -386.04
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment {refer note (ii) below}",
+   "values": [
+    23.56,
+    24.85
+   ]
+  },
+  {
+   "label": "Proceeds from sale of intangible assets",
+   "values": [
+    44.05,
+    8.55
+   ]
+  },
+  {
+   "label": "Purchase consideration for acquisition of business",
+   "values": [
+    null,
+    -130.0
+   ]
+  },
+  {
+   "label": "Purchase/Deferred consideration for acquisition of subsidiary (net of cash acquired)",
+   "values": [
+    -110.65,
+    -75.09
+   ]
+  },
+  {
+   "label": "(refer note 54)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investment in associates (refer note 6)",
+   "values": [
+    -15.63,
+    -30.63
+   ]
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -17.37,
+    -17.83
+   ]
+  },
+  {
+   "label": "Sale/(purchase) of current investments (net)",
+   "values": [
+    86.76,
+    -2077.4
+   ]
+  },
+  {
+   "label": "Proceed/Advance received against sale of assets classified as held for sale",
+   "values": [
+    26.15,
+    11.09
+   ]
+  },
+  {
+   "label": "Change in bank balances and cash not available for immediate use",
+   "values": [
+    486.48,
+    -104.41
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    222.92,
+    260.2
+   ]
+  },
+  {
+   "label": "Loan given to associate and others",
+   "values": [
+    null,
+    -26.81
+   ]
+  },
+  {
+   "label": "Rent received",
+   "values": [
+    6.91,
+    14.54
+   ]
+  },
+  {
+   "label": "Net cash used in investing activities (b)",
+   "values": [
+    -2326.13,
+    -3691.14
+   ]
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issue of equity shares (ESOS & ESAR)",
+   "values": [
+    0.04,
+    0.05
+   ]
+  },
+  {
+   "label": "Transaction with non-controlling interest (net)",
+   "values": [
+    15.78,
+    2.79
+   ]
+  },
+  {
+   "label": "Consideration paid for settlement of option liability",
+   "values": [
+    null,
+    -43.14
+   ]
+  },
+  {
+   "label": "Proceeds/(Repayment) from current borrowings (net)",
+   "values": [
+    94.62,
+    -98.01
+   ]
+  },
+  {
+   "label": "Proceeds from non-current borrowings",
+   "values": [
+    93.16,
+    11.96
+   ]
+  },
+  {
+   "label": "Principal payment of lease liabilities",
+   "values": [
+    -107.82,
+    -80.23
+   ]
+  },
+  {
+   "label": "Interest paid (including interest on lease liability of H 28.31 Crores (31st March, 2025: H 23.02 Crores))",
+   "values": [
+    -37.03,
+    -36.38
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -1292.4,
+    -1049.83
+   ]
+  },
+  {
+   "label": "Net cash used in financing activities (c)",
+   "values": [
+    -1233.65,
+    -1292.79
+   ]
+  },
+  {
+   "label": "Net increase in cash and cash equivalents (a+b+c)",
+   "values": [
+    380.24,
+    21.05
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    542.65,
+    512.34
+   ]
+  },
+  {
+   "label": "Exchange difference on translation of foreign currency cash and cash equivalents",
+   "values": [
+    92.5,
+    9.26
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year (refer note 15)",
+   "values": [
+    1015.39,
+    542.65
+   ]
+  },
+  {
+   "label": "Components of cash and cash equivalents",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents as per Consolidated Balance Sheet (refer note 15)",
+   "values": [
+    1018.22,
+    588.69
+   ]
+  },
+  {
+   "label": "Less: Bank overdraft (refer note 23)",
+   "values": [
+    -2.83,
+    -46.04
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents for Consolidated Statement of Cash Flows",
+   "values": [
+    1015.39,
+    542.65
+   ]
+  }
+ ],
+ "pdf": "CIPLA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4070b137-2a68-4790-8821-268ff7c4e408.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

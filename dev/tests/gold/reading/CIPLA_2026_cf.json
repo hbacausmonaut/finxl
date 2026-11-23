@@ -1,0 +1,464 @@
+{
+ "ticker": "CIPLA",
+ "fy": 2026,
+ "statement": "cf",
+ "scope": "consolidated",
+ "reader": "claude",
+ "read_at": "2026-11-04 12:00 UTC",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 355
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    5223.63,
+    6820.81
+   ],
+   "page": 355
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "page": 355
+  },
+  {
+   "label": "Depreciation, impairment and amortisation expense",
+   "values": [
+    1210.98,
+    1106.95
+   ],
+   "page": 355
+  },
+  {
+   "label": "Impairment of investment in associates (refer note 38(b))",
+   "values": [
+    42.02,
+    null
+   ],
+   "page": 355
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    54.39,
+    62.01
+   ],
+   "page": 355
+  },
+  {
+   "label": "Unrealised foreign exchange gain (net)",
+   "values": [
+    -103.3,
+    -13.85
+   ],
+   "page": 355
+  },
+  {
+   "label": "Share based payment expense",
+   "values": [
+    59.05,
+    47.34
+   ],
+   "page": 355
+  },
+  {
+   "label": "Allowances for credit loss (net)",
+   "values": [
+    8.36,
+    8.93
+   ],
+   "page": 355
+  },
+  {
+   "label": "Interest income on income tax refund",
+   "values": [
+    -0.66,
+    -9.98
+   ],
+   "page": 355
+  },
+  {
+   "label": "Interest income on bank deposits and others",
+   "values": [
+    -227.91,
+    -254.42
+   ],
+   "page": 355
+  },
+  {
+   "label": "Sundry balances written back (net)",
+   "values": [
+    -3.45,
+    -10.94
+   ],
+   "page": 355
+  },
+  {
+   "label": "Net gain on sale of current investment carried at fair value through profit or loss",
+   "values": [
+    -344.81,
+    -174.27
+   ],
+   "page": 355
+  },
+  {
+   "label": "Net fair value gain on financial instruments at fair value through profit or loss",
+   "values": [
+    -128.14,
+    -234.55
+   ],
+   "page": 355
+  },
+  {
+   "label": "Net loss/(gain) on sale/disposal of property, plant and equipment and intangible asset",
+   "values": [
+    -31.81,
+    5.06
+   ],
+   "page": 355
+  },
+  {
+   "label": "Rent income",
+   "values": [
+    -6.91,
+    -14.54
+   ],
+   "page": 355
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    5751.44,
+    7338.55
+   ],
+   "page": 355
+  },
+  {
+   "label": "Adjustments for working capital:",
+   "values": [
+    null,
+    null
+   ],
+   "page": 355
+  },
+  {
+   "label": "Increase in inventories",
+   "values": [
+    -642.39,
+    -322.54
+   ],
+   "page": 355
+  },
+  {
+   "label": "Decrease/(Increase) in trade receivables",
+   "values": [
+    465.29,
+    -593.76
+   ],
+   "page": 355
+  },
+  {
+   "label": "Increase in other receivables",
+   "values": [
+    -701.18,
+    -149.18
+   ],
+   "page": 355
+  },
+  {
+   "label": "Increase in trade payables",
+   "values": [
+    252.58,
+    342.17
+   ],
+   "page": 355
+  },
+  {
+   "label": "Increase in other payables and provisions",
+   "values": [
+    400.48,
+    57.84
+   ],
+   "page": 355
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    5526.22,
+    6673.08
+   ],
+   "page": 355
+  },
+  {
+   "label": "Income tax paid (net of refunds)",
+   "values": [
+    -1586.2,
+    -1668.1
+   ],
+   "page": 355
+  },
+  {
+   "label": "Net cash flows generated from operating activities (a)",
+   "values": [
+    3940.02,
+    5004.98
+   ],
+   "page": 355
+  },
+  {
+   "label": "Cash flow from investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 355
+  },
+  {
+   "label": "Purchase of property, plant and equipment {refer note (ii) below}",
+   "values": [
+    -1599.33,
+    -1162.16
+   ],
+   "page": 355
+  },
+  {
+   "label": "Purchase of intangible assets (including intangible asset under development)",
+   "values": [
+    -1479.98,
+    -386.04
+   ],
+   "page": 355
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment {refer note (ii) below}",
+   "values": [
+    23.56,
+    24.85
+   ],
+   "page": 355
+  },
+  {
+   "label": "Proceeds from sale of intangible assets",
+   "values": [
+    44.05,
+    8.55
+   ],
+   "page": 355
+  },
+  {
+   "label": "Purchase consideration for acquisition of business",
+   "values": [
+    null,
+    -130.0
+   ],
+   "page": 355
+  },
+  {
+   "label": "Purchase/Deferred consideration for acquisition of subsidiary (net of cash acquired) (refer note 54)",
+   "values": [
+    -110.65,
+    -75.09
+   ],
+   "page": 355
+  },
+  {
+   "label": "Investment in associates (refer note 6)",
+   "values": [
+    -15.63,
+    -30.63
+   ],
+   "page": 355
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -17.37,
+    -17.83
+   ],
+   "page": 355
+  },
+  {
+   "label": "Sale/(purchase) of current investments (net)",
+   "values": [
+    86.76,
+    -2077.4
+   ],
+   "page": 355
+  },
+  {
+   "label": "Proceed/Advance received against sale of assets classified as held for sale",
+   "values": [
+    26.15,
+    11.09
+   ],
+   "page": 355
+  },
+  {
+   "label": "Change in bank balances and cash not available for immediate use",
+   "values": [
+    486.48,
+    -104.41
+   ],
+   "page": 355
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    222.92,
+    260.2
+   ],
+   "page": 355
+  },
+  {
+   "label": "Loan given to associate and others",
+   "values": [
+    null,
+    -26.81
+   ],
+   "page": 355
+  },
+  {
+   "label": "Rent received",
+   "values": [
+    6.91,
+    14.54
+   ],
+   "page": 355
+  },
+  {
+   "label": "Net cash used in investing activities (b)",
+   "values": [
+    -2326.13,
+    -3691.14
+   ],
+   "page": 355
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 356
+  },
+  {
+   "label": "Proceeds from issue of equity shares (ESOS & ESAR)",
+   "values": [
+    0.04,
+    0.05
+   ],
+   "page": 356
+  },
+  {
+   "label": "Transaction with non-controlling interest (net)",
+   "values": [
+    15.78,
+    2.79
+   ],
+   "page": 356
+  },
+  {
+   "label": "Consideration paid for settlement of option liability",
+   "values": [
+    null,
+    -43.14
+   ],
+   "page": 356
+  },
+  {
+   "label": "Proceeds/(Repayment) from current borrowings (net)",
+   "values": [
+    94.62,
+    -98.01
+   ],
+   "page": 356
+  },
+  {
+   "label": "Proceeds from non-current borrowings",
+   "values": [
+    93.16,
+    11.96
+   ],
+   "page": 356
+  },
+  {
+   "label": "Principal payment of lease liabilities",
+   "values": [
+    -107.82,
+    -80.23
+   ],
+   "page": 356
+  },
+  {
+   "label": "Interest paid (including interest on lease liability of ₹ 28.31 Crores (31st March, 2025: ₹ 23.02 Crores))",
+   "values": [
+    -37.03,
+    -36.38
+   ],
+   "page": 356
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -1292.4,
+    -1049.83
+   ],
+   "page": 356
+  },
+  {
+   "label": "Net cash used in financing activities (c)",
+   "values": [
+    -1233.65,
+    -1292.79
+   ],
+   "page": 356
+  },
+  {
+   "label": "Net increase in cash and cash equivalents (a+b+c)",
+   "values": [
+    380.24,
+    21.05
+   ],
+   "page": 356
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    542.65,
+    512.34
+   ],
+   "page": 356
+  },
+  {
+   "label": "Exchange difference on translation of foreign currency cash and cash equivalents",
+   "values": [
+    92.5,
+    9.26
+   ],
+   "page": 356
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year (refer note 15)",
+   "values": [
+    1015.39,
+    542.65
+   ],
+   "page": 356
+  }
+ ],
+ "notes": "Statement spans page indices 355-356; title repeated on 356. Excluded the 'Components of cash and cash equivalents' block after the closing line (CCE per balance sheet 1018.22/588.69, less bank overdraft -2.83/-46.04, CCE for cash flow 1015.39/542.65) and the Notes (i)-(iv). Next page is notes, no continuation."
+}

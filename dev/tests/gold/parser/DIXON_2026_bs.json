@@ -1,0 +1,428 @@
+{
+ "ticker": "DIXON",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 417,
+   "name": "418",
+   "clip": [
+    0.0,
+    0.0,
+    612.3,
+    793.7
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": null,
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    271990.0,
+    210909.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    57084.0,
+    25612.0
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    4064.0,
+    3850.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    null,
+    83.0
+   ]
+  },
+  {
+   "label": "Right of use assets",
+   "values": [
+    83111.0,
+    56915.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    58000.0,
+    5702.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    70653.0,
+    53560.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    13688.0,
+    5106.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    975.0,
+    912.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    5060.0,
+    4600.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    564625.0,
+    367249.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    383652.0,
+    399240.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    30031.0,
+    null
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    652991.0,
+    696545.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    76743.0,
+    23085.0
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    17363.0,
+    3268.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    124302.0,
+    144541.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    58581.0,
+    41042.0
+   ]
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    7876.0,
+    1717.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1351539.0,
+    1309438.0
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    1916164.0,
+    1676687.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    1216.0,
+    1205.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    466451.0,
+    299815.0
+   ]
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    467667.0,
+    301020.0
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    71000.0,
+    45913.0
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY",
+   "values": [
+    538667.0,
+    346933.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    35969.0,
+    8089.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    46074.0,
+    41779.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    3979.0,
+    6008.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1446.0,
+    1865.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    12031.0,
+    10715.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    8169.0,
+    1754.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    107668.0,
+    70210.0
+   ]
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    10781.0,
+    12139.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    6598.0,
+    5089.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro and small enterprises",
+   "values": [
+    16643.0,
+    7830.0
+   ]
+  },
+  {
+   "label": "Total outstanding dues of other than micro and small enterprises",
+   "values": [
+    1055575.0,
+    1080535.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    126307.0,
+    139792.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    50834.0,
+    13123.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1024.0,
+    900.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    2067.0,
+    136.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1269829.0,
+    1259544.0
+   ]
+  },
+  {
+   "label": "TOTAL LIABILITIES",
+   "values": [
+    1377497.0,
+    1329754.0
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    1916164.0,
+    1676687.0
+   ]
+  }
+ ],
+ "pdf": "DIXON/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf",
+ "parsed_at": "2026-11-04 11:27 UTC"
+}

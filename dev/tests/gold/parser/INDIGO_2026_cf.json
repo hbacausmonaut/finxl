@@ -1,0 +1,508 @@
+{
+ "ticker": "INDIGO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 248,
+   "name": "249",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 249,
+   "name": "250",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flows from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit / (loss) before tax",
+   "values": [
+    -19605.0,
+    75934.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    108082.0,
+    86802.0
+   ]
+  },
+  {
+   "label": "Interest on lease liabilities",
+   "values": [
+    48059.0,
+    41084.0
+   ]
+  },
+  {
+   "label": "Interest accretion on provisions and other financial liabilities measured at amortised cost",
+   "values": [
+    10700.0,
+    9495.0
+   ]
+  },
+  {
+   "label": "Interest on borrowings measured at amortised cost",
+   "values": [
+    142.0,
+    220.0
+   ]
+  },
+  {
+   "label": "Mark to market gain on current investments at fair value",
+   "values": [
+    -10792.0,
+    -13700.0
+   ]
+  },
+  {
+   "label": "Net gain on sale of current investments",
+   "values": [
+    -4865.0,
+    -1210.0
+   ]
+  },
+  {
+   "label": "Interest income from bank deposits",
+   "values": [
+    -13066.0,
+    -11218.0
+   ]
+  },
+  {
+   "label": "Interest income from financial assets at amortised cost",
+   "values": [
+    -6457.0,
+    -4735.0
+   ]
+  },
+  {
+   "label": "Unrealised foreign exchange loss (net)",
+   "values": [
+    93186.0,
+    17083.0
+   ]
+  },
+  {
+   "label": "Unrealised (gain) / loss on change in fair value of derivatives (net)",
+   "values": [
+    -7077.0,
+    80.0
+   ]
+  },
+  {
+   "label": "Exceptional items (Refer to Note 30)",
+   "values": [
+    17964.0,
+    null
+   ]
+  },
+  {
+   "label": "Non cash incentives, claims and credits",
+   "values": [
+    -258.0,
+    -472.0
+   ]
+  },
+  {
+   "label": "Share based payments expense",
+   "values": [
+    26.0,
+    810.0
+   ]
+  },
+  {
+   "label": "Liabilities no longer required written back",
+   "values": [
+    -8.0,
+    -3.0
+   ]
+  },
+  {
+   "label": "Property, plant and equipment written off",
+   "values": [
+    517.0,
+    482.0
+   ]
+  },
+  {
+   "label": "Profit on sale of property, plant and equipment (net)",
+   "values": [
+    -17.0,
+    -19.0
+   ]
+  },
+  {
+   "label": "Bad debts written off",
+   "values": [
+    null,
+    14.0
+   ]
+  },
+  {
+   "label": "Impairment loss on trade receivables",
+   "values": [
+    263.0,
+    14.0
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    216794.0,
+    200661.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Increase in other financial assets and other assets",
+   "values": [
+    -34531.0,
+    -42053.0
+   ]
+  },
+  {
+   "label": "Increase in inventories",
+   "values": [
+    -1645.0,
+    -1955.0
+   ]
+  },
+  {
+   "label": "Increase in trade payables, other financial liabilities, other liabilities and provisions",
+   "values": [
+    55410.0,
+    90242.0
+   ]
+  },
+  {
+   "label": "Increase / (decrease) in trade receivables",
+   "values": [
+    1239.0,
+    -1057.0
+   ]
+  },
+  {
+   "label": "Cash generated from operating activities",
+   "values": [
+    237267.0,
+    245838.0
+   ]
+  },
+  {
+   "label": "Income tax paid (net)",
+   "values": [
+    -2568.0,
+    -4325.0
+   ]
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    234699.0,
+    241513.0
+   ]
+  },
+  {
+   "label": "Cash flows from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of mutual funds / equity instruments / bonds / commercial paper / certificate of deposit (Refer to Note 8)",
+   "values": [
+    -440338.0,
+    -226798.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of mutual funds / bonds / commercial paper / certificate of deposit",
+   "values": [
+    440465.0,
+    146584.0
+   ]
+  },
+  {
+   "label": "(Refer to Note 8)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investment in bank deposits (Refer to Note 9 and 14)",
+   "values": [
+    -288526.0,
+    -225906.0
+   ]
+  },
+  {
+   "label": "Proceeds from maturity of bank deposits (Refer to Note 9 and 14)",
+   "values": [
+    277995.0,
+    191233.0
+   ]
+  },
+  {
+   "label": "Interest received on bank deposits and bonds",
+   "values": [
+    13526.0,
+    11320.0
+   ]
+  },
+  {
+   "label": "Major inspection, overhaul costs and initial direct cost on leased aircraft (including capital advances and capital creditors)",
+   "values": [
+    -5617.0,
+    -8097.0
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment and intangible assets (including capital advances and capital creditors)",
+   "values": [
+    -17101.0,
+    -16048.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    71.0,
+    119.0
+   ]
+  },
+  {
+   "label": "Net cash used in investing activities",
+   "values": [
+    -19525.0,
+    -127593.0
+   ]
+  },
+  {
+   "label": "Cash flows from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Repayment of lease liabilities (net of incentives) (Refer to Note (iii) below)",
+   "values": [
+    -161802.0,
+    -69011.0
+   ]
+  },
+  {
+   "label": "Interest paid on lease liabilities (Refer to Note (iii) below)",
+   "values": [
+    -47229.0,
+    -40384.0
+   ]
+  },
+  {
+   "label": "Proceeds from / (repayment) of short-term borrowings (net) (Refer to Note (iii) below)",
+   "values": [
+    63.0,
+    -917.0
+   ]
+  },
+  {
+   "label": "Interest paid on borrowings",
+   "values": [
+    -144.0,
+    -260.0
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -3865.0,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issue of units of controlled trust to non-controlling interests",
+   "values": [
+    177.0,
+    null
+   ]
+  },
+  {
+   "label": "Securities premium received on shares issued pursuant to share based payment arrangements",
+   "values": [
+    37.0,
+    414.0
+   ]
+  },
+  {
+   "label": "Proceeds from issue of shares pursuant to share based payment arrangements",
+   "values": [
+    2.0,
+    4.0
+   ]
+  },
+  {
+   "label": "Net cash used in financing activities",
+   "values": [
+    -212761.0,
+    -110154.0
+   ]
+  },
+  {
+   "label": "Net increase in cash and cash equivalents during the year",
+   "values": [
+    2413.0,
+    3766.0
+   ]
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents held in foreign currency",
+   "values": [
+    95.0,
+    12.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash on hand",
+   "values": [
+    18.0,
+    18.0
+   ]
+  },
+  {
+   "label": "Balances with banks",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "On current accounts",
+   "values": [
+    4684.0,
+    6012.0
+   ]
+  },
+  {
+   "label": "On deposit accounts (with original maturity of three months or less)",
+   "values": [
+    6029.0,
+    923.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    10731.0,
+    6953.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents as at the end of the year",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash on hand",
+   "values": [
+    12.0,
+    18.0
+   ]
+  },
+  {
+   "label": "Balances with banks",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "On current accounts",
+   "values": [
+    3075.0,
+    4684.0
+   ]
+  },
+  {
+   "label": "On deposit accounts (with original maturity of three months or less)",
+   "values": [
+    10152.0,
+    6029.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    13239.0,
+    10731.0
+   ]
+  },
+  {
+   "label": "Notes",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "The Consolidated Statement of Cash Flows has been prepared in accordance with 'Indirect method' as set out in Ind AS",
+   "values": [
+    null,
+    -7.0
+   ]
+  }
+ ],
+ "pdf": "INDIGO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b45f7180-78f4-4e39-9335-03cb2daa1a11.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

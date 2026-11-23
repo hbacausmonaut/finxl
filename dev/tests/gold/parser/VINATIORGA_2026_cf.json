@@ -1,0 +1,417 @@
+{
+ "ticker": "VINATIORGA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 189,
+   "name": "190",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    777.6
+   ]
+  },
+  {
+   "page": 190,
+   "name": "191",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    777.6
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    594.74,
+    536.18
+   ]
+  },
+  {
+   "label": "Adjustment for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    111.36,
+    88.53
+   ]
+  },
+  {
+   "label": "Unrealised foreign exchange (gain)/loss",
+   "values": [
+    -16.31,
+    -1.13
+   ]
+  },
+  {
+   "label": "Finance cost",
+   "values": [
+    0.41,
+    0.52
+   ]
+  },
+  {
+   "label": "Project expenses written off",
+   "values": [
+    null,
+    1.52
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -0.32,
+    -14.12
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    null,
+    -0.05
+   ]
+  },
+  {
+   "label": "Non cash adjustments",
+   "values": [
+    2.65,
+    null
+   ]
+  },
+  {
+   "label": "Net (gain)/loss on fair value changes on financial assets classified as fair value through profit and loss",
+   "values": [
+    -4.25,
+    -1.74
+   ]
+  },
+  {
+   "label": "Net gain on sale of investments classified as fair value through profit and loss",
+   "values": [
+    -5.1,
+    -0.29
+   ]
+  },
+  {
+   "label": "Loss/(gain) on sale/disposal of property, plant and equipment",
+   "values": [
+    -0.07,
+    1.15
+   ]
+  },
+  {
+   "label": "Operating profit/(loss) before working capital changes",
+   "values": [
+    683.11,
+    610.57
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in trade receivables",
+   "values": [
+    86.35,
+    -61.12
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in other non-current financial assets",
+   "values": [
+    1.62,
+    -1.66
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in other current financial assets",
+   "values": [
+    -1.52,
+    -23.69
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in other non current assets",
+   "values": [
+    -3.59,
+    2.09
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in other current assets",
+   "values": [
+    31.08,
+    9.28
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in inventories",
+   "values": [
+    -89.93,
+    -22.66
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in trade payable",
+   "values": [
+    -26.25,
+    47.27
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in provisions",
+   "values": [
+    0.94,
+    1.95
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in other current financial liabilities",
+   "values": [
+    -2.47,
+    11.19
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in other non current financial liabilities",
+   "values": [
+    null,
+    -17.07
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in other current financial liabilities",
+   "values": [
+    6.26,
+    6.96
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in other current liabilities",
+   "values": [
+    8.67,
+    -10.47
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    11.16,
+    -57.93
+   ]
+  },
+  {
+   "label": "Cash flows from/(used in) operating activities",
+   "values": [
+    694.27,
+    552.64
+   ]
+  },
+  {
+   "label": "Direct taxes paid (Net of refund, if any)",
+   "values": [
+    -136.4,
+    -94.42
+   ]
+  },
+  {
+   "label": "Net cash flows from/(used in) operating activities",
+   "values": [
+    557.87,
+    458.22
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment, capital work in progress and capital advance",
+   "values": [
+    -269.57,
+    -500.27
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    0.19,
+    3.18
+   ]
+  },
+  {
+   "label": "Purchase of investments",
+   "values": [
+    -190.45,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from sale of investments",
+   "values": [
+    45.24,
+    30.08
+   ]
+  },
+  {
+   "label": "Loans / Financial assets given",
+   "values": [
+    -0.01,
+    null
+   ]
+  },
+  {
+   "label": "Loans / Financial assets repaid",
+   "values": [
+    null,
+    0.02
+   ]
+  },
+  {
+   "label": "Deposits / Balances with banks redeemed",
+   "values": [
+    0.78,
+    9.56
+   ]
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    0.32,
+    14.86
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    null,
+    0.05
+   ]
+  },
+  {
+   "label": "Net cash flows from/(used in) in investing activities",
+   "values": [
+    -413.5,
+    -442.51
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Repayments) / proceeds from working capital facilities (net)",
+   "values": [
+    -62.63,
+    57.98
+   ]
+  },
+  {
+   "label": "(Repayments) / payments towards security deposit",
+   "values": [
+    -0.13,
+    0.04
+   ]
+  },
+  {
+   "label": "Foreign currency transalation reserve",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Share issue expenses",
+   "values": [
+    null,
+    -0.65
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -0.41,
+    -0.52
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -77.92,
+    -72.43
+   ]
+  },
+  {
+   "label": "Net Cash flows from/(used in) financing activities",
+   "values": [
+    -141.09,
+    -15.58
+   ]
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents",
+   "values": [
+    3.28,
+    0.12
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at beginning of the year",
+   "values": [
+    0.49,
+    0.37
+   ]
+  },
+  {
+   "label": "Cash and cash Equivalents",
+   "values": [
+    0.49,
+    0.37
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    3.77,
+    0.49
+   ]
+  },
+  {
+   "label": "Cash and cash Equivalents",
+   "values": [
+    3.77,
+    0.49
+   ]
+  }
+ ],
+ "pdf": "VINATIORGA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/30a4c42b-d9d5-4ecc-b50b-647f684b7ac8.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

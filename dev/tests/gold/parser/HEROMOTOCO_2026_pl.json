@@ -1,0 +1,400 @@
+{
+ "ticker": "HEROMOTOCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 212,
+   "name": "213R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    47411.24,
+    40923.42
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1058.13,
+    1044.08
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    48469.37,
+    41967.5
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of raw materials consumed",
+   "values": [
+    31186.16,
+    26607.07
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    796.53,
+    547.91
+   ]
+  },
+  {
+   "label": "Change in inventories of finished goods, stock-in-trade and work-in-progress",
+   "values": [
+    -303.32,
+    -244.34
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    2829.47,
+    2680.07
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    78.27,
+    70.65
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense 5, 7 and",
+   "values": [
+    854.99,
+    824.59
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    5857.27,
+    5386.87
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    41299.37,
+    35872.82
+   ]
+  },
+  {
+   "label": "Profit before share of profit/(loss) of associates, exceptional items and tax (I - II)",
+   "values": [
+    7170.0,
+    6094.68
+   ]
+  },
+  {
+   "label": "Profit/(loss) from associates",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Share in net profit/(loss) of associates (net of tax)",
+   "values": [
+    384.58,
+    -161.12
+   ]
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    7554.58,
+    5933.56
+   ]
+  },
+  {
+   "label": "Exceptional item",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Expense towards- New Labour Code",
+   "values": [
+    119.0,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax (V-VI)",
+   "values": [
+    7435.58,
+    5933.56
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    1638.11,
+    1448.02
+   ]
+  },
+  {
+   "label": "Deferred tax charge",
+   "values": [
+    21.77,
+    109.73
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    1659.88,
+    1557.75
+   ]
+  },
+  {
+   "label": "Profit after tax (VII -VIII)",
+   "values": [
+    5775.7,
+    4375.81
+   ]
+  },
+  {
+   "label": "Other comprehensive income/(loss)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified subsequently to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Re-measurement (losses) on defined benefit plans",
+   "values": [
+    -21.42,
+    -16.07
+   ]
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    5.38,
+    4.05
+   ]
+  },
+  {
+   "label": "Share of Other comprehensive income/(loss) of associates",
+   "values": [
+    -0.08,
+    0.09
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -16.12,
+    -11.93
+   ]
+  },
+  {
+   "label": "Items that will be reclassified subsequently to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange differences in translating the financial information of foreign operations",
+   "values": [
+    55.04,
+    -18.83
+   ]
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -13.85,
+    4.74
+   ]
+  },
+  {
+   "label": "Share of Other comprehensive income/(loss) of associates",
+   "values": [
+    31.54,
+    -13.02
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    72.73,
+    -27.11
+   ]
+  },
+  {
+   "label": "Other comprehensive income/(loss), net of tax",
+   "values": [
+    56.61,
+    -39.04
+   ]
+  },
+  {
+   "label": "Total comprehensive income/(loss), net of tax",
+   "values": [
+    5832.31,
+    4336.77
+   ]
+  },
+  {
+   "label": "Net Profit/(loss) attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    5741.73,
+    4378.48
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    33.97,
+    -2.67
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    5775.7,
+    4375.81
+   ]
+  },
+  {
+   "label": "Other comprehensive income/(loss) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    43.9,
+    -32.1
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    12.71,
+    -6.94
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    56.61,
+    -39.04
+   ]
+  },
+  {
+   "label": "Total comprehensive income/(loss) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    5785.63,
+    4346.38
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    46.68,
+    -9.61
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    5832.31,
+    4336.77
+   ]
+  },
+  {
+   "label": "Earnings per share (face value of K 2 each) in Rupees",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    287.01,
+    218.96
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    286.72,
+    218.69
+   ]
+  }
+ ],
+ "pdf": "HEROMOTOCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b80c703d-600d-472b-a18c-9565f6f780a7.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

@@ -1,0 +1,239 @@
+{
+ "ticker": "VINATIORGA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 188,
+   "name": "189",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    777.6
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    2226.89,
+    2248.17
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    52.64,
+    44.31
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    2279.53,
+    2292.48
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    1066.29,
+    1182.18
+   ]
+  },
+  {
+   "label": "Purchase of stock in trade",
+   "values": [
+    0.51,
+    null
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods and work-in-progress",
+   "values": [
+    -32.4,
+    13.81
+   ]
+  },
+  {
+   "label": "Employee benefit expense",
+   "values": [
+    175.42,
+    139.61
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    0.41,
+    0.52
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    111.36,
+    88.53
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    363.2,
+    331.65
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    1684.79,
+    1756.3
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    594.74,
+    536.18
+   ]
+  },
+  {
+   "label": "Tax expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    133.56,
+    116.61
+   ]
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    21.45,
+    18.46
+   ]
+  },
+  {
+   "label": "Earlier years tax adjustments",
+   "values": [
+    -4.01,
+    -4.14
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    151.0,
+    130.93
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    443.74,
+    405.25
+   ]
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurements of defined benefit plans",
+   "values": [
+    -0.22,
+    -0.44
+   ]
+  },
+  {
+   "label": "Tax expenses relating to items that will not be reclassified to profit or loss",
+   "values": [
+    0.05,
+    0.11
+   ]
+  },
+  {
+   "label": "Transfer to foreign currency translation reserve",
+   "values": [
+    -0.03,
+    null
+   ]
+  },
+  {
+   "label": "Total other comprehensive income for the year, net of tax",
+   "values": [
+    -0.2,
+    -0.33
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    443.54,
+    404.92
+   ]
+  },
+  {
+   "label": "Earnings per equity share (in `) (a)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    42.8,
+    39.09
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    42.8,
+    39.09
+   ]
+  }
+ ],
+ "pdf": "VINATIORGA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/30a4c42b-d9d5-4ecc-b50b-647f684b7ac8.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

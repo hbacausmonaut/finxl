@@ -1,0 +1,487 @@
+{
+ "ticker": "VEDL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 244,
+   "name": "245L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 244,
+   "name": "245R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax from continuing operations",
+   "values": [
+    17126.0,
+    11628.0
+   ]
+  },
+  {
+   "label": "Profit before tax from discontinued operations",
+   "values": [
+    18300.0,
+    15249.0
+   ]
+  },
+  {
+   "label": "Profit before tax from continuing and discontinued operations",
+   "values": [
+    35426.0,
+    26877.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation, depletion and amortisation",
+   "values": [
+    9807.0,
+    11139.0
+   ]
+  },
+  {
+   "label": "Impairment charge/(reversal) on property, plant and equipment/ Capital work-in-progress (CWIP)/ Other assets written off (net) (Refer note 36)",
+   "values": [
+    1820.0,
+    -2090.0
+   ]
+  },
+  {
+   "label": "Other exceptional items loss (Refer note 36)",
+   "values": [
+    1610.0,
+    195.0
+   ]
+  },
+  {
+   "label": "Allowance of impairment on financial and non-financial assets/ bad debts written off",
+   "values": [
+    649.0,
+    343.0
+   ]
+  },
+  {
+   "label": "Exploration costs written off",
+   "values": [
+    1252.0,
+    459.0
+   ]
+  },
+  {
+   "label": "Liabilities written back",
+   "values": [
+    -409.0,
+    -469.0
+   ]
+  },
+  {
+   "label": "Fair Value gain on financial assets held at fair value through profit or loss",
+   "values": [
+    -216.0,
+    -262.0
+   ]
+  },
+  {
+   "label": "Loss on sale/ discard of property, plant and equipment (net)",
+   "values": [
+    -13.0,
+    -191.0
+   ]
+  },
+  {
+   "label": "Foreign exchange (gain)/loss (net)",
+   "values": [
+    -76.0,
+    57.0
+   ]
+  },
+  {
+   "label": "Unwinding of discount on decommissioning liability",
+   "values": [
+    152.0,
+    142.0
+   ]
+  },
+  {
+   "label": "Share in (profit)/loss of jointly controlled entities and associates",
+   "values": [
+    1.0,
+    -1.0
+   ]
+  },
+  {
+   "label": "Share based payment expense",
+   "values": [
+    53.0,
+    58.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -2408.0,
+    -2388.0
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -33.0,
+    -35.0
+   ]
+  },
+  {
+   "label": "Interest expense",
+   "values": [
+    8199.0,
+    9772.0
+   ]
+  },
+  {
+   "label": "Amortization of Deferred government grant",
+   "values": [
+    -321.0,
+    -296.0
+   ]
+  },
+  {
+   "label": "Changes in working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase)/ decrease in trade and other receivables",
+   "values": [
+    -3867.0,
+    5553.0
+   ]
+  },
+  {
+   "label": "(Increase) in inventories",
+   "values": [
+    -1027.0,
+    -1714.0
+   ]
+  },
+  {
+   "label": "Increase/ (decrease) in trade and other payables",
+   "values": [
+    1076.0,
+    -5862.0
+   ]
+  },
+  {
+   "label": "(Decrease)/ increase in operational buyers' credit / suppliers' credit",
+   "values": [
+    -4041.0,
+    1358.0
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    47635.0,
+    42645.0
+   ]
+  },
+  {
+   "label": "Income taxes paid (net of refunds)",
+   "values": [
+    -8136.0,
+    -3083.0
+   ]
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    39499.0,
+    39562.0
+   ]
+  },
+  {
+   "label": "CASH FLOWS FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchases of property, plant and equipment (including intangibles, CWIP, capital advances and creditors)",
+   "values": [
+    -20876.0,
+    -17005.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    124.0,
+    291.0
+   ]
+  },
+  {
+   "label": "Loans repaid by related parties (Refer note 43)",
+   "values": [
+    1856.0,
+    2.0
+   ]
+  },
+  {
+   "label": "Loans given to related parties (Refer note 43)",
+   "values": [
+    null,
+    -2.0
+   ]
+  },
+  {
+   "label": "Deposits made",
+   "values": [
+    -16421.0,
+    -40362.0
+   ]
+  },
+  {
+   "label": "Proceeds from redemption of deposits",
+   "values": [
+    14737.0,
+    38026.0
+   ]
+  },
+  {
+   "label": "Short term investments made",
+   "values": [
+    -115947.0,
+    -113800.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of short term investments",
+   "values": [
+    111218.0,
+    112061.0
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    2115.0,
+    2390.0
+   ]
+  },
+  {
+   "label": "Dividends received",
+   "values": [
+    33.0,
+    35.0
+   ]
+  },
+  {
+   "label": "Payment made to site restoration fund",
+   "values": [
+    -712.0,
+    -212.0
+   ]
+  },
+  {
+   "label": "Purchase of long term investments",
+   "values": [
+    -465.0,
+    -614.0
+   ]
+  },
+  {
+   "label": "Net cash used in investing activities",
+   "values": [
+    -24338.0,
+    -19190.0
+   ]
+  },
+  {
+   "label": "CASH FLOWS FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Issue of ordinary shares (Refer note 15(c))",
+   "values": [
+    null,
+    8500.0
+   ]
+  },
+  {
+   "label": "Payment of share issue expenses",
+   "values": [
+    null,
+    -66.0
+   ]
+  },
+  {
+   "label": "Proceeds from short-term borrowings (net)",
+   "values": [
+    1364.0,
+    -197.0
+   ]
+  },
+  {
+   "label": "Proceeds from current borrowings",
+   "values": [
+    6093.0,
+    11923.0
+   ]
+  },
+  {
+   "label": "Repayment of current borrowings",
+   "values": [
+    -8857.0,
+    -12525.0
+   ]
+  },
+  {
+   "label": "Proceeds from long-term borrowings",
+   "values": [
+    28623.0,
+    27754.0
+   ]
+  },
+  {
+   "label": "Repayment of long-term borrowings",
+   "values": [
+    -22277.0,
+    -25580.0
+   ]
+  },
+  {
+   "label": "Borrowings repaid to related parties (Refer note 43)",
+   "values": [
+    null,
+    -7.0
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -9124.0,
+    -10458.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of equity shares of subsidiary without loss of control (Refer note 4(C))",
+   "values": [
+    6292.0,
+    3134.0
+   ]
+  },
+  {
+   "label": "Payment of dividends to the equity holders of the Company",
+   "values": [
+    -13279.0,
+    -16772.0
+   ]
+  },
+  {
+   "label": "Payment of dividends to non-controlling interests",
+   "values": [
+    -1546.0,
+    -4419.0
+   ]
+  },
+  {
+   "label": "Principle payment of lease liabilities",
+   "values": [
+    -428.0,
+    -387.0
+   ]
+  },
+  {
+   "label": "Interest payment of lease liabilities",
+   "values": [
+    -116.0,
+    -81.0
+   ]
+  },
+  {
+   "label": "Purchase of treasury shares for stock options",
+   "values": [
+    -294.0,
+    -42.0
+   ]
+  },
+  {
+   "label": "Net cash used in financing activities",
+   "values": [
+    -13549.0,
+    -19223.0
+   ]
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    204.0,
+    32.0
+   ]
+  },
+  {
+   "label": "Net increase in cash and cash equivalents",
+   "values": [
+    1816.0,
+    1181.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    3993.0,
+    2812.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at end of the year (Refer note 13 and note 47)",
+   "values": [
+    5809.0,
+    3993.0
+   ]
+  }
+ ],
+ "pdf": "VEDL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3725606c-05f5-40b2-b122-55c0a6e7bdd1.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

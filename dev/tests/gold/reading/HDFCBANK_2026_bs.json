@@ -1,0 +1,29 @@
+{
+  "ticker": "HDFCBANK", "fy": 2026, "statement": "bs", "scope": "consolidated",
+  "reader": "claude", "read_at": "2026-11-04 17:35 UTC",
+  "unit": "crore",
+  "years": [2026, 2025],
+  "rows": [
+    {"label": "CAPITAL AND LIABILITIES", "values": [null, null], "page": 495},
+    {"label": "Capital", "values": [1539.34, 765.22], "page": 495},
+    {"label": "Employees stock options / units outstanding", "values": [4545.11, 3805.19], "page": 495},
+    {"label": "Reserves and surplus", "values": [579975.02, 517218.98], "page": 495},
+    {"label": "Minority interest", "values": [22384.96, 16359.04], "page": 495},
+    {"label": "Deposits", "values": [3099638.29, 2710898.23], "page": 495},
+    {"label": "Borrowings", "values": [588484.55, 634605.57], "page": 495},
+    {"label": "Other liabilities and provisions", "values": [252977.53, 188163.66], "page": 495},
+    {"label": "Policyholders' funds", "values": [358496.04, 320601.53], "page": 495},
+    {"label": "Total", "values": [4908040.84, 4392417.42], "page": 495},
+    {"label": "ASSETS", "values": [null, null], "page": 495},
+    {"label": "Cash and balances with Reserve Bank of India", "values": [200707.11, 144390.25], "page": 495},
+    {"label": "Balances with banks and money at call and short notice", "values": [111218.94, 105557.65], "page": 495},
+    {"label": "Investments", "values": [1280216.29, 1186472.89], "page": 495},
+    {"label": "Advances", "values": [3050783.23, 2724938.16], "page": 495},
+    {"label": "Fixed assets", "values": [16491.59, 15257.94], "page": 495},
+    {"label": "Other assets", "values": [248623.68, 215800.53], "page": 495},
+    {"label": "Total", "values": [4908040.84, 4392417.42], "page": 495},
+    {"label": "Contingent liabilities", "values": [3479487.31, 2709921.85], "page": 495},
+    {"label": "Bills for collection", "values": [82470.05, 70679.55], "page": 495}
+  ],
+  "notes": "Statement fits on one page (p496_s1/s2 are two slices of the same page). Schedule column (1, 18 (4), 2, 2A, 3-12) dropped. Contingent liabilities and Bills for collection are memo lines inside the statement. Next page (p497) is the P&L, so no continuation."
+}

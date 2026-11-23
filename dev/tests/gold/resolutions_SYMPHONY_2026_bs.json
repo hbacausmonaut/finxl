@@ -1,0 +1,34 @@
+{
+ "format": "docfetcher-gold-resolutions/1",
+ "ticker": "SYMPHONY",
+ "fy": 2026,
+ "statement": "bs",
+ "resolved_by": "Claude in Chrome, at Harsh's request",
+ "answers": {
+  "d001": {
+   "choice": "reader",
+   "at": "2026-11-08 00:10",
+   "decided_by": "Claude in Chrome, at Harsh's request",
+   "note": "PDF page 100: 'Financial assets' is its own heading row, not part of the line above."
+  },
+  "d002": {
+   "choice": "reader",
+   "at": "2026-11-08 00:11",
+   "decided_by": "Claude in Chrome, at Harsh's request",
+   "note": "PDF page 100: 'Financial assets' is its own heading row, not part of the line above."
+  },
+  "d003": {
+   "choice": "reader",
+   "at": "2026-11-08 00:11",
+   "decided_by": "Claude in Chrome, at Harsh's request",
+   "note": "PDF page 100: 'Financial assets' is its own heading row, not part of the line above."
+  },
+  "d004": {
+   "choice": "reader",
+   "at": "2026-11-08 00:11",
+   "decided_by": "Claude in Chrome, at Harsh's request",
+   "note": "PDF page 100: 'Financial assets' is its own heading row, not part of the line above."
+  }
+ },
+ "resolved_at": "2026-11-08 00:11"
+}

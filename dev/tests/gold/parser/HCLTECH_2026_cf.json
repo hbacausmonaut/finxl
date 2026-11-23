@@ -1,0 +1,494 @@
+{
+ "ticker": "HCLTECH",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 401,
+   "name": "402",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    756.0
+   ]
+  },
+  {
+   "page": 402,
+   "name": "403",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    756.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "A Cash flows from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    22102.0,
+    23261.0
+   ]
+  },
+  {
+   "label": "Adjustment for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortization expense",
+   "values": [
+    4355.0,
+    4084.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -1542.0,
+    -1567.0
+   ]
+  },
+  {
+   "label": "Provision for doubtful debts / bad debts written off (net)",
+   "values": [
+    107.0,
+    15.0
+   ]
+  },
+  {
+   "label": "Income on investments carried at fair value through profit and loss",
+   "values": [
+    -192.0,
+    -195.0
+   ]
+  },
+  {
+   "label": "Profit on sale of debt securities",
+   "values": [
+    -2.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest expense",
+   "values": [
+    434.0,
+    336.0
+   ]
+  },
+  {
+   "label": "Loss (profit) on sale of property, plant and equipment (net)",
+   "values": [
+    4.0,
+    -10.0
+   ]
+  },
+  {
+   "label": "Share based payment to employees",
+   "values": [
+    478.0,
+    218.0
+   ]
+  },
+  {
+   "label": "Divestment in subsidiaries",
+   "values": [
+    null,
+    -574.0
+   ]
+  },
+  {
+   "label": "Other non-cash charges (net)",
+   "values": [
+    -171.0,
+    -74.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    25573.0,
+    25494.0
+   ]
+  },
+  {
+   "label": "Net change in Trade receivables",
+   "values": [
+    -2248.0,
+    -119.0
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -59.0,
+    77.0
+   ]
+  },
+  {
+   "label": "Other financial assets and other assets",
+   "values": [
+    86.0,
+    -225.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    736.0,
+    249.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities, contract liabilities, provisions and other liabilities",
+   "values": [
+    -37.0,
+    1028.0
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    24051.0,
+    26504.0
+   ]
+  },
+  {
+   "label": "Income taxes paid (net of refunds)",
+   "values": [
+    -4076.0,
+    -4243.0
+   ]
+  },
+  {
+   "label": "Net cash flow from operating activities (A)",
+   "values": [
+    19975.0,
+    22261.0
+   ]
+  },
+  {
+   "label": "B Cash flows from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of property, plant and equipment and intangibles",
+   "values": [
+    -1422.0,
+    -1108.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    23.0,
+    25.0
+   ]
+  },
+  {
+   "label": "Payments for business acquisitions, net of cash acquired",
+   "values": [
+    -159.0,
+    -1982.0
+   ]
+  },
+  {
+   "label": "Investments in bank deposits",
+   "values": [
+    -17350.0,
+    -15442.0
+   ]
+  },
+  {
+   "label": "Proceeds from bank deposits",
+   "values": [
+    15164.0,
+    12622.0
+   ]
+  },
+  {
+   "label": "Deposits placed with body corporates",
+   "values": [
+    -480.0,
+    -1512.0
+   ]
+  },
+  {
+   "label": "Proceeds from deposits placed with body corporates",
+   "values": [
+    975.0,
+    1030.0
+   ]
+  },
+  {
+   "label": "Purchase of investments in securities",
+   "values": [
+    -48685.0,
+    -43861.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale/maturity of investments in securities",
+   "values": [
+    49369.0,
+    43711.0
+   ]
+  },
+  {
+   "label": "Investment in equity instruments",
+   "values": [
+    -8.0,
+    -4.0
+   ]
+  },
+  {
+   "label": "Distribution from limited liability partnership",
+   "values": [
+    3.0,
+    4.0
+   ]
+  },
+  {
+   "label": "Divestment in subsidiaries, net of cash",
+   "values": [
+    null,
+    687.0
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    1430.0,
+    1322.0
+   ]
+  },
+  {
+   "label": "Income taxes paid",
+   "values": [
+    -333.0,
+    -406.0
+   ]
+  },
+  {
+   "label": "Net cash flow used in investing activities (B)",
+   "values": [
+    -1473.0,
+    -4914.0
+   ]
+  },
+  {
+   "label": "C Cash flows from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Repayment of long term borrowings",
+   "values": [
+    -2305.0,
+    -84.0
+   ]
+  },
+  {
+   "label": "Proceeds from short term borrowings",
+   "values": [
+    318.0,
+    377.0
+   ]
+  },
+  {
+   "label": "Repayment of short term borrowings",
+   "values": [
+    -321.0,
+    -374.0
+   ]
+  },
+  {
+   "label": "Payments for deferred and contingent consideration on business acquisitions",
+   "values": [
+    -1.0,
+    -50.0
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -14618.0,
+    -16250.0
+   ]
+  },
+  {
+   "label": "Acquisition of treasury shares",
+   "values": [
+    -711.0,
+    -676.0
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -46.0,
+    -51.0
+   ]
+  },
+  {
+   "label": "Payment of lease liabilities including interest",
+   "values": [
+    -1685.0,
+    -1453.0
+   ]
+  },
+  {
+   "label": "Net cash flow used in financing activities (C)",
+   "values": [
+    -19369.0,
+    -18561.0
+   ]
+  },
+  {
+   "label": "Net decrease in cash and cash equivalents",
+   "values": [
+    -867.0,
+    -1214.0
+   ]
+  },
+  {
+   "label": "Effect of exchange differences on cash and cash equivalents held in foreign currency",
+   "values": [
+    817.0,
+    18.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    8245.0,
+    9441.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year as per note 3.10 (a)",
+   "values": [
+    8195.0,
+    8245.0
+   ]
+  },
+  {
+   "label": "Cashflows (net)",
+   "values": [
+    -81.0,
+    null
+   ]
+  },
+  {
+   "label": "Non cash changes",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Translation exchange differences",
+   "values": [
+    56.0,
+    null
+   ]
+  },
+  {
+   "label": "Recognized in profit and loss",
+   "values": [
+    4.0,
+    null
+   ]
+  },
+  {
+   "label": "Balance as at 31 March 2025",
+   "values": [
+    2291.0,
+    null
+   ]
+  },
+  {
+   "label": "Balance as at 1 April 2025",
+   "values": [
+    2291.0,
+    null
+   ]
+  },
+  {
+   "label": "Cashflows (net)",
+   "values": [
+    -2308.0,
+    null
+   ]
+  },
+  {
+   "label": "Non cash changes",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Business combination",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Translation exchange differences",
+   "values": [
+    102.0,
+    null
+   ]
+  },
+  {
+   "label": "Recognized in profit and loss",
+   "values": [
+    4.0,
+    null
+   ]
+  },
+  {
+   "label": "Balance as at 31 March 2026",
+   "values": [
+    89.0,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents includes earmarked balances with banks of ₹ 53 crores (31 March ₹ 19 crores) which is of restricted use.",
+   "values": [
+    2025.0,
+    null
+   ]
+  }
+ ],
+ "pdf": "HCLTECH/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4bc45f66-7fb5-4fab-a87a-b32321b63059.pdf",
+ "parsed_at": "2026-11-04 11:15 UTC"
+}

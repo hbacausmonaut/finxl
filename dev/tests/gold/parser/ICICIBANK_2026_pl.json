@@ -1,0 +1,218 @@
+{
+ "ticker": "ICICIBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 373,
+   "name": "374",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest earned",
+   "values": [
+    1952184591.0,
+    1863314641.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    1168999002.0,
+    1082554702.0
+   ]
+  },
+  {
+   "label": "TOTAL INCOME",
+   "values": [
+    3121183593.0,
+    2945869343.0
+   ]
+  },
+  {
+   "label": "EXPENDITURE",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest expended",
+   "values": [
+    890285812.0,
+    890276529.0
+   ]
+  },
+  {
+   "label": "Operating expenses",
+   "values": [
+    1403936173.0,
+    1277999771.0
+   ]
+  },
+  {
+   "label": "Provisions and contingencies (refer note 18.6)",
+   "values": [
+    250227667.0,
+    233405909.0
+   ]
+  },
+  {
+   "label": "TOTAL EXPENDITURE",
+   "values": [
+    2544449652.0,
+    2401682209.0
+   ]
+  },
+  {
+   "label": "PROFIT/(LOSS)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net profit for the year (before share in profit of associates and minority interest)",
+   "values": [
+    576733941.0,
+    544187134.0
+   ]
+  },
+  {
+   "label": "Add: Share of profit in associates",
+   "values": [
+    2628566.0,
+    1506622.0
+   ]
+  },
+  {
+   "label": "Net profit for the year before deducting minority interest",
+   "values": [
+    579362507.0,
+    545693756.0
+   ]
+  },
+  {
+   "label": "Less: Minority interest",
+   "values": [
+    37285479.0,
+    35401801.0
+   ]
+  },
+  {
+   "label": "Consolidated profit/(loss) for the year attributable to the",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Group",
+   "values": [
+    542077028.0,
+    510291955.0
+   ]
+  },
+  {
+   "label": "Brought forward consolidated profit attributable to the Group",
+   "values": [
+    1183850670.0,
+    898257800.0
+   ]
+  },
+  {
+   "label": "TOTAL molcfqLEilppF",
+   "values": [
+    1725927698.0,
+    1408549755.0
+   ]
+  },
+  {
+   "label": "APPROPRIATIONS/TRANSFERS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Transfer to Capital Reserve",
+   "values": [
+    3036999.0,
+    68700.0
+   ]
+  },
+  {
+   "label": "Transfer to/(from) Investment Fluctuation Reserve",
+   "values": [
+    null,
+    2586100.0
+   ]
+  },
+  {
+   "label": "Transfer to/(from) Revenue and Other Reserves",
+   "values": [
+    1382560.0,
+    1073620.0
+   ]
+  },
+  {
+   "label": "Transfer to Statutory Reserve",
+   "values": [
+    125367000.0,
+    118068000.0
+   ]
+  },
+  {
+   "label": "Transfer to Special Reserve",
+   "values": [
+    34725000.0,
+    32490000.0
+   ]
+  },
+  {
+   "label": "Dividend paid during the year",
+   "values": [
+    78531534.0,
+    70412665.0
+   ]
+  },
+  {
+   "label": "Balance carried over to balance sheet",
+   "values": [
+    1482884605.0,
+    1183850670.0
+   ]
+  },
+  {
+   "label": "Total expenditure",
+   "values": [
+    1725927698.0,
+    1408549755.0
+   ]
+  }
+ ],
+ "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

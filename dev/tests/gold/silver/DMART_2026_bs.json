@@ -1,0 +1,532 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "DMART",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 196,
+   "name": "197",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    737.0
+   ]
+  }
+ ],
+ "pdf": "DMART/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b496eda6-102e-4914-9a09-ce1e7f66c8b9.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    17586.95,
+    14349.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    1299.96,
+    1099.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Right -of- use assets",
+   "values": [
+    2381.41,
+    1741.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment properties",
+   "values": [
+    7.26,
+    7.65
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    78.27,
+    78.27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Intangible assets",
+   "values": [
+    36.42,
+    28.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    2.01,
+    2.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    196.71,
+    168.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax assets (net)",
+   "values": [
+    16.8,
+    18.19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    6.71,
+    7.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    433.98,
+    426.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    22046.48,
+    17928.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    5900.64,
+    5044.37
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    2,
+    1.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    149.34,
+    153.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    283.71,
+    355.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    20.07,
+    2.72
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    726.6,
+    528.36
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    395.42,
+    306.23
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    7477.78,
+    6392.2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    29524.26,
+    24320.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity and liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    651.96,
+    650.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    23812.08,
+    20777.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity attributable to equity holders of the Company",
+   "values": [
+    24464.04,
+    21427.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    -1.68,
+    -1.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    24462.36,
+    21426.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    1142.54,
+    555.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    0.54,
+    0.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    14.7,
+    12.67
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    121.86,
+    112.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    1279.64,
+    681.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    965.27,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    317.18,
+    263.83
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables due to",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Micro and small enterprises",
+   "values": [
+    393.47,
+    289.53
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other than micro and small enterprises",
+   "values": [
+    944.76,
+    781.28
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    637.19,
+    448.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    141.44,
+    138.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    111.42,
+    49.14
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax Liabilities (net)",
+   "values": [
+    271.53,
+    241.12
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    3782.26,
+    2212.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    29524.26,
+    24320.29
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 53,
+  "rows_reader": 54,
+  "rows_aligned": 53,
+  "rows_agreed": 52,
+  "missing_in_parser": 1,
+  "extra_in_parser": 0,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 81,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 45,
+   "label_parser": null,
+   "label_reader": "Trade payables due to",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 196,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 45,
+   "reader_index": 46,
+   "label_parser": "Trade payables due to Micro and small enterprises",
+   "label_reader": "Micro and small enterprises",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 393.47,
+    "2025": 289.53
+   },
+   "values_reader": {
+    "2026": 393.47,
+    "2025": 289.53
+   },
+   "page": 196,
+   "search": [
+    "393.47",
+    "289.53"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  }
+ ]
+}

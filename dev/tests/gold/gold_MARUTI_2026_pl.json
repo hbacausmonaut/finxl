@@ -1,0 +1,383 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "MARUTI",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 234,
+   "name": "235R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    779.5
+   ]
+  }
+ ],
+ "pdf": "MARUTI\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    1833160,
+    1529130
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    43572,
+    50222
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income (I+II)",
+   "values": [
+    1876732,
+    1579352
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    1116635,
+    873183
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    231845,
+    214000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "values": [
+    -22725,
+    -12275
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    90497,
+    70260
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    2387,
+    1942
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    67417,
+    56082
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    205233,
+    186148
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Vehicles / dies for own use",
+   "values": [
+    -2887,
+    -3749
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses (IV)",
+   "values": [
+    1688402,
+    1385591
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of associates",
+   "values": [
+    2591,
+    2152
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of joint ventures",
+   "values": [
+    264,
+    287
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax (III - IV + V + VI)",
+   "values": [
+    191185,
+    196200
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    43198,
+    38829
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    1192,
+    12369
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    44390,
+    51198
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year (VII - VIII)",
+   "values": [
+    146795,
+    145002
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Re-measurements of the defined benefit plans",
+   "values": [
+    503,
+    -868
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value changes on Equity Instruments through other comprehensive income",
+   "values": [
+    5177,
+    1363
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of other comprehensive income in associates and joint ventures",
+   "values": [
+    1,
+    -10
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    5681,
+    485
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values": [
+    -868,
+    -148
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total other comprehensive income for the year (i + ii)",
+   "values": [
+    4813,
+    337
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year (IX + X)",
+   "values": [
+    151608,
+    145339
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year attributed to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the company",
+   "values": [
+    146795,
+    145002
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    146795,
+    145002
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the company",
+   "values": [
+    4813,
+    337
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    4813,
+    337
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the company",
+   "values": [
+    151608,
+    145339
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    151608,
+    145339
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share (of ₹ 5 each)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic and Diluted earnings per share (₹)",
+   "values": [
+    466.9,
+    461.2
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

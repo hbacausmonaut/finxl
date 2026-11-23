@@ -1,0 +1,438 @@
+{
+ "ticker": "BRITANNIA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 133,
+   "name": "134R",
+   "clip": [
+    594.0,
+    0.0,
+    1188.0,
+    738.0
+   ]
+  },
+  {
+   "page": 134,
+   "name": "135L",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from operating activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax and share of loss of associates and joint venture and after exceptional items",
+   "values": [
+    3318.87,
+    2937.31
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    336.83,
+    313.34
+   ]
+  },
+  {
+   "label": "Net gain on financial asset measured at fair value through Statement of Profit and Loss",
+   "values": [
+    -49.83,
+    -81.35
+   ]
+  },
+  {
+   "label": "Profit on sale of property, plant and equipment",
+   "values": [
+    -1.04,
+    -1.24
+   ]
+  },
+  {
+   "label": "Interest income from financial assets carried at amortised cost",
+   "values": [
+    -163.01,
+    -132.8
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    112.76,
+    138.8
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    3554.58,
+    3174.06
+   ]
+  },
+  {
+   "label": "Net changes in working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -105.05,
+    -54.33
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    -12.95,
+    -53.44
+   ]
+  },
+  {
+   "label": "Other financial assets and other assets",
+   "values": [
+    -28.05,
+    -88.65
+   ]
+  },
+  {
+   "label": "Trade payables, other financial liabilities, other liabilities and provisions",
+   "values": [
+    24.81,
+    202.19
+   ]
+  },
+  {
+   "label": "Cash generated from operating activities",
+   "values": [
+    3433.34,
+    3179.83
+   ]
+  },
+  {
+   "label": "Income-tax paid, net of refund",
+   "values": [
+    -821.74,
+    -689.21
+   ]
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    2611.6,
+    2490.62
+   ]
+  },
+  {
+   "label": "Cash flow from investing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Acquisition of property, plant and equipment, capital work-in-progress and other intangible assets",
+   "values": [
+    -205.57,
+    -374.85
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment and assets held-for-sale",
+   "values": [
+    2.12,
+    4.58
+   ]
+  },
+  {
+   "label": "Purchase of non-current investments",
+   "values": [
+    -613.24,
+    -945.05
+   ]
+  },
+  {
+   "label": "Proceeds from sale / redemption of non-current investments",
+   "values": [
+    254.35,
+    572.16
+   ]
+  },
+  {
+   "label": "(Purchase) / sale of current investments, net",
+   "values": [
+    -362.35,
+    347.31
+   ]
+  },
+  {
+   "label": "Inter-corporate deposits placed",
+   "values": [
+    -115.0,
+    -75.0
+   ]
+  },
+  {
+   "label": "Inter-corporate deposits redeemed",
+   "values": [
+    100.0,
+    460.0
+   ]
+  },
+  {
+   "label": "Changes in other bank balances and fixed deposits",
+   "values": [
+    39.15,
+    -74.08
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    143.27,
+    151.36
+   ]
+  },
+  {
+   "label": "Net cash (used in) / generated from investing activities",
+   "values": [
+    -757.27,
+    66.43
+   ]
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Principal payment of lease liabilities",
+   "values": [
+    -2.77,
+    -3.58
+   ]
+  },
+  {
+   "label": "Interest paid on lease liabilities",
+   "values": [
+    -0.84,
+    -0.89
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -107.18,
+    -170.62
+   ]
+  },
+  {
+   "label": "Proceeds from working capital borrowing, net*",
+   "values": [
+    324.18,
+    26.26
+   ]
+  },
+  {
+   "label": "Repayment of bonus debentures (including Unclaimed debenture redemption balance)",
+   "values": [
+    -0.3,
+    -690.56
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    null,
+    263.0
+   ]
+  },
+  {
+   "label": "Proceeds from non-current borrowings",
+   "values": [
+    0.16,
+    null
+   ]
+  },
+  {
+   "label": "Repayment of non-current borrowings",
+   "values": [
+    -191.92,
+    -148.53
+   ]
+  },
+  {
+   "label": "Contribution from non-controlling interest",
+   "values": [
+    null,
+    1.56
+   ]
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -1803.95,
+    -1767.54
+   ]
+  },
+  {
+   "label": "Net cash used in financing activities",
+   "values": [
+    -1782.62,
+    -2753.9
+   ]
+  },
+  {
+   "label": "Net change in cash and cash equivalents",
+   "values": [
+    71.71,
+    -196.85
+   ]
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    15.89,
+    2.64
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at beginning of the year (net of bank overdraft)",
+   "values": [
+    125.24,
+    319.45
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at end of the year (net of bank overdraft)",
+   "values": [
+    212.84,
+    125.24
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents [Refer note 15]",
+   "values": [
+    220.0,
+    132.78
+   ]
+  },
+  {
+   "label": "Bank overdraft [Refer note 22]",
+   "values": [
+    -7.16,
+    -7.54
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at end of the year (net of bank overdraft)",
+   "values": [
+    212.84,
+    125.24
+   ]
+  },
+  {
+   "label": "Note",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current borrowings and lease liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Opening balance",
+   "values": [
+    322.21,
+    293.09
+   ]
+  },
+  {
+   "label": "Proceeds from borrowings, net",
+   "values": [
+    325.62,
+    29.12
+   ]
+  },
+  {
+   "label": "Closing balance",
+   "values": [
+    647.83,
+    322.21
+   ]
+  },
+  {
+   "label": "Non-current borrowings, non-current lease liabilities and current maturity of",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "non- current borrowings",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Opening balance",
+   "values": [
+    924.3,
+    1771.87
+   ]
+  },
+  {
+   "label": "Repayment of borrowings, net",
+   "values": [
+    -191.85,
+    -847.57
+   ]
+  },
+  {
+   "label": "Closing balance",
+   "values": [
+    732.45,
+    924.3
+   ]
+  }
+ ],
+ "pdf": "BRITANNIA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d92eccd5-0a82-4722-a751-da1d0998a0b8.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

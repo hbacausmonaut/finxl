@@ -1,0 +1,400 @@
+{
+ "ticker": "NESTLEIND",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 117,
+   "name": "118",
+   "clip": [
+    0.0,
+    0.0,
+    558.1,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    57475.3,
+    49256.5
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    5069.8,
+    11725.6
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    5428.9,
+    5479.6
+   ]
+  },
+  {
+   "label": "Investment in associate",
+   "values": [
+    5309.2,
+    5750.3
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    90.7,
+    80.9
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    599.8,
+    554.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    11946.5,
+    11744.7
+   ]
+  },
+  {
+   "label": "Total Non-Current Assets",
+   "values": [
+    85920.2,
+    84591.6
+   ]
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    25692.2,
+    28501.4
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    3294.7,
+    3631.5
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    13205.7,
+    761.8
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    203.0,
+    194.7
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    110.0,
+    103.1
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    322.4,
+    247.2
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    3076.7,
+    3901.9
+   ]
+  },
+  {
+   "label": "Total Current Assets",
+   "values": [
+    45904.7,
+    37341.6
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    131824.9,
+    121933.2
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    1928.3,
+    964.2
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    49641.4,
+    39137.9
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    51569.7,
+    40102.1
+   ]
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    202.9,
+    224.8
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    3375.3,
+    3415.3
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    28236.1,
+    30901.5
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    641.3,
+    299.6
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    187.3,
+    136.4
+   ]
+  },
+  {
+   "label": "Total Non-Current Liabilities",
+   "values": [
+    32642.9,
+    34977.6
+   ]
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    41.5,
+    7308.6
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    821.9,
+    719.8
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    3280.4,
+    4170.9
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    26386.1,
+    19564.4
+   ]
+  },
+  {
+   "label": "Payables for capital expenditure",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    226.1,
+    430.3
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    1707.0,
+    2072.5
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    9787.0,
+    7553.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    1636.2,
+    2158.7
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    3077.9,
+    2422.8
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    648.2,
+    452.5
+   ]
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    47612.3,
+    46853.5
+   ]
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    80255.2,
+    81831.1
+   ]
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    131824.9,
+    121933.2
+   ]
+  }
+ ],
+ "pdf": "NESTLEIND/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/65cd4ca1-41a5-4526-b920-66b4133a4e5a.pdf",
+ "parsed_at": "2026-11-04 11:17 UTC"
+}

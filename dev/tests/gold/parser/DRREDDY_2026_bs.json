@@ -1,0 +1,435 @@
+{
+ "ticker": "DRREDDY",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 192,
+   "name": "193L",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    100778.0,
+    72984.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    14602.0,
+    23994.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    14797.0,
+    13139.0
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    105058.0,
+    96141.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    null,
+    662.0
+   ]
+  },
+  {
+   "label": "Investment in equity accounted investees",
+   "values": [
+    5673.0,
+    4811.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments A",
+   "values": [
+    8942.0,
+    2393.0
+   ]
+  },
+  {
+   "label": "Other financial assets C",
+   "values": [
+    2917.0,
+    8875.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets, net",
+   "values": [
+    22190.0,
+    18325.0
+   ]
+  },
+  {
+   "label": "Tax assets, net",
+   "values": [
+    3503.0,
+    1821.0
+   ]
+  },
+  {
+   "label": "Other non-current assets A",
+   "values": [
+    981.0,
+    940.0
+   ]
+  },
+  {
+   "label": "Total non current assets",
+   "values": [
+    279441.0,
+    244085.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    76534.0,
+    71085.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments A",
+   "values": [
+    38233.0,
+    33307.0
+   ]
+  },
+  {
+   "label": "Trade receivables B",
+   "values": [
+    101234.0,
+    90420.0
+   ]
+  },
+  {
+   "label": "Derivative financial instruments",
+   "values": [
+    155.0,
+    557.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents D",
+   "values": [
+    15368.0,
+    14654.0
+   ]
+  },
+  {
+   "label": "Other bank balances E",
+   "values": [
+    18119.0,
+    9948.0
+   ]
+  },
+  {
+   "label": "Other financial assets C",
+   "values": [
+    22255.0,
+    3142.0
+   ]
+  },
+  {
+   "label": "Other current assets B",
+   "values": [
+    29895.0,
+    27068.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    301793.0,
+    250181.0
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    581234.0,
+    494266.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    835.0,
+    834.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    378080.0,
+    334662.0
+   ]
+  },
+  {
+   "label": "Equity attributable to equity shareholders of parent company",
+   "values": [
+    378915.0,
+    335496.0
+   ]
+  },
+  {
+   "label": "Non-Controlling Interests (NCI) A",
+   "values": [
+    3394.0,
+    3778.0
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    382309.0,
+    339274.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings A",
+   "values": [
+    null,
+    3800.0
+   ]
+  },
+  {
+   "label": "Lease liabilities C",
+   "values": [
+    12203.0,
+    4064.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities D",
+   "values": [
+    432.0,
+    198.0
+   ]
+  },
+  {
+   "label": "Provisions A",
+   "values": [
+    338.0,
+    298.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities, net",
+   "values": [
+    15467.0,
+    14038.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities A",
+   "values": [
+    3011.0,
+    2256.0
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    31451.0,
+    24654.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings B",
+   "values": [
+    62935.0,
+    38045.0
+   ]
+  },
+  {
+   "label": "Lease liabilities C",
+   "values": [
+    2203.0,
+    857.0
+   ]
+  },
+  {
+   "label": "Trade payables E",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    334.0,
+    210.0
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    30045.0,
+    26268.0
+   ]
+  },
+  {
+   "label": "Derivative financial instruments",
+   "values": [
+    6898.0,
+    1286.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities D",
+   "values": [
+    40085.0,
+    39698.0
+   ]
+  },
+  {
+   "label": "Other current liabilities B",
+   "values": [
+    11921.0,
+    13190.0
+   ]
+  },
+  {
+   "label": "Tax Liabilities, net",
+   "values": [
+    4353.0,
+    3028.0
+   ]
+  },
+  {
+   "label": "Provisions B",
+   "values": [
+    8700.0,
+    7756.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    167474.0,
+    130338.0
+   ]
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    581234.0,
+    494266.0
+   ]
+  }
+ ],
+ "pdf": "DRREDDY/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b4d586a3-1dea-4aca-9bdc-143fa8564ad1.pdf",
+ "parsed_at": "2026-11-04 11:18 UTC"
+}

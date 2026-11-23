@@ -1,0 +1,22 @@
+/** Plain-language notes for the lines readers ask about most. Keyed by row id. */
+export const GLOSSARY: Record<string, string> = {
+  rev: "Sales of goods and services from the company's main business, before any other income.",
+  oi: "Income outside the main business: interest, dividends, gains on investments.",
+  chinv: "Adjusts cost for stock built up or drawn down in the year. A negative figure means stock rose.",
+  fin: "Interest and other costs of borrowing.",
+  dep: "The year's share of the cost of long-lived assets, charged as they wear out. No cash leaves.",
+  dtax: "Tax that relates to this year's profit but is paid or recovered in later years.",
+  pbt: "Total income less total expenses, before income tax.",
+  pat: "What is left for shareholders after tax. Also called net profit.",
+  eps: "Profit for the year divided by the weighted number of shares outstanding.",
+  cwip: "Money spent on plant or buildings that are not yet ready for use.",
+  intang: "Assets without physical form: software, licences, brands, goodwill.",
+  oe: "Retained profits and other reserves that belong to shareholders.",
+  dtl: "Tax the company expects to pay later because books and tax rules time things differently.",
+  tp: "Amounts owed to suppliers for goods and services already received.",
+  rec: "Amounts customers owe for sales already made.",
+  cfo: "Cash the business itself produced, after working capital and tax.",
+  cfi: "Cash spent on, or received from, long-term assets and investments.",
+  cff: "Cash raised from or returned to lenders and shareholders.",
+  c_capex: "Cash paid for plant, equipment and other long-lived assets. Often called capex.",
+}

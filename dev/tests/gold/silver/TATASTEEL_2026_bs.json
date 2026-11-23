@@ -1,0 +1,1694 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "TATASTEEL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 421,
+   "name": "422",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 422,
+   "name": "423",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "pdf": "TATASTEEL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb836c3a-cf5f-427d-bc71-e368d5861e02.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    149878.21,
+    125215.17
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    27510.29,
+    40601.88
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    10072.66,
+    8087.95
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    7533.8,
+    5958.53
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    12423.46,
+    11652.41
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    986.42,
+    1020.47
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Equity accounted investments",
+   "values": [
+    2943.47,
+    2970.86
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    3141.84,
+    2780.6
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Loans",
+   "values": [
+    126.2,
+    114.66
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Derivative assets",
+   "values": [
+    703.85,
+    0.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    828.59,
+    1662.34
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Retirement benefit assets",
+   "values": [
+    86.38,
+    12.67
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Non-current tax assets",
+   "values": [
+    3852,
+    3824.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax assets",
+   "values": [
+    4739.49,
+    3936.22
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    3907.28,
+    3164.93
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    228733.94,
+    211003.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    47249.22,
+    44589.94
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    1003.54,
+    442.65
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    4916.89,
+    5260.06
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    8884.95,
+    9604.96
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other balances with banks",
+   "values": [
+    1172.58,
+    2042.02
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Loans",
+   "values": [
+    3.35,
+    4.98
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Derivative assets",
+   "values": [
+    961.47,
+    370.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    2396.5,
+    1456.14
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Retirement benefit assets",
+   "values": [
+    null,
+    2.33
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Current tax assets",
+   "values": [
+    76.28,
+    79.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    5600.33,
+    4538.44
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    72265.11,
+    68391.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Assets held for sale",
+   "values": [
+    255.06,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    301254.11,
+    279394.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity and liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    1247.44,
+    1247.44
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    100920.21,
+    89922.19
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    102167.65,
+    91169.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    1612.8,
+    183.15
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    103780.45,
+    91352.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    63753.67,
+    68551.81
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    6232.99,
+    4832.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Derivative liabilities",
+   "values": [
+    null,
+    206.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    1262.62,
+    1294.17
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    5989.63,
+    5806.5
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Retirement benefit obligations",
+   "values": [
+    3289.63,
+    3272.01
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Deferred income",
+   "values": [
+    1598.57,
+    764.91
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Deferred tax liabilities",
+   "values": [
+    15332.24,
+    14430.15
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other liabilities",
+   "values": [
+    3096.67,
+    2789.83
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    100556.02,
+    101948.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    21202.72,
+    20412
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    1192.3,
+    1004.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total outstanding dues of micro and small enterprises",
+   "values": [
+    1898.89,
+    1510.71
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro and small enterprises",
+   "values": [
+    32613.49,
+    27465.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acceptances",
+   "values": [
+    297.76,
+    338.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Derivative liabilities",
+   "values": [
+    260.71,
+    391.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    17509.83,
+    15820.51
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    6048.2,
+    3888.29
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Retirement benefit obligations",
+   "values": [
+    148.63,
+    154.62
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Deferred income",
+   "values": [
+    88.09,
+    30.71
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Current tax liabilities",
+   "values": [
+    2470.72,
+    1775.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other liabilities",
+   "values": [
+    13186.3,
+    13301.81
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    96917.64,
+    86093.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    197473.66,
+    188042.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total equity and liabilities",
+   "values": [
+    301254.11,
+    279394.8
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 72,
+  "rows_reader": 72,
+  "rows_aligned": 72,
+  "rows_agreed": 32,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 40,
+  "value_diffs": 0,
+  "values_reader": 117,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": null,
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "unit",
+   "year": null,
+   "parser_index": null,
+   "reader_index": null,
+   "label_parser": null,
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": "crore",
+   "values_parser": {},
+   "values_reader": {},
+   "page": 421,
+   "search": [],
+   "pattern": "unit_wrong",
+   "pattern_text": "Statement unit (crore / lakh / million / thousand) differs"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 2,
+   "reader_index": 2,
+   "label_parser": "Property, plant and equipment F164",
+   "label_reader": "Property, plant and equipment",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 149878.21,
+    "2025": 125215.17
+   },
+   "values_reader": {
+    "2026": 149878.21,
+    "2025": 125215.17
+   },
+   "page": 421,
+   "search": [
+    "1,49,878.21",
+    "1,25,215.17"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 3,
+   "reader_index": 3,
+   "label_parser": "Capital work-in-progress F164",
+   "label_reader": "Capital work-in-progress",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 27510.29,
+    "2025": 40601.88
+   },
+   "values_reader": {
+    "2026": 27510.29,
+    "2025": 40601.88
+   },
+   "page": 421,
+   "search": [
+    "27,510.29",
+    "40,601.88"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 4,
+   "reader_index": 4,
+   "label_parser": "Right-of-use assets F170",
+   "label_reader": "Right-of-use assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 10072.66,
+    "2025": 8087.95
+   },
+   "values_reader": {
+    "2026": 10072.66,
+    "2025": 8087.95
+   },
+   "page": 421,
+   "search": [
+    "10,072.66",
+    "8,087.95"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 5,
+   "reader_index": 5,
+   "label_parser": "Goodwill F173",
+   "label_reader": "Goodwill",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 7533.8,
+    "2025": 5958.53
+   },
+   "values_reader": {
+    "2026": 7533.8,
+    "2025": 5958.53
+   },
+   "page": 421,
+   "search": [
+    "7,533.80",
+    "5,958.53"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d006",
+   "kind": "label",
+   "year": null,
+   "parser_index": 6,
+   "reader_index": 6,
+   "label_parser": "Other intangible assets F174",
+   "label_reader": "Other intangible assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 12423.46,
+    "2025": 11652.41
+   },
+   "values_reader": {
+    "2026": 12423.46,
+    "2025": 11652.41
+   },
+   "page": 421,
+   "search": [
+    "12,423.46",
+    "11,652.41"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d007",
+   "kind": "label",
+   "year": null,
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Intangible assets under development F174",
+   "label_reader": "Intangible assets under development",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 986.42,
+    "2025": 1020.47
+   },
+   "values_reader": {
+    "2026": 986.42,
+    "2025": 1020.47
+   },
+   "page": 421,
+   "search": [
+    "986.42",
+    "1,020.47"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d008",
+   "kind": "label",
+   "year": null,
+   "parser_index": 8,
+   "reader_index": 8,
+   "label_parser": "Equity accounted investments F177",
+   "label_reader": "Equity accounted investments",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2943.47,
+    "2025": 2970.86
+   },
+   "values_reader": {
+    "2026": 2943.47,
+    "2025": 2970.86
+   },
+   "page": 421,
+   "search": [
+    "2,943.47",
+    "2,970.86"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d009",
+   "kind": "label",
+   "year": null,
+   "parser_index": 10,
+   "reader_index": 10,
+   "label_parser": "Investments F179",
+   "label_reader": "Investments",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3141.84,
+    "2025": 2780.6
+   },
+   "values_reader": {
+    "2026": 3141.84,
+    "2025": 2780.6
+   },
+   "page": 421,
+   "search": [
+    "3,141.84",
+    "2,780.60"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d010",
+   "kind": "label",
+   "year": null,
+   "parser_index": 11,
+   "reader_index": 11,
+   "label_parser": "Loans F181",
+   "label_reader": "Loans",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 126.2,
+    "2025": 114.66
+   },
+   "values_reader": {
+    "2026": 126.2,
+    "2025": 114.66
+   },
+   "page": 421,
+   "search": [
+    "126.20",
+    "114.66"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d011",
+   "kind": "label",
+   "year": null,
+   "parser_index": 13,
+   "reader_index": 13,
+   "label_parser": "Other financial assets F183",
+   "label_reader": "Other financial assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 828.59,
+    "2025": 1662.34
+   },
+   "values_reader": {
+    "2026": 828.59,
+    "2025": 1662.34
+   },
+   "page": 421,
+   "search": [
+    "828.59",
+    "1,662.34"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d012",
+   "kind": "label",
+   "year": null,
+   "parser_index": 14,
+   "reader_index": 14,
+   "label_parser": "Retirement benefit assets F185",
+   "label_reader": "Retirement benefit assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 86.38,
+    "2025": 12.67
+   },
+   "values_reader": {
+    "2026": 86.38,
+    "2025": 12.67
+   },
+   "page": 421,
+   "search": [
+    "86.38",
+    "12.67"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d013",
+   "kind": "label",
+   "year": null,
+   "parser_index": 16,
+   "reader_index": 16,
+   "label_parser": "Deferred tax assets F186",
+   "label_reader": "Deferred tax assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 4739.49,
+    "2025": 3936.22
+   },
+   "values_reader": {
+    "2026": 4739.49,
+    "2025": 3936.22
+   },
+   "page": 421,
+   "search": [
+    "4,739.49",
+    "3,936.22"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d014",
+   "kind": "label",
+   "year": null,
+   "parser_index": 17,
+   "reader_index": 17,
+   "label_parser": "Other assets F189",
+   "label_reader": "Other assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3907.28,
+    "2025": 3164.93
+   },
+   "values_reader": {
+    "2026": 3907.28,
+    "2025": 3164.93
+   },
+   "page": 421,
+   "search": [
+    "3,907.28",
+    "3,164.93"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d015",
+   "kind": "label",
+   "year": null,
+   "parser_index": 20,
+   "reader_index": 20,
+   "label_parser": "Inventories F190",
+   "label_reader": "Inventories",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 47249.22,
+    "2025": 44589.94
+   },
+   "values_reader": {
+    "2026": 47249.22,
+    "2025": 44589.94
+   },
+   "page": 421,
+   "search": [
+    "47,249.22",
+    "44,589.94"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d016",
+   "kind": "label",
+   "year": null,
+   "parser_index": 22,
+   "reader_index": 22,
+   "label_parser": "Investments F179",
+   "label_reader": "Investments",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1003.54,
+    "2025": 442.65
+   },
+   "values_reader": {
+    "2026": 1003.54,
+    "2025": 442.65
+   },
+   "page": 421,
+   "search": [
+    "1,003.54",
+    "442.65"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d017",
+   "kind": "label",
+   "year": null,
+   "parser_index": 23,
+   "reader_index": 23,
+   "label_parser": "Trade receivables F191",
+   "label_reader": "Trade receivables",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 4916.89,
+    "2025": 5260.06
+   },
+   "values_reader": {
+    "2026": 4916.89,
+    "2025": 5260.06
+   },
+   "page": 421,
+   "search": [
+    "4,916.89",
+    "5,260.06"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d018",
+   "kind": "label",
+   "year": null,
+   "parser_index": 24,
+   "reader_index": 24,
+   "label_parser": "Cash and cash equivalents F192",
+   "label_reader": "Cash and cash equivalents",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 8884.95,
+    "2025": 9604.96
+   },
+   "values_reader": {
+    "2026": 8884.95,
+    "2025": 9604.96
+   },
+   "page": 421,
+   "search": [
+    "8,884.95",
+    "9,604.96"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d019",
+   "kind": "label",
+   "year": null,
+   "parser_index": 25,
+   "reader_index": 25,
+   "label_parser": "Other balances with banks F193",
+   "label_reader": "Other balances with banks",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1172.58,
+    "2025": 2042.02
+   },
+   "values_reader": {
+    "2026": 1172.58,
+    "2025": 2042.02
+   },
+   "page": 421,
+   "search": [
+    "1,172.58",
+    "2,042.02"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d020",
+   "kind": "label",
+   "year": null,
+   "parser_index": 26,
+   "reader_index": 26,
+   "label_parser": "Loans F181",
+   "label_reader": "Loans",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3.35,
+    "2025": 4.98
+   },
+   "values_reader": {
+    "2026": 3.35,
+    "2025": 4.98
+   },
+   "page": 421,
+   "search": [
+    "3.35",
+    "4.98"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d021",
+   "kind": "label",
+   "year": null,
+   "parser_index": 28,
+   "reader_index": 28,
+   "label_parser": "Other financial assets F183",
+   "label_reader": "Other financial assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2396.5,
+    "2025": 1456.14
+   },
+   "values_reader": {
+    "2026": 2396.5,
+    "2025": 1456.14
+   },
+   "page": 421,
+   "search": [
+    "2,396.50",
+    "1,456.14"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d022",
+   "kind": "label",
+   "year": null,
+   "parser_index": 29,
+   "reader_index": 29,
+   "label_parser": "Retirement benefit assets F185",
+   "label_reader": "Retirement benefit assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": 2.33
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": 2.33
+   },
+   "page": 421,
+   "search": [
+    "2.33",
+    "2.33"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d023",
+   "kind": "label",
+   "year": null,
+   "parser_index": 31,
+   "reader_index": 31,
+   "label_parser": "Other assets F189",
+   "label_reader": "Other assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 5600.33,
+    "2025": 4538.44
+   },
+   "values_reader": {
+    "2026": 5600.33,
+    "2025": 4538.44
+   },
+   "page": 421,
+   "search": [
+    "5,600.33",
+    "4,538.44"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d024",
+   "kind": "label",
+   "year": null,
+   "parser_index": 33,
+   "reader_index": 33,
+   "label_parser": "Assets held for sale F193",
+   "label_reader": "Assets held for sale",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 255.06,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": 255.06,
+    "2025": null
+   },
+   "page": 421,
+   "search": [
+    "255.06",
+    "255.06"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d025",
+   "kind": "label",
+   "year": null,
+   "parser_index": 37,
+   "reader_index": 37,
+   "label_parser": "Equity share capital F194",
+   "label_reader": "Equity share capital",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1247.44,
+    "2025": 1247.44
+   },
+   "values_reader": {
+    "2026": 1247.44,
+    "2025": 1247.44
+   },
+   "page": 422,
+   "search": [
+    "1,247.44",
+    "1,247.44"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d026",
+   "kind": "label",
+   "year": null,
+   "parser_index": 38,
+   "reader_index": 38,
+   "label_parser": "Other equity F197",
+   "label_reader": "Other equity",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 100920.21,
+    "2025": 89922.19
+   },
+   "values_reader": {
+    "2026": 100920.21,
+    "2025": 89922.19
+   },
+   "page": 422,
+   "search": [
+    "1,00,920.21",
+    "89,922.19"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d027",
+   "kind": "label",
+   "year": null,
+   "parser_index": 40,
+   "reader_index": 40,
+   "label_parser": "Non-controlling interests F202",
+   "label_reader": "Non-controlling interests",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1612.8,
+    "2025": 183.15
+   },
+   "values_reader": {
+    "2026": 1612.8,
+    "2025": 183.15
+   },
+   "page": 422,
+   "search": [
+    "1,612.80",
+    "183.15"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d028",
+   "kind": "label",
+   "year": null,
+   "parser_index": 44,
+   "reader_index": 44,
+   "label_parser": "Borrowings F204",
+   "label_reader": "Borrowings",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 63753.67,
+    "2025": 68551.81
+   },
+   "values_reader": {
+    "2026": 63753.67,
+    "2025": 68551.81
+   },
+   "page": 422,
+   "search": [
+    "63,753.67",
+    "68,551.81"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d029",
+   "kind": "label",
+   "year": null,
+   "parser_index": 47,
+   "reader_index": 47,
+   "label_parser": "Other financial liabilities F211",
+   "label_reader": "Other financial liabilities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1262.62,
+    "2025": 1294.17
+   },
+   "values_reader": {
+    "2026": 1262.62,
+    "2025": 1294.17
+   },
+   "page": 422,
+   "search": [
+    "1,262.62",
+    "1,294.17"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d030",
+   "kind": "label",
+   "year": null,
+   "parser_index": 48,
+   "reader_index": 48,
+   "label_parser": "Provisions F211",
+   "label_reader": "Provisions",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 5989.63,
+    "2025": 5806.5
+   },
+   "values_reader": {
+    "2026": 5989.63,
+    "2025": 5806.5
+   },
+   "page": 422,
+   "search": [
+    "5,989.63",
+    "5,806.50"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d031",
+   "kind": "label",
+   "year": null,
+   "parser_index": 49,
+   "reader_index": 49,
+   "label_parser": "Retirement benefit obligations F185",
+   "label_reader": "Retirement benefit obligations",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3289.63,
+    "2025": 3272.01
+   },
+   "values_reader": {
+    "2026": 3289.63,
+    "2025": 3272.01
+   },
+   "page": 422,
+   "search": [
+    "3,289.63",
+    "3,272.01"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d032",
+   "kind": "label",
+   "year": null,
+   "parser_index": 50,
+   "reader_index": 50,
+   "label_parser": "Deferred income F213",
+   "label_reader": "Deferred income",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1598.57,
+    "2025": 764.91
+   },
+   "values_reader": {
+    "2026": 1598.57,
+    "2025": 764.91
+   },
+   "page": 422,
+   "search": [
+    "1,598.57",
+    "764.91"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d033",
+   "kind": "label",
+   "year": null,
+   "parser_index": 51,
+   "reader_index": 51,
+   "label_parser": "Deferred tax liabilities F186",
+   "label_reader": "Deferred tax liabilities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 15332.24,
+    "2025": 14430.15
+   },
+   "values_reader": {
+    "2026": 15332.24,
+    "2025": 14430.15
+   },
+   "page": 422,
+   "search": [
+    "15,332.24",
+    "14,430.15"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d034",
+   "kind": "label",
+   "year": null,
+   "parser_index": 52,
+   "reader_index": 52,
+   "label_parser": "Other liabilities F214",
+   "label_reader": "Other liabilities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 3096.67,
+    "2025": 2789.83
+   },
+   "values_reader": {
+    "2026": 3096.67,
+    "2025": 2789.83
+   },
+   "page": 422,
+   "search": [
+    "3,096.67",
+    "2,789.83"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d035",
+   "kind": "label",
+   "year": null,
+   "parser_index": 56,
+   "reader_index": 56,
+   "label_parser": "Borrowings F204",
+   "label_reader": "Borrowings",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 21202.72,
+    "2025": 20412
+   },
+   "values_reader": {
+    "2026": 21202.72,
+    "2025": 20412
+   },
+   "page": 422,
+   "search": [
+    "21,202.72",
+    "20,412"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d036",
+   "kind": "label",
+   "year": null,
+   "parser_index": 58,
+   "reader_index": 58,
+   "label_parser": "Trade payables F214",
+   "label_reader": "Trade payables",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 422,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d037",
+   "kind": "label",
+   "year": null,
+   "parser_index": 63,
+   "reader_index": 63,
+   "label_parser": "Other financial liabilities F211",
+   "label_reader": "Other financial liabilities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 17509.83,
+    "2025": 15820.51
+   },
+   "values_reader": {
+    "2026": 17509.83,
+    "2025": 15820.51
+   },
+   "page": 422,
+   "search": [
+    "17,509.83",
+    "15,820.51"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d038",
+   "kind": "label",
+   "year": null,
+   "parser_index": 64,
+   "reader_index": 64,
+   "label_parser": "Provisions F211",
+   "label_reader": "Provisions",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 6048.2,
+    "2025": 3888.29
+   },
+   "values_reader": {
+    "2026": 6048.2,
+    "2025": 3888.29
+   },
+   "page": 422,
+   "search": [
+    "6,048.20",
+    "3,888.29"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d039",
+   "kind": "label",
+   "year": null,
+   "parser_index": 65,
+   "reader_index": 65,
+   "label_parser": "Retirement benefit obligations F185",
+   "label_reader": "Retirement benefit obligations",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 148.63,
+    "2025": 154.62
+   },
+   "values_reader": {
+    "2026": 148.63,
+    "2025": 154.62
+   },
+   "page": 422,
+   "search": [
+    "148.63",
+    "154.62"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d040",
+   "kind": "label",
+   "year": null,
+   "parser_index": 66,
+   "reader_index": 66,
+   "label_parser": "Deferred income F213",
+   "label_reader": "Deferred income",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 88.09,
+    "2025": 30.71
+   },
+   "values_reader": {
+    "2026": 88.09,
+    "2025": 30.71
+   },
+   "page": 422,
+   "search": [
+    "88.09",
+    "30.71"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d041",
+   "kind": "label",
+   "year": null,
+   "parser_index": 68,
+   "reader_index": 68,
+   "label_parser": "Other liabilities F214",
+   "label_reader": "Other liabilities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 13186.3,
+    "2025": 13301.81
+   },
+   "values_reader": {
+    "2026": 13186.3,
+    "2025": 13301.81
+   },
+   "page": 422,
+   "search": [
+    "13,186.30",
+    "13,301.81"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

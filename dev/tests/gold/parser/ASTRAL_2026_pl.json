@@ -1,0 +1,351 @@
+{
+ "ticker": "ASTRAL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 173,
+   "name": "174",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    65686.0,
+    58324.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    473.0,
+    413.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    66159.0,
+    58737.0
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    38527.0,
+    34511.0
+   ]
+  },
+  {
+   "label": "Purchase of traded goods",
+   "values": [
+    1155.0,
+    959.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and traded goods",
+   "values": [
+    -171.0,
+    -278.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    5904.0,
+    5179.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    644.0,
+    413.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    2916.0,
+    2434.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    9652.0,
+    8494.0
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    58627.0,
+    51712.0
+   ]
+  },
+  {
+   "label": "Profit before share of loss of joint venture and tax",
+   "values": [
+    7532.0,
+    7025.0
+   ]
+  },
+  {
+   "label": "Share of profit/(loss) of joint venture",
+   "values": [
+    -0.0,
+    0.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional items and tax",
+   "values": [
+    7532.0,
+    7025.0
+   ]
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    226.0,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    7306.0,
+    7025.0
+   ]
+  },
+  {
+   "label": "Tax expense (net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    1863.0,
+    1806.0
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    96.0,
+    30.0
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    1959.0,
+    1836.0
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    5347.0,
+    5189.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income/(loss)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurements gain/(loss) on defined benefit plans",
+   "values": [
+    -0.0,
+    -24.0
+   ]
+  },
+  {
+   "label": "Income Tax effect thereon",
+   "values": [
+    0.0,
+    5.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange differences on translating the financial statements of foreign operations",
+   "values": [
+    101.0,
+    61.0
+   ]
+  },
+  {
+   "label": "Total other comprehensive income/(loss)",
+   "values": [
+    101.0,
+    42.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    5448.0,
+    5231.0
+   ]
+  },
+  {
+   "label": "Profit/(loss) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    5366.0,
+    5238.0
+   ]
+  },
+  {
+   "label": "Non-controlling Interests",
+   "values": [
+    -19.0,
+    -49.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    5347.0,
+    5189.0
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income/(loss) attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    97.0,
+    40.0
+   ]
+  },
+  {
+   "label": "Non-controlling Interests",
+   "values": [
+    4.0,
+    2.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    101.0,
+    42.0
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income/(loss) attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    5463.0,
+    5278.0
+   ]
+  },
+  {
+   "label": "Non-controlling Interests",
+   "values": [
+    -15.0,
+    -47.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    5448.0,
+    5231.0
+   ]
+  },
+  {
+   "label": "Earnings per equity share (Face Value of ₹ 1/- each)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    19.97,
+    19.5
+   ]
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    19.97,
+    19.5
+   ]
+  }
+ ],
+ "pdf": "ASTRAL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5772a6ee-bd33-47d5-bbd1-85b269bd26c3.pdf",
+ "parsed_at": "2026-11-04 11:27 UTC"
+}

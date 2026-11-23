@@ -1,0 +1,501 @@
+{
+ "ticker": "APOLLOHOSP",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 183,
+   "name": "184L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 183,
+   "name": "184R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from Operating Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    20027.0,
+    15051.0
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    8761.0,
+    7575.0
+   ]
+  },
+  {
+   "label": "(Profit)/loss on sale of property, plant & equipment",
+   "values": [
+    80.0,
+    63.0
+   ]
+  },
+  {
+   "label": "Profit on sale of investments (net)",
+   "values": [
+    -228.0,
+    -132.0
+   ]
+  },
+  {
+   "label": "Impairment in value of investment",
+   "values": [
+    null,
+    20.0
+   ]
+  },
+  {
+   "label": "Share of (profit)/loss of associates/Joint ventures",
+   "values": [
+    -449.0,
+    -330.0
+   ]
+  },
+  {
+   "label": "Income tax expense",
+   "values": [
+    6582.0,
+    5263.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    4496.0,
+    4585.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -740.0,
+    -924.0
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -27.0,
+    -7.0
+   ]
+  },
+  {
+   "label": "Expected credit loss on trade receivables",
+   "values": [
+    897.0,
+    629.0
+   ]
+  },
+  {
+   "label": "Provision written back",
+   "values": [
+    -10.0,
+    -24.0
+   ]
+  },
+  {
+   "label": "Gain on fair valuation of mutual funds",
+   "values": [
+    -619.0,
+    -634.0
+   ]
+  },
+  {
+   "label": "Gain on fair valuation of existing interest of a joint venture pursuant to acquisition of control",
+   "values": [
+    -11.0,
+    null
+   ]
+  },
+  {
+   "label": "Loss/(gain) on fair valuation of equity investments",
+   "values": [
+    9.0,
+    null
+   ]
+  },
+  {
+   "label": "Share-based compensation expense",
+   "values": [
+    1589.0,
+    1127.0
+   ]
+  },
+  {
+   "label": "Unrealised foreign exchange loss (net)",
+   "values": [
+    -2.0,
+    1.0
+   ]
+  },
+  {
+   "label": "Operating cash flow before working capital changes",
+   "values": [
+    40355.0,
+    32263.0
+   ]
+  },
+  {
+   "label": "(Increase)/decrease in operating assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -611.0,
+    -210.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    -5533.0,
+    -5642.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    -1773.0,
+    315.0
+   ]
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    354.0,
+    -145.0
+   ]
+  },
+  {
+   "label": "Contract assets",
+   "values": [
+    -140.0,
+    -263.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -7703.0,
+    -5945.0
+   ]
+  },
+  {
+   "label": "Increase/(decrease) in operating liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    87.0,
+    -1280.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    1356.0,
+    438.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    121.0,
+    484.0
+   ]
+  },
+  {
+   "label": "Other liabilities",
+   "values": [
+    399.0,
+    264.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1963.0,
+    -94.0
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    34615.0,
+    26224.0
+   ]
+  },
+  {
+   "label": "Net income tax paid",
+   "values": [
+    -6058.0,
+    -4860.0
+   ]
+  },
+  {
+   "label": "Net cash generated from operating activities (A)",
+   "values": [
+    28557.0,
+    21364.0
+   ]
+  },
+  {
+   "label": "Cash flow from Investing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Property, plant and equipment, capital work-in- progress and intangibles",
+   "values": [
+    -19620.0,
+    -17127.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    311.0,
+    149.0
+   ]
+  },
+  {
+   "label": "Proceeds from/(Investment) in bank deposits",
+   "values": [
+    4787.0,
+    -3538.0
+   ]
+  },
+  {
+   "label": "Purchase of investments in subsidiaries",
+   "values": [
+    -13003.0,
+    -24.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of non current investments",
+   "values": [
+    3.0,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of non current investments",
+   "values": [
+    -69.0,
+    -7308.0
+   ]
+  },
+  {
+   "label": "Purchase of current investments",
+   "values": [
+    -17047.0,
+    -24868.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of current investments",
+   "values": [
+    22052.0,
+    18151.0
+   ]
+  },
+  {
+   "label": "Loans given",
+   "values": [
+    -125.0,
+    -291.0
+   ]
+  },
+  {
+   "label": "Repayments received towards loans",
+   "values": [
+    268.0,
+    84.0
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    843.0,
+    844.0
+   ]
+  },
+  {
+   "label": "Dividend Received",
+   "values": [
+    118.0,
+    98.0
+   ]
+  },
+  {
+   "label": "Net cash used in investing activities (B)",
+   "values": [
+    -21482.0,
+    -33830.0
+   ]
+  },
+  {
+   "label": "Cash flow from financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from issue of equity instruments by a subsidiary company",
+   "values": [
+    26.0,
+    459.0
+   ]
+  },
+  {
+   "label": "Capital contribution from partners",
+   "values": [
+    null,
+    10.0
+   ]
+  },
+  {
+   "label": "Proceeds from borrowings",
+   "values": [
+    11149.0,
+    25853.0
+   ]
+  },
+  {
+   "label": "Transaction cost incurred on long term borrowings",
+   "values": [
+    null,
+    -343.0
+   ]
+  },
+  {
+   "label": "Repayment of borrowings",
+   "values": [
+    -7340.0,
+    -4422.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    -2776.0,
+    -3018.0
+   ]
+  },
+  {
+   "label": "Dividend paid on equity shares",
+   "values": [
+    -2876.0,
+    -2732.0
+   ]
+  },
+  {
+   "label": "Dividend paid by subsidiary to Non Controlling Interest",
+   "values": [
+    -52.0,
+    -52.0
+   ]
+  },
+  {
+   "label": "Payment towards lease liability",
+   "values": [
+    -2907.0,
+    -2563.0
+   ]
+  },
+  {
+   "label": "Net cash (used)/generated in financing activities (C)",
+   "values": [
+    -4776.0,
+    13192.0
+   ]
+  },
+  {
+   "label": "Net increase in cash and cash equivalents = (D)",
+   "values": [
+    2299.0,
+    726.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year (E)",
+   "values": [
+    5781.0,
+    5055.0
+   ]
+  },
+  {
+   "label": "Add: Cash inflow due to Acquisition of controlling stake in Joint",
+   "values": [
+    33.0,
+    null
+   ]
+  },
+  {
+   "label": "Venture",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year (D)+(E) 16",
+   "values": [
+    8113.0,
+    5781.0
+   ]
+  }
+ ],
+ "pdf": "APOLLOHOSP/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f9b40997-8116-48ba-949a-ca2e7775e3c2.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

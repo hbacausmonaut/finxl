@@ -1,0 +1,563 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "AXISBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 530,
+   "name": "531",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  },
+  {
+   "page": 531,
+   "name": "532",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "AXISBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/854bc96b-9951-492e-ad95-d44fcc856195.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flow from/(used in) operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net profit before taxes",
+   "values": [
+    32130.41,
+    36586.47
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation on fixed assets, intangibles and goodwill",
+   "values": [
+    1892.93,
+    1766.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Mark-to-Market (gain)/loss on investments",
+   "values": [
+    875.28,
+    -700.52
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Amortisation of premium/discount on investments",
+   "values": [
+    930.92,
+    651.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision for Non Performing Assets (including bad debts)/restructured assets",
+   "values": [
+    13350.18,
+    11643.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provision on standard assets and other contingencies",
+   "values": [
+    3856.56,
+    349.86
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/(Loss) on sale of land, buildings and other assets (net)",
+   "values": [
+    -3.79,
+    10.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee stock options/units expense",
+   "values": [
+    483.38,
+    430.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(i)",
+   "values": [
+    53515.87,
+    50738.9
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in investments",
+   "values": [
+    -8199.98,
+    -13441.73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in advances",
+   "values": [
+    -214445.2,
+    -93762.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase /(Decrease) in deposits",
+   "values": [
+    162870.54,
+    103818.49
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in other assets",
+   "values": [
+    -29455.57,
+    -5449.9
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in other liabilities & provisions",
+   "values": [
+    34013.91,
+    10628.91
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(ii)",
+   "values": [
+    -55216.3,
+    1792.79
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Direct taxes paid",
+   "values": [
+    -6936.28,
+    -8148.01
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash flow from/(used in) operating activities (i)+(ii)+(iii)",
+   "values": [
+    -8636.71,
+    44383.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flow from/(used in) investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of fixed assets",
+   "values": [
+    -2210,
+    -2445.54
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in Held to Maturity investments",
+   "values": [
+    -43757.32,
+    -47170.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in investment in Associate",
+   "values": [
+    null,
+    -1612
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of fixed assets",
+   "values": [
+    50.02,
+    12.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash from/(used in) investing activities",
+   "values": [
+    -45917.3,
+    -51215.13
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Cash flow from/(used in) financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of subordinated debt, Additional Tier I instruments",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of subordinated debt, Additional Tier I instruments",
+   "values": [
+    -852.75,
+    -826.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in borrowings (other than subordinated debt, Additional Tier I instruments (net))",
+   "values": [
+    60676.62,
+    -6686.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issue of share capital",
+   "values": [
+    2.16,
+    2.16
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from share premium (net of share issue expenses)",
+   "values": [
+    678.72,
+    683.68
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of dividend",
+   "values": [
+    -310.14,
+    -309.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase in minority interest",
+   "values": [
+    163.06,
+    135.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from/(used in) financing activities",
+   "values": [
+    60357.67,
+    -7000.36
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Effect of exchange fluctuation translation reserve",
+   "values": [
+    849.21,
+    37.33
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Net increase in cash and cash equivalents (A)+(B)+(C)+(D)",
+   "values": [
+    6652.87,
+    -13794.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    102698.7,
+    116493.18
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    109351.57,
+    102698.7
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 44,
+  "rows_reader": 39,
+  "rows_aligned": 39,
+  "rows_agreed": 36,
+  "missing_in_parser": 0,
+  "extra_in_parser": 5,
+  "label_diffs": 3,
+  "value_diffs": 0,
+  "values_reader": 65,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 25,
+   "reader_index": 25,
+   "label_parser": "Net cash from/(used in) investing activities (B)",
+   "label_reader": "Net cash from/(used in) investing activities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -45917.3,
+    "2025": -51215.13
+   },
+   "values_reader": {
+    "2026": -45917.3,
+    "2025": -51215.13
+   },
+   "page": 530,
+   "search": [
+    "45,917.30",
+    "51,215.13"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 34,
+   "reader_index": 34,
+   "label_parser": "Net cash generated from/(used in) financing activities (C)",
+   "label_reader": "Net cash generated from/(used in) financing activities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 60357.67,
+    "2025": -7000.36
+   },
+   "values_reader": {
+    "2026": 60357.67,
+    "2025": -7000.36
+   },
+   "page": 530,
+   "search": [
+    "60,357.67",
+    "7,000.36"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 35,
+   "reader_index": 35,
+   "label_parser": "Effect of exchange fluctuation translation reserve (D)",
+   "label_reader": "Effect of exchange fluctuation translation reserve",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 849.21,
+    "2025": 37.33
+   },
+   "values_reader": {
+    "2026": 849.21,
+    "2025": 37.33
+   },
+   "page": 531,
+   "search": [
+    "849.21",
+    "37.33"
+   ],
+   "pattern": "marker_in_label",
+   "pattern_text": "Footnote / cross-reference marker left in the label (provisions1, (B), SOCE)"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 39,
+   "reader_index": null,
+   "label_parser": "Notes to the Cash Flow Statement",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 530,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d005",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 40,
+   "reader_index": null,
+   "label_parser": "Cash and cash equivalents includes the following",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 530,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d006",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 41,
+   "reader_index": null,
+   "label_parser": "Cash and Balances with Reserve Bank of India (Refer Schedule 6)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 78627.37,
+    "2025": 73638.44
+   },
+   "values_reader": {},
+   "page": 530,
+   "search": [
+    "78,627.37",
+    "73,638.44"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d007",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 42,
+   "reader_index": null,
+   "label_parser": "Balances with Banks and Money at Call and Short Notice (Refer Schedule 7)",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 30724.2,
+    "2025": 29060.26
+   },
+   "values_reader": {},
+   "page": 530,
+   "search": [
+    "30,724.20",
+    "29,060.26"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d008",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 43,
+   "reader_index": null,
+   "label_parser": "Cash and cash equivalents at the end of the year",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 109351.57,
+    "2025": 102698.7
+   },
+   "values_reader": {},
+   "page": 530,
+   "search": [
+    "1,09,351.57",
+    "1,02,698.70"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ]
+}

@@ -1,0 +1,710 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "WIPRO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 302,
+   "name": "303",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 303,
+   "name": "304",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "pdf": "WIPRO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4ffaa08-a47a-487b-b136-eb4f26c1bace.pdf",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flows from operating activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    132655,
+    132180
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments to reconcile profit for the year to net cash generated from operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Gain on sale of property, plant and equipment, net",
+   "values": [
+    -393,
+    -606
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation, amortisation and impairment expense",
+   "values": [
+    29107,
+    29579
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unrealised exchange (gain)/loss, net",
+   "values": [
+    2168,
+    -623
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share-based compensation expense",
+   "values": [
+    4465,
+    5551
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of net (profit)/loss of associate and joint venture accounted for using equity method",
+   "values": [
+    -257,
+    -254
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Income tax expense",
+   "values": [
+    40767,
+    42777
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Finance and other income, net of finance costs",
+   "values": [
+    -21914,
+    -23432
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Change in fair value of contingent consideration",
+   "values": [
+    49,
+    -169
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lifetime expected credit loss",
+   "values": [
+    2838,
+    324
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in operating assets and liabilities, net of effects from acquisitions",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "(Increase)/Decrease in trade receivables",
+   "values": [
+    -11442,
+    1894
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/Decrease in unbilled receivables and contract assets",
+   "values": [
+    -14498,
+    -1331
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "(Increase)/Decrease in inventories",
+   "values": [
+    184,
+    213
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "(Increase)/Decrease in other financial assets and other assets",
+   "values": [
+    -205,
+    6609
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Increase/(Decrease) in trade payables, other financial liabilities, other liabilities and provisions",
+   "values": [
+    8482,
+    548
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/(Decrease) in contract liabilities",
+   "values": [
+    3555,
+    2341
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operating activities before taxes",
+   "values": [
+    175561,
+    195601
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income taxes paid",
+   "values": [
+    -26245,
+    -26175
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    149316,
+    169426
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows from investing activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for purchase of property, plant and equipment",
+   "values": [
+    -15603,
+    -14737
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from disposal of property, plant and equipment",
+   "values": [
+    758,
+    1822
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in associate",
+   "values": [
+    -352,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for purchase of investments",
+   "values": [
+    -837806,
+    -801582
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of investments",
+   "values": [
+    816732,
+    706520
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for business acquisitions including deposits and escrow, net of cash acquired",
+   "values": [
+    -26033,
+    -964
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of security deposit for property, plant and equipment",
+   "values": [
+    null,
+    -300
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    28878,
+    26212
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    3,
+    2299
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in investing activities",
+   "values": [
+    -33423,
+    -80730
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows from financing activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from issuance of equity shares and shares pending allotment",
+   "values": [
+    33,
+    27
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of borrowings",
+   "values": [
+    -259841,
+    -177672
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from borrowings",
+   "values": [
+    253089,
+    195595
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of lease liabilities including interests",
+   "values": [
+    -11561,
+    -10474
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment for contingent consideration",
+   "values": [
+    -648,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of deferred consideration on business combination",
+   "values": [
+    -221,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest and finance costs paid",
+   "values": [
+    -6336,
+    -8689
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of dividend",
+   "values": [
+    -115206,
+    -62750
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of dividend to Non-controlling interest holders",
+   "values": [
+    -569,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in financing activities",
+   "values": [
+    -141260,
+    -63963
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase/(decrease) in cash and cash equivalents during the year",
+   "values": [
+    -25367,
+    24733
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    8948,
+    290
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    121974,
+    96951
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    105555,
+    121974
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 51,
+  "rows_reader": 48,
+  "rows_aligned": 48,
+  "rows_agreed": 40,
+  "missing_in_parser": 0,
+  "extra_in_parser": 3,
+  "label_diffs": 8,
+  "value_diffs": 0,
+  "values_reader": 81,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "million",
+  "unit_reader": "million"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 2,
+   "reader_index": null,
+   "label_parser": "Adjustments to reconcile profit for the",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 302,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 3,
+   "reader_index": 2,
+   "label_parser": "year to net cash generated from operating",
+   "label_reader": "Adjustments to reconcile profit for the year to net cash generated from operating activities",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 302,
+   "search": [],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  },
+  {
+   "id": "d003",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 4,
+   "reader_index": null,
+   "label_parser": "activities",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 302,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 9,
+   "reader_index": 7,
+   "label_parser": "Share of net (profit)/loss of associate and joint venture accounted for using per equity method",
+   "label_reader": "Share of net (profit)/loss of associate and joint venture accounted for using equity method",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -257,
+    "2025": -254
+   },
+   "values_reader": {
+    "2026": -257,
+    "2025": -254
+   },
+   "page": 302,
+   "search": [
+    "257",
+    "254"
+   ],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  },
+  {
+   "id": "d005",
+   "kind": "label",
+   "year": null,
+   "parser_index": 10,
+   "reader_index": 8,
+   "label_parser": "Income tax expense and Finance and other income, net of",
+   "label_reader": "Income tax expense",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 40767,
+    "2025": 42777
+   },
+   "values_reader": {
+    "2026": 40767,
+    "2025": 42777
+   },
+   "page": 302,
+   "search": [
+    "40,767",
+    "42,777"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d006",
+   "kind": "label",
+   "year": null,
+   "parser_index": 11,
+   "reader_index": 9,
+   "label_parser": "finance costs",
+   "label_reader": "Finance and other income, net of finance costs",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -21914,
+    "2025": -23432
+   },
+   "values_reader": {
+    "2026": -21914,
+    "2025": -23432
+   },
+   "page": 302,
+   "search": [
+    "21,914",
+    "23,432"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d007",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 14,
+   "reader_index": null,
+   "label_parser": "Changes in operating assets and",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 302,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d008",
+   "kind": "label",
+   "year": null,
+   "parser_index": 15,
+   "reader_index": 12,
+   "label_parser": "liabilities, net of effects from acquisitions",
+   "label_reader": "Changes in operating assets and liabilities, net of effects from acquisitions",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 302,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d009",
+   "kind": "label",
+   "year": null,
+   "parser_index": 17,
+   "reader_index": 14,
+   "label_parser": "(Increase)/Decrease in unbilled in receivables and contract assets of",
+   "label_reader": "(Increase)/Decrease in unbilled receivables and contract assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -14498,
+    "2025": -1331
+   },
+   "values_reader": {
+    "2026": -14498,
+    "2025": -1331
+   },
+   "page": 302,
+   "search": [
+    "14,498",
+    "1,331"
+   ],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  },
+  {
+   "id": "d010",
+   "kind": "label",
+   "year": null,
+   "parser_index": 18,
+   "reader_index": 15,
+   "label_parser": "(I (Increase)/Decrease in inventories (Increase)/Decrease in other financial",
+   "label_reader": "(Increase)/Decrease in inventories",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 184,
+    "2025": 213
+   },
+   "values_reader": {
+    "2026": 184,
+    "2025": 213
+   },
+   "page": 302,
+   "search": [
+    "184",
+    "213"
+   ],
+   "pattern": "label_other",
+   "pattern_text": "Label differs"
+  },
+  {
+   "id": "d011",
+   "kind": "label",
+   "year": null,
+   "parser_index": 19,
+   "reader_index": 16,
+   "label_parser": "assets and other assets",
+   "label_reader": "(Increase)/Decrease in other financial assets and other assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": -205,
+    "2025": 6609
+   },
+   "values_reader": {
+    "2026": -205,
+    "2025": 6609
+   },
+   "page": 302,
+   "search": [
+    "205",
+    "6,609"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

@@ -1,0 +1,382 @@
+{
+ "ticker": "INFY",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 287,
+   "name": "288",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    792.0
+   ]
+  },
+  {
+   "page": 288,
+   "name": "289",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    792.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    178650.0,
+    162990.0
+   ]
+  },
+  {
+   "label": "Other income, net",
+   "values": [
+    4322.0,
+    3600.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    182972.0,
+    166590.0
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Employee benefit expenses",
+   "values": [
+    95094.0,
+    85950.0
+   ]
+  },
+  {
+   "label": "Cost of technical sub-contractors",
+   "values": [
+    15421.0,
+    12937.0
+   ]
+  },
+  {
+   "label": "Travel expenses",
+   "values": [
+    2097.0,
+    1894.0
+   ]
+  },
+  {
+   "label": "Cost of software packages and others",
+   "values": [
+    15722.0,
+    15911.0
+   ]
+  },
+  {
+   "label": "Communication expenses",
+   "values": [
+    603.0,
+    620.0
+   ]
+  },
+  {
+   "label": "Consultancy and professional charges",
+   "values": [
+    2090.0,
+    1655.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortization expenses",
+   "values": [
+    4902.0,
+    4812.0
+   ]
+  },
+  {
+   "label": "Finance cost",
+   "values": [
+    416.0,
+    416.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    5343.0,
+    4787.0
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    141688.0,
+    128982.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional item and tax",
+   "values": [
+    41284.0,
+    37608.0
+   ]
+  },
+  {
+   "label": "Exceptional item",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Impact of Labour Codes",
+   "values": [
+    1289.0,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    39995.0,
+    37608.0
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    11767.0,
+    12130.0
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -1246.0,
+    -1272.0
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    29474.0,
+    26750.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified subsequently to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement of the net defined benefit liability / asset, net",
+   "values": [
+    -288.0,
+    -92.0
+   ]
+  },
+  {
+   "label": "Equity instruments through other comprehensive income, net",
+   "values": [
+    397.0,
+    19.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    109.0,
+    -73.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified subsequently to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Fair value changes on derivatives designated as cash flow hedge, net",
+   "values": [
+    -1.0,
+    -24.0
+   ]
+  },
+  {
+   "label": "Exchange differences on translation of foreign operations",
+   "values": [
+    3256.0,
+    357.0
+   ]
+  },
+  {
+   "label": "Fair value changes on investments, net",
+   "values": [
+    -27.0,
+    199.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    3228.0,
+    532.0
+   ]
+  },
+  {
+   "label": "Total other comprehensive income / (loss), net of tax",
+   "values": [
+    3337.0,
+    459.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    32811.0,
+    27209.0
+   ]
+  },
+  {
+   "label": "Profit attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    29440.0,
+    26713.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    34.0,
+    37.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    29474.0,
+    26750.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    32750.0,
+    27167.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    61.0,
+    42.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    32811.0,
+    27209.0
+   ]
+  },
+  {
+   "label": "Earnings per equity share",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity shares of par value ₹ 5/- each",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    71.58,
+    64.5
+   ]
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    71.46,
+    64.34
+   ]
+  },
+  {
+   "label": "Weighted average equity shares used in computing earnings per equity share",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in shares)",
+   "values": [
+    4112814745.0,
+    4141611738.0
+   ]
+  },
+  {
+   "label": "Diluted (in shares)",
+   "values": [
+    4120108168.0,
+    4152051184.0
+   ]
+  }
+ ],
+ "pdf": "INFY\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf",
+ "parsed_at": "2026-11-05 11:54 UTC"
+}

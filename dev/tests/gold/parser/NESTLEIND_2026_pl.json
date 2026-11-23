@@ -1,0 +1,330 @@
+{
+ "ticker": "NESTLEIND",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 118,
+   "name": "119",
+   "clip": [
+    0.0,
+    0.0,
+    558.1,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CONSOLIDATED STATEMENT OF PROFIT AND LOSS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "FOR THE YEAR ENDED 31st MARCH, 2026",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(All amounts in J million, unless otherwise stated)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Year ended Financial Year ended",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "31st March, 2026 31st March, A INCOME",
+   "values": [
+    null,
+    2025.0
+   ]
+  },
+  {
+   "label": "Sale of products",
+   "values": [
+    230714.6,
+    200775.0
+   ]
+  },
+  {
+   "label": "Other operating revenue",
+   "values": [
+    831.4,
+    1240.6
+   ]
+  },
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    231546.0,
+    202015.6
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    403.5,
+    629.9
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    231949.5,
+    202645.5
+   ]
+  },
+  {
+   "label": "B EXPENSES i Cost of materials consumed",
+   "values": [
+    98140.4,
+    83901.5
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    6954.8,
+    4993.1
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "values": [
+    -1682.3,
+    -1396.6
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    21658.1,
+    20275.4
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    1583.1,
+    1360.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    6992.3,
+    5399.2
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    53414.4,
+    46546.4
+   ]
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    187060.8,
+    161079.0
+   ]
+  },
+  {
+   "label": "C PROFIT BEFORE SHARE OF (PROFIT) / LOSS OF AN ASSOCIATE, EXCEPTIONAL ITEMS AND TAX (A-B)",
+   "values": [
+    44888.7,
+    41566.5
+   ]
+  },
+  {
+   "label": "D Share of (profit) / loss of associate accounted for using the equity method (net of tax)",
+   "values": [
+    455.2,
+    239.5
+   ]
+  },
+  {
+   "label": "E PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX (C-D)",
+   "values": [
+    44433.5,
+    41327.0
+   ]
+  },
+  {
+   "label": "F Exceptional items [charge / (credit)]",
+   "values": [
+    -1207.8,
+    -1834.2
+   ]
+  },
+  {
+   "label": "G PROFIT BEFORE TAX (E-F)",
+   "values": [
+    45641.3,
+    43161.2
+   ]
+  },
+  {
+   "label": "H Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    10312.8,
+    10951.8
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    337.7,
+    133.5
+   ]
+  },
+  {
+   "label": "PROFIT FOR THE YEAR (G-H)",
+   "values": [
+    34990.8,
+    32075.9
+   ]
+  },
+  {
+   "label": "J OTHER COMPREHENSIVE INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Re-measurement gains / (losses) of defined benefit plans",
+   "values": [
+    -482.1,
+    -1076.7
+   ]
+  },
+  {
+   "label": "Share of other comprehensive income of associate accounted for using the equity method (net of tax)",
+   "values": [
+    1.9,
+    -0.3
+   ]
+  },
+  {
+   "label": "Income taxes relating to Items that will not be reclassified to profit or loss",
+   "values": [
+    121.3,
+    271.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -358.9,
+    -806.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net movement on effective portion of cash flow hedges",
+   "values": [
+    -32.6,
+    12.4
+   ]
+  },
+  {
+   "label": "Income taxes relating to Items that will be reclassified to profit or loss",
+   "values": [
+    8.2,
+    -3.1
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    -24.4,
+    9.3
+   ]
+  },
+  {
+   "label": "OTHER COMPREHENSIVE INCOME, NET OF TAX (a+b)",
+   "values": [
+    -383.3,
+    -796.7
+   ]
+  },
+  {
+   "label": "K TOTAL COMPREHENSIVE INCOME",
+   "values": [
+    34607.5,
+    31279.2
+   ]
+  },
+  {
+   "label": "EARNINGS PER EQUITY SHARE",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic and diluted earnings per share (Face value ₹ 1 - refer Note 16) H",
+   "values": [
+    18.15,
+    16.63
+   ]
+  },
+  {
+   "label": "Additional Information [refer Note 2 (g)]",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Earnings before Interest, Tax, Depreciation and Amortisation [EBITDA] - [C - A(ii) + B(v) + B(vi)]",
+   "values": [
+    53060.6,
+    47695.8
+   ]
+  }
+ ],
+ "pdf": "NESTLEIND/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/65cd4ca1-41a5-4526-b920-66b4133a4e5a.pdf",
+ "parsed_at": "2026-11-04 11:17 UTC"
+}

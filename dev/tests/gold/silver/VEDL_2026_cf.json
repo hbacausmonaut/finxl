@@ -1,0 +1,575 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "VEDL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 244,
+   "name": "245L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 244,
+   "name": "245R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "VEDL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3725606c-05f5-40b2-b122-55c0a6e7bdd1.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CASH FLOWS FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax from continuing operations",
+   "values": [
+    17126,
+    11628
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax from discontinued operations",
+   "values": [
+    18300,
+    15249
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax from continuing and discontinued operations",
+   "values": [
+    35426,
+    26877
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation, depletion and amortisation",
+   "values": [
+    9807,
+    11139
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment charge/(reversal) on property, plant and equipment/ Capital work-in-progress (CWIP)/ Other assets written off (net) (Refer note 36)",
+   "values": [
+    1820,
+    -2090
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other exceptional items loss (Refer note 36)",
+   "values": [
+    1610,
+    195
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Allowance of impairment on financial and non-financial assets/ bad debts written off",
+   "values": [
+    649,
+    343
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exploration costs written off",
+   "values": [
+    1252,
+    459
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Liabilities written back",
+   "values": [
+    -409,
+    -469
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair Value gain on financial assets held at fair value through profit or loss",
+   "values": [
+    -216,
+    -262
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loss on sale/ discard of property, plant and equipment (net)",
+   "values": [
+    -13,
+    -191
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Foreign exchange (gain)/loss (net)",
+   "values": [
+    -76,
+    57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unwinding of discount on decommissioning liability",
+   "values": [
+    152,
+    142
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share in (profit)/loss of jointly controlled entities and associates",
+   "values": [
+    1,
+    -1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share based payment expense",
+   "values": [
+    53,
+    58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -2408,
+    -2388
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -33,
+    -35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest expense",
+   "values": [
+    8199,
+    9772
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Amortization of Deferred government grant",
+   "values": [
+    -321,
+    -296
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in working capital",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase)/ decrease in trade and other receivables",
+   "values": [
+    -3867,
+    5553
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) in inventories",
+   "values": [
+    -1027,
+    -1714
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase/ (decrease) in trade and other payables",
+   "values": [
+    1076,
+    -5862
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Decrease)/ increase in operational buyers' credit / suppliers' credit",
+   "values": [
+    -4041,
+    1358
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    47635,
+    42645
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income taxes paid (net of refunds)",
+   "values": [
+    -8136,
+    -3083
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    39499,
+    39562
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOWS FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of property, plant and equipment (including intangibles, CWIP, capital advances and creditors)",
+   "values": [
+    -20876,
+    -17005
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    124,
+    291
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans repaid by related parties (Refer note 43)",
+   "values": [
+    1856,
+    2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Loans given to related parties (Refer note 43)",
+   "values": [
+    null,
+    -2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits made",
+   "values": [
+    -16421,
+    -40362
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from redemption of deposits",
+   "values": [
+    14737,
+    38026
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Short term investments made",
+   "values": [
+    -115947,
+    -113800
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of short term investments",
+   "values": [
+    111218,
+    112061
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    2115,
+    2390
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividends received",
+   "values": [
+    33,
+    35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment made to site restoration fund",
+   "values": [
+    -712,
+    -212
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of long term investments",
+   "values": [
+    -465,
+    -614
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in investing activities",
+   "values": [
+    -24338,
+    -19190
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "CASH FLOWS FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Issue of ordinary shares (Refer note 15(c))",
+   "values": [
+    null,
+    8500
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of share issue expenses",
+   "values": [
+    null,
+    -66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from short-term borrowings (net)",
+   "values": [
+    1364,
+    -197
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from current borrowings",
+   "values": [
+    6093,
+    11923
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of current borrowings",
+   "values": [
+    -8857,
+    -12525
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from long-term borrowings",
+   "values": [
+    28623,
+    27754
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of long-term borrowings",
+   "values": [
+    -22277,
+    -25580
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings repaid to related parties (Refer note 43)",
+   "values": [
+    null,
+    -7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -9124,
+    -10458
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of equity shares of subsidiary without loss of control (Refer note 4(C))",
+   "values": [
+    6292,
+    3134
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of dividends to the equity holders of the Company",
+   "values": [
+    -13279,
+    -16772
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of dividends to non-controlling interests",
+   "values": [
+    -1546,
+    -4419
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Principle payment of lease liabilities",
+   "values": [
+    -428,
+    -387
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest payment of lease liabilities",
+   "values": [
+    -116,
+    -81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of treasury shares for stock options",
+   "values": [
+    -294,
+    -42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash used in financing activities",
+   "values": [
+    -13549,
+    -19223
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effect of exchange rate changes on cash and cash equivalents",
+   "values": [
+    204,
+    32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase in cash and cash equivalents",
+   "values": [
+    1816,
+    1181
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    3993,
+    2812
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at end of the year (Refer note 13 and note 47)",
+   "values": [
+    5809,
+    3993
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 64,
+  "rows_reader": 64,
+  "rows_aligned": 64,
+  "rows_agreed": 64,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 114,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": []
+}

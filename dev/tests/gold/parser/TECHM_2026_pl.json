@@ -1,0 +1,323 @@
+{
+ "ticker": "TECHM",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 581,
+   "name": "582",
+   "clip": [
+    0.0,
+    0.0,
+    540.0,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    568154.0,
+    529883.0
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    319.0,
+    8554.0
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    568473.0,
+    538437.0
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Employee Benefit Expense",
+   "values": [
+    304788.0,
+    296238.0
+   ]
+  },
+  {
+   "label": "Subcontracting Expense",
+   "values": [
+    60997.0,
+    58377.0
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    3374.0,
+    3217.0
+   ]
+  },
+  {
+   "label": "Depreciation and Amortisation Expense",
+   "values": [
+    18816.0,
+    18529.0
+   ]
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    112028.0,
+    105357.0
+   ]
+  },
+  {
+   "label": "Impairment of Goodwill and Non-Current Assets",
+   "values": [
+    null,
+    273.0
+   ]
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    500003.0,
+    481991.0
+   ]
+  },
+  {
+   "label": "Share in Profit / (Loss) of Associates / Joint Ventures",
+   "values": [
+    -15.0,
+    86.0
+   ]
+  },
+  {
+   "label": "Profit before Exceptional Item and Tax",
+   "values": [
+    68455.0,
+    56532.0
+   ]
+  },
+  {
+   "label": "Exceptional Item",
+   "values": [
+    2724.0,
+    null
+   ]
+  },
+  {
+   "label": "Profit before Tax (VI-VII)",
+   "values": [
+    65731.0,
+    56532.0
+   ]
+  },
+  {
+   "label": "Less: Tax Expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    20023.0,
+    18996.0
+   ]
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    -2347.0,
+    -4994.0
+   ]
+  },
+  {
+   "label": "Total Tax Expense",
+   "values": [
+    17676.0,
+    14002.0
+   ]
+  },
+  {
+   "label": "Profit after tax (VIII-IX)",
+   "values": [
+    48055.0,
+    42530.0
+   ]
+  },
+  {
+   "label": "Profit/ (Loss) for the year attributable to",
+   "values": [
+    48055.0,
+    42530.0
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    48109.0,
+    42515.0
+   ]
+  },
+  {
+   "label": "Non Controlling Interests",
+   "values": [
+    -54.0,
+    15.0
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "A I. Items that will not be reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurements of the Defined Benefit Liabilities - Gain/(Loss)",
+   "values": [
+    342.0,
+    -23.0
+   ]
+  },
+  {
+   "label": "Income Tax relating to items that will not be reclassified to Profit or Loss",
+   "values": [
+    -82.0,
+    3.0
+   ]
+  },
+  {
+   "label": "B I. Items that will be subsequently reclassified to Profit or Loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange differences in translating the Financial Statements of Foreign Operations - Gain/ (Loss) (net)",
+   "values": [
+    16402.0,
+    3399.0
+   ]
+  },
+  {
+   "label": "Effective portion of Gain / (Loss) on Designated Portion of Hedging Instruments in a Cash Flow Hedge (net)",
+   "values": [
+    -3643.0,
+    -1116.0
+   ]
+  },
+  {
+   "label": "Income Tax relating to items that will be reclassified to Profit or Loss",
+   "values": [
+    917.0,
+    198.0
+   ]
+  },
+  {
+   "label": "Total Other Comprehensive Income/ (Loss)",
+   "values": [
+    13936.0,
+    2461.0
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income/ (Loss) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    13659.0,
+    2411.0
+   ]
+  },
+  {
+   "label": "Non Controlling Interests",
+   "values": [
+    277.0,
+    50.0
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income",
+   "values": [
+    61991.0,
+    44991.0
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the year attributable to",
+   "values": [
+    61991.0,
+    44991.0
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    61768.0,
+    44926.0
+   ]
+  },
+  {
+   "label": "Non Controlling Interests",
+   "values": [
+    223.0,
+    65.0
+   ]
+  },
+  {
+   "label": "Earnings per Equity Share (Face Value ` 5) in `",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic",
+   "values": [
+    54.28,
+    48.0
+   ]
+  },
+  {
+   "label": "Diluted",
+   "values": [
+    54.19,
+    47.91
+   ]
+  }
+ ],
+ "pdf": "TECHM/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/758bed2c-792d-434f-a326-118a8b4e7989.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

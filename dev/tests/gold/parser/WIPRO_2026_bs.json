@@ -1,0 +1,494 @@
+{
+ "ticker": "WIPRO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 294,
+   "name": "295",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 295,
+   "name": "296",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    77224.0,
+    78473.0
+   ]
+  },
+  {
+   "label": "Right-of-Use assets",
+   "values": [
+    28287.0,
+    25598.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    4122.0,
+    1964.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    382214.0,
+    320346.0
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    29176.0,
+    27450.0
+   ]
+  },
+  {
+   "label": "Investments accounted for using the equity method per",
+   "values": [
+    2126.0,
+    1327.0
+   ]
+  },
+  {
+   "label": "Financial assets and Investments",
+   "values": [
+    28053.0,
+    26458.0
+   ]
+  },
+  {
+   "label": "Derivative assets ^",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    349.0,
+    299.0
+   ]
+  },
+  {
+   "label": "Unbilled receivables",
+   "values": [
+    7433.0,
+    null
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    6259.0,
+    4664.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    5242.0,
+    2561.0
+   ]
+  },
+  {
+   "label": "Non-current tax assets (net)",
+   "values": [
+    7787.0,
+    7230.0
+   ]
+  },
+  {
+   "label": "in Other non-current assets",
+   "values": [
+    9451.0,
+    7707.0
+   ]
+  },
+  {
+   "label": "(I",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    587723.0,
+    504077.0
+   ]
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    517.0,
+    694.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    437680.0,
+    411474.0
+   ]
+  },
+  {
+   "label": "Derivative assets",
+   "values": [
+    888.0,
+    1820.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    135901.0,
+    117745.0
+   ]
+  },
+  {
+   "label": "Unbilled receivables",
+   "values": [
+    76823.0,
+    64280.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    105555.0,
+    121974.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    10245.0,
+    8448.0
+   ]
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    10762.0,
+    6417.0
+   ]
+  },
+  {
+   "label": "Contract assets",
+   "values": [
+    14819.0,
+    15795.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    33164.0,
+    29128.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    826354.0,
+    777775.0
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    1414077.0,
+    1281852.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    20977.0,
+    20944.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    859206.0,
+    802697.0
+   ]
+  },
+  {
+   "label": "Equity attributable to the equity holders of the Company",
+   "values": [
+    880183.0,
+    823641.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    2509.0,
+    2138.0
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY",
+   "values": [
+    882692.0,
+    825779.0
+   ]
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    1962.0,
+    63954.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    26327.0,
+    22193.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    4394.0,
+    null
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    6743.0,
+    7793.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    5389.0,
+    4656.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    17266.0,
+    16443.0
+   ]
+  },
+  {
+   "label": "Non-current tax liabilities (net)",
+   "values": [
+    48195.0,
+    42024.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    17877.0,
+    12757.0
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    128153.0,
+    169820.0
+   ]
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    165912.0,
+    97863.0
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    8709.0,
+    8025.0
+   ]
+  },
+  {
+   "label": "Derivative liabilities",
+   "values": [
+    10978.0,
+    968.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    62894.0,
+    58667.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    43387.0,
+    33463.0
+   ]
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    25434.0,
+    20063.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    16834.0,
+    15085.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    19463.0,
+    17638.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    49621.0,
+    34481.0
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    403232.0,
+    286253.0
+   ]
+  },
+  {
+   "label": "TOTAL LIABILITIES",
+   "values": [
+    531385.0,
+    456073.0
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    1414077.0,
+    1281852.0
+   ]
+  }
+ ],
+ "pdf": "WIPRO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4ffaa08-a47a-487b-b136-eb4f26c1bace.pdf",
+ "parsed_at": "2026-11-04 11:24 UTC"
+}

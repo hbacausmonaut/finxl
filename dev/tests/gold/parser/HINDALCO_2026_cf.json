@@ -1,0 +1,536 @@
+{
+ "ticker": "HINDALCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 303,
+   "name": "304L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    773.9
+   ]
+  },
+  {
+   "page": 303,
+   "name": "304R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    773.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit/ (Loss) before tax",
+   "values": [
+    18496.0,
+    22337.0
+   ]
+  },
+  {
+   "label": "Adjustment for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Finance cost",
+   "values": [
+    3480.0,
+    3419.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortization expense",
+   "values": [
+    8830.0,
+    7881.0
+   ]
+  },
+  {
+   "label": "Impairment loss/ (reversal) of non-current assets (net)",
+   "values": [
+    642.0,
+    1233.0
+   ]
+  },
+  {
+   "label": "Impairment loss/ (reversal) on financial assets (net)",
+   "values": [
+    -6.0,
+    36.0
+   ]
+  },
+  {
+   "label": "Equity settled share-based payment",
+   "values": [
+    62.0,
+    62.0
+   ]
+  },
+  {
+   "label": "Share in (profit)/ loss in equity accounted investments (net of tax)",
+   "values": [
+    4.0,
+    -3.0
+   ]
+  },
+  {
+   "label": "Unrealised foreign exchange (gain)/ loss (net)",
+   "values": [
+    425.0,
+    -32.0
+   ]
+  },
+  {
+   "label": "Unrealised (gain)/ loss on derivative transactions (net)",
+   "values": [
+    1891.0,
+    -501.0
+   ]
+  },
+  {
+   "label": "Fair value (gain)/ loss on modification of borrowings (net)",
+   "values": [
+    -226.0,
+    -21.0
+   ]
+  },
+  {
+   "label": "(Gain)/ Loss on property, plant and equipment and intangible assets sold/ discarded (net)",
+   "values": [
+    -67.0,
+    -486.0
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -1148.0,
+    -971.0
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -39.0,
+    -38.0
+   ]
+  },
+  {
+   "label": "Gains/(Loss) on investments measured at FVTPL (net)",
+   "values": [
+    -503.0,
+    -403.0
+   ]
+  },
+  {
+   "label": "(Gain)/loss on sale of subsidiary",
+   "values": [
+    -49.0,
+    null
+   ]
+  },
+  {
+   "label": "Changes in cash flow hedges net of reclassification from OCI",
+   "values": [
+    -273.0,
+    16.0
+   ]
+  },
+  {
+   "label": "Amortisation of government grants",
+   "values": [
+    -652.0,
+    -399.0
+   ]
+  },
+  {
+   "label": "Other non-operating (income)/ expenses (net)",
+   "values": [
+    96.0,
+    68.0
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    30963.0,
+    32198.0
+   ]
+  },
+  {
+   "label": "Changes in working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Increase)/ Decrease in inventories",
+   "values": [
+    -24518.0,
+    -7194.0
+   ]
+  },
+  {
+   "label": "(Increase)/ Decrease in trade receivables",
+   "values": [
+    -5306.0,
+    -3139.0
+   ]
+  },
+  {
+   "label": "(Increase)/ Decrease in other financial assets",
+   "values": [
+    -4275.0,
+    -349.0
+   ]
+  },
+  {
+   "label": "(Increase)/ Decrease in non-financial assets",
+   "values": [
+    -2382.0,
+    -184.0
+   ]
+  },
+  {
+   "label": "Increase/ (Decrease) in trade payables",
+   "values": [
+    19316.0,
+    7310.0
+   ]
+  },
+  {
+   "label": "Increase/ (Decrease) in other financial liabilities",
+   "values": [
+    1497.0,
+    129.0
+   ]
+  },
+  {
+   "label": "Increase/ (Decrease) in non-financial liabilities (including contract liabilities)",
+   "values": [
+    1431.0,
+    1106.0
+   ]
+  },
+  {
+   "label": "Cash generated from operation before tax",
+   "values": [
+    16726.0,
+    29877.0
+   ]
+  },
+  {
+   "label": "Refund/ (Payment) of income tax (net)",
+   "values": [
+    -6476.0,
+    -5467.0
+   ]
+  },
+  {
+   "label": "Net cash generated/ (used) - operating activities",
+   "values": [
+    10250.0,
+    24410.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTMENT ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Payments to acquire property, plant and equipment, intangible assets and investment property",
+   "values": [
+    -30096.0,
+    -20649.0
+   ]
+  },
+  {
+   "label": "Proceeds from disposal of property, plant and equipment, intangible assets and investment property",
+   "values": [
+    338.0,
+    245.0
+   ]
+  },
+  {
+   "label": "Net cash inflow on disposal of subsidiaries/ business",
+   "values": [
+    53.0,
+    null
+   ]
+  },
+  {
+   "label": "Investment in equity accounted investees",
+   "values": [
+    -137.0,
+    -12.0
+   ]
+  },
+  {
+   "label": "Investment in equity shares at FVTOCI",
+   "values": [
+    null,
+    -130.0
+   ]
+  },
+  {
+   "label": "(Purchase)/ Sale of other investments (net)",
+   "values": [
+    -1188.0,
+    -7148.0
+   ]
+  },
+  {
+   "label": "Loans and Deposits given",
+   "values": [
+    -2460.0,
+    -305.0
+   ]
+  },
+  {
+   "label": "Receipt of loans and deposits given",
+   "values": [
+    4393.0,
+    2184.0
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    1162.0,
+    819.0
+   ]
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    39.0,
+    38.0
+   ]
+  },
+  {
+   "label": "Lease payments received from finance lease",
+   "values": [
+    null,
+    4.0
+   ]
+  },
+  {
+   "label": "Proceeds from insurance claims",
+   "values": [
+    1313.0,
+    215.0
+   ]
+  },
+  {
+   "label": "Net cash generated/ (used) - investing activities",
+   "values": [
+    -26583.0,
+    -24739.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Treasury shares acquired by ESOP trust",
+   "values": [
+    -164.0,
+    -153.0
+   ]
+  },
+  {
+   "label": "Proceeds from shares issued by ESOP trust",
+   "values": [
+    47.0,
+    49.0
+   ]
+  },
+  {
+   "label": "Proceeds from non-current borrowings",
+   "values": [
+    24012.0,
+    18728.0
+   ]
+  },
+  {
+   "label": "Pre-payment of non-current borrowings",
+   "values": [
+    null,
+    -10589.0
+   ]
+  },
+  {
+   "label": "Repayment of non-current borrowings",
+   "values": [
+    -8516.0,
+    -176.0
+   ]
+  },
+  {
+   "label": "Increase/ (Decrease) in supplier’s credit (net)",
+   "values": [
+    -1730.0,
+    -2730.0
+   ]
+  },
+  {
+   "label": "Principal payments of lease liabilities",
+   "values": [
+    -358.0,
+    -397.0
+   ]
+  },
+  {
+   "label": "Proceeds from/ (repayment) of current borrowings (net)",
+   "values": [
+    12697.0,
+    -1726.0
+   ]
+  },
+  {
+   "label": "Finance cost paid",
+   "values": [
+    -4791.0,
+    -4044.0
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -1110.0,
+    -778.0
+   ]
+  },
+  {
+   "label": "Net cash generated/ (used) - financing activities",
+   "values": [
+    20087.0,
+    -1816.0
+   ]
+  },
+  {
+   "label": "Net increase/ (decrease) in cash and cash equivalents",
+   "values": [
+    3754.0,
+    -2145.0
+   ]
+  },
+  {
+   "label": "Add : Opening cash and cash equivalents*",
+   "values": [
+    9795.0,
+    11810.0
+   ]
+  },
+  {
+   "label": "Add : Effect of exchange variation on cash and cash equivalents",
+   "values": [
+    800.0,
+    130.0
+   ]
+  },
+  {
+   "label": "Closing cash and cash equivalents",
+   "values": [
+    14349.0,
+    9795.0
+   ]
+  },
+  {
+   "label": "*net of bank overdraft balances ` 13 Crore (31/03/2024: ` 6 Crore)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Reconciliation of closing cash and cash equivalents with Balance",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Sheet",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents as per balance sheet",
+   "values": [
+    14350.0,
+    9808.0
+   ]
+  },
+  {
+   "label": "Less: Fair Value adjustments in Liquid Investments",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Less: Temporary overdraft balance in current accounts",
+   "values": [
+    -1.0,
+    -13.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents as per statement of cash flows and Supplemental information",
+   "values": [
+    14349.0,
+    9795.0
+   ]
+  },
+  {
+   "label": "Non cash transaction from investing and financing activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Acquisition of right of use assets",
+   "values": [
+    902.0,
+    598.0
+   ]
+  }
+ ],
+ "pdf": "HINDALCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb3b7080-855f-4cde-b688-d97575a72f3f.pdf",
+ "parsed_at": "2026-11-04 11:19 UTC"
+}

@@ -1,0 +1,893 @@
+{
+ "format": "docfetcher-gold-disagreements/1",
+ "ticker": "MARUTI",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "statement_name": "Balance Sheet",
+ "pdf": "MARUTI\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf",
+ "pages": [
+  {
+   "page": 234,
+   "name": "235L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    779.5
+   ]
+  }
+ ],
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "reader": "claude",
+ "stats": {
+  "rows_parser": 56,
+  "rows_reader": 56,
+  "rows_aligned": 56,
+  "rows_agreed": 56,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 86,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "million",
+  "unit_reader": "million"
+ },
+ "disagreements": [],
+ "rows": [
+  {
+   "parser_index": 0,
+   "reader_index": 0,
+   "label_parser": "ASSETS",
+   "label_reader": "ASSETS",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 1,
+   "reader_index": 1,
+   "label_parser": "Non-current assets",
+   "label_reader": "Non-current assets",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 2,
+   "reader_index": 2,
+   "label_parser": "Property, plant and equipment",
+   "label_reader": "Property, plant and equipment",
+   "values_parser": {
+    "2026": 334197,
+    "2025": 318966
+   },
+   "values_reader": {
+    "2026": 334197,
+    "2025": 318966
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 3,
+   "reader_index": 3,
+   "label_parser": "Right-of-use assets",
+   "label_reader": "Right-of-use assets",
+   "values_parser": {
+    "2026": 5998,
+    "2025": 5960
+   },
+   "values_reader": {
+    "2026": 5998,
+    "2025": 5960
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 4,
+   "reader_index": 4,
+   "label_parser": "Capital work-in-progress",
+   "label_reader": "Capital work-in-progress",
+   "values_parser": {
+    "2026": 94062,
+    "2025": 75272
+   },
+   "values_reader": {
+    "2026": 94062,
+    "2025": 75272
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 5,
+   "reader_index": 5,
+   "label_parser": "Intangible assets",
+   "label_reader": "Intangible assets",
+   "values_parser": {
+    "2026": 5038,
+    "2025": 4901
+   },
+   "values_reader": {
+    "2026": 5038,
+    "2025": 4901
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 6,
+   "reader_index": 6,
+   "label_parser": "Intangible assets under development",
+   "label_reader": "Intangible assets under development",
+   "values_parser": {
+    "2026": 4321,
+    "2025": 4018
+   },
+   "values_reader": {
+    "2026": 4321,
+    "2025": 4018
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Investments accounted for using the equity method",
+   "label_reader": "Investments accounted for using the equity method",
+   "values_parser": {
+    "2026": 25498,
+    "2025": 22998
+   },
+   "values_reader": {
+    "2026": 25498,
+    "2025": 22998
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 8,
+   "reader_index": 8,
+   "label_parser": "Financial Assets",
+   "label_reader": "Financial Assets",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 9,
+   "reader_index": 9,
+   "label_parser": "Investments",
+   "label_reader": "Investments",
+   "values_parser": {
+    "2026": 588643,
+    "2025": 556280
+   },
+   "values_reader": {
+    "2026": 588643,
+    "2025": 556280
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 10,
+   "reader_index": 10,
+   "label_parser": "Loans",
+   "label_reader": "Loans",
+   "values_parser": {
+    "2026": 1,
+    "2025": 1
+   },
+   "values_reader": {
+    "2026": 1,
+    "2025": 1
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 11,
+   "reader_index": 11,
+   "label_parser": "Other financial assets",
+   "label_reader": "Other financial assets",
+   "values_parser": {
+    "2026": 7393,
+    "2025": 3003
+   },
+   "values_reader": {
+    "2026": 7393,
+    "2025": 3003
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 12,
+   "reader_index": 12,
+   "label_parser": "Non-current tax assets (Net)",
+   "label_reader": "Non-current tax assets (Net)",
+   "values_parser": {
+    "2026": 5259,
+    "2025": 4969
+   },
+   "values_reader": {
+    "2026": 5259,
+    "2025": 4969
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 13,
+   "reader_index": 13,
+   "label_parser": "Deferred tax assets (Net)",
+   "label_reader": "Deferred tax assets (Net)",
+   "values_parser": {
+    "2026": 7,
+    "2025": 6
+   },
+   "values_reader": {
+    "2026": 7,
+    "2025": 6
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 14,
+   "reader_index": 14,
+   "label_parser": "Other non-current assets",
+   "label_reader": "Other non-current assets",
+   "values_parser": {
+    "2026": 28819,
+    "2025": 28102
+   },
+   "values_reader": {
+    "2026": 28819,
+    "2025": 28102
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 15,
+   "reader_index": 15,
+   "label_parser": "Total non-current assets",
+   "label_reader": "Total non-current assets",
+   "values_parser": {
+    "2026": 1099236,
+    "2025": 1024476
+   },
+   "values_reader": {
+    "2026": 1099236,
+    "2025": 1024476
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 16,
+   "reader_index": 16,
+   "label_parser": "Current assets",
+   "label_reader": "Current assets",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 17,
+   "reader_index": 17,
+   "label_parser": "Inventories",
+   "label_reader": "Inventories",
+   "values_parser": {
+    "2026": 113206,
+    "2025": 69132
+   },
+   "values_reader": {
+    "2026": 113206,
+    "2025": 69132
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 18,
+   "reader_index": 18,
+   "label_parser": "Financial assets",
+   "label_reader": "Financial assets",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 19,
+   "reader_index": 19,
+   "label_parser": "Investments",
+   "label_reader": "Investments",
+   "values_parser": {
+    "2026": 154244,
+    "2025": 83376
+   },
+   "values_reader": {
+    "2026": 154244,
+    "2025": 83376
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 20,
+   "reader_index": 20,
+   "label_parser": "Trade receivables",
+   "label_reader": "Trade receivables",
+   "values_parser": {
+    "2026": 53420,
+    "2025": 65397
+   },
+   "values_reader": {
+    "2026": 53420,
+    "2025": 65397
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 21,
+   "reader_index": 21,
+   "label_parser": "Cash and cash equivalents",
+   "label_reader": "Cash and cash equivalents",
+   "values_parser": {
+    "2026": 669,
+    "2025": 1845
+   },
+   "values_reader": {
+    "2026": 669,
+    "2025": 1845
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 22,
+   "reader_index": 22,
+   "label_parser": "Bank balances other than (11.1) above",
+   "label_reader": "Bank balances other than (11.1) above",
+   "values_parser": {
+    "2026": 15131,
+    "2025": 3684
+   },
+   "values_reader": {
+    "2026": 15131,
+    "2025": 3684
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 23,
+   "reader_index": 23,
+   "label_parser": "Loans",
+   "label_reader": "Loans",
+   "values_parser": {
+    "2026": 441,
+    "2025": 432
+   },
+   "values_reader": {
+    "2026": 441,
+    "2025": 432
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 24,
+   "reader_index": 24,
+   "label_parser": "Other financial assets",
+   "label_reader": "Other financial assets",
+   "values_parser": {
+    "2026": 3414,
+    "2025": 28752
+   },
+   "values_reader": {
+    "2026": 3414,
+    "2025": 28752
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 25,
+   "reader_index": 25,
+   "label_parser": "Other current assets",
+   "label_reader": "Other current assets",
+   "values_parser": {
+    "2026": 48843,
+    "2025": 32866
+   },
+   "values_reader": {
+    "2026": 48843,
+    "2025": 32866
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 26,
+   "reader_index": 26,
+   "label_parser": "Assets classified as held for sale",
+   "label_reader": "Assets classified as held for sale",
+   "values_parser": {
+    "2026": 206,
+    "2025": 203
+   },
+   "values_reader": {
+    "2026": 206,
+    "2025": 203
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 27,
+   "reader_index": 27,
+   "label_parser": "Total current assets",
+   "label_reader": "Total current assets",
+   "values_parser": {
+    "2026": 389574,
+    "2025": 285687
+   },
+   "values_reader": {
+    "2026": 389574,
+    "2025": 285687
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 28,
+   "reader_index": 28,
+   "label_parser": "Total assets",
+   "label_reader": "Total assets",
+   "values_parser": {
+    "2026": 1488810,
+    "2025": 1310163
+   },
+   "values_reader": {
+    "2026": 1488810,
+    "2025": 1310163
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 29,
+   "reader_index": 29,
+   "label_parser": "EQUITY AND LIABILITIES",
+   "label_reader": "EQUITY AND LIABILITIES",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 30,
+   "reader_index": 30,
+   "label_parser": "Equity",
+   "label_reader": "Equity",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 31,
+   "reader_index": 31,
+   "label_parser": "Equity share capital",
+   "label_reader": "Equity share capital",
+   "values_parser": {
+    "2026": 1572,
+    "2025": 1572
+   },
+   "values_reader": {
+    "2026": 1572,
+    "2025": 1572
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 32,
+   "reader_index": 32,
+   "label_parser": "Other equity",
+   "label_reader": "Other equity",
+   "values_parser": {
+    "2026": 1069991,
+    "2025": 960827
+   },
+   "values_reader": {
+    "2026": 1069991,
+    "2025": 960827
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 33,
+   "reader_index": 33,
+   "label_parser": "Total equity",
+   "label_reader": "Total equity",
+   "values_parser": {
+    "2026": 1071563,
+    "2025": 962399
+   },
+   "values_reader": {
+    "2026": 1071563,
+    "2025": 962399
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 34,
+   "reader_index": 34,
+   "label_parser": "Liabilities",
+   "label_reader": "Liabilities",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 35,
+   "reader_index": 35,
+   "label_parser": "Non-current liabilities",
+   "label_reader": "Non-current liabilities",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 36,
+   "reader_index": 36,
+   "label_parser": "Financial liabilities",
+   "label_reader": "Financial liabilities",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 37,
+   "reader_index": 37,
+   "label_parser": "Lease liabilities",
+   "label_reader": "Lease liabilities",
+   "values_parser": {
+    "2026": 628,
+    "2025": 586
+   },
+   "values_reader": {
+    "2026": 628,
+    "2025": 586
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 38,
+   "reader_index": 38,
+   "label_parser": "Other financial liabilities",
+   "label_reader": "Other financial liabilities",
+   "values_parser": {
+    "2026": 5,
+    "2025": 5
+   },
+   "values_reader": {
+    "2026": 5,
+    "2025": 5
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 39,
+   "reader_index": 39,
+   "label_parser": "Provisions",
+   "label_reader": "Provisions",
+   "values_parser": {
+    "2026": 1060,
+    "2025": 1260
+   },
+   "values_reader": {
+    "2026": 1060,
+    "2025": 1260
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 40,
+   "reader_index": 40,
+   "label_parser": "Deferred tax liabilities (Net)",
+   "label_reader": "Deferred tax liabilities (Net)",
+   "values_parser": {
+    "2026": 18005,
+    "2025": 15944
+   },
+   "values_reader": {
+    "2026": 18005,
+    "2025": 15944
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 41,
+   "reader_index": 41,
+   "label_parser": "Other non-current liabilities",
+   "label_reader": "Other non-current liabilities",
+   "values_parser": {
+    "2026": 32747,
+    "2025": 33819
+   },
+   "values_reader": {
+    "2026": 32747,
+    "2025": 33819
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 42,
+   "reader_index": 42,
+   "label_parser": "Total non-current liabilities",
+   "label_reader": "Total non-current liabilities",
+   "values_parser": {
+    "2026": 52445,
+    "2025": 51614
+   },
+   "values_reader": {
+    "2026": 52445,
+    "2025": 51614
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 43,
+   "reader_index": 43,
+   "label_parser": "Current liabilities",
+   "label_reader": "Current liabilities",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 44,
+   "reader_index": 44,
+   "label_parser": "Financial liabilities",
+   "label_reader": "Financial liabilities",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 45,
+   "reader_index": 45,
+   "label_parser": "Lease liabilities",
+   "label_reader": "Lease liabilities",
+   "values_parser": {
+    "2026": 397,
+    "2025": 284
+   },
+   "values_reader": {
+    "2026": 397,
+    "2025": 284
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 46,
+   "reader_index": 46,
+   "label_parser": "Trade payables",
+   "label_reader": "Trade payables",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 47,
+   "reader_index": 47,
+   "label_parser": "Total outstanding dues of micro and small enterprises",
+   "label_reader": "Total outstanding dues of micro and small enterprises",
+   "values_parser": {
+    "2026": 2612,
+    "2025": 2056
+   },
+   "values_reader": {
+    "2026": 2612,
+    "2025": 2056
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 48,
+   "reader_index": 48,
+   "label_parser": "Total outstanding dues of creditors other than micro and small enterprises",
+   "label_reader": "Total outstanding dues of creditors other than micro and small enterprises",
+   "values_parser": {
+    "2026": 218726,
+    "2025": 167165
+   },
+   "values_reader": {
+    "2026": 218726,
+    "2025": 167165
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 49,
+   "reader_index": 49,
+   "label_parser": "Other financial liabilities",
+   "label_reader": "Other financial liabilities",
+   "values_parser": {
+    "2026": 66008,
+    "2025": 65304
+   },
+   "values_reader": {
+    "2026": 66008,
+    "2025": 65304
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 50,
+   "reader_index": 50,
+   "label_parser": "Other current liabilities",
+   "label_reader": "Other current liabilities",
+   "values_parser": {
+    "2026": 42465,
+    "2025": 32958
+   },
+   "values_reader": {
+    "2026": 42465,
+    "2025": 32958
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 51,
+   "reader_index": 51,
+   "label_parser": "Provisions",
+   "label_reader": "Provisions",
+   "values_parser": {
+    "2026": 20692,
+    "2025": 15646
+   },
+   "values_reader": {
+    "2026": 20692,
+    "2025": 15646
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 52,
+   "reader_index": 52,
+   "label_parser": "Current tax liabilities (Net)",
+   "label_reader": "Current tax liabilities (Net)",
+   "values_parser": {
+    "2026": 13902,
+    "2025": 12737
+   },
+   "values_reader": {
+    "2026": 13902,
+    "2025": 12737
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 53,
+   "reader_index": 53,
+   "label_parser": "Total current liabilities",
+   "label_reader": "Total current liabilities",
+   "values_parser": {
+    "2026": 364802,
+    "2025": 296150
+   },
+   "values_reader": {
+    "2026": 364802,
+    "2025": 296150
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 54,
+   "reader_index": 54,
+   "label_parser": "Total liabilities",
+   "label_reader": "Total liabilities",
+   "values_parser": {
+    "2026": 417247,
+    "2025": 347764
+   },
+   "values_reader": {
+    "2026": 417247,
+    "2025": 347764
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 55,
+   "reader_index": 55,
+   "label_parser": "Total equity and liabilities",
+   "label_reader": "Total equity and liabilities",
+   "values_parser": {
+    "2026": 1488810,
+    "2025": 1310163
+   },
+   "values_reader": {
+    "2026": 1488810,
+    "2025": 1310163
+   },
+   "issues": []
+  }
+ ],
+ "created_at": "2026-11-05 11:55 UTC"
+}

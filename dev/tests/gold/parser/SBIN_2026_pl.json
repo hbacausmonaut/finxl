@@ -1,0 +1,225 @@
+{
+ "ticker": "SBIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 313,
+   "name": "314",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest earned",
+   "values": [
+    5149325904.0,
+    4903126989.0
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    1977109381.0,
+    1730306185.0
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    7126435285.0,
+    6633433174.0
+   ]
+  },
+  {
+   "label": "EXPENDITURE",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest expended",
+   "values": [
+    3150048084.0,
+    3009433353.0
+   ]
+  },
+  {
+   "label": "Operating expenses",
+   "values": [
+    2626504484.0,
+    2365735186.0
+   ]
+  },
+  {
+   "label": "Provisions and contingencies",
+   "values": [
+    498198031.0,
+    468093091.0
+   ]
+  },
+  {
+   "label": "Total expenditure",
+   "values": [
+    6274750599.0,
+    5843261630.0
+   ]
+  },
+  {
+   "label": "PROFIT",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Profit for the year (before adjustment for Share in Profit of Associates and Minority Interest)",
+   "values": [
+    851684686.0,
+    790171544.0
+   ]
+  },
+  {
+   "label": "Add: Share in Profit of Associates",
+   "values": [
+    14971990.0,
+    15054709.0
+   ]
+  },
+  {
+   "label": "Less: Minority Interest",
+   "values": [
+    33668852.0,
+    29612882.0
+   ]
+  },
+  {
+   "label": "Net Profit for the Group",
+   "values": [
+    832987824.0,
+    775613371.0
+   ]
+  },
+  {
+   "label": "Add Profit Brought forward",
+   "values": [
+    1084468560.0,
+    720191793.0
+   ]
+  },
+  {
+   "label": "TOTAL",
+   "values": [
+    1917456384.0,
+    1495805164.0
+   ]
+  },
+  {
+   "label": "APPROPRIATIONS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Transfer to Statutory Reserve",
+   "values": [
+    243829391.0,
+    215947894.0
+   ]
+  },
+  {
+   "label": "Transfer to Capital Reserve",
+   "values": [
+    66660474.0,
+    21715683.0
+   ]
+  },
+  {
+   "label": "Transfer to / (from) Investment Fluctuation Reserve",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Transfer to Revenue and Other Reserves",
+   "values": [
+    12597104.0,
+    32108706.0
+   ]
+  },
+  {
+   "label": "Dividend for the current year",
+   "values": [
+    160151215.0,
+    141901459.0
+   ]
+  },
+  {
+   "label": "Tax on Dividend",
+   "values": [
+    398083.0,
+    305234.0
+   ]
+  },
+  {
+   "label": "Balance carried over to Balance Sheet",
+   "values": [
+    1433820117.0,
+    1083826188.0
+   ]
+  },
+  {
+   "label": "TOTAL",
+   "values": [
+    1917456384.0,
+    1495805164.0
+   ]
+  },
+  {
+   "label": "EARNINGS PER EQUITY SHARE (Face value ₹ 1 per share)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    91.16,
+    86.91
+   ]
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    91.16,
+    86.91
+   ]
+  }
+ ],
+ "pdf": "SBIN\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf",
+ "parsed_at": "2026-11-05 11:52 UTC"
+}

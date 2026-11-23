@@ -1,0 +1,221 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "ICICIBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 372,
+   "name": "373",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "ICICIBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CAPITAL AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital",
+   "values": [
+    14322344,
+    14245974
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employees stock options/units outstanding",
+   "values": [
+    26820675,
+    20698433
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Reserves and surplus",
+   "values": [
+    3589461138,
+    3104114654
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Minority interest",
+   "values": [
+    165109619,
+    148367361
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    18300201210,
+    16416374040
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    2202642771,
+    2188834453
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Policyholders' funds",
+   "values": [
+    2964990702,
+    2943055571
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other liabilities and provisions",
+   "values": [
+    1881431261,
+    1586723648
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL CAPITAL AND LIABILITIES",
+   "values": [
+    29144979720,
+    26422414134
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and balances with Reserve Bank of India",
+   "values": [
+    1212371937,
+    1202409132
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balances with banks and money at call and short notice",
+   "values": [
+    1437435296,
+    937825505
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    8707198823,
+    8863768108
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Advances",
+   "values": [
+    16446579678,
+    14206637124
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fixed assets",
+   "values": [
+    174203410,
+    158124234
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other assets",
+   "values": [
+    1061690036,
+    969055719
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Goodwill on consolidation",
+   "values": [
+    105500540,
+    84594312
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    29144979720,
+    26422414134
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Contingent liabilities",
+   "values": [
+    63867022339,
+    78850007864
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bills for collection",
+   "values": [
+    1594079092,
+    1313614604
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 21,
+  "rows_reader": 21,
+  "rows_aligned": 21,
+  "rows_agreed": 21,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 38,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "thousand",
+  "unit_reader": "thousand"
+ },
+ "mismatches": []
+}

@@ -1,0 +1,569 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "MARUTI",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 235,
+   "name": "236R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    779.5
+   ]
+  },
+  {
+   "page": 236,
+   "name": "237L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    779.5
+   ]
+  }
+ ],
+ "pdf": "MARUTI\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Cash flow from operating activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    191185,
+    196200
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of associates",
+   "values": [
+    -2591,
+    -2152
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit of joint ventures",
+   "values": [
+    -264,
+    -287
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of dividend from joint ventures and associates",
+   "values": [
+    356,
+    432
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expenses",
+   "values": [
+    67417,
+    56082
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    2387,
+    1942
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    -3839,
+    -4329
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    -111,
+    -92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net loss on sale / discarding of property, plant and equipment and 478 capital work-in-progress",
+   "values": [
+    739,
+    673
+   ],
+   "source": "harsh"
+  },
+  {
+   "label": "Net gain on sale of investments in debt mutual funds",
+   "values": [
+    -2216,
+    -1297
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair valuation gain on investment in debt mutual funds",
+   "values": [
+    -35190,
+    -43992
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unrealised foreign exchange (gain) / loss",
+   "values": [
+    149,
+    35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    218022,
+    203215
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustments for changes in working capital:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / decrease in other financial assets (non-current)",
+   "values": [
+    -4352,
+    -22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / decrease in other non-current assets",
+   "values": [
+    101,
+    -10
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / decrease in inventories",
+   "values": [
+    -44074,
+    -15951
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / decrease in trade receivables",
+   "values": [
+    12360,
+    -19692
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / decrease in advance in the nature of loans (current)",
+   "values": [
+    -9,
+    -105
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / decrease in other financial assets (current)",
+   "values": [
+    68,
+    1001
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Increase) / decrease in other current assets",
+   "values": [
+    -15980,
+    -12022
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (decrease) in other non-current financial liabilities",
+   "values": [
+    null,
+    5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (decrease) in non-current provisions",
+   "values": [
+    10,
+    -172
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (decrease) in other non-current liabilities",
+   "values": [
+    -1072,
+    2202
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (decrease) in trade payables",
+   "values": [
+    51939,
+    26063
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (decrease) in other financial liabilities (current)",
+   "values": [
+    2901,
+    14358
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (decrease) in current provisions",
+   "values": [
+    6260,
+    1353
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Increase / (decrease) in other current liabilities",
+   "values": [
+    8197,
+    -355
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    234371,
+    199868
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income taxes paid (Net of refund)",
+   "values": [
+    -43372,
+    -38068
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    190999,
+    161800
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows from investing activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payments for purchase of property, plant and equipment and capital work in progress",
+   "values": [
+    -101227,
+    -102307
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payments for purchase of intangible assets and intangible assets under development",
+   "values": [
+    -2749,
+    -3903
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipment",
+   "values": [
+    520,
+    417
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payments for purchase of investment in equity shares of associates",
+   "values": [
+    null,
+    -180
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from sale of debt mutual funds",
+   "values": [
+    1019686,
+    697954
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payments for purchase of debt mutual funds",
+   "values": [
+    -1080179,
+    -738801
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payments for purchase of unquoted investments",
+   "values": [
+    -20,
+    -20
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payments for purchase of quoted investments",
+   "values": [
+    -136,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investment in fixed deposits with bank",
+   "values": [
+    -17841,
+    -11154
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Proceeds from fixed deposits with bank",
+   "values": [
+    30955,
+    8464
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    3545,
+    4439
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    111,
+    92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash outflow from investing activities",
+   "values": [
+    -147335,
+    -144999
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash flows from financing activities:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Movement in short term borrowings (Net)",
+   "values": [
+    null,
+    -331
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Payment of dividend on equity shares",
+   "values": [
+    -42444,
+    -39300
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Repayment of lease liabilities",
+   "values": [
+    -359,
+    -253
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest on lease liabilities",
+   "values": [
+    -82,
+    -89
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs paid (other than interest on lease liabilities)",
+   "values": [
+    -1955,
+    -1578
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net cash outflow from financing activities",
+   "values": [
+    -44840,
+    -41551
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net increase / (decrease) in cash and cash equivalents",
+   "values": [
+    -1176,
+    -24750
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    1845,
+    26595
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    669,
+    1845
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents comprises:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Cheques on hand",
+   "values": [
+    11,
+    2
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance with banks",
+   "values": [
+    658,
+    825
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits (less than 3 months original maturity period)",
+   "values": [
+    null,
+    1018
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    669,
+    1845
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-cash investing and financing transaction",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Acquisition of right-of-use assets",
+   "values": [
+    515,
+    454
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Export promotion Capital Goods Grants",
+   "values": [
+    1310,
+    1052
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    1825,
+    1506
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

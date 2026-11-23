@@ -1,0 +1,539 @@
+{
+ "ticker": "ULTRACEMCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 260,
+   "name": "261L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    773.9
+   ]
+  },
+  {
+   "page": 260,
+   "name": "261R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    773.9
+   ]
+  },
+  {
+   "page": 261,
+   "name": "262L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    773.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash Flows from Operating Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit Before tax",
+   "values": [
+    10927.19,
+    7528.13
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and Amortisation Expense (Refer Note 32)",
+   "values": [
+    4644.46,
+    4014.95
+   ]
+  },
+  {
+   "label": "Gain on Fair Valuation of Investments",
+   "values": [
+    -63.54,
+    -111.91
+   ]
+  },
+  {
+   "label": "Gain on Fair Valuation of SGST / VAT Deferment Loan",
+   "values": [
+    -44.36,
+    -48.5
+   ]
+  },
+  {
+   "label": "Unrealised Exchange (Gain)/ Loss",
+   "values": [
+    -50.41,
+    58.29
+   ]
+  },
+  {
+   "label": "Share in (Profit) / Loss on equity accounted investment",
+   "values": [
+    15.83,
+    10.57
+   ]
+  },
+  {
+   "label": "Impairment in value of Investments/ Assets",
+   "values": [
+    50.07,
+    null
+   ]
+  },
+  {
+   "label": "Compensation Expenses under Employees Stock Options Scheme",
+   "values": [
+    51.96,
+    51.56
+   ]
+  },
+  {
+   "label": "Allowances for credit losses on Advances / debts (net)",
+   "values": [
+    4.8,
+    46.86
+   ]
+  },
+  {
+   "label": "Bad Debts Written-off",
+   "values": [
+    9.47,
+    1.22
+   ]
+  },
+  {
+   "label": "Excess Provision / unclaimed liabilities written back (net)",
+   "values": [
+    -181.65,
+    -61.14
+   ]
+  },
+  {
+   "label": "Provision for Stamp Duty on Business Combination",
+   "values": [
+    null,
+    88.08
+   ]
+  },
+  {
+   "label": "Interest and Dividend Income",
+   "values": [
+    -261.44,
+    -293.16
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    1871.71,
+    1650.54
+   ]
+  },
+  {
+   "label": "Profit on Sale / Retirement of Property, Plant and Equipment",
+   "values": [
+    -40.85,
+    -56.38
+   ]
+  },
+  {
+   "label": "Profit on Sale of Current and Non-Current Investments (net)",
+   "values": [
+    -83.52,
+    -233.98
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    16849.72,
+    12645.13
+   ]
+  },
+  {
+   "label": "Movements in working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Increase/ (Decrease) in Trade payables and other Liabilities",
+   "values": [
+    590.28,
+    -475.55
+   ]
+  },
+  {
+   "label": "Increase/ (Decrease) in Provisions",
+   "values": [
+    112.37,
+    -33.77
+   ]
+  },
+  {
+   "label": "Increase in Trade receivables",
+   "values": [
+    -27.6,
+    -607.54
+   ]
+  },
+  {
+   "label": "Increase in Inventories",
+   "values": [
+    -67.92,
+    -316.93
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in Financial and Other Assets",
+   "values": [
+    -840.3,
+    762.72
+   ]
+  },
+  {
+   "label": "Cash generated from Operations",
+   "values": [
+    16616.55,
+    11974.06
+   ]
+  },
+  {
+   "label": "Taxes paid (net of refund)",
+   "values": [
+    -1300.69,
+    -1300.63
+   ]
+  },
+  {
+   "label": "Net Cash generated from Operating Activities (A)",
+   "values": [
+    15315.86,
+    10673.43
+   ]
+  },
+  {
+   "label": "Cash Flows from Investing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Property, Plant and Equipment",
+   "values": [
+    -9677.77,
+    -9129.33
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of Property, Plant and Equipment",
+   "values": [
+    167.16,
+    178.7
+   ]
+  },
+  {
+   "label": "Payment for Cost of transfer of Assets",
+   "values": [
+    -94.98,
+    null
+   ]
+  },
+  {
+   "label": "(Purchase) / Redemption of Liquid Investment (net)",
+   "values": [
+    -207.12,
+    1142.62
+   ]
+  },
+  {
+   "label": "Purchase of Investments",
+   "values": [
+    -4940.29,
+    -15005.74
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of Investments",
+   "values": [
+    4029.12,
+    17972.72
+   ]
+  },
+  {
+   "label": "Redemption / (Investment) of Non-Current Fixed Deposits with Bank and Others",
+   "values": [
+    262.0,
+    -612.85
+   ]
+  },
+  {
+   "label": "Investment in Joint Venture and Associates",
+   "values": [
+    -74.92,
+    -149.37
+   ]
+  },
+  {
+   "label": "Acquisition of Equity Shares in Subsidiary (Refer Note 40)",
+   "values": [
+    -52.73,
+    -10112.85
+   ]
+  },
+  {
+   "label": "(Investment) / Redemption in Other Bank deposits and Others",
+   "values": [
+    176.24,
+    -288.03
+   ]
+  },
+  {
+   "label": "Investment in Other Non-Current Equity Investments (Net)",
+   "values": [
+    -62.63,
+    -879.44
+   ]
+  },
+  {
+   "label": "Sale of Equity Shares in a Subsidiary",
+   "values": [
+    788.51,
+    36.27
+   ]
+  },
+  {
+   "label": "Dividend Received",
+   "values": [
+    null,
+    0.81
+   ]
+  },
+  {
+   "label": "Interest Received",
+   "values": [
+    207.33,
+    342.03
+   ]
+  },
+  {
+   "label": "Net Cash used in Investing Activities (B)",
+   "values": [
+    -9480.08,
+    -16504.45
+   ]
+  },
+  {
+   "label": "Cash Flows from Financing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from Issue of Share Capital on exercise of ESOS",
+   "values": [
+    null,
+    2.0
+   ]
+  },
+  {
+   "label": "Purchase of Treasury Shares",
+   "values": [
+    -119.35,
+    -100.29
+   ]
+  },
+  {
+   "label": "Proceeds from Issue of Treasury Shares",
+   "values": [
+    50.01,
+    31.31
+   ]
+  },
+  {
+   "label": "Repayment of Non-Current Borrowings",
+   "values": [
+    -1425.74,
+    -550.31
+   ]
+  },
+  {
+   "label": "Proceeds from Non-Current Borrowings",
+   "values": [
+    203.22,
+    7341.32
+   ]
+  },
+  {
+   "label": "Proceeds from Current Borrowings (net)",
+   "values": [
+    -243.37,
+    2068.25
+   ]
+  },
+  {
+   "label": "Repayment of Lease Liabilities",
+   "values": [
+    -216.53,
+    -165.1
+   ]
+  },
+  {
+   "label": "Interest Paid on Lease Liabilities",
+   "values": [
+    -59.76,
+    -60.78
+   ]
+  },
+  {
+   "label": "Interest Paid",
+   "values": [
+    -1868.69,
+    -1478.99
+   ]
+  },
+  {
+   "label": "Dividend Paid",
+   "values": [
+    -2273.36,
+    -2011.65
+   ]
+  },
+  {
+   "label": "Net Cash (used in) / generated from Financing Activities (C)",
+   "values": [
+    -5953.57,
+    5075.76
+   ]
+  },
+  {
+   "label": "Net Decrease in Cash and Cash Equivalents",
+   "values": [
+    -117.79,
+    -755.26
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the Beginning of the Year (Refer Note 13)",
+   "values": [
+    467.21,
+    553.58
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement &",
+   "values": [
+    null,
+    1.89
+   ]
+  },
+  {
+   "label": "Construction Materials P.S.C. (RAKWCT) (Refer Note 43)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents transferred from Kesoram Industries Limited (KIL) (Refer Note 42)",
+   "values": [
+    null,
+    76.76
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents transferred from The India Cements Limited (INDIACEM)",
+   "values": [
+    null,
+    586.45
+   ]
+  },
+  {
+   "label": "(Refer Note 41)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents transferred from Birla White Wall Care Private Limited",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(Refer Note 40)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Effect of Exchange rate fluctuation on Cash and Cash Equivalents",
+   "values": [
+    5.06,
+    3.79
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the End of the Year (Refer Note 13)",
+   "values": [
+    354.48,
+    467.21
+   ]
+  },
+  {
+   "label": "Non-Current Borrowing (including current maturities of Non-Current Borrowing)",
+   "values": [
+    166.12,
+    16374.2
+   ]
+  },
+  {
+   "label": "Current Borrowing",
+   "values": [
+    15.58,
+    6656.79
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    181.7,
+    23030.99
+   ]
+  }
+ ],
+ "pdf": "ULTRACEMCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1551898a-ebd8-40be-960b-1b16f0a1af60.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

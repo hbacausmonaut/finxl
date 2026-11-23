@@ -1,0 +1,713 @@
+{
+ "format": "docfetcher-gold-disagreements/1",
+ "ticker": "MARUTI",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "statement_name": "Profit & Loss",
+ "pdf": "MARUTI\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/09d38ee6-9c30-4892-b483-8d7c34697a7a.pdf",
+ "pages": [
+  {
+   "page": 234,
+   "name": "235R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    779.5
+   ]
+  }
+ ],
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "reader": "claude",
+ "stats": {
+  "rows_parser": 44,
+  "rows_reader": 44,
+  "rows_aligned": 44,
+  "rows_agreed": 44,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 66,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "million",
+  "unit_reader": "million"
+ },
+ "disagreements": [],
+ "rows": [
+  {
+   "parser_index": 0,
+   "reader_index": 0,
+   "label_parser": "Revenue from operations",
+   "label_reader": "Revenue from operations",
+   "values_parser": {
+    "2026": 1833160,
+    "2025": 1529130
+   },
+   "values_reader": {
+    "2026": 1833160,
+    "2025": 1529130
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 1,
+   "reader_index": 1,
+   "label_parser": "Other income",
+   "label_reader": "Other income",
+   "values_parser": {
+    "2026": 43572,
+    "2025": 50222
+   },
+   "values_reader": {
+    "2026": 43572,
+    "2025": 50222
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 2,
+   "reader_index": 2,
+   "label_parser": "Total Income",
+   "label_reader": "Total Income (I+II)",
+   "values_parser": {
+    "2026": 1876732,
+    "2025": 1579352
+   },
+   "values_reader": {
+    "2026": 1876732,
+    "2025": 1579352
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 3,
+   "reader_index": 3,
+   "label_parser": "Expenses",
+   "label_reader": "Expenses",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 4,
+   "reader_index": 4,
+   "label_parser": "Cost of materials consumed",
+   "label_reader": "Cost of materials consumed",
+   "values_parser": {
+    "2026": 1116635,
+    "2025": 873183
+   },
+   "values_reader": {
+    "2026": 1116635,
+    "2025": 873183
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 5,
+   "reader_index": 5,
+   "label_parser": "Purchases of stock-in-trade",
+   "label_reader": "Purchases of stock-in-trade",
+   "values_parser": {
+    "2026": 231845,
+    "2025": 214000
+   },
+   "values_reader": {
+    "2026": 231845,
+    "2025": 214000
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 6,
+   "reader_index": 6,
+   "label_parser": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "label_reader": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "values_parser": {
+    "2026": -22725,
+    "2025": -12275
+   },
+   "values_reader": {
+    "2026": -22725,
+    "2025": -12275
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Employee benefits expense",
+   "label_reader": "Employee benefits expense",
+   "values_parser": {
+    "2026": 90497,
+    "2025": 70260
+   },
+   "values_reader": {
+    "2026": 90497,
+    "2025": 70260
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 8,
+   "reader_index": 8,
+   "label_parser": "Finance costs",
+   "label_reader": "Finance costs",
+   "values_parser": {
+    "2026": 2387,
+    "2025": 1942
+   },
+   "values_reader": {
+    "2026": 2387,
+    "2025": 1942
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 9,
+   "reader_index": 9,
+   "label_parser": "Depreciation and amortisation expense",
+   "label_reader": "Depreciation and amortisation expense",
+   "values_parser": {
+    "2026": 67417,
+    "2025": 56082
+   },
+   "values_reader": {
+    "2026": 67417,
+    "2025": 56082
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 10,
+   "reader_index": 10,
+   "label_parser": "Other expenses",
+   "label_reader": "Other expenses",
+   "values_parser": {
+    "2026": 205233,
+    "2025": 186148
+   },
+   "values_reader": {
+    "2026": 205233,
+    "2025": 186148
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 11,
+   "reader_index": 11,
+   "label_parser": "Vehicles / dies for own use",
+   "label_reader": "Vehicles / dies for own use",
+   "values_parser": {
+    "2026": -2887,
+    "2025": -3749
+   },
+   "values_reader": {
+    "2026": -2887,
+    "2025": -3749
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 12,
+   "reader_index": 12,
+   "label_parser": "Total expenses (IV)",
+   "label_reader": "Total expenses (IV)",
+   "values_parser": {
+    "2026": 1688402,
+    "2025": 1385591
+   },
+   "values_reader": {
+    "2026": 1688402,
+    "2025": 1385591
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 13,
+   "reader_index": 13,
+   "label_parser": "Share of profit of associates",
+   "label_reader": "Share of profit of associates",
+   "values_parser": {
+    "2026": 2591,
+    "2025": 2152
+   },
+   "values_reader": {
+    "2026": 2591,
+    "2025": 2152
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 14,
+   "reader_index": 14,
+   "label_parser": "Share of profit of joint ventures",
+   "label_reader": "Share of profit of joint ventures",
+   "values_parser": {
+    "2026": 264,
+    "2025": 287
+   },
+   "values_reader": {
+    "2026": 264,
+    "2025": 287
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 15,
+   "reader_index": 15,
+   "label_parser": "Profit before tax",
+   "label_reader": "Profit before tax (III - IV + V + VI)",
+   "values_parser": {
+    "2026": 191185,
+    "2025": 196200
+   },
+   "values_reader": {
+    "2026": 191185,
+    "2025": 196200
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 16,
+   "reader_index": 16,
+   "label_parser": "Income tax expense",
+   "label_reader": "Income tax expense",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 17,
+   "reader_index": 17,
+   "label_parser": "Current tax",
+   "label_reader": "Current tax",
+   "values_parser": {
+    "2026": 43198,
+    "2025": 38829
+   },
+   "values_reader": {
+    "2026": 43198,
+    "2025": 38829
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 18,
+   "reader_index": 18,
+   "label_parser": "Deferred tax",
+   "label_reader": "Deferred tax",
+   "values_parser": {
+    "2026": 1192,
+    "2025": 12369
+   },
+   "values_reader": {
+    "2026": 1192,
+    "2025": 12369
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 19,
+   "reader_index": 19,
+   "label_parser": "Total tax expense",
+   "label_reader": "Total tax expense",
+   "values_parser": {
+    "2026": 44390,
+    "2025": 51198
+   },
+   "values_reader": {
+    "2026": 44390,
+    "2025": 51198
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 20,
+   "reader_index": 20,
+   "label_parser": "Profit for the year (VII - VIII)",
+   "label_reader": "Profit for the year (VII - VIII)",
+   "values_parser": {
+    "2026": 146795,
+    "2025": 145002
+   },
+   "values_reader": {
+    "2026": 146795,
+    "2025": 145002
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 21,
+   "reader_index": 21,
+   "label_parser": "Other comprehensive income",
+   "label_reader": "Other comprehensive income",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 22,
+   "reader_index": 22,
+   "label_parser": "Items that will not be reclassified to profit or loss",
+   "label_reader": "Items that will not be reclassified to profit or loss",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 23,
+   "reader_index": 23,
+   "label_parser": "Re-measurements of the defined benefit plans",
+   "label_reader": "Re-measurements of the defined benefit plans",
+   "values_parser": {
+    "2026": 503,
+    "2025": -868
+   },
+   "values_reader": {
+    "2026": 503,
+    "2025": -868
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 24,
+   "reader_index": 24,
+   "label_parser": "Fair value changes on Equity Instruments through other comprehensive income",
+   "label_reader": "Fair value changes on Equity Instruments through other comprehensive income",
+   "values_parser": {
+    "2026": 5177,
+    "2025": 1363
+   },
+   "values_reader": {
+    "2026": 5177,
+    "2025": 1363
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 25,
+   "reader_index": 25,
+   "label_parser": "Share of other comprehensive income in associates and joint ventures",
+   "label_reader": "Share of other comprehensive income in associates and joint ventures",
+   "values_parser": {
+    "2026": 1,
+    "2025": -10
+   },
+   "values_reader": {
+    "2026": 1,
+    "2025": -10
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 26,
+   "reader_index": 26,
+   "label_parser": "Subtotal",
+   "label_reader": "",
+   "values_parser": {
+    "2026": 5681,
+    "2025": 485
+   },
+   "values_reader": {
+    "2026": 5681,
+    "2025": 485
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 27,
+   "reader_index": 27,
+   "label_parser": "Income tax relating to items that will not be reclassified to profit or loss",
+   "label_reader": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values_parser": {
+    "2026": -868,
+    "2025": -148
+   },
+   "values_reader": {
+    "2026": -868,
+    "2025": -148
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 28,
+   "reader_index": 28,
+   "label_parser": "Total other comprehensive income for the year (i + ii)",
+   "label_reader": "Total other comprehensive income for the year (i + ii)",
+   "values_parser": {
+    "2026": 4813,
+    "2025": 337
+   },
+   "values_reader": {
+    "2026": 4813,
+    "2025": 337
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 29,
+   "reader_index": 29,
+   "label_parser": "Total comprehensive income for the year",
+   "label_reader": "Total comprehensive income for the year (IX + X)",
+   "values_parser": {
+    "2026": 151608,
+    "2025": 145339
+   },
+   "values_reader": {
+    "2026": 151608,
+    "2025": 145339
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 30,
+   "reader_index": 30,
+   "label_parser": "Profit for the year attributed to",
+   "label_reader": "Profit for the year attributed to:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 31,
+   "reader_index": 31,
+   "label_parser": "Owners of the company",
+   "label_reader": "Owners of the company",
+   "values_parser": {
+    "2026": 146795,
+    "2025": 145002
+   },
+   "values_reader": {
+    "2026": 146795,
+    "2025": 145002
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 32,
+   "reader_index": 32,
+   "label_parser": "Non-controlling interest",
+   "label_reader": "Non-controlling interest",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 33,
+   "reader_index": 33,
+   "label_parser": "Subtotal",
+   "label_reader": "",
+   "values_parser": {
+    "2026": 146795,
+    "2025": 145002
+   },
+   "values_reader": {
+    "2026": 146795,
+    "2025": 145002
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 34,
+   "reader_index": 34,
+   "label_parser": "Other comprehensive income for the year attributable to",
+   "label_reader": "Other comprehensive income for the year attributable to:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 35,
+   "reader_index": 35,
+   "label_parser": "Owners of the company",
+   "label_reader": "Owners of the company",
+   "values_parser": {
+    "2026": 4813,
+    "2025": 337
+   },
+   "values_reader": {
+    "2026": 4813,
+    "2025": 337
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 36,
+   "reader_index": 36,
+   "label_parser": "Non-controlling interest",
+   "label_reader": "Non-controlling interest",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 37,
+   "reader_index": 37,
+   "label_parser": "Subtotal",
+   "label_reader": "",
+   "values_parser": {
+    "2026": 4813,
+    "2025": 337
+   },
+   "values_reader": {
+    "2026": 4813,
+    "2025": 337
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 38,
+   "reader_index": 38,
+   "label_parser": "Total comprehensive income for the year attributable to",
+   "label_reader": "Total comprehensive income for the year attributable to:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 39,
+   "reader_index": 39,
+   "label_parser": "Owners of the company",
+   "label_reader": "Owners of the company",
+   "values_parser": {
+    "2026": 151608,
+    "2025": 145339
+   },
+   "values_reader": {
+    "2026": 151608,
+    "2025": 145339
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 40,
+   "reader_index": 40,
+   "label_parser": "Non-controlling interest",
+   "label_reader": "Non-controlling interest",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 41,
+   "reader_index": 41,
+   "label_parser": "Subtotal",
+   "label_reader": "",
+   "values_parser": {
+    "2026": 151608,
+    "2025": 145339
+   },
+   "values_reader": {
+    "2026": 151608,
+    "2025": 145339
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 42,
+   "reader_index": 42,
+   "label_parser": "Earnings per equity share (of ₹ 5 each)",
+   "label_reader": "Earnings per equity share (of ₹ 5 each)",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 43,
+   "reader_index": 43,
+   "label_parser": "Basic and Diluted earnings per share (₹)",
+   "label_reader": "Basic and Diluted earnings per share (₹)",
+   "values_parser": {
+    "2026": 466.9,
+    "2025": 461.2
+   },
+   "values_reader": {
+    "2026": 466.9,
+    "2025": 461.2
+   },
+   "issues": []
+  }
+ ],
+ "created_at": "2026-11-05 11:55 UTC"
+}

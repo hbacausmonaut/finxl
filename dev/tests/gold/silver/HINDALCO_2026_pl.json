@@ -1,0 +1,643 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "HINDALCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 301,
+   "name": "302L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    773.9
+   ]
+  },
+  {
+   "page": 301,
+   "name": "302R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    773.9
+   ]
+  }
+ ],
+ "pdf": "HINDALCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb3b7080-855f-4cde-b688-d97575a72f3f.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    274944,
+    238496
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    2889,
+    2708
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total income",
+   "values": [
+    277833,
+    241204
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    189642,
+    148244
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    1478,
+    1196
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "values": [
+    -14082,
+    -2327
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    17148,
+    15406
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Power and fuel",
+   "values": [
+    13622,
+    14396
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance cost",
+   "values": [
+    3480,
+    3419
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortization expense",
+   "values": [
+    8830,
+    7881
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment loss/ (reversal) on non-current assets (Net)",
+   "values": [
+    324,
+    983
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment loss/ (reversal) on financial assets (Net)",
+   "values": [
+    -6,
+    36
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    31934,
+    28757
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    252370,
+    217991
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/ (Loss) before share in profit/ (loss) in equity accounted investments, exceptional items and tax",
+   "values": [
+    25463,
+    23213
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share in profit/ (loss) in equity accounted investments (Net of tax)",
+   "values": [
+    -4,
+    3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/ (Loss) before exceptional items and tax",
+   "values": [
+    25459,
+    23216
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional income/ (expenses) (Net)",
+   "values": [
+    -6963,
+    -879
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/ (Loss) before tax",
+   "values": [
+    18496,
+    22337
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax expense",
+   "values": [
+    7531,
+    6354
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax expense",
+   "values": [
+    -2426,
+    -19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/ (Loss) for the year",
+   "values": [
+    13391,
+    16002
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/ (loss)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Items that will not be reclassified to Statement of Profit and Loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remeasurement of defined benefit obligation",
+   "values": [
+    666,
+    26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in fair value of equity instruments designated as FVTOCI",
+   "values": [
+    -258,
+    998
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    -131,
+    -281
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to Statement of Profit and Loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in Fair Value of Trade Receivables Designated as FVTOCI",
+   "values": [
+    -11,
+    -3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in fair value of debt instruments designated as FVTOCI",
+   "values": [
+    -58,
+    19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Effective portion of cash flow hedges",
+   "values": [
+    -7642,
+    1032
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of hedging reserve",
+   "values": [
+    -26,
+    36
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Foreign currency translation reserve",
+   "values": [
+    6150,
+    856
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax effect",
+   "values": [
+    2038,
+    -317
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/ (loss) for the year",
+   "values": [
+    728,
+    2366
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive Income/ (loss) for the year",
+   "values": [
+    14119,
+    18368
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit/ (loss) attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    13391,
+    16001
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/ (loss) attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    728,
+    2366
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income/ (loss) attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    14119,
+    18367
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    null,
+    1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings Per Share:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    60.31,
+    72.05
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    60.2,
+    71.91
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 50,
+  "rows_reader": 51,
+  "rows_aligned": 50,
+  "rows_agreed": 46,
+  "missing_in_parser": 1,
+  "extra_in_parser": 0,
+  "label_diffs": 4,
+  "value_diffs": 2,
+  "values_reader": 78,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 25,
+   "reader_index": 25,
+   "label_parser": "Other comprehensive income/ (loss) 26",
+   "label_reader": "Other comprehensive income/ (loss)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 301,
+   "search": [],
+   "pattern": "note_ref_in_label",
+   "pattern_text": "Note number left in the label"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 42,
+   "reader_index": 42,
+   "label_parser": "Other comprehensive income/ (loss) attributable to: and Owners of the Company",
+   "label_reader": "Other comprehensive income/ (loss) attributable to:",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 728,
+    "2025": 2366
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 301,
+   "search": [
+    "728",
+    "2,366"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "value",
+   "year": 2026,
+   "parser_index": 42,
+   "reader_index": 42,
+   "label_parser": "Other comprehensive income/ (loss) attributable to: and Owners of the Company",
+   "label_reader": "Other comprehensive income/ (loss) attributable to:",
+   "value_parser": 728,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 728,
+    "2025": 2366
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 301,
+   "search": [
+    "728"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d004",
+   "kind": "value",
+   "year": 2025,
+   "parser_index": 42,
+   "reader_index": 42,
+   "label_parser": "Other comprehensive income/ (loss) attributable to: and Owners of the Company",
+   "label_reader": "Other comprehensive income/ (loss) attributable to:",
+   "value_parser": 2366,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 728,
+    "2025": 2366
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 301,
+   "search": [
+    "2,366"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d005",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 43,
+   "label_parser": null,
+   "label_reader": "Owners of the Company",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": 728,
+    "2025": 2366
+   },
+   "page": 301,
+   "search": [
+    "728",
+    "2,366"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d006",
+   "kind": "label",
+   "year": null,
+   "parser_index": 47,
+   "reader_index": 48,
+   "label_parser": "Earnings Per Share: 27",
+   "label_reader": "Earnings Per Share:",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 301,
+   "search": [],
+   "pattern": "note_ref_in_label",
+   "pattern_text": "Note number left in the label"
+  },
+  {
+   "id": "d007",
+   "kind": "label",
+   "year": null,
+   "parser_index": 49,
+   "reader_index": 50,
+   "label_parser": "Diluted (`) and Notes forming part of consolidated financial statements 1-39",
+   "label_reader": "Diluted (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 60.2,
+    "2025": 71.91
+   },
+   "values_reader": {
+    "2026": 60.2,
+    "2025": 71.91
+   },
+   "page": 301,
+   "search": [
+    "60.20",
+    "71.91"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

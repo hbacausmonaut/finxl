@@ -1,0 +1,491 @@
+{
+ "ticker": "ULTRACEMCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 258,
+   "name": "259L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    773.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, Plant and Equipment",
+   "values": [
+    80283.38,
+    76015.19
+   ]
+  },
+  {
+   "label": "Capital Work-in-Progress",
+   "values": [
+    8275.87,
+    6188.27
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    7909.05,
+    7681.78
+   ]
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    9886.78,
+    10031.52
+   ]
+  },
+  {
+   "label": "Intangible Assets under development",
+   "values": [
+    466.4,
+    45.92
+   ]
+  },
+  {
+   "label": "Right of Use Assets",
+   "values": [
+    714.34,
+    835.73
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    107535.82,
+    100798.41
+   ]
+  },
+  {
+   "label": "Investments Accounted using Equity Method",
+   "values": [
+    319.41,
+    300.12
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    2684.48,
+    1997.28
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    17.21,
+    16.21
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    3063.39,
+    2933.16
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    5765.08,
+    4946.65
+   ]
+  },
+  {
+   "label": "Deferred Tax Assets (Net)",
+   "values": [
+    60.95,
+    65.09
+   ]
+  },
+  {
+   "label": "Income Tax Assets (Net)",
+   "values": [
+    266.26,
+    857.91
+   ]
+  },
+  {
+   "label": "Other Non-Current Assets",
+   "values": [
+    2181.09,
+    2991.77
+   ]
+  },
+  {
+   "label": "Total Non-Current Assets",
+   "values": [
+    116128.61,
+    109959.95
+   ]
+  },
+  {
+   "label": "Current Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    9694.28,
+    9562.98
+   ]
+  },
+  {
+   "label": "Financial Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    3735.62,
+    2859.07
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    6028.75,
+    5890.25
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents",
+   "values": [
+    354.48,
+    467.21
+   ]
+  },
+  {
+   "label": "Bank Balances other than Cash and Cash Equivalents",
+   "values": [
+    1029.87,
+    1206.11
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    13.37,
+    10.0
+   ]
+  },
+  {
+   "label": "Other Financial Assets",
+   "values": [
+    1535.87,
+    1298.68
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    12697.96,
+    11731.32
+   ]
+  },
+  {
+   "label": "Income Tax Assets (Net)",
+   "values": [
+    64.45,
+    58.0
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    2645.06,
+    2247.21
+   ]
+  },
+  {
+   "label": "Total Current Assets",
+   "values": [
+    25101.75,
+    23599.51
+   ]
+  },
+  {
+   "label": "Assets held for sale",
+   "values": [
+    145.69,
+    137.69
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    141376.05,
+    133697.15
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity Share Capital (a)",
+   "values": [
+    294.68,
+    294.68
+   ]
+  },
+  {
+   "label": "Other Equity (b)",
+   "values": [
+    76328.86,
+    70411.53
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    4088.9,
+    3186.59
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    80712.44,
+    73892.8
+   ]
+  },
+  {
+   "label": "Share Application Money Pending Allotment",
+   "values": [
+    null,
+    0.56
+   ]
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    15018.82,
+    15780.77
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    751.72,
+    868.21
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    236.35,
+    287.82
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    16006.89,
+    16936.8
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    934.96,
+    892.09
+   ]
+  },
+  {
+   "label": "Deferred Tax Liabilities (Net)",
+   "values": [
+    9890.06,
+    9579.44
+   ]
+  },
+  {
+   "label": "Other Non-Current Liabilities",
+   "values": [
+    null,
+    30.49
+   ]
+  },
+  {
+   "label": "Total Non-Current Liabilities",
+   "values": [
+    26831.91,
+    27438.82
+   ]
+  },
+  {
+   "label": "Current Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    7761.84,
+    7250.22
+   ]
+  },
+  {
+   "label": "Lease Liabilities",
+   "values": [
+    222.71,
+    202.98
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of Micro and Small Enterprises",
+   "values": [
+    518.62,
+    272.52
+   ]
+  },
+  {
+   "label": "Total outstanding dues of other than Micro and Small Enterprises",
+   "values": [
+    9718.09,
+    9054.96
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities",
+   "values": [
+    6510.58,
+    6552.32
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    24731.84,
+    23333.0
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    6311.87,
+    6692.18
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    354.84,
+    350.21
+   ]
+  },
+  {
+   "label": "Current Tax Liabilities (Net)",
+   "values": [
+    2433.15,
+    1989.58
+   ]
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    33831.7,
+    32364.97
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    141376.05,
+    133697.15
+   ]
+  }
+ ],
+ "pdf": "ULTRACEMCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1551898a-ebd8-40be-960b-1b16f0a1af60.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

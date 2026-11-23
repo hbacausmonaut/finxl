@@ -1,0 +1,550 @@
+{
+ "ticker": "HEROMOTOCO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 213,
+   "name": "214L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 213,
+   "name": "214R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit after tax and share in profit/(loss) of associates",
+   "values": [
+    5775.7,
+    4375.81
+   ]
+  },
+  {
+   "label": "Adjustments for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Add: Depreciation and amortisation expense",
+   "values": [
+    854.99,
+    824.59
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    1659.88,
+    1557.75
+   ]
+  },
+  {
+   "label": "Loss on property, plant and equipments sold/discarded",
+   "values": [
+    13.73,
+    4.15
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    78.27,
+    70.65
+   ]
+  },
+  {
+   "label": "Employee stock compensation cost",
+   "values": [
+    17.64,
+    15.66
+   ]
+  },
+  {
+   "label": "Loss allowances on financial assets",
+   "values": [
+    14.67,
+    158.41
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    2639.18,
+    2631.21
+   ]
+  },
+  {
+   "label": "Less: Interest income",
+   "values": [
+    293.39,
+    445.74
+   ]
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    23.17,
+    22.88
+   ]
+  },
+  {
+   "label": "Profit on sale of investments",
+   "values": [
+    128.17,
+    158.57
+   ]
+  },
+  {
+   "label": "Gain on investments carried at fair value through profit or loss",
+   "values": [
+    533.04,
+    414.64
+   ]
+  },
+  {
+   "label": "Share of profit/(loss) in associates",
+   "values": [
+    384.58,
+    -161.12
+   ]
+  },
+  {
+   "label": "Profit on sale of property, plant and equipments",
+   "values": [
+    0.92,
+    2.25
+   ]
+  },
+  {
+   "label": "Exchange differences in translating the financial information of foreign operations",
+   "values": [
+    -55.04,
+    18.82
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1308.23,
+    901.78
+   ]
+  },
+  {
+   "label": "Operating profit before working capital changes",
+   "values": [
+    7106.65,
+    6105.24
+   ]
+  },
+  {
+   "label": "Changes in working capital",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Adjustment for (increase)/decrease in operating assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -636.75,
+    -257.44
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    1026.77,
+    -759.48
+   ]
+  },
+  {
+   "label": "Loans-current",
+   "values": [
+    -0.85,
+    -2.51
+   ]
+  },
+  {
+   "label": "Loans-non-current",
+   "values": [
+    -3.67,
+    -3.72
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    19.24,
+    274.29
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    -337.33,
+    17.28
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    -0.03,
+    5.97
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    67.38,
+    -725.61
+   ]
+  },
+  {
+   "label": "Adjustment for increase/(decrease) in operating liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    1976.62,
+    76.75
+   ]
+  },
+  {
+   "label": "Other financial liabilities-current",
+   "values": [
+    21.64,
+    18.98
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    46.21,
+    164.32
+   ]
+  },
+  {
+   "label": "Current provisions",
+   "values": [
+    81.58,
+    62.05
+   ]
+  },
+  {
+   "label": "Non-current provisions",
+   "values": [
+    181.3,
+    160.81
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    2307.35,
+    482.91
+   ]
+  },
+  {
+   "label": "Cash generated from operations",
+   "values": [
+    9481.38,
+    5862.54
+   ]
+  },
+  {
+   "label": "Less: Direct taxes paid (net of refund)",
+   "values": [
+    1166.76,
+    1565.15
+   ]
+  },
+  {
+   "label": "Net cash generated from operating activities",
+   "values": [
+    8314.62,
+    4297.39
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Capital expenditure on property, plant and equipments, intangible assets, capital work-in-progress and intangible assets under development including capital advances and capital creditors",
+   "values": [
+    -1100.1,
+    -856.63
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant and equipments",
+   "values": [
+    12.08,
+    22.44
+   ]
+  },
+  {
+   "label": "Deposits (made)/withdrawn",
+   "values": [
+    118.53,
+    -103.94
+   ]
+  },
+  {
+   "label": "Sale of investments other than associates/subsidiaries",
+   "values": [
+    49473.78,
+    49335.75
+   ]
+  },
+  {
+   "label": "Purchase of investments other than associates/subsidiaries",
+   "values": [
+    -52584.4,
+    -50498.2
+   ]
+  },
+  {
+   "label": "Investment in associates",
+   "values": [
+    -720.0,
+    -123.83
+   ]
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    293.39,
+    445.74
+   ]
+  },
+  {
+   "label": "Dividend income received from associates",
+   "values": [
+    5.78,
+    52.43
+   ]
+  },
+  {
+   "label": "Dividend income received from other than associates",
+   "values": [
+    23.17,
+    22.88
+   ]
+  },
+  {
+   "label": "Net cash (used) in investing activities",
+   "values": [
+    -4477.77,
+    -1703.36
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -78.27,
+    -70.65
+   ]
+  },
+  {
+   "label": "Repayment of principal amount of lease liabilities",
+   "values": [
+    -54.19,
+    -55.16
+   ]
+  },
+  {
+   "label": "Dividend paid",
+   "values": [
+    -3507.31,
+    -2799.83
+   ]
+  },
+  {
+   "label": "Additions to minority interest",
+   "values": [
+    61.83,
+    10.0
+   ]
+  },
+  {
+   "label": "Proceeds from issue of equity share capital (including securities premium)",
+   "values": [
+    2.46,
+    6.92
+   ]
+  },
+  {
+   "label": "(Repayment) / proceeds from current borrowings",
+   "values": [
+    41.79,
+    93.33
+   ]
+  },
+  {
+   "label": "Net cash (used) in financing activities",
+   "values": [
+    -3533.69,
+    -2815.39
+   ]
+  },
+  {
+   "label": "INCREASE/(DECREASE) IN CASH AND CASH EQUIVALENTS",
+   "values": [
+    303.16,
+    -221.36
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    383.55,
+    604.91
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    686.71,
+    383.55
+   ]
+  },
+  {
+   "label": "Current",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Non-Current Borrowings",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Movement of Borrowings on financial Total",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings (including current",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "maturities)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "As on March 31, 2025",
+   "values": [
+    456.76,
+    460.55
+   ]
+  },
+  {
+   "label": "Cash Flows (net)",
+   "values": [
+    41.79,
+    -5.87
+   ]
+  },
+  {
+   "label": "Non Cash",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Interest expenses",
+   "values": [
+    null,
+    48.99
+   ]
+  },
+  {
+   "label": "As on March 31, 2026",
+   "values": [
+    498.55,
+    503.67
+   ]
+  }
+ ],
+ "pdf": "HEROMOTOCO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b80c703d-600d-472b-a18c-9565f6f780a7.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

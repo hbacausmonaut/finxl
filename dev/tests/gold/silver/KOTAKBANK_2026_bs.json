@@ -1,0 +1,213 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "KOTAKBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 61,
+   "name": "62",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "KOTAKBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1b719fb-23e9-4cb8-b303-720eb0e31cc4.pdf",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "CAPITAL AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital",
+   "values": [
+    9946465,
+    9941115
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employees' Stock Options/Units (Grants) Outstanding",
+   "values": [
+    1131215,
+    942677
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Reserves and Surplus",
+   "values": [
+    1801181029,
+    1564009706
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    5669403265,
+    4947074752
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    953935315,
+    976220344
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Policyholders' Funds",
+   "values": [
+    961683428,
+    851210618
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Liabilities and Provisions",
+   "values": [
+    636247193,
+    448344158
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    10033527910,
+    8797743370
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and Balances with Reserve Bank of India",
+   "values": [
+    512817365,
+    417483508
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balances with Banks and Money at Call and Short Notice",
+   "values": [
+    508093671,
+    373134027
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    2906328066,
+    2842549990
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Advances",
+   "values": [
+    5657678786,
+    4861655200
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fixed Assets",
+   "values": [
+    28528046,
+    28108003
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Assets",
+   "values": [
+    410604409,
+    265335075
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Goodwill on Consolidation",
+   "values": [
+    9477567,
+    9477567
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    10033527910,
+    8797743370
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Contingent Liabilities",
+   "values": [
+    9897914181,
+    11271592571
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Bills for Collection",
+   "values": [
+    684737496,
+    526908188
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 20,
+  "rows_reader": 20,
+  "rows_aligned": 20,
+  "rows_agreed": 20,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 36,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "thousand",
+  "unit_reader": "thousand"
+ },
+ "mismatches": []
+}

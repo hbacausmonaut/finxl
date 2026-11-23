@@ -1,0 +1,396 @@
+{
+ "ticker": "GRASIM",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 414,
+   "name": "415",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    774.0
+   ]
+  },
+  {
+   "page": 415,
+   "name": "416",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    175430.74,
+    148477.89
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    1180.12,
+    1459.04
+   ]
+  },
+  {
+   "label": "Total Income (I)",
+   "values": [
+    176610.86,
+    149936.93
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of Materials Consumed",
+   "values": [
+    31974.04,
+    26823.28
+   ]
+  },
+  {
+   "label": "Purchases of Stock-in-Trade",
+   "values": [
+    11108.65,
+    5858.11
+   ]
+  },
+  {
+   "label": "Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in",
+   "values": [
+    103.15,
+    -814.24
+   ]
+  },
+  {
+   "label": "Trade",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    11245.79,
+    9721.52
+   ]
+  },
+  {
+   "label": "Power and Fuel Cost",
+   "values": [
+    23178.37,
+    22357.54
+   ]
+  },
+  {
+   "label": "Freight and Handling Expenses",
+   "values": [
+    20544.94,
+    18706.97
+   ]
+  },
+  {
+   "label": "Change in Valuation of Liability in respect of Insurance Policies",
+   "values": [
+    6983.45,
+    9119.28
+   ]
+  },
+  {
+   "label": "Benefits Paid - Insurance Business (Net)",
+   "values": [
+    11172.59,
+    8312.34
+   ]
+  },
+  {
+   "label": "Finance Costs relating to NBFC/HFC's Business",
+   "values": [
+    11603.95,
+    9698.1
+   ]
+  },
+  {
+   "label": "Other Finance Costs",
+   "values": [
+    3539.92,
+    2802.28
+   ]
+  },
+  {
+   "label": "Depreciation and Amortisation Expenses",
+   "values": [
+    7725.94,
+    6453.73
+   ]
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    22823.84,
+    20130.9
+   ]
+  },
+  {
+   "label": "Total Expenses (II)",
+   "values": [
+    162004.63,
+    139169.81
+   ]
+  },
+  {
+   "label": "Profit Before Share in Profit of Equity Accounted Investees, Exceptional Items and Tax (I - II)",
+   "values": [
+    14606.23,
+    10767.12
+   ]
+  },
+  {
+   "label": "Share in Profit of Equity Accounted Investees",
+   "values": [
+    189.44,
+    296.79
+   ]
+  },
+  {
+   "label": "Profit Before Tax and Exceptional Items",
+   "values": [
+    14795.67,
+    11063.91
+   ]
+  },
+  {
+   "label": "Exceptional Items",
+   "values": [
+    -322.92,
+    -238.85
+   ]
+  },
+  {
+   "label": "Profit Before Tax",
+   "values": [
+    14472.75,
+    10825.06
+   ]
+  },
+  {
+   "label": "Tax Expense (Net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    3595.78,
+    2249.41
+   ]
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    576.68,
+    819.32
+   ]
+  },
+  {
+   "label": "Total Tax Expense",
+   "values": [
+    4172.46,
+    3068.73
+   ]
+  },
+  {
+   "label": "Profit for the Year (III)",
+   "values": [
+    10300.29,
+    7756.33
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "A (i) Items that will not be reclassified to Profit or Loss",
+   "values": [
+    1467.01,
+    280.51
+   ]
+  },
+  {
+   "label": "Income Tax relating to items that will not be reclassified to Profit or Loss",
+   "values": [
+    -233.39,
+    25.56
+   ]
+  },
+  {
+   "label": "B (i) Items that will be reclassified to Profit or Loss",
+   "values": [
+    191.59,
+    125.26
+   ]
+  },
+  {
+   "label": "Income Tax relating to items that will be reclassified to Profit or Loss",
+   "values": [
+    57.93,
+    -7.06
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income for the Year (IV)",
+   "values": [
+    1483.14,
+    424.27
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income for the Year",
+   "values": [
+    11783.43,
+    8180.6
+   ]
+  },
+  {
+   "label": "Net Profit Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    4966.48,
+    3705.68
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    5333.81,
+    4050.65
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    10300.29,
+    7756.33
+   ]
+  },
+  {
+   "label": "Other Comprehensive Income Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    1432.15,
+    105.24
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    50.99,
+    319.03
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    1483.14,
+    424.27
+   ]
+  },
+  {
+   "label": "Total Comprehensive Income Attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    6398.63,
+    3810.92
+   ]
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    5384.8,
+    4369.68
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    11783.43,
+    8180.6
+   ]
+  },
+  {
+   "label": "Earnings Per Equity Share (Face Value I 2 each)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (I)",
+   "values": [
+    73.21,
+    55.57
+   ]
+  },
+  {
+   "label": "Diluted (I)",
+   "values": [
+    73.13,
+    55.5
+   ]
+  }
+ ],
+ "pdf": "GRASIM/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb984eea-0f01-4339-9cf9-b1946e60f65a.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

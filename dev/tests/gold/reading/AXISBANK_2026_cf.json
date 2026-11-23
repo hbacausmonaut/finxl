@@ -1,0 +1,328 @@
+{
+ "ticker": "AXISBANK",
+ "fy": 2026,
+ "statement": "cf",
+ "scope": "consolidated",
+ "reader": "claude",
+ "read_at": "2026-11-04 11:27 UTC",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash flow from/(used in) operating activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 530
+  },
+  {
+   "label": "Net profit before taxes",
+   "values": [
+    32130.41,
+    36586.47
+   ],
+   "page": 530
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "page": 530
+  },
+  {
+   "label": "Depreciation and amortisation on fixed assets, intangibles and goodwill",
+   "values": [
+    1892.93,
+    1766.97
+   ],
+   "page": 530
+  },
+  {
+   "label": "Mark-to-Market (gain)/loss on investments",
+   "values": [
+    875.28,
+    -700.52
+   ],
+   "page": 530
+  },
+  {
+   "label": "Amortisation of premium/discount on investments",
+   "values": [
+    930.92,
+    651.6
+   ],
+   "page": 530
+  },
+  {
+   "label": "Provision for Non Performing Assets (including bad debts)/restructured assets",
+   "values": [
+    13350.18,
+    11643.69
+   ],
+   "page": 530
+  },
+  {
+   "label": "Provision on standard assets and other contingencies",
+   "values": [
+    3856.56,
+    349.86
+   ],
+   "page": 530
+  },
+  {
+   "label": "Profit/(Loss) on sale of land, buildings and other assets (net)",
+   "values": [
+    -3.79,
+    10.29
+   ],
+   "page": 530
+  },
+  {
+   "label": "Employee stock options/units expense",
+   "values": [
+    483.38,
+    430.54
+   ],
+   "page": 530
+  },
+  {
+   "label": "(i)",
+   "values": [
+    53515.87,
+    50738.9
+   ],
+   "page": 530
+  },
+  {
+   "label": "Adjustments for:",
+   "values": [
+    null,
+    null
+   ],
+   "page": 530
+  },
+  {
+   "label": "(Increase)/Decrease in investments",
+   "values": [
+    -8199.98,
+    -13441.73
+   ],
+   "page": 530
+  },
+  {
+   "label": "(Increase)/Decrease in advances",
+   "values": [
+    -214445.2,
+    -93762.98
+   ],
+   "page": 530
+  },
+  {
+   "label": "Increase /(Decrease) in deposits",
+   "values": [
+    162870.54,
+    103818.49
+   ],
+   "page": 530
+  },
+  {
+   "label": "(Increase)/Decrease in other assets",
+   "values": [
+    -29455.57,
+    -5449.9
+   ],
+   "page": 530
+  },
+  {
+   "label": "Increase/(Decrease) in other liabilities & provisions",
+   "values": [
+    34013.91,
+    10628.91
+   ],
+   "page": 530
+  },
+  {
+   "label": "(ii)",
+   "values": [
+    -55216.3,
+    1792.79
+   ],
+   "page": 530
+  },
+  {
+   "label": "Direct taxes paid",
+   "values": [
+    -6936.28,
+    -8148.01
+   ],
+   "page": 530
+  },
+  {
+   "label": "Net cash flow from/(used in) operating activities (i)+(ii)+(iii)",
+   "values": [
+    -8636.71,
+    44383.68
+   ],
+   "page": 530
+  },
+  {
+   "label": "Cash flow from/(used in) investing activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 530
+  },
+  {
+   "label": "Purchase of fixed assets",
+   "values": [
+    -2210.0,
+    -2445.54
+   ],
+   "page": 530
+  },
+  {
+   "label": "(Increase)/Decrease in Held to Maturity investments",
+   "values": [
+    -43757.32,
+    -47170.1
+   ],
+   "page": 530
+  },
+  {
+   "label": "Increase in investment in Associate",
+   "values": [
+    null,
+    -1612.0
+   ],
+   "page": 530
+  },
+  {
+   "label": "Proceeds from sale of fixed assets",
+   "values": [
+    50.02,
+    12.51
+   ],
+   "page": 530
+  },
+  {
+   "label": "Net cash from/(used in) investing activities",
+   "values": [
+    -45917.3,
+    -51215.13
+   ],
+   "page": 530
+  },
+  {
+   "label": "Cash flow from/(used in) financing activities",
+   "values": [
+    null,
+    null
+   ],
+   "page": 530
+  },
+  {
+   "label": "Proceeds from issue of subordinated debt, Additional Tier I instruments",
+   "values": [
+    null,
+    null
+   ],
+   "page": 530
+  },
+  {
+   "label": "Repayment of subordinated debt, Additional Tier I instruments",
+   "values": [
+    -852.75,
+    -826.45
+   ],
+   "page": 530
+  },
+  {
+   "label": "Increase/(Decrease) in borrowings (other than subordinated debt, Additional Tier I instruments (net))",
+   "values": [
+    60676.62,
+    -6686.35
+   ],
+   "page": 530
+  },
+  {
+   "label": "Proceeds from issue of share capital",
+   "values": [
+    2.16,
+    2.16
+   ],
+   "page": 530
+  },
+  {
+   "label": "Proceeds from share premium (net of share issue expenses)",
+   "values": [
+    678.72,
+    683.68
+   ],
+   "page": 530
+  },
+  {
+   "label": "Payment of dividend",
+   "values": [
+    -310.14,
+    -309.09
+   ],
+   "page": 530
+  },
+  {
+   "label": "Increase in minority interest",
+   "values": [
+    163.06,
+    135.69
+   ],
+   "page": 530
+  },
+  {
+   "label": "Net cash generated from/(used in) financing activities",
+   "values": [
+    60357.67,
+    -7000.36
+   ],
+   "page": 530
+  },
+  {
+   "label": "Effect of exchange fluctuation translation reserve",
+   "values": [
+    849.21,
+    37.33
+   ],
+   "page": 531
+  },
+  {
+   "label": "Net increase in cash and cash equivalents (A)+(B)+(C)+(D)",
+   "values": [
+    6652.87,
+    -13794.48
+   ],
+   "page": 531
+  },
+  {
+   "label": "Cash and cash equivalents at the beginning of the year",
+   "values": [
+    102698.7,
+    116493.18
+   ],
+   "page": 531
+  },
+  {
+   "label": "Cash and cash equivalents at the end of the year",
+   "values": [
+    109351.57,
+    102698.7
+   ],
+   "page": 531
+  }
+ ],
+ "notes": "Spans p531-p532 (idx 530-531). Sub-total rows (i) and (ii) have no printed label, only the marker in the reference column; recorded with labels '(i)'/'(ii)'. Reference markers (iii),(A),(B),(C),(D) in a separate column dropped. Mark-to-Market 2026 printed as 875.28 (positive); Provision on standard assets 2026 printed '3856.56' without thousands separator; loss on sale 2026 printed '-3.79' with leading minus. Excluded 'Notes to the Cash Flow Statement' block (cash equivalents components, CSR note) after closing balance."
+}

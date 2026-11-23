@@ -1,0 +1,464 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "CHOLAFIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 276,
+   "name": "277",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "pdf": "CHOLAFIN/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4c6276e4-8c0c-4e5f-a963-6ec2f7977b0d.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    28403.26,
+    23747.74
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on derecognition of financial instruments under amortised cost category",
+   "values": [
+    439.11,
+    159.04
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fee & commission income",
+   "values": [
+    2114.21,
+    1739.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain on fair value change on financial instrument",
+   "values": [
+    111.38,
+    196.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of services",
+   "values": [
+    5.14,
+    3.55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Revenue from operations (I)",
+   "values": [
+    31073.1,
+    25845.98
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income (II)",
+   "values": [
+    465.63,
+    306.58
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income (III) = (I) + (II)",
+   "values": [
+    31538.73,
+    26152.56
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    14384.13,
+    12494.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment of financial instruments",
+   "values": [
+    3536.34,
+    2494.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    4195.08,
+    3327.75
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    283.89,
+    244.83
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    2166.25,
+    1849.69
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Expenses (IV)",
+   "values": [
+    24565.69,
+    20411.11
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax (V) = (III) - (IV)",
+   "values": [
+    6973.04,
+    5741.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense/(benefit)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Pertaining to profit for the current year",
+   "values": [
+    2052.56,
+    1716.38
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Adjustment of tax relating to earlier year(s)",
+   "values": [
+    -38.75,
+    10.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -269.65,
+    -245.15
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net tax expense (VI)",
+   "values": [
+    1744.16,
+    1481.45
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year (A) = (V) - (VI)",
+   "values": [
+    5228.88,
+    4260
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of Profit/(loss) from Associates (net of tax)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of Profit/(loss) from Joint Venture (net of tax)",
+   "values": [
+    3.73,
+    2.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    5232.61,
+    4262.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive income:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Re-measurement gain / (loss) of Post employment benefit Obligations (net)",
+   "values": [
+    -3.75,
+    -13.63
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax impact",
+   "values": [
+    0.94,
+    3.43
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain / (loss) on Cashflow Hedge Reserve",
+   "values": [
+    234.28,
+    -174.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income tax impact",
+   "values": [
+    -58.97,
+    44.03
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income/(loss) net of tax for the year (B)",
+   "values": [
+    172.5,
+    -141.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income net of tax (A) + (B)",
+   "values": [
+    5405.11,
+    4121.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year attributable to :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity holders of the Parent Company",
+   "values": [
+    5232.61,
+    4262.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income (net of tax) for the year attributable to :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity holders of the Parent Company",
+   "values": [
+    172.5,
+    -141.09
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income for the year attributable to :",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity holders of the Parent Company",
+   "values": [
+    5405.11,
+    4121.61
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share of ₹ 2 each",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    61.98,
+    50.72
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    61.83,
+    50.6
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 48,
+  "rows_reader": 48,
+  "rows_aligned": 48,
+  "rows_agreed": 47,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 1,
+  "value_diffs": 0,
+  "values_reader": 66,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 13,
+   "reader_index": 13,
+   "label_parser": "Depreciation and amortisation expense 15, &",
+   "label_reader": "Depreciation and amortisation expense",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 283.89,
+    "2025": 244.83
+   },
+   "values_reader": {
+    "2026": 283.89,
+    "2025": 244.83
+   },
+   "page": 276,
+   "search": [
+    "283.89",
+    "244.83"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  }
+ ]
+}

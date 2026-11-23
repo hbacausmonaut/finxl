@@ -1,0 +1,379 @@
+{
+ "ticker": "COALINDIA",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 230,
+   "name": "231R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Corporate Overview Statutory Reports Financial Statements",
+   "values": [
+    null,
+    455.0
+   ]
+  },
+  {
+   "label": "STATEMENT OF PROFIT AND LOSS - CONSOLIDATED",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(H in Crore)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "For the Year Ended",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Note For the Year Ended",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "No. 31-03-2026",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue From Operations",
+   "values": [
+    168400.29,
+    169177.37
+   ]
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    11275.68,
+    9471.99
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    179675.97,
+    178649.36
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    11171.48,
+    11246.95
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, stock-in -trade and work-in-progress",
+   "values": [
+    -2828.5,
+    -2303.44
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    46424.59,
+    44846.89
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    1216.26,
+    883.65
+   ]
+  },
+  {
+   "label": "Depreciation, amortization and impairment expenses",
+   "values": [
+    10136.67,
+    9092.16
+   ]
+  },
+  {
+   "label": "Stripping activity adjustment",
+   "values": [
+    -4070.72,
+    -4103.03
+   ]
+  },
+  {
+   "label": "Contractual expenses",
+   "values": [
+    32197.24,
+    31811.5
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    44264.21,
+    40473.5
+   ]
+  },
+  {
+   "label": "Total expenses (IV)",
+   "values": [
+    138511.23,
+    131948.18
+   ]
+  },
+  {
+   "label": "Profit before share of joint venture profit/(loss) (III-IV)",
+   "values": [
+    41164.74,
+    46701.18
+   ]
+  },
+  {
+   "label": "Share of joint venture profit/(loss)",
+   "values": [
+    758.35,
+    462.26
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    41923.09,
+    47163.44
+   ]
+  },
+  {
+   "label": "Tax expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Current tax",
+   "values": [
+    10971.49,
+    11148.08
+   ]
+  },
+  {
+   "label": "(2) Deferred tax",
+   "values": [
+    -118.98,
+    565.64
+   ]
+  },
+  {
+   "label": "Total tax expenses",
+   "values": [
+    10852.51,
+    11713.72
+   ]
+  },
+  {
+   "label": "Profit for the year (VII-VIII)",
+   "values": [
+    31070.58,
+    35449.72
+   ]
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    578.29,
+    -836.98
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will not be reclassified to profit or loss",
+   "values": [
+    -145.42,
+    210.11
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    0.92,
+    0.01
+   ]
+  },
+  {
+   "label": "Income tax relating to items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total other comprehensive income",
+   "values": [
+    433.79,
+    -626.86
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    31504.37,
+    34822.86
+   ]
+  },
+  {
+   "label": "(comprising profit and other comprehensive income for the year)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the company",
+   "values": [
+    31094.29,
+    35505.78
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    -23.71,
+    -56.06
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    31070.58,
+    35449.72
+   ]
+  },
+  {
+   "label": "Other comprehensive income attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the company",
+   "values": [
+    433.79,
+    -626.86
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    433.79,
+    -626.86
+   ]
+  },
+  {
+   "label": "Total comprehensive Income attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the company",
+   "values": [
+    31528.08,
+    34878.92
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    -23.71,
+    -56.06
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    31504.37,
+    34822.86
+   ]
+  },
+  {
+   "label": "Earnings per equity share (Face value J 10 each):*",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Basic",
+   "values": [
+    50.46,
+    57.61
+   ]
+  },
+  {
+   "label": "(2) Diluted",
+   "values": [
+    50.46,
+    57.61
+   ]
+  }
+ ],
+ "pdf": "COALINDIA/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a545232-5986-454c-b936-70e14712b84e.pdf",
+ "parsed_at": "2026-11-04 11:21 UTC"
+}

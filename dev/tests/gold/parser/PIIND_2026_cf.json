@@ -1,0 +1,494 @@
+{
+ "ticker": "PIIND",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 210,
+   "name": "211L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 210,
+   "name": "211R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    16961.0,
+    21420.0
+   ]
+  },
+  {
+   "label": "Adjustments for :- Depreciation and amortisation expense",
+   "values": [
+    4066.0,
+    3525.0
+   ]
+  },
+  {
+   "label": "Finance Cost",
+   "values": [
+    164.0,
+    330.0
+   ]
+  },
+  {
+   "label": "Net Impairment losses on financial assets",
+   "values": [
+    326.0,
+    427.0
+   ]
+  },
+  {
+   "label": "Provision for advances",
+   "values": [
+    0.0,
+    33.0
+   ]
+  },
+  {
+   "label": "Interest Income on financial assets at amortised cost",
+   "values": [
+    -2085.0,
+    -2227.0
+   ]
+  },
+  {
+   "label": "Unwinding of discount on security deposits",
+   "values": [
+    -3.0,
+    -3.0
+   ]
+  },
+  {
+   "label": "Expense on employee stock option scheme",
+   "values": [
+    7.0,
+    34.0
+   ]
+  },
+  {
+   "label": "(Gain) / Loss on sale/retirement of property, plant & equipment",
+   "values": [
+    60.0,
+    33.0
+   ]
+  },
+  {
+   "label": "(Net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net gain on financial assets measured at fair value through profit or loss",
+   "values": [
+    -512.0,
+    -552.0
+   ]
+  },
+  {
+   "label": "Share of (profit) of associate and joint venture",
+   "values": [
+    -57.0,
+    -43.0
+   ]
+  },
+  {
+   "label": "Contingent Consideration written back",
+   "values": [
+    -1261.0,
+    null
+   ]
+  },
+  {
+   "label": "Provision no longer required written back",
+   "values": [
+    null,
+    -390.0
+   ]
+  },
+  {
+   "label": "Unrealised Loss / (Gain) on foreign currency transactions (Net)",
+   "values": [
+    169.0,
+    -148.0
+   ]
+  },
+  {
+   "label": "Operating Profit before Working Capital changes",
+   "values": [
+    17835.0,
+    22439.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in trade receivables",
+   "values": [
+    -2309.0,
+    -4707.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in current Financial Assets - Loans",
+   "values": [
+    9.0,
+    -2.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in contract assets",
+   "values": [
+    -2823.0,
+    -2656.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in other current financial assets",
+   "values": [
+    -372.0,
+    -5.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in other non-current financial assets",
+   "values": [
+    28.0,
+    60.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in other current assets",
+   "values": [
+    -594.0,
+    -290.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in other non-current assets",
+   "values": [
+    -6.0,
+    1.0
+   ]
+  },
+  {
+   "label": "(Increase) / Decrease in other bank balances",
+   "values": [
+    null,
+    8.0
+   ]
+  },
+  {
+   "label": "(Increase)/Decrease in inventories",
+   "values": [
+    -2328.0,
+    3410.0
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in current provisions and trade payables",
+   "values": [
+    -2409.0,
+    -676.0
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in non-current provisions",
+   "values": [
+    133.0,
+    -56.0
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in other current financial liabilities",
+   "values": [
+    1121.0,
+    414.0
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in other non-current financial liabilities",
+   "values": [
+    138.0,
+    -4.0
+   ]
+  },
+  {
+   "label": "Increase / (Decrease) in other current liabilities",
+   "values": [
+    -36.0,
+    30.0
+   ]
+  },
+  {
+   "label": "Cash generated from Operations",
+   "values": [
+    8387.0,
+    17966.0
+   ]
+  },
+  {
+   "label": "Income Taxes paid (Net of refund)",
+   "values": [
+    -3647.0,
+    -3837.0
+   ]
+  },
+  {
+   "label": "Net cash inflow from Operating Activities (A)",
+   "values": [
+    4740.0,
+    14129.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Payments for purchase of property, plant & equipment including capital work in progress, intangible assets and capital advances",
+   "values": [
+    -11178.0,
+    -8500.0
+   ]
+  },
+  {
+   "label": "Proceeds from sale of property, plant & equipment",
+   "values": [
+    114.0,
+    121.0
+   ]
+  },
+  {
+   "label": "Consideration paid for acquisition of subsidiary, net of cash acquired",
+   "values": [
+    null,
+    -3554.0
+   ]
+  },
+  {
+   "label": "Payment for purchase of Investments",
+   "values": [
+    -15699.0,
+    -4806.0
+   ]
+  },
+  {
+   "label": "Payment for purchase of non current investments",
+   "values": [
+    null,
+    -1800.0
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of investments",
+   "values": [
+    17852.0,
+    5026.0
+   ]
+  },
+  {
+   "label": "Investment in deposits with bank",
+   "values": [
+    -17517.0,
+    -2956.0
+   ]
+  },
+  {
+   "label": "Maturity of deposits with bank",
+   "values": [
+    18208.0,
+    null
+   ]
+  },
+  {
+   "label": "Interest Received",
+   "values": [
+    2085.0,
+    2227.0
+   ]
+  },
+  {
+   "label": "Net cash used in Investing Activities (B)",
+   "values": [
+    -6135.0,
+    -14242.0
+   ]
+  },
+  {
+   "label": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Repayment of borrowings",
+   "values": [
+    -132.0,
+    -341.0
+   ]
+  },
+  {
+   "label": "Proceeds from borrowings",
+   "values": [
+    1164.0,
+    149.0
+   ]
+  },
+  {
+   "label": "Payments of lease liabilities (principal)",
+   "values": [
+    -300.0,
+    -258.0
+   ]
+  },
+  {
+   "label": "Interest paid",
+   "values": [
+    -164.0,
+    -139.0
+   ]
+  },
+  {
+   "label": "Dividends paid",
+   "values": [
+    -2278.0,
+    -2275.0
+   ]
+  },
+  {
+   "label": "Net Cash inflow (outflow) from Financing Activities (C )",
+   "values": [
+    -1710.0,
+    -2864.0
+   ]
+  },
+  {
+   "label": "Net Cash inflow (outflow) from Operating, Investing &",
+   "values": [
+    -3105.0,
+    -2977.0
+   ]
+  },
+  {
+   "label": "Financing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Effect of exchange differences on translation of foreign currency Cash & Cash equivalents",
+   "values": [
+    15.0,
+    35.0
+   ]
+  },
+  {
+   "label": "Opening balance of Cash & Cash equivalents",
+   "values": [
+    5923.0,
+    8865.0
+   ]
+  },
+  {
+   "label": "Closing balance of Cash & Cash equivalents",
+   "values": [
+    2833.0,
+    5923.0
+   ]
+  },
+  {
+   "label": "Note: Cash and cash equivalents included in the Cash Flow",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Statement comprise of the following (Refer note 7(e) )",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash on Hand",
+   "values": [
+    0.0,
+    0.0
+   ]
+  },
+  {
+   "label": "Balance with Banks",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "In Current accounts",
+   "values": [
+    968.0,
+    1710.0
+   ]
+  },
+  {
+   "label": "In EEFC accounts",
+   "values": [
+    1863.0,
+    2548.0
+   ]
+  },
+  {
+   "label": "In deposit with original maturity of less than 3 months",
+   "values": [
+    2.0,
+    1665.0
+   ]
+  },
+  {
+   "label": "Total",
+   "values": [
+    2833.0,
+    5923.0
+   ]
+  }
+ ],
+ "pdf": "PIIND/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ab5760e-385f-4ee8-998d-d3aeafcaf998.pdf",
+ "parsed_at": "2026-11-04 11:27 UTC"
+}

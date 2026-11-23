@@ -1,0 +1,491 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "RELIANCE",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 139,
+   "name": "140L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 139,
+   "name": "140R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "RELIANCE/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Value of Sales",
+   "values": [
+    1043589,
+    960355
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income from Services",
+   "values": [
+    132330,
+    110819
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Value of Sales & Services (Revenue)",
+   "values": [
+    1175919,
+    1071174
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Less: GST Recovered",
+   "values": [
+    100244,
+    91038
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Revenue from Operations",
+   "values": [
+    1075675,
+    980136
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    28962,
+    17978
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    1104637,
+    998114
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of Materials Consumed",
+   "values": [
+    443101,
+    422127
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Purchase of Stock-in-Trade",
+   "values": [
+    255829,
+    222686
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in-Trade",
+   "values": [
+    -10267,
+    -15124
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Excise Duty",
+   "values": [
+    18456,
+    15443
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee Benefits Expense",
+   "values": [
+    30318,
+    28559
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    27061,
+    24269
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation / Amortisation and Depletion Expense",
+   "values": [
+    57688,
+    53136
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Expenses",
+   "values": [
+    159289,
+    141001
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Expenses",
+   "values": [
+    981475,
+    892097
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax",
+   "values": [
+    123162,
+    106017
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current Tax",
+   "values": [
+    9736,
+    12758
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred Tax",
+   "values": [
+    17816,
+    12472
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit After Tax",
+   "values": [
+    95610,
+    80787
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of Profit / (Loss) of Associate and Joint Ventures",
+   "values": [
+    144,
+    522
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    95754,
+    81309
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to Profit or Loss",
+   "values": [
+    -337,
+    -2904
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income Tax relating to items that will not be reclassified to Profit or Loss",
+   "values": [
+    84,
+    438
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to Profit or Loss",
+   "values": [
+    -14623,
+    -214
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Income Tax relating to items that will be reclassified to Profit or Loss",
+   "values": [
+    3329,
+    244
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Other Comprehensive Income / (Loss) for the Year (Net of Tax)",
+   "values": [
+    -11547,
+    -2436
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income for the Year",
+   "values": [
+    84207,
+    78873
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit Attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    80775,
+    69648
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    14979,
+    11661
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Comprehensive Income Attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    -11937,
+    -2433
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    390,
+    -3
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total Comprehensive Income attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    68838,
+    67215
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-Controlling Interest",
+   "values": [
+    15369,
+    11658
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings Per Equity Share of Face Value of ₹ 10 each",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Basic (in ₹)",
+   "values": [
+    59.69,
+    51.47
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (in ₹)",
+   "values": [
+    59.69,
+    51.47
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:24 UTC",
+ "stats": {
+  "rows_parser": 44,
+  "rows_reader": 44,
+  "rows_aligned": 44,
+  "rows_agreed": 41,
+  "missing_in_parser": 0,
+  "extra_in_parser": 0,
+  "label_diffs": 3,
+  "value_diffs": 0,
+  "values_reader": 72,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 41,
+   "reader_index": 41,
+   "label_parser": "Earnings Per Equity Share of Face Value of K 10 each",
+   "label_reader": "Earnings Per Equity Share of Face Value of ₹ 10 each",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 139,
+   "search": [],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 42,
+   "reader_index": 42,
+   "label_parser": "Basic (in I)",
+   "label_reader": "Basic (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 59.69,
+    "2025": 51.47
+   },
+   "values_reader": {
+    "2026": 59.69,
+    "2025": 51.47
+   },
+   "page": 139,
+   "search": [
+    "59.69",
+    "51.47"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 43,
+   "reader_index": 43,
+   "label_parser": "Diluted (in I)",
+   "label_reader": "Diluted (in ₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 59.69,
+    "2025": 51.47
+   },
+   "values_reader": {
+    "2026": 59.69,
+    "2025": 51.47
+   },
+   "page": 139,
+   "search": [
+    "59.69",
+    "51.47"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  }
+ ]
+}

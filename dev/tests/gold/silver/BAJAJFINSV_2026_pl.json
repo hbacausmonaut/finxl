@@ -1,0 +1,716 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "BAJAJFINSV",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 233,
+   "name": "234",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 234,
+   "name": "235",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "pdf": "BAJAJFINSV/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10f5cbe1-4794-4934-9219-da6586f3fe74.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest income",
+   "values": [
+    79955.95,
+    67449.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend income",
+   "values": [
+    218.63,
+    174.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Rental income",
+   "values": [
+    2.07,
+    3.95
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fees and commission income",
+   "values": [
+    6797.78,
+    5449.17
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net gain/(loss) on fair value changes",
+   "values": [
+    -1824.08,
+    2160.35
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Sale of services",
+   "values": [
+    1013.17,
+    959.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Premium and other operating income from insurance business",
+   "values": [
+    63134.1,
+    55462.08
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Others",
+   "values": [
+    1206.15,
+    1284.81
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total revenue from operations",
+   "values": [
+    150503.77,
+    132943.25
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income",
+   "values": [
+    26.61,
+    1.07
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total income",
+   "values": [
+    150530.38,
+    132944.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefits expenses",
+   "values": [
+    14122.17,
+    12069.62
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    28231.78,
+    24309.7
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fees and commission expense",
+   "values": [
+    10732.35,
+    8715.66
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impairment on financial instruments",
+   "values": [
+    9479.99,
+    7069.78
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Claims incurred pertaining to insurance business",
+   "values": [
+    26731.23,
+    24671.38
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Reinsurance ceded",
+   "values": [
+    13126.59,
+    11874.58
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Net change in insurance/investment contract liabilities",
+   "values": [
+    12027.11,
+    12401.8
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation, amortisation and impairment",
+   "values": [
+    1291.36,
+    1170.32
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    7541.62,
+    6931.26
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    123284.2,
+    109214.1
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional item and tax",
+   "values": [
+    27246.18,
+    23730.22
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional item",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impact of new labour codes",
+   "values": [
+    379.49,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Share of profit/(loss) of joint venture/associates",
+   "values": [
+    16.46,
+    17.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    26883.15,
+    23748.21
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    7844.21,
+    6722.88
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax credit pertaining to earlier years",
+   "values": [
+    -69.77,
+    -338.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -560.76,
+    -194.02
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    7213.68,
+    6190.57
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit after tax",
+   "values": [
+    19669.47,
+    17557.64
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit attributable to non-controlling interests",
+   "values": [
+    9868.5,
+    8685.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    9800.97,
+    8872.31
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Actuarial gain/(loss) of defined benefit plans",
+   "values": [
+    33.16,
+    -44.51
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impacts on above",
+   "values": [
+    -5.76,
+    9.46
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in fair value of equity instruments carried at FVTOCI",
+   "values": [
+    -311.05,
+    94.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impacts on above",
+   "values": [
+    83.68,
+    -22.92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Changes in fair value of debt securities carried at FVTOCI",
+   "values": [
+    -3326.67,
+    1386.48
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impacts on above",
+   "values": [
+    630.82,
+    -275.06
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Derivative instruments in cash flow hedge relationship",
+   "values": [
+    -1558.37,
+    304.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impacts on above",
+   "values": [
+    196.52,
+    -31.97
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of hedging reserve",
+   "values": [
+    14.84,
+    5.99
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax impacts on above",
+   "values": [
+    7.72,
+    -1.44
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Change in foreign currency translation reserve",
+   "values": [
+    0.22,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income for the year (net of tax)",
+   "values": [
+    -4234.89,
+    1425.29
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    15434.58,
+    18982.93
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit attributable to",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    9800.97,
+    8872.31
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    9868.5,
+    8685.33
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income attributable to",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    6665.78,
+    9955.4
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    8768.8,
+    9027.53
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic Earnings per share (in ₹)",
+   "values": [
+    61.3,
+    55.6
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted Earnings per share (in ₹)",
+   "values": [
+    61,
+    55
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "(Nominal value per share ₹ 1)",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 58,
+  "rows_reader": 61,
+  "rows_aligned": 58,
+  "rows_agreed": 54,
+  "missing_in_parser": 3,
+  "extra_in_parser": 0,
+  "label_diffs": 4,
+  "value_diffs": 0,
+  "values_reader": 100,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "crore",
+  "unit_reader": "crore"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 17,
+   "reader_index": 17,
+   "label_parser": "Claims incurred pertaining to insurance business 46(18)",
+   "label_reader": "Claims incurred pertaining to insurance business",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 26731.23,
+    "2025": 24671.38
+   },
+   "values_reader": {
+    "2026": 26731.23,
+    "2025": 24671.38
+   },
+   "page": 233,
+   "search": [
+    "26,731.23",
+    "24,671.38"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "label",
+   "year": null,
+   "parser_index": 18,
+   "reader_index": 18,
+   "label_parser": "Reinsurance ceded 46(19)",
+   "label_reader": "Reinsurance ceded",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 13126.59,
+    "2025": 11874.58
+   },
+   "values_reader": {
+    "2026": 13126.59,
+    "2025": 11874.58
+   },
+   "page": 233,
+   "search": [
+    "13,126.59",
+    "11,874.58"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 52,
+   "label_parser": null,
+   "label_reader": "Profit attributable to",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 234,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 52,
+   "reader_index": 53,
+   "label_parser": "Profit attributable to Owners of the Company",
+   "label_reader": "Owners of the Company",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 9800.97,
+    "2025": 8872.31
+   },
+   "values_reader": {
+    "2026": 9800.97,
+    "2025": 8872.31
+   },
+   "page": 234,
+   "search": [
+    "9,800.97",
+    "8,872.31"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d005",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 55,
+   "label_parser": null,
+   "label_reader": "Total comprehensive income attributable to",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 234,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d006",
+   "kind": "label",
+   "year": null,
+   "parser_index": 54,
+   "reader_index": 56,
+   "label_parser": "Total comprehensive income attributable to Owners of the Company",
+   "label_reader": "Owners of the Company",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 6665.78,
+    "2025": 9955.4
+   },
+   "values_reader": {
+    "2026": 6665.78,
+    "2025": 9955.4
+   },
+   "page": 234,
+   "search": [
+    "6,665.78",
+    "9,955.40"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d007",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 60,
+   "label_parser": null,
+   "label_reader": "(Nominal value per share ₹ 1)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 234,
+   "search": [],
+   "pattern": "statement_truncated",
+   "pattern_text": "Statement cut short: last lines missing from the parser output"
+  }
+ ]
+}

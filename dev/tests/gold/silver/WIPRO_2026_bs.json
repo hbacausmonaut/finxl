@@ -1,0 +1,702 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "WIPRO",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 294,
+   "name": "295",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 295,
+   "name": "296",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "pdf": "WIPRO/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4ffaa08-a47a-487b-b136-eb4f26c1bace.pdf",
+ "unit": "million",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    77224,
+    78473
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Right-of-Use assets",
+   "values": [
+    28287,
+    25598
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    4122,
+    1964
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    382214,
+    320346
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    29176,
+    27450
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments accounted for using the equity method",
+   "values": [
+    2126,
+    1327
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    28053,
+    26458
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Derivative assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    349,
+    299
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unbilled receivables",
+   "values": [
+    7433,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    6259,
+    4664
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    5242,
+    2561
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current tax assets (net)",
+   "values": [
+    7787,
+    7230
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    9451,
+    7707
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    587723,
+    504077
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    517,
+    694
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Investments",
+   "values": [
+    437680,
+    411474
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Derivative assets",
+   "values": [
+    888,
+    1820
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    135901,
+    117745
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Unbilled receivables",
+   "values": [
+    76823,
+    64280
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    105555,
+    121974
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    10245,
+    8448
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    10762,
+    6417
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Contract assets",
+   "values": [
+    14819,
+    15795
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    33164,
+    29128
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    826354,
+    777775
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    1414077,
+    1281852
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    20977,
+    20944
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    859206,
+    802697
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity attributable to the equity holders of the Company",
+   "values": [
+    880183,
+    823641
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    2509,
+    2138
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL EQUITY",
+   "values": [
+    882692,
+    825779
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    1962,
+    63954
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    26327,
+    22193
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    4394,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    6743,
+    7793
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    5389,
+    4656
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    17266,
+    16443
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-current tax liabilities (net)",
+   "values": [
+    48195,
+    42024
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    17877,
+    12757
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    128153,
+    169820
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    165912,
+    97863
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    8709,
+    8025
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Derivative liabilities",
+   "values": [
+    10978,
+    968
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    62894,
+    58667
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    43387,
+    33463
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Contract liabilities",
+   "values": [
+    25434,
+    20063
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    16834,
+    15085
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    19463,
+    17638
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    49621,
+    34481
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    403232,
+    286253
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL LIABILITIES",
+   "values": [
+    531385,
+    456073
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    1414077,
+    1281852
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-04 11:28 UTC",
+ "stats": {
+  "rows_parser": 65,
+  "rows_reader": 65,
+  "rows_aligned": 64,
+  "rows_agreed": 61,
+  "missing_in_parser": 1,
+  "extra_in_parser": 1,
+  "label_diffs": 3,
+  "value_diffs": 0,
+  "values_reader": 102,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "million",
+  "unit_reader": "million"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Investments accounted for using the equity method per",
+   "label_reader": "Investments accounted for using the equity method",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2126,
+    "2025": 1327
+   },
+   "values_reader": {
+    "2026": 2126,
+    "2025": 1327
+   },
+   "page": 294,
+   "search": [
+    "2,126",
+    "1,327"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "missing_in_parser",
+   "year": null,
+   "parser_index": null,
+   "reader_index": 8,
+   "label_parser": null,
+   "label_reader": "Financial assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {},
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "page": 294,
+   "search": [],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 8,
+   "reader_index": 9,
+   "label_parser": "Financial assets and Investments",
+   "label_reader": "Investments",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 28053,
+    "2025": 26458
+   },
+   "values_reader": {
+    "2026": 28053,
+    "2025": 26458
+   },
+   "page": 294,
+   "search": [
+    "28,053",
+    "26,458"
+   ],
+   "pattern": "heading_merged",
+   "pattern_text": "Section heading glued onto the next line item"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 15,
+   "reader_index": 16,
+   "label_parser": "in Other non-current assets",
+   "label_reader": "Other non-current assets",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 9451,
+    "2025": 7707
+   },
+   "values_reader": {
+    "2026": 9451,
+    "2025": 7707
+   },
+   "page": 294,
+   "search": [
+    "9,451",
+    "7,707"
+   ],
+   "pattern": "serial_in_label",
+   "pattern_text": "Serial marker left in the label ((1), B, a.)"
+  },
+  {
+   "id": "d005",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 16,
+   "reader_index": null,
+   "label_parser": "(I",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 294,
+   "search": [],
+   "pattern": "row_extra",
+   "pattern_text": "Extra row in the parser output"
+  }
+ ]
+}

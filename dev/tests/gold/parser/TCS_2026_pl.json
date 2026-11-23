@@ -1,0 +1,365 @@
+{
+ "ticker": "TCS",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 167,
+   "name": "168",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    756.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": null,
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    267021.0,
+    255324.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    4402.0,
+    3962.0
+   ]
+  },
+  {
+   "label": "TOTAL INCOME",
+   "values": [
+    271423.0,
+    259286.0
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Employee benefit expenses",
+   "values": [
+    154994.0,
+    145788.0
+   ]
+  },
+  {
+   "label": "Cost of equipment and software licences",
+   "values": [
+    4399.0,
+    11648.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    1227.0,
+    796.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    5560.0,
+    5242.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    35230.0,
+    30481.0
+   ]
+  },
+  {
+   "label": "TOTAL EXPENSES",
+   "values": [
+    201410.0,
+    193955.0
+   ]
+  },
+  {
+   "label": "PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX",
+   "values": [
+    70013.0,
+    65331.0
+   ]
+  },
+  {
+   "label": "Exceptional items",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Re-structuring expenses",
+   "values": [
+    1388.0,
+    null
+   ]
+  },
+  {
+   "label": "Statutory impact of new Labour Codes",
+   "values": [
+    2128.0,
+    null
+   ]
+  },
+  {
+   "label": "Provision towards legal claim",
+   "values": [
+    1010.0,
+    null
+   ]
+  },
+  {
+   "label": "PROFIT BEFORE TAX",
+   "values": [
+    65487.0,
+    65331.0
+   ]
+  },
+  {
+   "label": "Tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    16388.0,
+    16910.0
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -355.0,
+    -376.0
+   ]
+  },
+  {
+   "label": "TOTAL TAX EXPENSE",
+   "values": [
+    16033.0,
+    16534.0
+   ]
+  },
+  {
+   "label": "PROFIT FOR THE YEAR",
+   "values": [
+    49454.0,
+    48797.0
+   ]
+  },
+  {
+   "label": "OTHER COMPREHENSIVE INCOME (OCI)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified subsequently to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement of defined employee benefit plans",
+   "values": [
+    482.0,
+    -106.0
+   ]
+  },
+  {
+   "label": "Net change in fair values of investments in equity shares carried at fair value through OCI",
+   "values": [
+    35.0,
+    -24.0
+   ]
+  },
+  {
+   "label": "Income tax on items that will not be reclassified subsequently to profit or loss",
+   "values": [
+    -114.0,
+    18.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified subsequently to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net change in fair values of investments other than equity shares carried at fair value through OCI",
+   "values": [
+    -1066.0,
+    593.0
+   ]
+  },
+  {
+   "label": "Net change in intrinsic value of derivatives designated as cash flow hedges",
+   "values": [
+    -9.0,
+    1.0
+   ]
+  },
+  {
+   "label": "Net change in time value of derivatives designated as cash flow hedges",
+   "values": [
+    null,
+    -9.0
+   ]
+  },
+  {
+   "label": "Exchange differences on translation of financial statements of foreign operations",
+   "values": [
+    3149.0,
+    262.0
+   ]
+  },
+  {
+   "label": "Income tax on items that will be reclassified subsequently to profit or loss",
+   "values": [
+    273.0,
+    -146.0
+   ]
+  },
+  {
+   "label": "TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)",
+   "values": [
+    2750.0,
+    589.0
+   ]
+  },
+  {
+   "label": "TOTAL COMPREHENSIVE INCOME FOR THE YEAR",
+   "values": [
+    52204.0,
+    49386.0
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Shareholders of the Company",
+   "values": [
+    49210.0,
+    48553.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    244.0,
+    244.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    49454.0,
+    48797.0
+   ]
+  },
+  {
+   "label": "Other comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Shareholders of the Company",
+   "values": [
+    2711.0,
+    571.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    39.0,
+    18.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    2750.0,
+    589.0
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Shareholders of the Company",
+   "values": [
+    51921.0,
+    49124.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    283.0,
+    262.0
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    52204.0,
+    49386.0
+   ]
+  },
+  {
+   "label": "Earnings per equity share:- Basic and diluted (J)",
+   "values": [
+    136.01,
+    134.19
+   ]
+  },
+  {
+   "label": "Weighted average number of equity shares",
+   "values": [
+    3618087518.0,
+    3618087518.0
+   ]
+  }
+ ],
+ "pdf": "TCS/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+ "parsed_at": "2026-11-04 11:16 UTC"
+}

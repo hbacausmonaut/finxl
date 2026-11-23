@@ -1,0 +1,581 @@
+{
+ "ticker": "GRASIM",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 420,
+   "name": "421",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    774.0
+   ]
+  },
+  {
+   "page": 421,
+   "name": "422",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    774.0
+   ]
+  },
+  {
+   "page": 422,
+   "name": "423",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    774.0
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash Flow from Operating Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit Before Tax after Exceptional Items and before Share in Profit/(Loss) of Equity",
+   "values": [
+    14283.31,
+    10528.27
+   ]
+  },
+  {
+   "label": "Accounted Investees",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Adjustments For",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exceptional Items (Note 3.11)",
+   "values": [
+    322.92,
+    238.85
+   ]
+  },
+  {
+   "label": "Depreciation and Amortisation Expenses",
+   "values": [
+    7725.94,
+    6453.73
+   ]
+  },
+  {
+   "label": "Finance Costs",
+   "values": [
+    3539.92,
+    2802.28
+   ]
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    -391.92,
+    -503.31
+   ]
+  },
+  {
+   "label": "Dividend Income",
+   "values": [
+    -44.72,
+    -31.28
+   ]
+  },
+  {
+   "label": "Expenses on Employee Stock Options and Stock Appreciation Rights Expenses",
+   "values": [
+    272.12,
+    201.8
+   ]
+  },
+  {
+   "label": "Allowance for Credit Losses on Advances/Debts (Net)",
+   "values": [
+    17.83,
+    56.87
+   ]
+  },
+  {
+   "label": "Changes in Valuation of Liabilities in respect of Insurance Policies in force",
+   "values": [
+    6983.45,
+    9119.27
+   ]
+  },
+  {
+   "label": "Impairment on Financial Instruments",
+   "values": [
+    1696.57,
+    1502.52
+   ]
+  },
+  {
+   "label": "Excess Provision Written Back (Net)",
+   "values": [
+    -179.86,
+    -64.26
+   ]
+  },
+  {
+   "label": "(Gain)/Loss on Sale/Discard of Property, Plant and Equipment (Net)",
+   "values": [
+    -7.26,
+    -26.37
+   ]
+  },
+  {
+   "label": "Profit on Sale of Investments (Net)",
+   "values": [
+    -172.6,
+    -578.05
+   ]
+  },
+  {
+   "label": "Unrealised Gain and fair value adjustments on Investments measured at Fair Value through Profit and Loss (Net)",
+   "values": [
+    -13.55,
+    -1445.26
+   ]
+  },
+  {
+   "label": "Unrealised Exchange (Gain)/Loss (Net)",
+   "values": [
+    -28.98,
+    65.0
+   ]
+  },
+  {
+   "label": "Fair Value Adjustments to Borrowings",
+   "values": [
+    -46.91,
+    -51.56
+   ]
+  },
+  {
+   "label": "Operating Profit Before Working Capital Changes",
+   "values": [
+    33956.26,
+    28268.5
+   ]
+  },
+  {
+   "label": "Adjustment for",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    -1587.01,
+    -1220.77
+   ]
+  },
+  {
+   "label": "Loans of Financing Business",
+   "values": [
+    -43434.64,
+    -31229.5
+   ]
+  },
+  {
+   "label": "Financial and Other Assets",
+   "values": [
+    -3222.36,
+    -741.55
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    249.24,
+    -1153.33
+   ]
+  },
+  {
+   "label": "Trade Payables, Other Liabilities and Provision",
+   "values": [
+    4637.44,
+    360.52
+   ]
+  },
+  {
+   "label": "Investments of Life Insurance Policyholders",
+   "values": [
+    -5908.04,
+    -8902.43
+   ]
+  },
+  {
+   "label": "Cash generated from/(used in) Operations",
+   "values": [
+    -15309.11,
+    -14618.56
+   ]
+  },
+  {
+   "label": "Income Taxes Paid (Net of Refund)",
+   "values": [
+    -2500.5,
+    -2551.09
+   ]
+  },
+  {
+   "label": "Net Cash generated from/(used in) Operating Activities (A)",
+   "values": [
+    -17809.61,
+    -17169.65
+   ]
+  },
+  {
+   "label": "Cash Flow from Investing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Property, Plant and Equipment and other Intangible Assets",
+   "values": [
+    -15626.26,
+    -17181.34
+   ]
+  },
+  {
+   "label": "Proceeds from Disposal of Property, Plant and Equipment and Other Intangible Assets",
+   "values": [
+    212.96,
+    199.35
+   ]
+  },
+  {
+   "label": "Proceeds from Sale and Leaseback of owned Assets",
+   "values": [
+    92.91,
+    463.14
+   ]
+  },
+  {
+   "label": "Acquisition of Equity Shares in Subsidiaries",
+   "values": [
+    -52.73,
+    -10112.85
+   ]
+  },
+  {
+   "label": "Investments in Joint Ventures and Associates",
+   "values": [
+    -425.08,
+    -395.58
+   ]
+  },
+  {
+   "label": "Proceeds from Sale of Non-Current Investments",
+   "values": [
+    4140.48,
+    19431.0
+   ]
+  },
+  {
+   "label": "Purchase of Non-Current Investments",
+   "values": [
+    -6573.48,
+    -15486.33
+   ]
+  },
+  {
+   "label": "(Purchase)/Proceeds from Sale of Investments and Shareholders' Investments of Life",
+   "values": [
+    -683.85,
+    -274.34
+   ]
+  },
+  {
+   "label": "Insurance Business (Current) {Net}",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds on Disposal of Subsidiaries",
+   "values": [
+    788.51,
+    319.96
+   ]
+  },
+  {
+   "label": "Purchase of Other Non-Current Investments",
+   "values": [
+    -62.63,
+    -879.44
+   ]
+  },
+  {
+   "label": "Redemption/(Investment) in Other Bank Deposits",
+   "values": [
+    -174.2,
+    -641.38
+   ]
+  },
+  {
+   "label": "Payment for Cost of Assets Transferred",
+   "values": [
+    -94.98,
+    null
+   ]
+  },
+  {
+   "label": "Loans and Advances Given to Joint Ventures and Associates",
+   "values": [
+    null,
+    -35.0
+   ]
+  },
+  {
+   "label": "Receipt against Loans and Advances given to Joint Ventures and Associates",
+   "values": [
+    33.5,
+    46.41
+   ]
+  },
+  {
+   "label": "Interest Received",
+   "values": [
+    265.81,
+    357.21
+   ]
+  },
+  {
+   "label": "Dividend Received",
+   "values": [
+    355.87,
+    207.11
+   ]
+  },
+  {
+   "label": "Net Cash generated from/(used in) Investing Activities (B)",
+   "values": [
+    -17803.17,
+    -23982.08
+   ]
+  },
+  {
+   "label": "Cash Flow from Financing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from Issue of Share Capital under ESOP Scheme",
+   "values": [
+    124.43,
+    70.34
+   ]
+  },
+  {
+   "label": "Proceeds from Rights Issue (Net of share issue expenses)",
+   "values": [
+    1.97,
+    2992.01
+   ]
+  },
+  {
+   "label": "\"Proceeds from Shares issued by Subsidiary Company (Including Securities Premium)",
+   "values": [
+    -3.09,
+    null
+   ]
+  },
+  {
+   "label": "(Net of Share Issue Expenses)\"",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Treasury Shares Acquired by ESOP Trust",
+   "values": [
+    -313.22,
+    -186.01
+   ]
+  },
+  {
+   "label": "Proceeds from Issue of Treasury Shares",
+   "values": [
+    97.88,
+    71.38
+   ]
+  },
+  {
+   "label": "Equity Infusion by Minority Shareholders in Subsidiary Companies",
+   "values": [
+    999.54,
+    152.41
+   ]
+  },
+  {
+   "label": "Proceeds from Non-Current Borrowings",
+   "values": [
+    63789.36,
+    65682.47
+   ]
+  },
+  {
+   "label": "Repayments of Non-Current Borrowings",
+   "values": [
+    -30468.93,
+    -23759.38
+   ]
+  },
+  {
+   "label": "Proceeds/(Repayments) of Current Borrowings (Net)",
+   "values": [
+    5599.83,
+    3154.92
+   ]
+  },
+  {
+   "label": "Proceeds from Inter-Corporate Loans",
+   "values": [
+    null,
+    33.43
+   ]
+  },
+  {
+   "label": "Repayments of Inter-Corporate Loans",
+   "values": [
+    -68.49,
+    -3.21
+   ]
+  },
+  {
+   "label": "Repayments of Lease Liabilities (including Interest)",
+   "values": [
+    -909.82,
+    -630.2
+   ]
+  },
+  {
+   "label": "Interest and Finance Charges Paid",
+   "values": [
+    -3655.32,
+    -3016.22
+   ]
+  },
+  {
+   "label": "Dividend Paid",
+   "values": [
+    -1671.23,
+    -1584.05
+   ]
+  },
+  {
+   "label": "Net Cash generated from/(used in) Financing Activities",
+   "values": [
+    33522.91,
+    42977.89
+   ]
+  },
+  {
+   "label": "Net Increase/(Decrease) in Cash and Cash Equivalents",
+   "values": [
+    -2089.87,
+    1826.16
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents as at the beginning of the Year (Refer Note 2.20)",
+   "values": [
+    4882.7,
+    2387.65
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents acquired from Ras Al Khaimah Co. for White Cement &",
+   "values": [
+    null,
+    1.89
+   ]
+  },
+  {
+   "label": "Construction Materials P.S.C. (RAKWCT) (Refer Note 4.3.c)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents acquired from Kesoram Industries Limited",
+   "values": [
+    null,
+    76.76
+   ]
+  },
+  {
+   "label": "(Refer Note 4.3.a)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents on acquisition of The India Cements Limited",
+   "values": [
+    null,
+    586.45
+   ]
+  },
+  {
+   "label": "(Refer Note 4.3.b)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Add: Effect of Exchange Rate on Consolidation of Foreign Subsidiaries",
+   "values": [
+    5.06,
+    3.79
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents at the end of the Year (Refer Note 2.20)",
+   "values": [
+    2797.89,
+    4882.7
+   ]
+  }
+ ],
+ "pdf": "GRASIM/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb984eea-0f01-4339-9cf9-b1946e60f65a.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

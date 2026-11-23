@@ -1,0 +1,505 @@
+{
+ "ticker": "JSWSTEEL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 287,
+   "name": "288L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    109532.0,
+    116814.0
+   ]
+  },
+  {
+   "label": "Capital work-in-progress",
+   "values": [
+    21892.0,
+    20478.0
+   ]
+  },
+  {
+   "label": "Investment property",
+   "values": [
+    66.0,
+    163.0
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    4922.0,
+    4837.0
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    655.0,
+    643.0
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    1954.0,
+    2009.0
+   ]
+  },
+  {
+   "label": "Intangible assets under development",
+   "values": [
+    423.0,
+    529.0
+   ]
+  },
+  {
+   "label": "Investments in joint ventures and associates",
+   "values": [
+    4577.0,
+    3689.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    5123.0,
+    5709.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    3.0,
+    70.0
+   ]
+  },
+  {
+   "label": "Derivative assets",
+   "values": [
+    271.0,
+    116.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    7854.0,
+    6899.0
+   ]
+  },
+  {
+   "label": "Non-current tax assets (net)",
+   "values": [
+    1330.0,
+    829.0
+   ]
+  },
+  {
+   "label": "Deferred tax assets",
+   "values": [
+    18.0,
+    297.0
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    7621.0,
+    6924.0
+   ]
+  },
+  {
+   "label": "Total non-current assets",
+   "values": [
+    166241.0,
+    170006.0
+   ]
+  },
+  {
+   "label": "(2) Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    32765.0,
+    34956.0
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    518.0,
+    5819.0
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    11260.0,
+    8415.0
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    39256.0,
+    11655.0
+   ]
+  },
+  {
+   "label": "Bank balances other than (iii) above",
+   "values": [
+    1733.0,
+    1630.0
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    90.0,
+    2.0
+   ]
+  },
+  {
+   "label": "Derivative assets",
+   "values": [
+    2279.0,
+    284.0
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    9247.0,
+    1247.0
+   ]
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    3.0,
+    15.0
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    6203.0,
+    6684.0
+   ]
+  },
+  {
+   "label": "Assets classified as held for sale",
+   "values": [
+    81.0,
+    29.0
+   ]
+  },
+  {
+   "label": "Total current assets",
+   "values": [
+    103435.0,
+    70736.0
+   ]
+  },
+  {
+   "label": "TOTAL ASSETS",
+   "values": [
+    269676.0,
+    240742.0
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    305.0,
+    305.0
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    99748.0,
+    79191.0
+   ]
+  },
+  {
+   "label": "Equity attributable to owners of the Company",
+   "values": [
+    100053.0,
+    79496.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests (NCI)",
+   "values": [
+    5422.0,
+    2170.0
+   ]
+  },
+  {
+   "label": "Total equity",
+   "values": [
+    105475.0,
+    81666.0
+   ]
+  },
+  {
+   "label": "Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(2) Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    75608.0,
+    81983.0
+   ]
+  },
+  {
+   "label": "(ia) Lease liabilities",
+   "values": [
+    3306.0,
+    2399.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    2783.0,
+    3124.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1939.0,
+    1399.0
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    9293.0,
+    9510.0
+   ]
+  },
+  {
+   "label": "Other non-current liabilities",
+   "values": [
+    1895.0,
+    35.0
+   ]
+  },
+  {
+   "label": "Total non-current liabilities",
+   "values": [
+    94824.0,
+    98450.0
+   ]
+  },
+  {
+   "label": "(3) Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    19924.0,
+    13974.0
+   ]
+  },
+  {
+   "label": "(ia) Lease liabilities",
+   "values": [
+    472.0,
+    396.0
+   ]
+  },
+  {
+   "label": "Acceptances",
+   "values": [
+    19817.0,
+    20534.0
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding, dues of micro and small enterprises",
+   "values": [
+    1541.0,
+    1316.0
+   ]
+  },
+  {
+   "label": "Total outstanding, dues of creditors other than micro and small enterprises",
+   "values": [
+    13125.0,
+    10702.0
+   ]
+  },
+  {
+   "label": "Derivative liabilities",
+   "values": [
+    79.0,
+    227.0
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    7222.0,
+    7388.0
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    332.0,
+    285.0
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    5596.0,
+    5606.0
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    1262.0,
+    198.0
+   ]
+  },
+  {
+   "label": "Liabilities classified as held for sale",
+   "values": [
+    7.0,
+    null
+   ]
+  },
+  {
+   "label": "Total current liabilities",
+   "values": [
+    69377.0,
+    60626.0
+   ]
+  },
+  {
+   "label": "Total liabilities",
+   "values": [
+    164201.0,
+    159076.0
+   ]
+  },
+  {
+   "label": "TOTAL EQUITY AND LIABILITIES",
+   "values": [
+    269676.0,
+    240742.0
+   ]
+  }
+ ],
+ "pdf": "JSWSTEEL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf",
+ "parsed_at": "2026-11-04 11:25 UTC"
+}

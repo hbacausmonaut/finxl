@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+*.tsbuildinfo
+
+# Runtime data (PDF cache, run results, database) and generated files
+data/
+*.pdf
+*.xlsx
+*.part
+dev/test_output/
+dev/tests/results/run_*.json
+
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+.claude/

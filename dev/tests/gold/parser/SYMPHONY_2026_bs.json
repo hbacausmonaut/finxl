@@ -1,0 +1,379 @@
+{
+ "ticker": "SYMPHONY",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 99,
+   "name": "100L",
+   "clip": [
+    0.0,
+    0.0,
+    496.1,
+    666.1
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Non-current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    109.09,
+    105.0
+   ]
+  },
+  {
+   "label": "Right-of-use asset",
+   "values": [
+    27.16,
+    11.55
+   ]
+  },
+  {
+   "label": "Investment Property",
+   "values": [
+    5.85,
+    0.17
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    null,
+    155.38
+   ]
+  },
+  {
+   "label": "Other intangible assets (f) Financial Assets",
+   "values": [
+    29.02,
+    49.95
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    154.78,
+    284.75
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    0.1,
+    1.04
+   ]
+  },
+  {
+   "label": "Deferred Tax Assets (Net)",
+   "values": [
+    7.19,
+    47.57
+   ]
+  },
+  {
+   "label": "Other non-current assets",
+   "values": [
+    5.27,
+    3.54
+   ]
+  },
+  {
+   "label": "Total Non-current assets",
+   "values": [
+    338.46,
+    658.95
+   ]
+  },
+  {
+   "label": "(2) Current assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories (b) Financial assets",
+   "values": [
+    312.42,
+    284.01
+   ]
+  },
+  {
+   "label": "Investments",
+   "values": [
+    113.51,
+    154.96
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    151.04,
+    141.16
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    49.56,
+    35.12
+   ]
+  },
+  {
+   "label": "Bank balances other than (iii) above",
+   "values": [
+    2.58,
+    2.43
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    2.47,
+    3.81
+   ]
+  },
+  {
+   "label": "Current tax assets (Net)",
+   "values": [
+    1.38,
+    1.1
+   ]
+  },
+  {
+   "label": "Other current assets",
+   "values": [
+    58.08,
+    46.82
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    691.04,
+    669.41
+   ]
+  },
+  {
+   "label": "Assets classified as held for sale",
+   "values": [
+    null,
+    5.68
+   ]
+  },
+  {
+   "label": "Total Current assets",
+   "values": [
+    691.04,
+    675.09
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    1029.5,
+    1334.04
+   ]
+  },
+  {
+   "label": "EQUITY AND LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "(1) Equity",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    13.73,
+    13.73
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    531.49,
+    746.81
+   ]
+  },
+  {
+   "label": "Total Equity",
+   "values": [
+    545.22,
+    760.54
+   ]
+  },
+  {
+   "label": "(2) Non-current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    16.85,
+    5.85
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    13.46,
+    11.24
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (Net)",
+   "values": [
+    null,
+    12.38
+   ]
+  },
+  {
+   "label": "Total Non-current liabilities",
+   "values": [
+    30.31,
+    29.47
+   ]
+  },
+  {
+   "label": "(3) Current liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Borrowings",
+   "values": [
+    144.09,
+    127.68
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    11.57,
+    8.14
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    6.11,
+    1.82
+   ]
+  },
+  {
+   "label": "total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    122.75,
+    177.27
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    26.67,
+    6.17
+   ]
+  },
+  {
+   "label": "Other current liabilities",
+   "values": [
+    114.66,
+    183.48
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    23.36,
+    33.31
+   ]
+  },
+  {
+   "label": "Current tax liabilities (Net)",
+   "values": [
+    4.76,
+    6.16
+   ]
+  },
+  {
+   "label": "Total Current liabilities",
+   "values": [
+    453.97,
+    544.03
+   ]
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    484.28,
+    573.5
+   ]
+  },
+  {
+   "label": "Total Equity and Liabilities",
+   "values": [
+    1029.5,
+    1334.04
+   ]
+  }
+ ],
+ "pdf": "SYMPHONY\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b2e32774-7ba0-4f22-a5de-ef9014d07f8b.pdf",
+ "parsed_at": "2026-11-05 11:55 UTC"
+}

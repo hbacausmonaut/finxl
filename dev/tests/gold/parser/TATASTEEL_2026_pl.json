@@ -1,0 +1,431 @@
+{
+ "ticker": "TATASTEEL",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 423,
+   "name": "424",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  },
+  {
+   "page": 424,
+   "name": "425",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    738.0
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": null,
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Revenue from operations F216",
+   "values": [
+    232139.94,
+    218542.51
+   ]
+  },
+  {
+   "label": "Other income F217",
+   "values": [
+    1401.78,
+    1540.53
+   ]
+  },
+  {
+   "label": "Total income",
+   "values": [
+    233541.72,
+    220083.04
+   ]
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    74468.93,
+    77079.62
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    18159.14,
+    18017.68
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished and semi-finished goods, (c) stock-in-trade and work-in-progress",
+   "values": [
+    989.62,
+    -96.65
+   ]
+  },
+  {
+   "label": "Employee benefits expense F217",
+   "values": [
+    25998.98,
+    24888.99
+   ]
+  },
+  {
+   "label": "Finance costs F218",
+   "values": [
+    7167.06,
+    7340.95
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense F218",
+   "values": [
+    11954.51,
+    10421.33
+   ]
+  },
+  {
+   "label": "Other expenses F218",
+   "values": [
+    79139.21,
+    74699.99
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    217877.45,
+    212351.91
+   ]
+  },
+  {
+   "label": "Less: Expenditure (other than finance cost) transferred to capital account",
+   "values": [
+    968.38,
+    1345.57
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    216909.07,
+    211006.34
+   ]
+  },
+  {
+   "label": "Share of profit/(loss) of joint ventures and associates",
+   "values": [
+    368.5,
+    190.81
+   ]
+  },
+  {
+   "label": "Profit/(loss) before exceptional items and tax",
+   "values": [
+    17001.15,
+    9267.51
+   ]
+  },
+  {
+   "label": "Exceptional items: F219",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit/(loss) on sale of subsidiaries/non-current investments/business",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "undertakings/non-current assets",
+   "values": [
+    308.35,
+    54.84
+   ]
+  },
+  {
+   "label": "Provision for impairment of non-current assets",
+   "values": [
+    -323.77,
+    -119.18
+   ]
+  },
+  {
+   "label": "Statutory impact of new labour codes",
+   "values": [
+    -85.37,
+    null
+   ]
+  },
+  {
+   "label": "Restructuring, redundancy and other provisions (net)",
+   "values": [
+    -1858.47,
+    -633.95
+   ]
+  },
+  {
+   "label": "Contribution to electoral trusts",
+   "values": [
+    null,
+    -173.11
+   ]
+  },
+  {
+   "label": "Fair value gain/(loss) on non-current investments (net)",
+   "values": [
+    926.8,
+    16.76
+   ]
+  },
+  {
+   "label": "Total exceptional items",
+   "values": [
+    -1032.46,
+    -854.64
+   ]
+  },
+  {
+   "label": "Profit/(loss) before tax",
+   "values": [
+    15968.69,
+    8412.87
+   ]
+  },
+  {
+   "label": "Tax expense: F186",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    5334.63,
+    3563.77
+   ]
+  },
+  {
+   "label": "Current tax in relation to earlier years",
+   "values": [
+    -73.26,
+    -7.79
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -178.5,
+    1683.11
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    5082.87,
+    5239.09
+   ]
+  },
+  {
+   "label": "Profit/(loss) for the year (VIII-IX)",
+   "values": [
+    10885.82,
+    3173.78
+   ]
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit and loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurement gain/(loss) on post-employment defined benefit plans",
+   "values": [
+    442.76,
+    -74.07
+   ]
+  },
+  {
+   "label": "Fair value changes of investments in equity shares",
+   "values": [
+    18.44,
+    -104.78
+   ]
+  },
+  {
+   "label": "Share of equity accounted investees",
+   "values": [
+    0.88,
+    -0.6
+   ]
+  },
+  {
+   "label": "Income tax on items that will not be reclassified to profit and loss",
+   "values": [
+    -107.5,
+    -6.22
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit and loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Foreign currency translation differences",
+   "values": [
+    4785.85,
+    438.24
+   ]
+  },
+  {
+   "label": "Fair value changes of cash flow hedges",
+   "values": [
+    384.79,
+    -15.6
+   ]
+  },
+  {
+   "label": "Share of equity accounted investees",
+   "values": [
+    19.67,
+    10.08
+   ]
+  },
+  {
+   "label": "Income tax on items that will be reclassified to profit and loss",
+   "values": [
+    -52.78,
+    26.25
+   ]
+  },
+  {
+   "label": "Total other comprehensive income for the year",
+   "values": [
+    5492.11,
+    273.3
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    16377.93,
+    3447.08
+   ]
+  },
+  {
+   "label": "Profit/(loss) for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    10793.87,
+    3420.51
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    91.95,
+    -246.73
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    10885.82,
+    3173.78
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    16150.18,
+    3632.78
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    227.75,
+    -185.7
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    16377.93,
+    3447.08
+   ]
+  },
+  {
+   "label": "Earnings per share 35 F220",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    8.65,
+    2.74
+   ]
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    8.65,
+    2.74
+   ]
+  }
+ ],
+ "pdf": "TATASTEEL/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb836c3a-cf5f-427d-bc71-e368d5861e02.pdf",
+ "parsed_at": "2026-11-04 11:19 UTC"
+}

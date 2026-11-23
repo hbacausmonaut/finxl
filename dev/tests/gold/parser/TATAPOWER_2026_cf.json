@@ -1,0 +1,742 @@
+{
+ "ticker": "TATAPOWER",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "pages": [
+  {
+   "page": 246,
+   "name": "247R",
+   "clip": [
+    595.4,
+    0.0,
+    1190.9,
+    841.7
+   ]
+  },
+  {
+   "page": 247,
+   "name": "248L",
+   "clip": [
+    0.0,
+    0.0,
+    595.4,
+    841.7
+   ]
+  },
+  {
+   "page": 247,
+   "name": "248R",
+   "clip": [
+    595.4,
+    0.0,
+    1190.9,
+    841.7
+   ]
+  }
+ ],
+ "check": "OK: operating cash flow row found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "Cash Flow from Operating Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit/(Loss) Before Tax for the year",
+   "values": [
+    6635.99,
+    6319.62
+   ]
+  },
+  {
+   "label": "Adjustments to reconcile Profit/(Loss) before tax to Net Operating",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash Flows",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Depreciation and Amortisation Expense",
+   "values": [
+    4811.09,
+    4116.86
+   ]
+  },
+  {
+   "label": "Transfer to Contingency Reserve",
+   "values": [
+    43.82,
+    30.44
+   ]
+  },
+  {
+   "label": "Gain on Dilution of Interest in an Associate",
+   "values": [
+    null,
+    -161.95
+   ]
+  },
+  {
+   "label": "Finance Income related to Service Concession Arrangement (SCA)",
+   "values": [
+    -79.27,
+    -6.68
+   ]
+  },
+  {
+   "label": "Impairment of Goodwill",
+   "values": [
+    null,
+    106.0
+   ]
+  },
+  {
+   "label": "Impairment of Investment",
+   "values": [
+    94.17,
+    null
+   ]
+  },
+  {
+   "label": "Impairment of Property Plant & Equipment",
+   "values": [
+    null,
+    38.0
+   ]
+  },
+  {
+   "label": "Provision for Stamp Duty on Merger",
+   "values": [
+    null,
+    140.0
+   ]
+  },
+  {
+   "label": "(Gain)/Loss on disposal of Property, Plant and Equipment (net)",
+   "values": [
+    205.86,
+    76.07
+   ]
+  },
+  {
+   "label": "Employees Stock Option Expenses",
+   "values": [
+    45.44,
+    27.14
+   ]
+  },
+  {
+   "label": "Finance Cost (net of capitalisation)",
+   "values": [
+    5256.79,
+    4702.44
+   ]
+  },
+  {
+   "label": "Interest Income",
+   "values": [
+    -788.38,
+    -760.0
+   ]
+  },
+  {
+   "label": "Dividend Income",
+   "values": [
+    -455.2,
+    -321.74
+   ]
+  },
+  {
+   "label": "Liability Written Back",
+   "values": [
+    -18.71,
+    null
+   ]
+  },
+  {
+   "label": "Gain on Sale of Current Investment measured at fair value through Profit and Loss",
+   "values": [
+    -121.96,
+    -103.28
+   ]
+  },
+  {
+   "label": "Fair value gain on Non-Current Investment measured at fair value through Profit and Loss",
+   "values": [
+    -3.61,
+    null
+   ]
+  },
+  {
+   "label": "Allowance for Expected Credit Losses and Doubtful Advances",
+   "values": [
+    149.58,
+    463.21
+   ]
+  },
+  {
+   "label": "(net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Bad debts",
+   "values": [
+    11.15,
+    5.64
+   ]
+  },
+  {
+   "label": "Provision for Warranties",
+   "values": [
+    48.68,
+    -17.81
+   ]
+  },
+  {
+   "label": "Amortisation of Service Line Contributions and Capital Grant",
+   "values": [
+    -659.39,
+    -609.21
+   ]
+  },
+  {
+   "label": "Guarantee Commission from joint ventures",
+   "values": [
+    -12.25,
+    -13.33
+   ]
+  },
+  {
+   "label": "Share of Net Profit of Associates and Joint Ventures accounted for using the equity method",
+   "values": [
+    -707.87,
+    -793.33
+   ]
+  },
+  {
+   "label": "Amortisation of Deferred Revenue",
+   "values": [
+    -994.01,
+    -58.81
+   ]
+  },
+  {
+   "label": "Amortisation of Deferred Rent",
+   "values": [
+    0.4,
+    0.31
+   ]
+  },
+  {
+   "label": "Provision for foreseeable losses (net)",
+   "values": [
+    16.05,
+    -4.46
+   ]
+  },
+  {
+   "label": "Net foreign exchange differences (unrealised)",
+   "values": [
+    -67.57,
+    20.13
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    6774.81,
+    6875.64
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    13410.8,
+    13195.26
+   ]
+  },
+  {
+   "label": "Adjustments for (increase) / decrease in Operating Assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Inventories",
+   "values": [
+    -535.82,
+    -139.87
+   ]
+  },
+  {
+   "label": "Trade Receivables",
+   "values": [
+    750.65,
+    275.2
+   ]
+  },
+  {
+   "label": "Unbilled Revenue",
+   "values": [
+    -105.57,
+    -184.83
+   ]
+  },
+  {
+   "label": "Finance Lease Receivables",
+   "values": [
+    63.96,
+    26.13
+   ]
+  },
+  {
+   "label": "Movement in balance related to Service Concession Arrangement",
+   "values": [
+    -2284.09,
+    -1049.11
+   ]
+  },
+  {
+   "label": "(Including contract assets, Capital Advances and Payables)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Loans - Current",
+   "values": [
+    -7.62,
+    -1.2
+   ]
+  },
+  {
+   "label": "Loans - Non Current",
+   "values": [
+    -35.14,
+    0.98
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    103.09,
+    -260.78
+   ]
+  },
+  {
+   "label": "Other Non-current Assets",
+   "values": [
+    -567.77,
+    -80.02
+   ]
+  },
+  {
+   "label": "Other Financial Assets - Current",
+   "values": [
+    -14.7,
+    -72.33
+   ]
+  },
+  {
+   "label": "Other Financial Assets - Non-current",
+   "values": [
+    -287.66,
+    -98.64
+   ]
+  },
+  {
+   "label": "Regulatory Deferral Account - Assets",
+   "values": [
+    -809.22,
+    1500.06
+   ]
+  },
+  {
+   "label": "Movement in Operating Assets",
+   "values": [
+    -3729.89,
+    -84.41
+   ]
+  },
+  {
+   "label": "Adjustments for increase / (decrease) in Operating Liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade Payables",
+   "values": [
+    -1559.3,
+    59.95
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    -115.56,
+    -321.77
+   ]
+  },
+  {
+   "label": "Other Non-current Liabilities",
+   "values": [
+    -465.43,
+    131.45
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities - Current",
+   "values": [
+    753.97,
+    57.35
+   ]
+  },
+  {
+   "label": "Other Financial Liabilities - Non-current",
+   "values": [
+    19.15,
+    67.22
+   ]
+  },
+  {
+   "label": "Acceptances",
+   "values": [
+    -1593.52,
+    455.7
+   ]
+  },
+  {
+   "label": "Regulatory Deferral Account - Liability",
+   "values": [
+    -129.69,
+    -577.68
+   ]
+  },
+  {
+   "label": "Current Provisions",
+   "values": [
+    -98.3,
+    -399.59
+   ]
+  },
+  {
+   "label": "Non-current Provisions",
+   "values": [
+    665.16,
+    683.61
+   ]
+  },
+  {
+   "label": "Movement in Operating Liabilities",
+   "values": [
+    -2523.52,
+    156.24
+   ]
+  },
+  {
+   "label": "Cash Flow generated from/(used in) Operations",
+   "values": [
+    7157.39,
+    13267.09
+   ]
+  },
+  {
+   "label": "Income-tax Paid (net of refund received)",
+   "values": [
+    -1164.06,
+    -586.9
+   ]
+  },
+  {
+   "label": "Net Cash Flows generated from/(used in) Operating Activities A",
+   "values": [
+    5993.33,
+    12680.19
+   ]
+  },
+  {
+   "label": "Cash Flow from Investing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Purchase of Capital Assets*",
+   "values": [
+    -13694.83,
+    -17272.84
+   ]
+  },
+  {
+   "label": "Sale of Capital Assets (including property, plant and equipment classified as held for sale)",
+   "values": [
+    24.7,
+    235.2
+   ]
+  },
+  {
+   "label": "(Purchase)/ proceeds from sale of Investments in Mutual",
+   "values": [
+    68.26,
+    278.75
+   ]
+  },
+  {
+   "label": "Funds(net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Investment in Government Securities",
+   "values": [
+    -17.67,
+    -15.0
+   ]
+  },
+  {
+   "label": "Investment in Joint Ventures",
+   "values": [
+    -294.0,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from Share Buy Back Undertaken by Joint Venture",
+   "values": [
+    11.48,
+    10.99
+   ]
+  },
+  {
+   "label": "Finance Income related to Service Concession Arrangement (SCA)",
+   "values": [
+    79.27,
+    6.68
+   ]
+  },
+  {
+   "label": "Interest received",
+   "values": [
+    784.75,
+    745.51
+   ]
+  },
+  {
+   "label": "Guarantee Commission received from joint ventures",
+   "values": [
+    12.25,
+    13.33
+   ]
+  },
+  {
+   "label": "Dividend received",
+   "values": [
+    1538.61,
+    1556.34
+   ]
+  },
+  {
+   "label": "(Investment) / Proceeds from Fixed Deposits not Considered as",
+   "values": [
+    -2706.2,
+    -1007.82
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents (net)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Cash Flow generated from/(used in) Investing Activities B",
+   "values": [
+    -14193.38,
+    -15448.86
+   ]
+  },
+  {
+   "label": "Cash Flow from Financing Activities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Proceeds from Issue of Shares to Non-controlling Interest by Subsidiaries",
+   "values": [
+    56.37,
+    319.35
+   ]
+  },
+  {
+   "label": "Proceeds from Service Line and Capital Contributions from Consumers",
+   "values": [
+    2508.57,
+    1933.45
+   ]
+  },
+  {
+   "label": "Proceeds from Non-current Borrowings",
+   "values": [
+    26452.83,
+    16078.03
+   ]
+  },
+  {
+   "label": "Proceeds from Current Borrowings",
+   "values": [
+    28594.65,
+    27079.58
+   ]
+  },
+  {
+   "label": "Repayment of Borrowings",
+   "values": [
+    -42485.0,
+    -34587.4
+   ]
+  },
+  {
+   "label": "Finance Cost Paid",
+   "values": [
+    -5626.98,
+    -5069.05
+   ]
+  },
+  {
+   "label": "Payment of Lease Liabilities",
+   "values": [
+    -604.3,
+    -497.07
+   ]
+  },
+  {
+   "label": "Dividend paid to Owners of the Company",
+   "values": [
+    -718.58,
+    -639.07
+   ]
+  },
+  {
+   "label": "Dividends paid to Non-controlling Interests",
+   "values": [
+    -394.93,
+    -325.43
+   ]
+  },
+  {
+   "label": "Net Cash Flow generated from/(used in) Financing Activities C",
+   "values": [
+    7782.63,
+    4292.39
+   ]
+  },
+  {
+   "label": "Net Increase/ (Decrease) in Cash and Cash Equivalents",
+   "values": [
+    -417.42,
+    1523.72
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents as at April 1 (Opening Balance)",
+   "values": [
+    4680.14,
+    3143.85
+   ]
+  },
+  {
+   "label": "Effect of Exchange Fluctuation on Cash and Cash Equivalents",
+   "values": [
+    64.73,
+    12.57
+   ]
+  },
+  {
+   "label": "Cash and Cash Equivalents as at March 31 (Closing Balance)",
+   "values": [
+    4327.45,
+    4680.14
+   ]
+  },
+  {
+   "label": "Balances with banks",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "In Current Accounts",
+   "values": [
+    1949.26,
+    1983.0
+   ]
+  },
+  {
+   "label": "In Deposit Accounts (with original maturity of three months or less)",
+   "values": [
+    2423.32,
+    2829.65
+   ]
+  },
+  {
+   "label": "Cheques on Hand",
+   "values": [
+    18.83,
+    22.32
+   ]
+  },
+  {
+   "label": "Cash on Hand",
+   "values": [
+    18.26,
+    27.5
+   ]
+  },
+  {
+   "label": "Bank Overdraft (Refer Note 31)",
+   "values": [
+    -82.22,
+    -182.33
+   ]
+  },
+  {
+   "label": "Total Cash and Cash Equivalents",
+   "values": [
+    4327.45,
+    4680.14
+   ]
+  }
+ ],
+ "pdf": "TATAPOWER/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a5491ca0-092d-4f99-a329-c62579cc6ef2.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

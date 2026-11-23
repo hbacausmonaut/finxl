@@ -1,0 +1,403 @@
+{
+ "ticker": "HINDUNILVR",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 185,
+   "name": "186L",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 185,
+   "name": "186R",
+   "clip": [
+    595.3,
+    0.0,
+    1190.6,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "CONTINUING OPERATIONS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    64468.0,
+    61328.0
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    751.0,
+    1017.0
+   ]
+  },
+  {
+   "label": "TOTAL INCOME",
+   "values": [
+    65219.0,
+    62345.0
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of materials consumed",
+   "values": [
+    20981.0,
+    19034.0
+   ]
+  },
+  {
+   "label": "Purchases of stock-in-trade",
+   "values": [
+    11113.0,
+    10861.0
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, work-in-progress and stock-in-trade",
+   "values": [
+    -429.0,
+    -125.0
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    3175.0,
+    2952.0
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    410.0,
+    381.0
+   ]
+  },
+  {
+   "label": "Depreciation and amortisation expense",
+   "values": [
+    1333.0,
+    1253.0
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    14574.0,
+    13900.0
+   ]
+  },
+  {
+   "label": "TOTAL EXPENSES",
+   "values": [
+    51157.0,
+    48256.0
+   ]
+  },
+  {
+   "label": "Profit before exceptional items, tax and share of equity-accounted investee from continuing operations",
+   "values": [
+    14062.0,
+    14089.0
+   ]
+  },
+  {
+   "label": "Share of loss of equity-accounted investee (net of tax)",
+   "values": [
+    -15.0,
+    -8.0
+   ]
+  },
+  {
+   "label": "PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX FROM CONTINUING",
+   "values": [
+    14047.0,
+    14081.0
+   ]
+  },
+  {
+   "label": "OPERATIONS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exceptional items [net (charge) / credit]",
+   "values": [
+    -235.0,
+    347.0
+   ]
+  },
+  {
+   "label": "Profit before tax from continuing operations",
+   "values": [
+    13812.0,
+    14428.0
+   ]
+  },
+  {
+   "label": "Tax expenses",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    -3163.0,
+    -3618.0
+   ]
+  },
+  {
+   "label": "Deferred tax credit / (charge)",
+   "values": [
+    3.0,
+    -130.0
+   ]
+  },
+  {
+   "label": "PROFIT FOR THE YEAR FROM CONTINUING OPERATIONS (A)",
+   "values": [
+    10652.0,
+    10680.0
+   ]
+  },
+  {
+   "label": "DISCONTINUED OPERATIONS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Profit / (loss) before exceptional items and tax from discontinued operations",
+   "values": [
+    -135.0,
+    29.0
+   ]
+  },
+  {
+   "label": "Exceptional items of discontinued operations [net credit / (charge)]",
+   "values": [
+    4471.0,
+    -42.0
+   ]
+  },
+  {
+   "label": "Tax credit of discontinued operations",
+   "values": [
+    71.0,
+    4.0
+   ]
+  },
+  {
+   "label": "PROFIT / (LOSS) FOR THE YEAR FROM DISCONTINUED OPERATIONS (B)",
+   "values": [
+    4407.0,
+    -9.0
+   ]
+  },
+  {
+   "label": "PROFIT FOR THE YEAR",
+   "values": [
+    15059.0,
+    10671.0
+   ]
+  },
+  {
+   "label": "OTHER COMPREHENSIVE INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Remeasurements of the net defined benefit plans",
+   "values": [
+    8.0,
+    -22.0
+   ]
+  },
+  {
+   "label": "Tax on above",
+   "values": [
+    -2.0,
+    5.0
+   ]
+  },
+  {
+   "label": "Items that will be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Fair value of debt instruments through other comprehensive income",
+   "values": [
+    null,
+    -0.0
+   ]
+  },
+  {
+   "label": "Tax on above",
+   "values": [
+    null,
+    0.0
+   ]
+  },
+  {
+   "label": "Fair value of cash flow hedges through other comprehensive income",
+   "values": [
+    268.0,
+    -2.0
+   ]
+  },
+  {
+   "label": "Tax on above",
+   "values": [
+    -73.0,
+    0.0
+   ]
+  },
+  {
+   "label": "Exchange differences on translation of financial statements of foreign operations",
+   "values": [
+    1.0,
+    null
+   ]
+  },
+  {
+   "label": "Tax on above",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "OTHER COMPREHENSIVE INCOME FOR THE YEAR (D)",
+   "values": [
+    202.0,
+    -19.0
+   ]
+  },
+  {
+   "label": "TOTAL COMPREHENSIVE INCOME FOR THE YEAR",
+   "values": [
+    15261.0,
+    10652.0
+   ]
+  },
+  {
+   "label": "Net profit attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Holding Company",
+   "values": [
+    15040.0,
+    10649.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    19.0,
+    22.0
+   ]
+  },
+  {
+   "label": "Other Comprehensive income / (loss) attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Holding Company",
+   "values": [
+    202.0,
+    -19.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    -0.0,
+    -0.0
+   ]
+  },
+  {
+   "label": "Total Comprehensive income attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Owners of the Holding Company",
+   "values": [
+    15242.0,
+    10630.0
+   ]
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    19.0,
+    22.0
+   ]
+  }
+ ],
+ "pdf": "HINDUNILVR/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/881493e4-75af-4a7f-8c64-9d0886e63f1d.pdf",
+ "parsed_at": "2026-11-04 11:17 UTC"
+}

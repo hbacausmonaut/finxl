@@ -1,0 +1,433 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "gold",
+ "ticker": "INFY",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 287,
+   "name": "288",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    792.0
+   ]
+  },
+  {
+   "page": 288,
+   "name": "289",
+   "clip": [
+    0.0,
+    0.0,
+    612.0,
+    792.0
+   ]
+  }
+ ],
+ "pdf": "INFY\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "Revenue from operations",
+   "values": [
+    178650,
+    162990
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other income, net",
+   "values": [
+    4322,
+    3600
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total income",
+   "values": [
+    182972,
+    166590
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Expenses",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Employee benefit expenses",
+   "values": [
+    95094,
+    85950
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of technical sub-contractors",
+   "values": [
+    15421,
+    12937
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Travel expenses",
+   "values": [
+    2097,
+    1894
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Cost of software packages and others",
+   "values": [
+    15722,
+    15911
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Communication expenses",
+   "values": [
+    603,
+    620
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consultancy and professional charges",
+   "values": [
+    2090,
+    1655
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Depreciation and amortization expenses",
+   "values": [
+    4902,
+    4812
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Finance cost",
+   "values": [
+    416,
+    416
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    5343,
+    4787
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    141688,
+    128982
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before exceptional item and tax",
+   "values": [
+    41284,
+    37608
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exceptional item",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Impact of Labour Codes",
+   "values": [
+    1289,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    39995,
+    37608
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Tax expense:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    11767,
+    12130
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    -1246,
+    -1272
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    29474,
+    26750
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will not be reclassified subsequently to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Remeasurement of the net defined benefit liability / asset, net",
+   "values": [
+    -288,
+    -92
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity instruments through other comprehensive income, net",
+   "values": [
+    397,
+    19
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    109,
+    -73
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Items that will be reclassified subsequently to profit or loss",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value changes on derivatives designated as cash flow hedge, net",
+   "values": [
+    -1,
+    -24
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Exchange differences on translation of foreign operations",
+   "values": [
+    3256,
+    357
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Fair value changes on investments, net",
+   "values": [
+    -27,
+    199
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    3228,
+    532
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total other comprehensive income / (loss), net of tax",
+   "values": [
+    3337,
+    459
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    32811,
+    27209
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Profit attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    29440,
+    26713
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    34,
+    37
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    29474,
+    26750
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total comprehensive income attributable to:",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Owners of the Company",
+   "values": [
+    32750,
+    27167
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Non-controlling interests",
+   "values": [
+    61,
+    42
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "",
+   "values": [
+    32811,
+    27209
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Earnings per equity share",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Equity shares of par value ₹ 5/- each",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    71.58,
+    64.5
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    71.46,
+    64.34
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Weighted average equity shares used in computing earnings per equity share",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (in shares)",
+   "values": [
+    4112814745,
+    4141611738
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Diluted (in shares)",
+   "values": [
+    4120108168,
+    4152051184
+   ],
+   "source": "agreed"
+  }
+ ],
+ "built_at": "2026-11-07 18:41 UTC"
+}

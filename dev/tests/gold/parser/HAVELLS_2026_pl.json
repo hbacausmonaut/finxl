@@ -1,0 +1,344 @@
+{
+ "ticker": "HAVELLS",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 347,
+   "name": "348",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: revenue and profit rows found",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Revenue from operations",
+   "values": [
+    22527.77,
+    21778.06
+   ]
+  },
+  {
+   "label": "Other income",
+   "values": [
+    494.39,
+    303.27
+   ]
+  },
+  {
+   "label": "Total Income",
+   "values": [
+    23022.16,
+    22081.33
+   ]
+  },
+  {
+   "label": "EXPENSES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cost of raw materials and components consumed",
+   "values": [
+    12345.89,
+    11999.3
+   ]
+  },
+  {
+   "label": "Purchase of traded goods",
+   "values": [
+    2972.54,
+    3148.93
+   ]
+  },
+  {
+   "label": "Changes in inventories of finished goods, traded goods and work in progress",
+   "values": [
+    -238.89,
+    -539.86
+   ]
+  },
+  {
+   "label": "Employee benefits expense",
+   "values": [
+    1983.74,
+    1870.02
+   ]
+  },
+  {
+   "label": "Finance costs",
+   "values": [
+    37.3,
+    43.24
+   ]
+  },
+  {
+   "label": "Depreciation and amortization expenses",
+   "values": [
+    431.92,
+    400.4
+   ]
+  },
+  {
+   "label": "Other expenses",
+   "values": [
+    3262.96,
+    3125.13
+   ]
+  },
+  {
+   "label": "Net impairment losses on financial and contract assets",
+   "values": [
+    1.88,
+    43.68
+   ]
+  },
+  {
+   "label": "Total expenses",
+   "values": [
+    20797.34,
+    20090.84
+   ]
+  },
+  {
+   "label": "Profit before exceptional item, share of profit of investment accounted using equity method and tax",
+   "values": [
+    2224.82,
+    1990.49
+   ]
+  },
+  {
+   "label": "Exceptional item 33(4)",
+   "values": [
+    45.03,
+    null
+   ]
+  },
+  {
+   "label": "Profit before share of profit of investment accounted using equity method and tax",
+   "values": [
+    2179.79,
+    1990.49
+   ]
+  },
+  {
+   "label": "Share of profit of investments accounted using equity method",
+   "values": [
+    29.78,
+    null
+   ]
+  },
+  {
+   "label": "Profit before tax",
+   "values": [
+    2209.57,
+    1990.49
+   ]
+  },
+  {
+   "label": "Income tax expense",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax",
+   "values": [
+    461.06,
+    502.45
+   ]
+  },
+  {
+   "label": "Deferred tax",
+   "values": [
+    59.26,
+    17.8
+   ]
+  },
+  {
+   "label": "Total tax expense",
+   "values": [
+    520.32,
+    520.25
+   ]
+  },
+  {
+   "label": "Profit for the year",
+   "values": [
+    1689.25,
+    1470.24
+   ]
+  },
+  {
+   "label": "Other comprehensive income",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Items that will not be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Re-measurement gain / (loss) on defined benefit plan {refer note no 33(4)}",
+   "values": [
+    11.69,
+    -29.9
+   ]
+  },
+  {
+   "label": "Income tax effect on the above {refer note no 17(b)}",
+   "values": [
+    -2.94,
+    7.54
+   ]
+  },
+  {
+   "label": "Items that may be reclassified to profit or loss",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Exchange difference on translation of financial statements of foreign operations",
+   "values": [
+    1.22,
+    1.25
+   ]
+  },
+  {
+   "label": "Income tax effect on the above",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Other comprehensive income/(loss) for the year, net of tax",
+   "values": [
+    9.97,
+    -21.11
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year",
+   "values": [
+    1699.22,
+    1449.13
+   ]
+  },
+  {
+   "label": "Profit for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity shareholders of the parent company",
+   "values": [
+    1690.56,
+    1472.26
+   ]
+  },
+  {
+   "label": "Non contolling interests",
+   "values": [
+    -1.31,
+    -2.02
+   ]
+  },
+  {
+   "label": "Other comprehensive (income)/loss for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity shareholders of the parent company",
+   "values": [
+    9.46,
+    -21.29
+   ]
+  },
+  {
+   "label": "Non contolling interests",
+   "values": [
+    0.51,
+    0.18
+   ]
+  },
+  {
+   "label": "Total comprehensive income for the year attributable to",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity shareholders of the parent company",
+   "values": [
+    1700.02,
+    1450.97
+   ]
+  },
+  {
+   "label": "Non contolling interests",
+   "values": [
+    -0.8,
+    -1.84
+   ]
+  },
+  {
+   "label": "33(12)} (nominal value of share J 1/-)",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Basic EPS (H)",
+   "values": [
+    26.95,
+    23.49
+   ]
+  },
+  {
+   "label": "Diluted EPS (H)",
+   "values": [
+    26.94,
+    23.48
+   ]
+  }
+ ],
+ "pdf": "HAVELLS/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/91649597-75d8-410c-b359-b79e40e6bd6b.pdf",
+ "parsed_at": "2026-11-04 11:26 UTC"
+}

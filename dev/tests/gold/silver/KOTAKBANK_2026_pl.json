@@ -1,0 +1,384 @@
+{
+ "format": "docfetcher-gold-copy/1",
+ "level": "silver",
+ "ticker": "KOTAKBANK",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "pl",
+ "pages": [
+  {
+   "page": 62,
+   "name": "63",
+   "clip": [
+    0.0,
+    0.0,
+    594.0,
+    774.0
+   ]
+  }
+ ],
+ "pdf": "KOTAKBANK/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c1b719fb-23e9-4cb8-b303-720eb0e31cc4.pdf",
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "unresolved": 0,
+ "rows": [
+  {
+   "label": "INCOME",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Earned",
+   "values": [
+    697812121,
+    656688252
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Other Income",
+   "values": [
+    381663754,
+    412334116
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    1079475875,
+    1069022368
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EXPENDITURE",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Interest Expended",
+   "values": [
+    296199788,
+    282709127
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Operating Expenses",
+   "values": [
+    484344960,
+    457830592
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Provisions and Contingencies (Refer Note 7.A-Schedule 17)",
+   "values": [
+    107124871,
+    109025273
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    887669619,
+    849564992
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "PROFIT",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Net Profit for the year",
+   "values": [
+    191806256,
+    219457376
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add: Share in profit / (loss) of Associates",
+   "values": [
+    1072669,
+    1802514
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Consolidated Profit for the year attributable to the Group",
+   "values": [
+    192878925,
+    221259890
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Add : Balance in Profit and Loss Account brought forward from previous year (Refer Schedule 2 (XVI))",
+   "values": [
+    900374562,
+    750043044
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Total",
+   "values": [
+    1093253487,
+    971302934
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "APPROPRIATIONS",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Statutory Reserve",
+   "values": [
+    35019300,
+    41125200
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Special Reserve u/s 45 IC of RBI Act, 1934",
+   "values": [
+    3087531,
+    3006764
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Special Reserve u/s 36(1)(viii) of Income Tax Act, 1961",
+   "values": [
+    4371000,
+    1500000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Debenture Redemption Reserve",
+   "values": [
+    150000,
+    175000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Capital Reserve",
+   "values": [
+    10945001,
+    20652700
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to General Reserve",
+   "values": [
+    null,
+    1611
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Transfer to Investment Fluctuation Reserve Account",
+   "values": [
+    null,
+    5000000
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Dividend",
+   "values": [
+    4970975,
+    3976240
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Balance carried over to Balance Sheet",
+   "values": [
+    1034709680,
+    895865419
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Total",
+   "values": [
+    1093253487,
+    971302934
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "EARNINGS PER SHARE (Face value of ₹1/- )",
+   "values": [
+    null,
+    null
+   ],
+   "source": "agreed"
+  },
+  {
+   "label": "Basic (₹)",
+   "values": [
+    19.4,
+    22.26
+   ],
+   "source": "reader"
+  },
+  {
+   "label": "Diluted (₹)",
+   "values": [
+    19.39,
+    22.26
+   ],
+   "source": "reader"
+  }
+ ],
+ "built_at": "2026-11-04 11:23 UTC",
+ "stats": {
+  "rows_parser": 30,
+  "rows_reader": 29,
+  "rows_aligned": 29,
+  "rows_agreed": 26,
+  "missing_in_parser": 0,
+  "extra_in_parser": 1,
+  "label_diffs": 3,
+  "value_diffs": 0,
+  "values_reader": 46,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "thousand",
+  "unit_reader": "thousand"
+ },
+ "mismatches": [
+  {
+   "id": "d001",
+   "kind": "label",
+   "year": null,
+   "parser_index": 13,
+   "reader_index": 13,
+   "label_parser": "Add : Balance in Profit and Loss Account brought forward from previous year",
+   "label_reader": "Add : Balance in Profit and Loss Account brought forward from previous year (Refer Schedule 2 (XVI))",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 900374562,
+    "2025": 750043044
+   },
+   "values_reader": {
+    "2026": 900374562,
+    "2025": 750043044
+   },
+   "page": 62,
+   "search": [
+    "90,03,74,562",
+    "75,00,43,044"
+   ],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 14,
+   "reader_index": null,
+   "label_parser": "(Refer Schedule 2 (XVI))",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 62,
+   "search": [],
+   "pattern": "wrapped_label_split",
+   "pattern_text": "Wrapped label split into two rows"
+  },
+  {
+   "id": "d003",
+   "kind": "label",
+   "year": null,
+   "parser_index": 28,
+   "reader_index": 27,
+   "label_parser": "Basic (H)",
+   "label_reader": "Basic (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 19.4,
+    "2025": 22.26
+   },
+   "values_reader": {
+    "2026": 19.4,
+    "2025": 22.26
+   },
+   "page": 62,
+   "search": [
+    "19.40",
+    "22.26"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  },
+  {
+   "id": "d004",
+   "kind": "label",
+   "year": null,
+   "parser_index": 29,
+   "reader_index": 28,
+   "label_parser": "Diluted (H)",
+   "label_reader": "Diluted (₹)",
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 19.39,
+    "2025": 22.26
+   },
+   "values_reader": {
+    "2026": 19.39,
+    "2025": 22.26
+   },
+   "page": 62,
+   "search": [
+    "19.39",
+    "22.26"
+   ],
+   "pattern": "rupee_glyph",
+   "pattern_text": "Rupee sign stored as a letter (`, J, C, H, I, K, L)"
+  }
+ ]
+}

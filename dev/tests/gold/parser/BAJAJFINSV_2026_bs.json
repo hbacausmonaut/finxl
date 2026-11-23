@@ -1,0 +1,452 @@
+{
+ "ticker": "BAJAJFINSV",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "bs",
+ "pages": [
+  {
+   "page": 231,
+   "name": "232",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  },
+  {
+   "page": 232,
+   "name": "233",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    841.9
+   ]
+  }
+ ],
+ "check": "OK: balance sheet ties",
+ "unit": "crore",
+ "years": [
+  2026,
+  2025
+ ],
+ "rows": [
+  {
+   "label": "As at 31 March",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "ASSETS",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Cash and cash equivalents",
+   "values": [
+    3598.59,
+    5762.45
+   ]
+  },
+  {
+   "label": "Bank balances other than cash and cash equivalents",
+   "values": [
+    14019.45,
+    9974.35
+   ]
+  },
+  {
+   "label": "Derivative financial instruments",
+   "values": [
+    2418.38,
+    1032.52
+   ]
+  },
+  {
+   "label": "Trade receivables",
+   "values": [
+    9332.08,
+    8319.35
+   ]
+  },
+  {
+   "label": "Loans",
+   "values": [
+    500015.97,
+    408490.77
+   ]
+  },
+  {
+   "label": "Investment in joint venture and associates",
+   "values": [
+    416.8,
+    400.33
+   ]
+  },
+  {
+   "label": "Shareholders' investments",
+   "values": [
+    47883.1,
+    53556.05
+   ]
+  },
+  {
+   "label": "Policyholders' investments",
+   "values": [
+    146113.64,
+    136173.4
+   ]
+  },
+  {
+   "label": "Other financial assets",
+   "values": [
+    23093.53,
+    17930.33
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    746891.54,
+    641639.55
+   ]
+  },
+  {
+   "label": "Non-financial assets",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax assets (net)",
+   "values": [
+    424.2,
+    682.31
+   ]
+  },
+  {
+   "label": "Deferred tax assets (net)",
+   "values": [
+    2051.08,
+    1201.54
+   ]
+  },
+  {
+   "label": "Investment properties",
+   "values": [
+    28.4,
+    29.06
+   ]
+  },
+  {
+   "label": "Property, plant and equipment",
+   "values": [
+    2862.66,
+    2782.87
+   ]
+  },
+  {
+   "label": "Right-of-use assets",
+   "values": [
+    1500.97,
+    1374.02
+   ]
+  },
+  {
+   "label": "Capital work-in-progress 46(18)",
+   "values": [
+    250.31,
+    122.95
+   ]
+  },
+  {
+   "label": "Intangible assets under development 46(19)",
+   "values": [
+    71.0,
+    191.08
+   ]
+  },
+  {
+   "label": "Goodwill on consolidation",
+   "values": [
+    802.84,
+    802.84
+   ]
+  },
+  {
+   "label": "Other intangible assets",
+   "values": [
+    1534.2,
+    1308.34
+   ]
+  },
+  {
+   "label": "Other non-financial assets",
+   "values": [
+    2080.34,
+    2097.05
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    11606.0,
+    10592.06
+   ]
+  },
+  {
+   "label": "Total assets",
+   "values": [
+    758497.54,
+    652231.61
+   ]
+  },
+  {
+   "label": "As at 31 March",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "LIABILITIES AND EQUITY",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "LIABILITIES",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Trade payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    29.03,
+    31.81
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    9023.09,
+    7933.04
+   ]
+  },
+  {
+   "label": "Other payables",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Total outstanding dues of micro enterprises and small enterprises",
+   "values": [
+    0.33,
+    0.42
+   ]
+  },
+  {
+   "label": "Total outstanding dues of creditors other than micro enterprises and small enterprises",
+   "values": [
+    2440.86,
+    2595.13
+   ]
+  },
+  {
+   "label": "Derivative financial instruments",
+   "values": [
+    1557.94,
+    76.03
+   ]
+  },
+  {
+   "label": "Debt securities",
+   "values": [
+    186264.24,
+    147740.18
+   ]
+  },
+  {
+   "label": "Borrowings (other than debt securities)",
+   "values": [
+    170642.53,
+    132102.99
+   ]
+  },
+  {
+   "label": "Deposits",
+   "values": [
+    68535.45,
+    71403.13
+   ]
+  },
+  {
+   "label": "Subordinated liabilities",
+   "values": [
+    2805.31,
+    3103.54
+   ]
+  },
+  {
+   "label": "Insurance contracts liabilities",
+   "values": [
+    147817.93,
+    134678.68
+   ]
+  },
+  {
+   "label": "Investment contracts liabilities",
+   "values": [
+    13336.99,
+    12943.26
+   ]
+  },
+  {
+   "label": "Lease liabilities",
+   "values": [
+    1666.43,
+    1504.81
+   ]
+  },
+  {
+   "label": "Other financial liabilities",
+   "values": [
+    4200.79,
+    2632.59
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    608320.92,
+    516745.61
+   ]
+  },
+  {
+   "label": "Non-financial liabilities",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Current tax liabilities (net)",
+   "values": [
+    628.82,
+    460.87
+   ]
+  },
+  {
+   "label": "Deferred tax liabilities (net)",
+   "values": [
+    2.8,
+    712.51
+   ]
+  },
+  {
+   "label": "Provisions",
+   "values": [
+    1018.3,
+    676.66
+   ]
+  },
+  {
+   "label": "Other non-financial liabilities",
+   "values": [
+    7561.42,
+    5201.73
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    9211.34,
+    7051.77
+   ]
+  },
+  {
+   "label": "EQUITY",
+   "values": [
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Equity share capital",
+   "values": [
+    159.87,
+    159.6
+   ]
+  },
+  {
+   "label": "Other equity",
+   "values": [
+    77754.66,
+    72235.71
+   ]
+  },
+  {
+   "label": "Non-controlling interest",
+   "values": [
+    63050.75,
+    56038.92
+   ]
+  },
+  {
+   "label": "Subtotal",
+   "values": [
+    140965.28,
+    128434.23
+   ]
+  },
+  {
+   "label": "Total liabilities and equity",
+   "values": [
+    758497.54,
+    652231.61
+   ]
+  }
+ ],
+ "pdf": "BAJAJFINSV/AnnualReports/Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/10f5cbe1-4794-4934-9219-da6586f3fe74.pdf",
+ "parsed_at": "2026-11-04 11:18 UTC"
+}

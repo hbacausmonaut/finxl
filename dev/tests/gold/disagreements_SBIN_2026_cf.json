@@ -1,0 +1,877 @@
+{
+ "format": "docfetcher-gold-disagreements/1",
+ "ticker": "SBIN",
+ "fy": 2026,
+ "scope": "consolidated",
+ "statement": "cf",
+ "statement_name": "Cash Flow",
+ "pdf": "SBIN\\AnnualReports\\Annual Report 2026.pdf",
+ "pdf_url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf",
+ "pages": [
+  {
+   "page": 359,
+   "name": "360",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  },
+  {
+   "page": 360,
+   "name": "361",
+   "clip": [
+    0.0,
+    0.0,
+    595.3,
+    765.4
+   ]
+  }
+ ],
+ "unit": "thousand",
+ "years": [
+  2026,
+  2025
+ ],
+ "reader": "claude",
+ "stats": {
+  "rows_parser": 48,
+  "rows_reader": 44,
+  "rows_aligned": 44,
+  "rows_agreed": 44,
+  "missing_in_parser": 0,
+  "extra_in_parser": 4,
+  "label_diffs": 0,
+  "value_diffs": 0,
+  "values_reader": 77,
+  "years_parser": [
+   2026,
+   2025
+  ],
+  "years_reader": [
+   2026,
+   2025
+  ],
+  "unit_parser": "thousand",
+  "unit_reader": "thousand"
+ },
+ "disagreements": [
+  {
+   "id": "d001",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 44,
+   "reader_index": null,
+   "label_parser": "Components of Cash & Cash Equivalents as at: 31.03.2026 31.03.2025",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "page": 359,
+   "search": [],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d002",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 45,
+   "reader_index": null,
+   "label_parser": "Cash & Balances with Reserve Bank of India",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 2686817368,
+    "2025": 2274851569
+   },
+   "values_reader": {},
+   "page": 359,
+   "search": [
+    "2,68,68,17,368",
+    "2,27,48,51,569"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d003",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 46,
+   "reader_index": null,
+   "label_parser": "Balances with Banks and money at call & short notice",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 1331614726,
+    "2025": 1304477859
+   },
+   "values_reader": {},
+   "page": 359,
+   "search": [
+    "1,33,16,14,726",
+    "1,30,44,77,859"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  },
+  {
+   "id": "d004",
+   "kind": "extra_in_parser",
+   "year": null,
+   "parser_index": 47,
+   "reader_index": null,
+   "label_parser": "Total",
+   "label_reader": null,
+   "value_parser": null,
+   "value_reader": null,
+   "values_parser": {
+    "2026": 4018432094,
+    "2025": 3579329428
+   },
+   "values_reader": {},
+   "page": 359,
+   "search": [
+    "4,01,84,32,094",
+    "3,57,93,29,428"
+   ],
+   "pattern": "footnote_rows",
+   "pattern_text": "Footnote / memo table below the statement kept as rows"
+  }
+ ],
+ "rows": [
+  {
+   "parser_index": 0,
+   "reader_index": 0,
+   "label_parser": "CASH FLOW FROM OPERATING ACTIVITIES",
+   "label_reader": "CASH FLOW FROM OPERATING ACTIVITIES:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 1,
+   "reader_index": 1,
+   "label_parser": "Net Profit/(Loss) before taxes (including share in profit from associates and net of minority interest)",
+   "label_reader": "Net Profit/(Loss) before taxes (including share in profit from associates and net of minority interest)",
+   "values_parser": {
+    "2026": 1121582973,
+    "2025": 1049094768
+   },
+   "values_reader": {
+    "2026": 1121582973,
+    "2025": 1049094768
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 2,
+   "reader_index": 2,
+   "label_parser": "Adjustments for",
+   "label_reader": "Adjustments for:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 3,
+   "reader_index": 3,
+   "label_parser": "Depreciation on Fixed Assets",
+   "label_reader": "Depreciation on Fixed Assets",
+   "values_parser": {
+    "2026": 48297185,
+    "2025": 39914767
+   },
+   "values_reader": {
+    "2026": 48297185,
+    "2025": 39914767
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 4,
+   "reader_index": 4,
+   "label_parser": "(Profit)/Loss on sale of Fixed Assets (Net)",
+   "label_reader": "(Profit)/Loss on sale of Fixed Assets (Net)",
+   "values_parser": {
+    "2026": 73171,
+    "2025": 162293
+   },
+   "values_reader": {
+    "2026": 73171,
+    "2025": 162293
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 5,
+   "reader_index": 5,
+   "label_parser": "(Profit)/Loss on revaluation of Investments (Net)",
+   "label_reader": "(Profit)/Loss on revaluation of Investments (Net)",
+   "values_parser": {
+    "2026": 38201532,
+    "2025": -51793794
+   },
+   "values_reader": {
+    "2026": 38201532,
+    "2025": -51793794
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 6,
+   "reader_index": 6,
+   "label_parser": "(Profit)/ Loss on sale of Investments in Subsidiaries/Joint Ventures/ Associates",
+   "label_reader": "(Profit)/ Loss on sale of Investments in Subsidiaries/Joint Ventures/ Associates",
+   "values_parser": {
+    "2026": -23844050,
+    "2025": 75190
+   },
+   "values_reader": {
+    "2026": -23844050,
+    "2025": 75190
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 7,
+   "reader_index": 7,
+   "label_parser": "Provision on Non-Performing Assets",
+   "label_reader": "Provision on Non-Performing Assets",
+   "values_parser": {
+    "2026": 193500770,
+    "2025": 185055154
+   },
+   "values_reader": {
+    "2026": 193500770,
+    "2025": 185055154
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 8,
+   "reader_index": 8,
+   "label_parser": "Provision on Standard Assets",
+   "label_reader": "Provision on Standard Assets",
+   "values_parser": {
+    "2026": 16829618,
+    "2025": 3380915
+   },
+   "values_reader": {
+    "2026": 16829618,
+    "2025": 3380915
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 9,
+   "reader_index": 9,
+   "label_parser": "Provision on non-performing Investments",
+   "label_reader": "Provision on non-performing Investments",
+   "values_parser": {
+    "2026": -143260,
+    "2025": 4828852
+   },
+   "values_reader": {
+    "2026": -143260,
+    "2025": 4828852
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 10,
+   "reader_index": 10,
+   "label_parser": "Other Provisions including provision for contingencies",
+   "label_reader": "Other Provisions including provision for contingencies",
+   "values_parser": {
+    "2026": 5325392,
+    "2025": 1346773
+   },
+   "values_reader": {
+    "2026": 5325392,
+    "2025": 1346773
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 11,
+   "reader_index": 11,
+   "label_parser": "Share in Profit of Associates",
+   "label_reader": "Share in Profit of Associates",
+   "values_parser": {
+    "2026": -14971990,
+    "2025": -15054709
+   },
+   "values_reader": {
+    "2026": -14971990,
+    "2025": -15054709
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 12,
+   "reader_index": 12,
+   "label_parser": "Income from Investment in Associates",
+   "label_reader": "Income from Investment in Associates",
+   "values_parser": {
+    "2026": -7031,
+    "2025": -88146
+   },
+   "values_reader": {
+    "2026": -7031,
+    "2025": -88146
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 13,
+   "reader_index": 13,
+   "label_parser": "Interest charged on Capital Instruments",
+   "label_reader": "Interest charged on Capital Instruments",
+   "values_parser": {
+    "2026": 73972721,
+    "2025": 75688977
+   },
+   "values_reader": {
+    "2026": 73972721,
+    "2025": 75688977
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 14,
+   "reader_index": 14,
+   "label_parser": "Subtotal",
+   "label_reader": "",
+   "values_parser": {
+    "2026": 1458817031,
+    "2025": 1292611040
+   },
+   "values_reader": {
+    "2026": 1458817031,
+    "2025": 1292611040
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 15,
+   "reader_index": 15,
+   "label_parser": "Adjustments for",
+   "label_reader": "Adjustments for:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 16,
+   "reader_index": 16,
+   "label_parser": "Increase / (Decrease) in Deposits",
+   "label_reader": "Increase / (Decrease) in Deposits",
+   "values_parser": {
+    "2026": 6031991037,
+    "2025": 4733605319
+   },
+   "values_reader": {
+    "2026": 6031991037,
+    "2025": 4733605319
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 17,
+   "reader_index": 17,
+   "label_parser": "Increase / (Decrease) in Borrowings other than Capital Instruments",
+   "label_reader": "Increase / (Decrease) in Borrowings other than Capital Instruments",
+   "values_parser": {
+    "2026": 1723784000,
+    "2025": -351483579
+   },
+   "values_reader": {
+    "2026": 1723784000,
+    "2025": -351483579
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 18,
+   "reader_index": 18,
+   "label_parser": "(Increase) / Decrease in Investments other than Investment in Subsidiaries / Joint Ventures / Associates",
+   "label_reader": "(Increase) / Decrease in Investments other than Investment in Subsidiaries / Joint Ventures / Associates",
+   "values_parser": {
+    "2026": -1620606216,
+    "2025": -818909668
+   },
+   "values_reader": {
+    "2026": -1620606216,
+    "2025": -818909668
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 19,
+   "reader_index": 19,
+   "label_parser": "(Increase) / Decrease in Advances",
+   "label_reader": "(Increase) / Decrease in Advances",
+   "values_parser": {
+    "2026": -7465325474,
+    "2025": -4850635813
+   },
+   "values_reader": {
+    "2026": -7465325474,
+    "2025": -4850635813
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 20,
+   "reader_index": 20,
+   "label_parser": "Increase / (Decrease) in Other Liabilities",
+   "label_reader": "Increase / (Decrease) in Other Liabilities",
+   "values_parser": {
+    "2026": 1242699889,
+    "2025": 581846191
+   },
+   "values_reader": {
+    "2026": 1242699889,
+    "2025": 581846191
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 21,
+   "reader_index": 21,
+   "label_parser": "(Increase) / Decrease in Other Assets",
+   "label_reader": "(Increase) / Decrease in Other Assets",
+   "values_parser": {
+    "2026": -627156704,
+    "2025": 205421047
+   },
+   "values_reader": {
+    "2026": -627156704,
+    "2025": 205421047
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 22,
+   "reader_index": 22,
+   "label_parser": "Subtotal",
+   "label_reader": "",
+   "values_parser": {
+    "2026": 744203563,
+    "2025": 792454537
+   },
+   "values_reader": {
+    "2026": 744203563,
+    "2025": 792454537
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 23,
+   "reader_index": 23,
+   "label_parser": "Tax refund / (Taxes paid)",
+   "label_reader": "Tax refund / (Taxes paid)",
+   "values_parser": {
+    "2026": -363229663,
+    "2025": -337614451
+   },
+   "values_reader": {
+    "2026": -363229663,
+    "2025": -337614451
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 24,
+   "reader_index": 24,
+   "label_parser": "NET CASH GENERATED FROM / (USED IN) OPERATING ACTIVITIES (A)",
+   "label_reader": "NET CASH GENERATED FROM / (USED IN) OPERATING ACTIVITIES (A)",
+   "values_parser": {
+    "2026": 380973900,
+    "2025": 454840086
+   },
+   "values_reader": {
+    "2026": 380973900,
+    "2025": 454840086
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 25,
+   "reader_index": 25,
+   "label_parser": "CASH FLOW FROM INVESTING ACTIVITIES",
+   "label_reader": "CASH FLOW FROM INVESTING ACTIVITIES:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 26,
+   "reader_index": 26,
+   "label_parser": "Purchase of Investments in Subsidiaries/Joint Ventures/Associates",
+   "label_reader": "Purchase of Investments in Subsidiaries/Joint Ventures/Associates",
+   "values_parser": {
+    "2026": -1082683,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": -1082683,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 27,
+   "reader_index": 27,
+   "label_parser": "Proceeds from Sale of Investments in Subsidiaries/Joint Ventures/Associates",
+   "label_reader": "Proceeds from Sale of Investments in Subsidiaries/Joint Ventures/Associates",
+   "values_parser": {
+    "2026": 77794109,
+    "2025": -65190
+   },
+   "values_reader": {
+    "2026": 77794109,
+    "2025": -65190
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 28,
+   "reader_index": 28,
+   "label_parser": "Income received from Investment in Associates",
+   "label_reader": "Income received from Investment in Associates",
+   "values_parser": {
+    "2026": 9299,
+    "2025": 90009
+   },
+   "values_reader": {
+    "2026": 9299,
+    "2025": 90009
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 29,
+   "reader_index": 29,
+   "label_parser": "(Increase)/Decrease in Fixed Assets",
+   "label_reader": "(Increase)/Decrease in Fixed Assets",
+   "values_parser": {
+    "2026": -83629582,
+    "2025": -56372241
+   },
+   "values_reader": {
+    "2026": -83629582,
+    "2025": -56372241
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 30,
+   "reader_index": 30,
+   "label_parser": "NET CASH GENERATED FROM / (USED IN) INVESTING ACTIVITIES (B)",
+   "label_reader": "NET CASH GENERATED FROM / (USED IN) INVESTING ACTIVITIES (B)",
+   "values_parser": {
+    "2026": -6908857,
+    "2025": -56347422
+   },
+   "values_reader": {
+    "2026": -6908857,
+    "2025": -56347422
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 31,
+   "reader_index": 31,
+   "label_parser": "CASH FLOW FROM FINANCING ACTIVITIES",
+   "label_reader": "CASH FLOW FROM FINANCING ACTIVITIES:",
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {
+    "2026": null,
+    "2025": null
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 32,
+   "reader_index": 32,
+   "label_parser": "Proceeds from issue of equity shares including share premium (Net of share issue expenses)",
+   "label_reader": "Proceeds from issue of equity shares including share premium (Net of share issue expenses)",
+   "values_parser": {
+    "2026": 249945335,
+    "2025": 1288
+   },
+   "values_reader": {
+    "2026": 249945335,
+    "2025": 1288
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 33,
+   "reader_index": 33,
+   "label_parser": "Issue of Capital Instruments",
+   "label_reader": "Issue of Capital Instruments",
+   "values_parser": {
+    "2026": 137385000,
+    "2025": 215000000
+   },
+   "values_reader": {
+    "2026": 137385000,
+    "2025": 215000000
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 34,
+   "reader_index": 34,
+   "label_parser": "Redemption of Capital Instruments",
+   "label_reader": "Redemption of Capital Instruments",
+   "values_parser": {
+    "2026": -196720000,
+    "2025": -151039000
+   },
+   "values_reader": {
+    "2026": -196720000,
+    "2025": -151039000
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 35,
+   "reader_index": 35,
+   "label_parser": "Interest paid on Capital Instruments",
+   "label_reader": "Interest paid on Capital Instruments",
+   "values_parser": {
+    "2026": -77217098,
+    "2025": -72686140
+   },
+   "values_reader": {
+    "2026": -77217098,
+    "2025": -72686140
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 36,
+   "reader_index": 36,
+   "label_parser": "Dividend paid",
+   "label_reader": "Dividend paid",
+   "values_parser": {
+    "2026": -141901459,
+    "2025": -122267183
+   },
+   "values_reader": {
+    "2026": -141901459,
+    "2025": -122267183
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 37,
+   "reader_index": 37,
+   "label_parser": "Dividend tax paid by Subsidiaries/Joint Ventures",
+   "label_reader": "Dividend tax paid by Subsidiaries/Joint Ventures",
+   "values_parser": {
+    "2026": -410069,
+    "2025": -318493
+   },
+   "values_reader": {
+    "2026": -410069,
+    "2025": -318493
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 38,
+   "reader_index": 38,
+   "label_parser": "Increase/(Decrease) in Minority Interest",
+   "label_reader": "Increase/(Decrease) in Minority Interest",
+   "values_parser": {
+    "2026": -5353083,
+    "2025": 23941588
+   },
+   "values_reader": {
+    "2026": -5353083,
+    "2025": 23941588
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 39,
+   "reader_index": 39,
+   "label_parser": "NET CASH GENERATED FROM / (USED IN) FINANCING ACTIVITIES (C)",
+   "label_reader": "NET CASH GENERATED FROM / (USED IN) FINANCING ACTIVITIES (C)",
+   "values_parser": {
+    "2026": -34271374,
+    "2025": -107367940
+   },
+   "values_reader": {
+    "2026": -34271374,
+    "2025": -107367940
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 40,
+   "reader_index": 40,
+   "label_parser": "EFFECT OF EXCHANGE FLUCTUATION ON TRANSLATION RESERVE (D)",
+   "label_reader": "EFFECT OF EXCHANGE FLUCTUATION ON TRANSLATION RESERVE (D)",
+   "values_parser": {
+    "2026": 99308997,
+    "2025": 22481669
+   },
+   "values_reader": {
+    "2026": 99308997,
+    "2025": 22481669
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 41,
+   "reader_index": 41,
+   "label_parser": "NET INCREASE / (DECREASE) IN CASH AND CASH EQUIVALENTS",
+   "label_reader": "NET INCREASE / (DECREASE) IN CASH AND CASH EQUIVALENTS (A+B+C+D)",
+   "values_parser": {
+    "2026": 439102666,
+    "2025": 313606393
+   },
+   "values_reader": {
+    "2026": 439102666,
+    "2025": 313606393
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 42,
+   "reader_index": 42,
+   "label_parser": "CASH AND CASH EQUIVALENTS AS AT 1ST APRIL",
+   "label_reader": "CASH AND CASH EQUIVALENTS AS AT 1ST APRIL",
+   "values_parser": {
+    "2026": 3579329428,
+    "2025": 3265723035
+   },
+   "values_reader": {
+    "2026": 3579329428,
+    "2025": 3265723035
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 43,
+   "reader_index": 43,
+   "label_parser": "CASH AND CASH EQUIVALENTS AS AT 31ST MARCH",
+   "label_reader": "CASH AND CASH EQUIVALENTS AS AT 31ST MARCH",
+   "values_parser": {
+    "2026": 4018432094,
+    "2025": 3579329428
+   },
+   "values_reader": {
+    "2026": 4018432094,
+    "2025": 3579329428
+   },
+   "issues": []
+  },
+  {
+   "parser_index": 44,
+   "reader_index": null,
+   "label_parser": "Components of Cash & Cash Equivalents as at: 31.03.2026 31.03.2025",
+   "label_reader": null,
+   "values_parser": {
+    "2026": null,
+    "2025": null
+   },
+   "values_reader": {},
+   "issues": [
+    {
+     "kind": "extra_in_parser"
+    }
+   ]
+  },
+  {
+   "parser_index": 45,
+   "reader_index": null,
+   "label_parser": "Cash & Balances with Reserve Bank of India",
+   "label_reader": null,
+   "values_parser": {
+    "2026": 2686817368,
+    "2025": 2274851569
+   },
+   "values_reader": {},
+   "issues": [
+    {
+     "kind": "extra_in_parser"
+    }
+   ]
+  },
+  {
+   "parser_index": 46,
+   "reader_index": null,
+   "label_parser": "Balances with Banks and money at call & short notice",
+   "label_reader": null,
+   "values_parser": {
+    "2026": 1331614726,
+    "2025": 1304477859
+   },
+   "values_reader": {},
+   "issues": [
+    {
+     "kind": "extra_in_parser"
+    }
+   ]
+  },
+  {
+   "parser_index": 47,
+   "reader_index": null,
+   "label_parser": "Total",
+   "label_reader": null,
+   "values_parser": {
+    "2026": 4018432094,
+    "2025": 3579329428
+   },
+   "values_reader": {},
+   "issues": [
+    {
+     "kind": "extra_in_parser"
+    }
+   ]
+  }
+ ],
+ "created_at": "2026-11-05 11:52 UTC"
+}
