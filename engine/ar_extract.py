@@ -214,6 +214,11 @@ equivalents ebitda oci""".split())
 _vocab_cache = {}
 
 
+def forget_doc(doc):
+    """Drop a closed document's cached vocabulary (the cache is keyed by id(doc))."""
+    _vocab_cache.pop(id(doc), None)
+
+
 def doc_vocab(doc):
     key = id(doc)
     if key not in _vocab_cache:

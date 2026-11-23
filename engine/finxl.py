@@ -159,6 +159,7 @@ def extract_report(path, fy, scopes, ai=None, log=_noop):
             out[(scope, kind)] = {"parsed": parsed, "pages": page_names, "method": method,
                                   "check": ("OK: " if ok else "CHECK: ") + msg, "quality": parsed.get("quality")}
     fill_missing_units(doc, out, log, fy)
+    ar_extract.forget_doc(doc)
     doc.close()
     return out
 
@@ -255,6 +256,7 @@ def merge_years(per_year, restated=True):
     Years with no report of their own are always filled from the next report's comparative column.
     """
     master, order = {}, []
+    obj_of = {}  # (report fy, row index in that report) -> merged row, to carry footing groups across
     # One source report per year column: the column must add up as one report printed it.
     # Mixing a newer report's restated comparatives with lines that only an older report
     # has (reclassified items) double-counts or splits figures (SBI FY2025 investing).
@@ -272,7 +274,7 @@ def merge_years(per_year, restated=True):
         parsed = per_year[fy]
         unit_factor = TO_CRORE.get(parsed.get("unit"), 1.0)
         heads, seen, last_pos, used = ["", ""], {}, -1, set()
-        for r in parsed["rows"]:
+        for ri, r in enumerate(parsed["rows"]):
             nl = norm_label(r["label"])
             if not nl:
                 continue
@@ -305,16 +307,25 @@ def merge_years(per_year, restated=True):
                 master[key] = {"label": r["label"], "level": r.get("level", 0),
                                "is_header": r["is_header"], "values": {}, "prio": {},
                                "status": {}, "src": {}, "label_ok": r.get("label_ok", True),
-                               "junk": r.get("junk")}
+                               "junk": r.get("junk"), "own": {}, "newest": {}, "newest_src": {}, "_ridx": {}}
                 order.insert(last_pos + 1, key)
                 last_pos += 1
             else:
                 last_pos = max(last_pos, order.index(key))
             m = master[key]
+            m["_ridx"].setdefault(fy, ri)
+            obj_of[(fy, ri)] = m
             status = r.get("status") or [None] * len(r["values"])
             for v, y, st in zip(r["values"], parsed["years"], status):
                 if v is None:
                     continue
+                # Keep both readings of a year: its own report's figure and the newest report's,
+                # so a restatement can be shown whichever one the workbook uses.
+                fv = round(v * factor, 4)
+                if y == fy:
+                    m["own"][y] = fv
+                if y not in m["newest_src"] or fy > m["newest_src"][y]:
+                    m["newest"][y], m["newest_src"][y] = fv, fy
                 if y in source and source[y][1] != fy and not (
                         y not in m["values"] and GAP_TOTAL_RE.search(nl)):  # a total the newer report lost
                     continue
@@ -348,7 +359,46 @@ def merge_years(per_year, restated=True):
                 return True  # first line of a label that wrapped differently in another year
         return False
     rows = [r for i, r in enumerate(rows) if not dup_header(i)]
-    return merge_split_rows(rows)
+    rows = merge_split_rows(rows)
+    attach_groups(rows, per_year, obj_of)
+    return rows
+
+
+def attach_groups(rows, per_year, obj_of):
+    """
+    Translate each figure's footing group (quality.py: which lines its report's
+    total was checked against) from row numbers in that report to row numbers
+    in the merged statement: row["group"][year] = {"ok", "members": [[row, sign]]}.
+    """
+    def resolve(m):
+        while m.get("_into") is not None:
+            m = m["_into"]
+        return m
+    pos = {id(r): i for i, r in enumerate(rows)}
+    for idx, r in enumerate(rows):
+        r["group"] = {}
+        for y, fy in r.get("src", {}).items():
+            ri = r.get("_ridx", {}).get(fy)
+            parsed = per_year.get(fy)
+            if ri is None or parsed is None or y not in parsed["years"]:
+                continue
+            col = parsed["years"].index(y)
+            g = parsed["rows"][ri].get("groups") or []
+            g = g[col] if col < len(g) else None
+            if not g:
+                continue
+            members = []
+            for j, sign in g["members"]:
+                m = obj_of.get((fy, j))
+                k = pos.get(id(resolve(m))) if m is not None else None
+                if k is not None and k != idx:
+                    members.append([k, sign])
+            r["group"][y] = {"ok": g["ok"], "members": members}
+            if g.get("signed"):
+                r["group"][y]["signed"] = True
+    for r in rows:
+        r.pop("_ridx", None)
+        r.pop("_into", None)
 
 
 def merge_split_rows(rows):
@@ -374,9 +424,12 @@ def merge_split_rows(rows):
                 if p["is_header"] or not similar(p, r):
                     continue
                 if not r["values"] or not p["values"] or not set(p["values"]) & set(r["values"]):
-                    for k in ("values", "prio", "status", "src"):
+                    for k in ("values", "prio", "status", "src", "own", "newest", "newest_src"):
                         for y, v in r.get(k, {}).items():
                             p.setdefault(k, {})[y] = v
+                    for fy, ri in r.get("_ridx", {}).items():
+                        p.setdefault("_ridx", {}).setdefault(fy, ri)
+                    r["_into"] = p
                     if r["values"] and not p.get("label_ok", True):
                         p["label"], p["label_ok"] = r["label"], r.get("label_ok", True)
                     merged = True
@@ -535,6 +588,7 @@ def eps_check(merged, scope, years):
             shares = c * 1e7 / (fv or min(STANDARD_FV, key=lambda f: abs(math.log(implied_fv / f))))
             expect = owners * 1e7 / shares
             out[y] = "flag"
+            eps.setdefault("eps_expect", {})[y] = round(expect, 2)
             eps.setdefault("eps_flag", {})[y] = (
                 f"EPS {e:,.4g} does not fit the profit and share capital: profit attributable to owners "
                 f"₹{owners:,.0f} crore ÷ about {shares / 1e7:,.1f} crore shares ≈ ₹{expect:,.2f} per share "
@@ -548,6 +602,7 @@ def eps_check(merged, scope, years):
 NUM_FMT = '#,##0.00;(#,##0.00);"-"'
 FLAG_FAIL = "FFF2A8"   # yellow: a total that doesn't add up
 FLAG_LABEL = "FCD5B4"  # orange: a line-item name that looks garbled
+FLAG_EDIT = "DDEBF7"   # blue: a figure the reader corrected in FinXL
 _ILLEGAL = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
 
 
@@ -556,7 +611,9 @@ def xl_text(s):
     return _ILLEGAL.sub("", s) if isinstance(s, str) else s
 
 
-def write_statement_sheet(wb, name, title, rows, years, months=None):
+def write_statement_sheet(wb, name, title, rows, years, months=None, marks=None):
+    """marks: {(row index, year): figure as extracted} for cells a reader corrected."""
+    marks = marks or {}
     ws = wb.create_sheet(name)
     ncols = 1 + len(years)
     hdr(ws, 1, ncols, title)
@@ -594,7 +651,12 @@ def write_statement_sheet(wb, name, title, rows, years, months=None):
             elif tot:
                 vc.fill = _fill(DGREY)
                 vc.font = _font(bold=True, color=NAVY)
-            if v is not None and (r.get("eps_flag") or {}).get(y):
+            if (i - 3, y) in marks:
+                was = marks[(i - 3, y)]
+                was = "blank" if was is None else f"{was:,.2f}"
+                vc.fill = _fill(FLAG_EDIT)
+                vc.comment = Comment(f"Corrected by the reader in FinXL. Extracted figure: {was}.", "FinXL")
+            elif v is not None and (r.get("eps_flag") or {}).get(y):
                 vc.fill = _fill(FLAG_FAIL)
                 vc.comment = Comment(r["eps_flag"][y], "DocFetcher")
             elif v is not None and r.get("status", {}).get(y) == "fail":
@@ -744,8 +806,39 @@ def write_metrics(ws, start_row, scope, sheets, years, months=None):
     return r + 1
 
 
+def summary_values(merged, scope, years):
+    """
+    The Summary sheet's key figures as values, with the row each came from:
+    [{"label", "kind", "rows": {year: row index}, "values": {year: value}}].
+    Same choices as write_metrics, so the app and the Excel agree.
+    """
+    out = []
+    for label, kind, rx in METRIC_ROWS:
+        rows = merged.get((scope, kind))
+        if not rows:
+            continue
+        rownum = [(norm_label(r["label"]), i, r["values"]) for i, r in enumerate(rows)]
+        smart = {"Revenue from operations": "Revenue", "Net profit": "Net profit",
+                 "Total assets": "Total assets", "Cash from operations": "Cash from operations"}.get(label)
+        picked = {}
+        for y in years:
+            if smart:
+                hit = pick_row(smart, rownum, y)
+            else:
+                hit = next(((nl, rn, vals) for nl, rn, vals in rownum
+                            if re.search(rx, nl) and vals.get(y) is not None), None)
+            if hit and hit[2].get(y) is not None:
+                picked[y] = hit[1]
+        if picked:
+            out.append({"label": label, "kind": kind, "rows": picked,
+                        "values": {y: rows[i]["values"][y] for y, i in picked.items()}})
+    return out
+
+
 def write_workbook(out_path, company, ticker, screener_url, years, merged, sources, scopes, restated=True,
-                   months=None):
+                   months=None, marks=None):
+    """marks: {(scope, kind): {(row index, year): figure as extracted}} for reader corrections (FinXL)."""
+    marks = marks or {}
     wb = Workbook()
     ws = wb.active
     ws.title = "Summary"
@@ -773,7 +866,7 @@ def write_workbook(out_path, company, ticker, screener_url, years, merged, sourc
         scope, kind = key
         name = SHEET_NAMES[key]
         _, rownum = write_statement_sheet(wb, name, f"{company} — {scope.title()} {ar_extract.KINDS[kind]}",
-                                          rows, years, months)
+                                          rows, years, months, marks.get(key))
         sheets[key] = (name, rownum)
 
     r = len(meta) + 3
@@ -862,7 +955,7 @@ def write_quality_sheet(wb, sources):
 # ── One-click pipeline ────────────────────────────────────────────────────────
 def run(ticker, start_year, end_year, scope="consolidated", ai=None, out_dir=None,
         log=print, progress=_noop, restated=True):
-    """Everything in one call. Returns (excel_path, merged, sources)."""
+    """Everything in one call. Returns (excel_path, merged, sources, years, months)."""
     ticker = ticker.upper().strip()
     scopes = ["consolidated", "standalone"] if scope == "both" else [scope]
     out_dir = out_dir or os.path.join(os.getcwd(), ticker)

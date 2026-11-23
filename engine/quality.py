@@ -66,20 +66,24 @@ def _tolerance(n, integer, exact=False):
 
 def _foot_column(kind, rows, c, integer):
     """
-    Footing for one year column. Returns {row index: "ok"/"fail"}.
+    Footing for one year column. Returns ({row index: "ok"/"fail"}, {row index: group}).
+    A group says what a total was checked against: {"ok": bool, "members": [[row index, sign], ...]}.
+    For a total that doesn't add up, "members" are the lines it could have covered (its section).
     The pattern-based guesses (unlabelled subtotals, parent lines) can match by
     coincidence among small figures (3 + 1 = 4) and then hide the real structure,
     so the column is footed with and without them and the better result is kept.
     """
-    def score(st):
-        vals = list(st.values())
+    def score(res):
+        vals = list(res[0].values())
         return (vals.count("fail"), -vals.count("ok"))
     return min((_foot(kind, rows, c, integer, h) for h in (True, False)), key=score)
 
 
 def _foot(kind, rows, c, integer, heuristics):
     status = {}
-    items = []  # (value, [row indices it stands for]) - confirmed totals replace their lines
+    groups = {}  # row index -> {"ok", "members": [[row, sign]]}: what each total was checked against
+    items = []  # (value, [row indices it stands for], row shown for it) - confirmed totals replace their lines
+    last_target = [-1]  # the previous total: a failed total's candidates are the lines since then
 
     def mark(idx):
         for i in idx:
@@ -92,7 +96,7 @@ def _foot(kind, rows, c, integer, heuristics):
             s += items[-L][0]
             cov.extend(items[-L][1])
             if L >= min_len and abs(s - v) <= _tolerance(L, integer, exact):
-                return L, cov
+                return L, cov, [[it[2], 1] for it in items[-L:]]
         return None
 
     def find_signed(v):
@@ -101,7 +105,7 @@ def _foot(kind, rows, c, integer, heuristics):
             for signs in itertools.product((1, -1), repeat=L - 1):
                 s = tail[0][0] + sum(sg * it[0] for sg, it in zip(signs, tail[1:]))
                 if abs(s - v) <= _tolerance(L, integer):
-                    return L, [i for it in tail for i in it[1]]
+                    return L, [i for it in tail for i in it[1]], [[tail[0][2], 1]] + [[it[2], sg] for sg, it in zip(signs, tail[1:])]
         return None
 
     def val(j):
@@ -135,9 +139,11 @@ def _foot(kind, rows, c, integer, heuristics):
         elif kind_t == "either":
             hit = find_sum(v) or find_signed(v)
         if kind_t and hit:
-            L, cov = hit
+            L, cov, members = hit
             mark(cov + [i])
-            items[-L:] = [(v, cov + [i])]
+            groups[i] = {"ok": True, "members": members}
+            items[-L:] = [(v, cov + [i], i)]
+            last_target[0] = i
             i += 1
             continue
         if kind_t == "either":
@@ -146,25 +152,30 @@ def _foot(kind, rows, c, integer, heuristics):
                 mark([i])
                 i += 1
                 continue
-            items.append((v, [i]))  # unlabelled: no evidence it should add up
+            items.append((v, [i], i))  # unlabelled: no evidence it should add up
             i += 1
             continue
         if kind_t:
             status[i] = "fail"
-            items.append((v, [i]))
+            since = [[it[2], 1] for it in items if it[2] > last_target[0]][-MAX_SUM_ITEMS:]
+            groups[i] = {"ok": False, "members": since or [[it[2], 1] for it in items[-10:]],
+                         "signed": kind_t != "sum"}
+            items.append((v, [i], i))
+            last_target[0] = i
             i += 1
             continue
         if not heuristics:
-            items.append((v, [i]))
+            items.append((v, [i], i))
             i += 1
             continue
         # An unlabelled subtotal: equals the sum of 2+ lines just above it
         # (e.g. "Equity attributable to owners", a bare number under a rule line)
         hit = find_sum(v, min_len=2, exact=True)
         if hit:
-            L, cov = hit
+            L, cov, members = hit
             mark(cov + [i])
-            items[-L:] = [(v, cov + [i])]
+            groups[i] = {"ok": True, "members": members}
+            items[-L:] = [(v, cov + [i], i)]
             i += 1
             continue
         # A parent line whose figure is the sum of the 2+ sub-lines printed below it
@@ -180,12 +191,13 @@ def _foot(kind, rows, c, integer, heuristics):
             j += 1
         if len(kids) >= 2 and abs(s - v) <= _tolerance(len(kids), integer, True):
             mark([i] + kids)
-            items.append((v, [i] + kids))
+            groups[i] = {"ok": True, "members": [[k, 1] for k in kids]}
+            items.append((v, [i] + kids, i))
             i = kids[-1] + 1
             continue
-        items.append((v, [i]))
+        items.append((v, [i], i))
         i += 1
-    return status
+    return status, groups
 
 
 # ── Labels ────────────────────────────────────────────────────────────────────
@@ -296,11 +308,15 @@ def check_statement(kind, parsed, prose=()):
     integer = bool(vals) and all(abs(v - round(v)) < 1e-9 for v in vals)
     for r in rows:
         r["status"] = [None] * len(r["values"])
+        r["groups"] = [None] * len(r["values"])
     totals = failed = 0
     for c in range(ncols):
-        st = _foot_column(kind, rows, c, integer)
+        st, grp = _foot_column(kind, rows, c, integer)
         for i, s in st.items():
             rows[i]["status"][c] = s
+        for i, g in grp.items():
+            if c < len(rows[i]["groups"]):
+                rows[i]["groups"][c] = g
         for i, r in enumerate(rows):
             if c < len(r["values"]) and r["values"][c] is not None and _is_target(kind, r["label"]):
                 totals += 1
