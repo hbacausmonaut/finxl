@@ -396,5 +396,23 @@ async def _http_error(request, exc):
 
 
 # ── Frontend ─────────────────────────────────────────────────────────────────
+class _WebFiles(StaticFiles):
+    """
+    The static app. Next's client asks for segment prefetch data as one dotted name
+    ("w/__next.!KGFwcCk.w.__PAGE__.txt") while the export writes it as folders
+    ("w/__next.!KGFwcCk/w/__PAGE__.txt"); serve the folder form when the dotted one is missing.
+    """
+
+    async def get_response(self, path, scope):
+        if "__next." in path and path.endswith(".txt"):
+            head, _, tail = path.rpartition("__next.")
+            alt = head + "__next." + "/".join(tail[:-4].split(".")) + ".txt"
+            if alt != path:
+                full, stat = self.lookup_path(alt)
+                if stat is not None and not os.path.isdir(full):
+                    return self.file_response(full, stat, scope)
+        return await super().get_response(path, scope)
+
+
 if os.path.isdir(settings.WEB_DIR):
-    app.mount("/", StaticFiles(directory=settings.WEB_DIR, html=True), name="web")
+    app.mount("/", _WebFiles(directory=settings.WEB_DIR, html=True), name="web")
