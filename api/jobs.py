@@ -150,11 +150,40 @@ def _execute(run_id):
         emit(run_id, {"type": "failed", "error": msg})
 
 
+def prune_cache():
+    """Keeps the PDF cache under CACHE_MAX_GB by removing the least recently used reports."""
+    if settings.CACHE_MAX_GB <= 0:
+        return
+    files = []
+    for root, _, names in os.walk(settings.CACHE_DIR):
+        for n in names:
+            if n.lower().endswith(".pdf"):
+                p = os.path.join(root, n)
+                try:
+                    st = os.stat(p)
+                except OSError:
+                    continue
+                files.append((max(st.st_atime, st.st_mtime), st.st_size, p))
+    limit = settings.CACHE_MAX_GB * 1024 ** 3
+    total = sum(f[1] for f in files)
+    for _, size, p in sorted(files):
+        if total <= limit:
+            break
+        try:
+            os.remove(p)
+            total -= size
+        except OSError:
+            pass
+
+
 def _worker():
     while True:
         run_id = _q.get()
         try:
             _execute(run_id)
+            prune_cache()
+        except Exception:
+            traceback.print_exc()
         finally:
             _q.task_done()
             for rid in storage.queued_ids():  # tell the others they moved up

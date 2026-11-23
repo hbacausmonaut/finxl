@@ -52,7 +52,6 @@ GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
 MAX_YEARS = int(os.environ.get("MAX_YEARS", "12"))
 MAX_CONCURRENT_RUNS = int(os.environ.get("MAX_CONCURRENT_RUNS", "1"))
 RUNS_PER_IP_PER_DAY = int(os.environ.get("RUNS_PER_IP_PER_DAY", "0"))  # 0 = unlimited
-RUN_TIMEOUT_MIN = int(os.environ.get("RUN_TIMEOUT_MIN", "30"))
 # An identical finished run younger than this is reused instead of re-extracted.
 REUSE_DAYS = int(os.environ.get("REUSE_DAYS", "7"))
 
