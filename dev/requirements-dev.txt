@@ -1,0 +1,7 @@
+# Dev and test tools (not needed on the server)
+-r ../requirements.txt
+pytest>=8.0
+httpx>=0.27
+yfinance          # optional: accuracy_check --yahoo
+pandas            # legacy Streamlit UI only
+streamlit         # legacy Streamlit UI only

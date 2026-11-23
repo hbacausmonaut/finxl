@@ -1,7 +1,11 @@
-requests
-beautifulsoup4
-lxml
-openpyxl
-pymupdf
-pandas
-streamlit
+# FinXL V1 beta: everything the server needs (engine + API).
+# Engine
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+openpyxl>=3.1
+pymupdf==1.28.0      # pinned: the version the parser is tested on
+Pillow>=10.0
+# API
+fastapi>=0.115
+uvicorn[standard]>=0.30
