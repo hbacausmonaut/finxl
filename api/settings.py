@@ -64,3 +64,8 @@ for d in (DATA_DIR, RUNS_DIR, CACHE_DIR):
 
 # Origins allowed to read the event stream cross-origin (the Next dev server). Empty in production.
 DEV_ORIGINS = [o.strip() for o in os.environ.get("DEV_ORIGINS", "http://localhost:3000,http://localhost:3001").split(",") if o.strip()]
+
+# Where the web app is hosted when it isn't served by this process (e.g. Vercel):
+# comma-separated exact origins, plus an optional regex (e.g. for Vercel preview URLs).
+CORS_ORIGINS = [o.strip().rstrip("/") for o in os.environ.get("CORS_ORIGINS", "").split(",") if o.strip()]
+CORS_ORIGIN_REGEX = os.environ.get("CORS_ORIGIN_REGEX", "").strip() or None

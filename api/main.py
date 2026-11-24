@@ -33,7 +33,13 @@ from . import jobs
 from .serialize import load_engine
 
 app = FastAPI(title="FinXL API", version=settings.VERSION, docs_url="/api/docs", openapi_url="/api/openapi.json")
-if settings.DEV_ORIGINS:
+if settings.CORS_ORIGINS or settings.CORS_ORIGIN_REGEX:
+    # The web app lives on another origin (e.g. Vercel) and calls this API directly.
+    from fastapi.middleware.cors import CORSMiddleware
+    app.add_middleware(CORSMiddleware, allow_origins=settings.CORS_ORIGINS + settings.DEV_ORIGINS,
+                       allow_origin_regex=settings.CORS_ORIGIN_REGEX,
+                       allow_methods=["GET", "POST", "PUT", "DELETE"], allow_headers=["*"], max_age=600)
+elif settings.DEV_ORIGINS:
     # `next dev` buffers proxied event streams, so in development the page opens them on this port directly.
     from fastapi.middleware.cors import CORSMiddleware
     app.add_middleware(CORSMiddleware, allow_origins=settings.DEV_ORIGINS, allow_methods=["GET"], allow_headers=["*"])

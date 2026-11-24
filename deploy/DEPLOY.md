@@ -58,6 +58,22 @@ What FinXL needs:
 | **Hugging Face Spaces** (Docker) | ⚠️ | Easy and free, but storage is ephemeral unless you pay for persistent storage, and the port must be 7860 (`PORT=7860`). Fine for a demo. |
 | Vercel / Netlify | ❌ | Static hosting and short serverless functions can't run the engine. |
 
+### Split recipe: web app on Vercel, API on Railway
+
+Vercel can't run the engine, but it can host the static web app. The API then runs on its own host and the browser calls it cross-origin.
+
+**API on Railway**
+1. Push the repo to GitHub. In Railway: New Project → Deploy from GitHub repo → `finxl`. `railway.json` points the build at `deploy/Dockerfile.api` and health-checks `/api/config`.
+2. Service → right-click → Attach Volume, mount path `/data`.
+3. Variables: `RAILWAY_RUN_UID=0` (volumes are root-owned), `AI_ENABLED=false`, `MAX_CONCURRENT_RUNS=1`, `RUNS_PER_IP_PER_DAY=10`, `CACHE_MAX_GB=4`, and later `CORS_ORIGINS=https://<your-app>.vercel.app`.
+4. Settings → Networking → Generate Domain. Open `https://<api-domain>/api/config` to check it.
+
+**Web app on Vercel**
+1. Add New Project → import the same repo. Root Directory: `web`. Framework: Next.js (auto).
+2. Environment variable `NEXT_PUBLIC_API_BASE=https://<api-domain>` (no trailing slash). It is baked in at build time, so redeploy after changing it.
+3. Deploy, then put the Vercel URL into the API's `CORS_ORIGINS` (Railway redeploys on its own).
+4. Check: the landing page's sample opens, a run streams progress, the Excel downloads, page images load.
+
 ### VPS recipe (Docker + Caddy)
 
 ```bash

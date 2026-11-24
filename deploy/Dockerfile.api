@@ -1,0 +1,27 @@
+# FinXL API only (the web app is hosted separately, e.g. on Vercel).
+# Build from the repository root:  docker build -f deploy/Dockerfile.api -t finxl-api .
+FROM python:3.12-slim
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1 \
+    DATA_DIR=/data \
+    DOCFETCHER_CACHE=/data/pdfs \
+    WEB_DIR=/app/web/out \
+    DEV_ORIGINS= \
+    PORT=8000
+
+WORKDIR /app
+COPY requirements.txt ./
+RUN pip install -r requirements.txt
+
+COPY engine/ engine/
+COPY api/ api/
+
+# Unprivileged user; /data is the only place it writes. (Railway mounts volumes as root:
+# set RAILWAY_RUN_UID=0 there, or the app can't write to /data.)
+RUN useradd --create-home --uid 10001 finxl && mkdir -p /data && chown finxl /data
+USER finxl
+EXPOSE 8000
+
+# One worker process: runs, the queue and PyMuPDF all live in it.
+CMD ["sh", "-c", "uvicorn api.main:app --host 0.0.0.0 --port ${PORT} --proxy-headers --forwarded-allow-ips='*'"]
