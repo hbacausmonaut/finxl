@@ -7,10 +7,13 @@ Stages follow finxl.run's own progress() bands:
   lookup < 0.05 ≤ download < 0.30 ≤ read < 0.90 ≤ merge < 1.0 = write
 """
 
+import ctypes
+import gc
 import json
 import os
 import queue
 import re
+import sys
 import threading
 import time
 import traceback
@@ -18,6 +21,7 @@ import traceback
 from . import settings, storage
 
 import finxl
+import fitz
 import second_reading
 from .serialize import engine_payload, headline, run_payload
 
@@ -176,12 +180,31 @@ def prune_cache():
             pass
 
 
+def release_memory():
+    """
+    Hand a finished run's memory back to the OS. Python frees the objects, but MuPDF keeps
+    a resource store (fonts, images) of up to 256 MB and glibc keeps freed heap pages, so
+    without this the process stays at its peak (e.g. ~850 MB after a 14-year run).
+    """
+    gc.collect()
+    try:
+        fitz.TOOLS.store_shrink(100)  # empty MuPDF's store
+    except Exception:
+        pass
+    if sys.platform.startswith("linux"):
+        try:
+            ctypes.CDLL("libc.so.6").malloc_trim(0)
+        except Exception:
+            pass
+
+
 def _worker():
     while True:
         run_id = _q.get()
         try:
             _execute(run_id)
             prune_cache()
+            release_memory()
         except Exception:
             traceback.print_exc()
         finally:
