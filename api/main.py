@@ -51,6 +51,7 @@ THIS_YEAR = datetime.date.today().year
 
 @app.on_event("startup")
 def _startup():
+    jobs.prune_cache()  # first: a full disk would stop the database from opening
     storage.init()
     storage.seed(os.path.join(os.path.dirname(os.path.abspath(__file__)), "seed"))
     jobs.start_workers()

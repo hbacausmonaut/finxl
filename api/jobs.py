@@ -202,6 +202,7 @@ def _worker():
     while True:
         run_id = _q.get()
         try:
+            prune_cache()  # make room before this run downloads its reports
             _execute(run_id)
             prune_cache()
             release_memory()
